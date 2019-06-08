@@ -7,7 +7,7 @@ description: explication widget Alarme-Status (mobile)
 # Widget "Alarme-Status (mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/JEEDOM-Alarme-Activation-Resultat.png" alt="Resultat" /></p>
+<p><img src="Img/JEEDOM-Alarme-Activation-Mobile-Resultat.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 </blockquote>
