@@ -84,8 +84,8 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190608<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Lampe-Binaire/commits/master">Chancelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Chancelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Lampe-Binaire/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
 [back](./)

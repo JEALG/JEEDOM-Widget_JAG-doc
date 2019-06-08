@@ -23,7 +23,7 @@ Ensuite cocher <i>Afficher les statistiques</i> soit pour le Dashboard soit pour
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190608<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Chancelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
 [back](./)
