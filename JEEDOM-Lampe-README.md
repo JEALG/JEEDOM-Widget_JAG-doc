@@ -7,6 +7,7 @@ description: Explication widget Lampe
 # Widget "Lampe" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
+<p><img src="Img/JEEDOM-Lampe-Resultat.png" alt="Resultat" /></p>
 <blockquote>
     Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 </blockquote>
