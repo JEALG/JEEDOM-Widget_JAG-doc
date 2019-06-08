@@ -1,11 +1,13 @@
 # JEEDOM-Widget DOC JAG
 
-<h1 id="Lampe">Widget : Les Lampes</h1>
-
+<h1 id="Lumière">Lumière</h1>
 <ul>
   <li><a href="./JEEDOM-Lampe-README.html">Widget Dashboard : <b>Lampe</b></a></li>
   <li><a href="./JEEDOM-Lampe--mobile-README.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
-  <li>This is an unordered list following a header.</li>
+  <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire </b></a></li>
 </ul>
-<a href="./JEEDOM-Lampe-README.html">Widget Dashboard : **<b>Lampe</b>**</a><br/>
-<a href="./JEEDOM-Lampe--mobile-README.html">Widget mobile : **<b>Lampe</b>**</a><br/>
+<hr />
+<dl>
+<dt>Mise à jour JAG - 20190608</dt>
+</dl>
+<hr />
