@@ -33,17 +33,18 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 
 
 
-
-
-Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/>
-* '**<b>sizeh</b>**' : Permet de choisir l'hauteur de l'image <i>(valeur par défaut : 80)<br/></i>
-* '**<b>sizew</b>**' : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)<br/></i>
   
 Vous avez la possibilité d'inclure vos propres icônes dans le widget. Le nommage des images est normalisé et doit respecter le format suivant:<br/>
 * **<b>Image pour la valeur ON </b>** : type-ON<br/>
 * **<b>Image pour la valeur OFF </b>** : type-OFF<br/>
 (remplacer "type" par le nom de votre image)<br/>
 Pour ajouter vos icônes, sur la page du Widget, cliquer sur le bouton "Fichiers" tout en haut puis "choisir un fichier" et ajouter vos images une par une.<br/>
+
+
+<h3 id="Aide Paramétrage">Aide pour le paramétrage du widget</h3>
+<hr />
+
+
 
 <b>Pour le paramétrage dans l'équipement</b><br/>
 Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF<br/>
