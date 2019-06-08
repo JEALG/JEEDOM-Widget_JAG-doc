@@ -46,8 +46,21 @@ Pour ajouter vos icônes, sur la page du Widget, cliquer sur le bouton "Fichiers
 <h3 id="Aide Paramétrage">Aide pour le paramétrage du widget</h3>
 <hr />
 <h5 id="header-5">Paramétrage de l'équipement</h5>
+<dl>
 <dd>Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF<br/></dd>
+</dl>
 
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
 <b>Pour le paramétrage dans l'équipement</b><br/>
 
