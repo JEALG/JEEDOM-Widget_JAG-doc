@@ -10,7 +10,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <blockquote>
     Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 </blockquote>
-    <p><img src="Img/JEEDOM-Lampe--mobile-Visuel.png" alt="Visuels" /></p>
+<p><img src="Img/JEEDOM-Lampe-Visuel.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />

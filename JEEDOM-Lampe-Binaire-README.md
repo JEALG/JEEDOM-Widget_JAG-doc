@@ -11,7 +11,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-<p><img src="Img/JEEDOM-Lampe-Binaire-Visuel.png" alt="Visuels" /></p>
+<p><img src="Img/JEEDOM-Lampe-Visuel.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -44,7 +44,17 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
                 </dd>
         </ul>
 </blockquote>
-    
+ 
+<h4 id="Error">Pour afficher les valeurs de temps</h4>
+En cas de défaut d'erreur, le widget affichage un icône d'erreur, il est possible de paramétrer cette image
+<blockquote>
+        <ul>
+            <li><b>logoER</b> : Permet de choisir l'image pour la valeur ETAT en cas de problème <i>(valeur par défaut : oups)</i></li>
+            <li><b>logoER_type</b> : Permet de choisir l'extension pour l'image pour la valeur ETAT en cas de problème <i>(valeur par défaut : png)</i></li>
+        </ul>
+<p><img src="Img/Image-Error.png" alt="Error" /></p>
+</blockquote>
+
 <h1 id="Aide Paramétrage">Aide pour le paramétrage du widget</h1>
 <hr />
 <h5 id="header-5">Paramétrage de l'équipement</h5>
