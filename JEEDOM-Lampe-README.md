@@ -38,13 +38,13 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 <h5 id="header-5">Paramétrage de l'équipement</h5>
 <dl>
     <dd>Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF</dd>
-    <img src="Img/JEEDOM-Lampe--mobile-Acces.png" alt="Access"/>
+    <img src="Img/JEEDOM-Lampe-Acces.png" alt="Access"/>
 </dl>
 
 <h5 id="header-5">Choix du widget et ajout des paramètres</h5>
 <dl>
-    <dd>Choisir le widget et ajouter les parametres voulus</dd>
-    <img src="Img/JEEDOM-Lampe--mobile-Configuration.png" alt="Configuration"/>
+    <dd>Choisir le widget et ajouter les parametres voulus (Opération à faire sur la commande ON et OFF)</dd>
+    <img src="Img/JEEDOM-Lampe-Configuration.png" alt="Configuration"/>
 </dl>
     
 <h1 id="Add img">Ajout d'image</h1>

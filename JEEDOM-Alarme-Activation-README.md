@@ -1,17 +1,17 @@
 ---
 layout: default
 title: JEEDOM-Lampe
-description: Explication widget Lampe (mobile)
+description: Explication widget Alarme Activation
 ---
 
-# Widget "Lampe (mobile)" 
+# Widget "Alarme-Activation" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
-<p><img src="Img/JEEDOM-Lampe--mobile-Resultat.png" alt="Resultat" /></p>
+<p><img src="Img/JEEDOM-Alarme-Activation-Resultat.png" alt="Resultat" /></p>
 <blockquote>
     Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 </blockquote>
-<p><img src="Img/JEEDOM-Lampe-Visuel.png" alt="Visuels" /></p>
+<p><img src="Img/JEEDOM-Alarme.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -19,8 +19,10 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logo-M</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)</i></li>
-            <li><b>logo_type-M</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
+            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON<i>(valeur par défaut : alarm-status-T0-lock)</i></li>
+            <li><b>logoON_type</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
+            <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF<i>(valeur par défaut : alarm-status-T0-unlock)</i></li>
+            <li><b>logoOFF_type</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
@@ -28,8 +30,8 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/>
 <blockquote>
         <ul>
-            <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 35)</i></li>
-            <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 35)</i></li>
+            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
+            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
         </ul>
 </blockquote>
 
@@ -44,19 +46,14 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 <h5 id="header-5">Choix du widget et ajout des paramètres</h5>
 <dl>
     <dd>Choisir le widget et ajouter les parametres voulus (Opération à faire sur la commande ON et OFF)</dd>
-    <img src="Img/JEEDOM-Lampe--mobile-Configuration.png" alt="Configuration"/>
+    <img src="Img/JEEDOM-Activation-Configuration.png" alt="Configuration"/>
 </dl>
     
 <h1 id="Add img">Ajout d'image</h1>
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images est normalisé et doit respecter le format suivant :
-        <ul>
-            <li><b>Image pour la valeur ON</b> : type-ON</li>
-            <li><b>Image pour la valeur OFF</b> : type-OFF</li>
-            <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
-        </ul>
+        Le nommage des images n'est pas normalisé sur ce widget
 </blockquote>
 
 <hr />
