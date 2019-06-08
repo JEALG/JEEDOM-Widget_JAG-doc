@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-Alarme-Activation--Mobile
 description: Explication widget Alarme-Activation (mobile)
 ---
-
+[back](./)
 # Widget "Alarme-Activation (mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>

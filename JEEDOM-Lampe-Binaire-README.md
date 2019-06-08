@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-Lampe-Binaire
 description: explication widget Lampe-Binaire
 ---
-
+[back](./)
 # Widget "Lampe-Binaire" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>

@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-Alarme-Status
 description: explication widget Alarme-Status
 ---
-
+[back](./)
 # Widget "Alarme-Status" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>

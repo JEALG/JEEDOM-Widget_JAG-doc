@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Affichage de l'historique
 description: explication Affichage de l'historique
 ---
-
+[back](./)
 # Affichage de l'historique 
 
 <h4 id="Error">Activation de l'historique</h4>

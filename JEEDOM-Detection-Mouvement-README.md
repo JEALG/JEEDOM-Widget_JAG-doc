@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-Detection-Mouvement
 description: explication widget Detection Mouvement
 ---
-
+[back](./)
 # Widget "Detection Mouvement" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>

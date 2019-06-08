@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-Lampe
 description: Explication widget Lampe
 ---
-
+[back](./)
 # Widget "Lampe" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>

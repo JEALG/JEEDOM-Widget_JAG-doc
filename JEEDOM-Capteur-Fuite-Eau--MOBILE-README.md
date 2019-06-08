@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-Capteur-Fuite-Eau--mobile
 description: explication widget Capteur-Fuite-Eau (Mobile)
 ---
-
+[back](./)
 # Widget "Capteur-Fuite-Eau (Mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
