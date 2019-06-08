@@ -10,6 +10,11 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 
+<h3 id="large-image">Large image</h3>
+
+<p><img src="Img/JEEDOM-Lampe-Visuel.png" alt="Visuels" /></p>
+
+
 <img src="Img/JEEDOM-Lampe-Visuel.png" alt="visuels"/>
 
 <h4 id="Logo">Paramétrage de l'image</h4>
@@ -51,5 +56,9 @@ Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF<br/>
 <img src="Img/JEEDOM-Lampe-Acces.png" alt="Access"/><br/>
 <b>Choisir le widget et ajouter les parametres voulus</b><br/>
 <img src="Img/JEEDOM-Lampe-Configuration.png" alt="Configuration"/><br/>
+
+
+
+
 
 [back](./)
