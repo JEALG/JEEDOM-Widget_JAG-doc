@@ -62,7 +62,7 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190608<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Lampe--mobile/commits/master">Chancelog WIDGET</a>
+    <a href="https://github.com/JEALG/JEEDOM-Lampe--mobile/commits/master">Chancelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Chancelog DOC</a></dt>
 </dl>
 <hr />
