@@ -48,8 +48,15 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
     <img src="Img/JEEDOM-Lampe-Configuration.png" alt="Configuration"/>
 </dd>
 </dl>
+<h3 id="Add img">Ajout d'image</h3>
 <hr />
-  
+<blockquote>
+Il est possible d'inclure d'autres icônes dans le widget.
+Le nommage des images est normalisé et doit respecter le format suivant :
+
+</blockquote>
+
+
 Vous avez la possibilité d'inclure vos propres icônes dans le widget. Le nommage des images est normalisé et doit respecter le format suivant :<br/>
 * **<b>Image pour la valeur ON </b>** : type-ON<br/>
 * **<b>Image pour la valeur OFF </b>** : type-OFF<br/>
