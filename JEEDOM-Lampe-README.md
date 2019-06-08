@@ -34,7 +34,7 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 </ul>
 </blockquote>
 
-<h3 id="Aide Paramétrage">Aide pour le paramétrage du widget</h3>
+<h1 id="Aide Paramétrage">Aide pour le paramétrage du widget</h1>
 <hr />
 <h5 id="header-5">Paramétrage de l'équipement</h5>
 <dl>
