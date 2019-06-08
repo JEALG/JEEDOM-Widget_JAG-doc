@@ -49,7 +49,7 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
     <img src="Img/JEEDOM-Lampe-Configuration.png" alt="Configuration"/>
 </dd>
 </dl>
-<h3 id="Add img">Ajout d'image</h3>
+<h1 id="Add img">Ajout d'image</h1>
 <hr />
 <blockquote>
 Il est possible d'inclure d'autres icônes dans le widget.<br/>

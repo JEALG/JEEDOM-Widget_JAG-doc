@@ -34,6 +34,18 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 </ul>
 </blockquote>
 
+
+<h4 id="TEMPS">Pour afficher les valeurs de temps</h4>
+Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction. il suffit d'ajouter un paramètre optionnel <I>Merci à @Salvialf pour le code</I>
+<blockquote>
+    <ul>
+        <li><b>logoTime</b></li>
+        <dd><b>logoTime = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
+            <b>logoTime = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.<br/>
+            <b>logoTime = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
+        </dd>
+</ul>
+
 <h3 id="Aide Paramétrage">Aide pour le paramétrage du widget</h3>
 <hr />
 <h5 id="header-5">Paramétrage de l'équipement</h5>
@@ -49,20 +61,7 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 </dd>
 </dl>
 
-<h5 id="header-5">Pour afficher les valeurs de temps</h5>
-<dl>
-<dd>Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction. il suffit d'ajouter un paramètre optionnel<br/>
-    <I>Merci à @Salvialf pour le code</I>
-</dd>
-</dl>
-<blockquote>
-    <ul>
-        <li><b>logoTime</b></li>
-        <dd><b>logoTime = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
-            <b>logoTime = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.<br/>
-            <b>logoTime = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
-        </dd>
-</ul>
+
 </blockquote>
 <hr />
 <h3 id="Add img">Ajout d'image</h3>

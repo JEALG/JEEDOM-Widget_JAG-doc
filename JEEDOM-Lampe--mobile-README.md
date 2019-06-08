@@ -12,7 +12,6 @@ Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'
 </blockquote>
 
 <p><img src="Img/JEEDOM-Lampe--mobile-Visuel.png" alt="Visuels" /></p>
-<h1 id="header-1">Header 1</h1>
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
@@ -34,7 +33,7 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 </ul>
 </blockquote>
 
-<h3 id="Aide Paramétrage">Aide pour le paramétrage du widget</h3>
+<h1 id="Aide Paramétrage">Aide pour le paramétrage du widget</h1>
 <hr />
 <h5 id="header-5">Paramétrage de l'équipement</h5>
 <dl>
@@ -49,7 +48,7 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
     <img src="Img/JEEDOM-Lampe--mobile-Configuration.png" alt="Configuration"/>
 </dd>
 </dl>
-<h3 id="Add img">Ajout d'image</h3>
+<h1 id="Add img">Ajout d'image</h1>
 <hr />
 <blockquote>
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
