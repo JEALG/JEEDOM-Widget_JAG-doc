@@ -13,7 +13,7 @@ Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'
 
 <p><img src="Img/JEEDOM-Lampe-Visuel.png" alt="Visuels" /></p>
 
-<h3 id="Type de paramètre">Type de paramètre</h3>
+<h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant : <br/>
