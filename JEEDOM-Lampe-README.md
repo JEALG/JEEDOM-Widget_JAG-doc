@@ -53,14 +53,11 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 <blockquote>
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images est normalisé et doit respecter le format suivant :
-</blockquote>
-
-<blockquote>
     <ul>
         <li><b>Image pour la valeur ON</b> : type-ON <i>(valeur par défaut : 80)</i></li>
         <li><b>Image pour la valeur OFF</b> : type-OFF</li>
         <li> <i>(remplacer <b>type</b> par le nom de votre image)</i></li>
-</ul>
+    </ul> 
 </blockquote>
 <hr />
 <dl>
