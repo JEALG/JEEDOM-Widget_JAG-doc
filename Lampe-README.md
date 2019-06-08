@@ -1,12 +1,10 @@
-
-# JEEDOM-Widget_JAG-doc
 # JEEDOM-Lampe
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
 
 Le widget inclus d'office 8 types de lampes (4xON et 4xOFF). Il est possible d'ajouter ses propres icônes.
 
-<img src="Lampe-Visuel.png" alt="visuels"/>
+<img src="Img/Lampe-Visuel.png" alt="visuels"/>
 
 Pour choisir le type de visuel à afficher, il faut ajouter un paramètre optionnel<br/>
 * '**<b>logo</b>**' : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)<br/></i>
@@ -24,6 +22,6 @@ Pour ajouter vos icônes, sur la page du Widget, cliquer sur le bouton "Fichiers
 
 <b>Pour le paramétrage dans l'équipement</b><br/>
 Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF<br/>
-<img src="Lampe-Acces.png" alt="Access"/><br/>
+<img src="Img/Lampe-Acces.png" alt="Access"/><br/>
 <b>Choisir le widget et ajouter les parametres voulus</b><br/>
-<img src="Lampe-Configuration.png" alt="Configuration"/><br/>
+<img src="Img/Lampe-Configuration.png" alt="Configuration"/><br/>
