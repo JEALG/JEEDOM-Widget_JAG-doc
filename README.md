@@ -25,4 +25,7 @@
     <dt>Mise à jour JAG - 20190608</dt>
 </dl>
 <hr />
-[back](./)
+
+<h1 id="CHANCELOG DOC">changelog</h1>
+<hr />
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">
