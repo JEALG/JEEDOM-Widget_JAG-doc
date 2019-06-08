@@ -82,7 +82,9 @@ En cas de défaut d'erreur, le widget affichage un icône d'erreur, il est possi
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190608</dt>
+    <dt>Mise à jour JAG - 20190608<br/>
+    <a href="https://github.com/JEALG/JEEDOM-Alarme-Status/commits/master">Chancelog WIDGET</a>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Chancelog DOC</a></dt>
 </dl>
 <hr />
 [back](./)
