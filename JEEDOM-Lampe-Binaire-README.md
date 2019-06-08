@@ -48,16 +48,16 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
 <h1 id="Aide Paramétrage">Aide pour le paramétrage du widget</h1>
 <hr />
 <h5 id="header-5">Paramétrage de l'équipement</h5>
-    <dl>
-        <dd>Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF</dd>
-        <img src="Img/JEEDOM-Lampe-Binaire-Acces.png" alt="Access"/>
-    </dl>
+<dl>
+    <dd>Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF</dd>
+    <img src="Img/JEEDOM-Lampe-Binaire-Acces.png" alt="Access"/>
+</dl>
 
 <h5 id="header-5">Choix du widget et ajout des paramètres</h5>
-    <dl>
-        <dd>Choisir le widget et ajouter les parametres voulus</dd>
-        <img src="Img/JEEDOM-Lampe-Binaire-Configuration.png" alt="Configuration"/>
-    </dl>
+<dl>
+    <dd>Choisir le widget et ajouter les parametres voulus</dd>
+    <img src="Img/JEEDOM-Lampe-Binaire-Configuration.png" alt="Configuration"/>
+</dl>
 
 <hr />
 <h3 id="Add img">Ajout d'image</h3>
