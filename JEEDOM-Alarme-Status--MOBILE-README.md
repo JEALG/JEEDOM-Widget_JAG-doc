@@ -21,14 +21,14 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 <blockquote>
         <ul>
             <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON<i>(valeur par défaut : alarm-status-T3-RAS)</i></li>
-            <li><b>logoON_type-M</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
+            <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON-M</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
             <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : alarm-status-T3-Alert)</i></li>
-            <li><b>logoOFF_type-M</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
+            <li><b>logoOFF_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF-M</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
-<h4 id="Taille">Taille de l'image</h4>
-Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/>
+<h4 id="TaIlle">Taille des images ou des icônes</h4>
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
             <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 40)</i></li>
@@ -52,6 +52,7 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
 <blockquote>
         <ul>
             <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
+            <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
         </ul>
 </blockquote>
 

@@ -20,12 +20,12 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 <blockquote>
         <ul>
             <li><b>logo-M</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)</i></li>
-            <li><b>logo_type-M</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
+            <li><b>logo_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo-M</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
-<h4 id="TaIlle">Taille de l'image</h4>
-Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/>
+<h4 id="TaIlle">Taille des images ou des icônes</h4>
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
             <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 35)</i></li>
