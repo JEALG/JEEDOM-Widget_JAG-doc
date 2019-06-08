@@ -56,71 +56,17 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 </dl>
 <blockquote>
     <ul>
-        <li><b>logoTime</b> :</li>
-        <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
+        <li><b>logoTime</b></li>
+        <dd><b>logoTime = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.
+            <b>logoTime = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.
+            <b>logoTime = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
+        </dd>
 </ul>
 </blockquote>
 
-
-
-
-
-
-
-
-
-<dd>Pour afficher les valeurs de temps<br/></dd>
-    <blockquote>
-        <br/>Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction. il suffit d'ajouter un paramètre optionnel "<br/>
-    Merci à @Salvialf pour le code
-    </blockquote>
-
-</dl>
-
-<h3 id="Add img">Ajout d'image</h3>
-<hr />
-<blockquote>
-Il est possible d'inclure d'autres icônes dans le widget.<br/>
-Le nommage des images est normalisé et doit respecter le format suivant :
-    <ul>
-        <li><b>Image pour la valeur ON</b> : type-ON <i>(valeur par défaut : 80)</i></li>
-        <li><b>Image pour la valeur OFF</b> : type-OFF</li>
-        <li> <i>(remplacer <b>type</b> par le nom de votre image)</i></li>
-    </ul> 
-</blockquote>
 <hr />
 <dl>
 <dt>Mise à jour JAG - 20190608</dt>
 </dl>
 <hr />
 [back](./)
-
-# JEEDOM-Lampe-Binaire
-
-https://jealg.github.io/JEEDOM-Widget_JAG-doc/Img/JEEDOM-Lampe-Binaire-Acces.png
-
-
-  
-Vous avez la possibilité d'inclure vos propres icônes dans le widget. Le nommage des images est normalisé et doit respecter le format suivant:
-* **<b>Image pour la valeur ON </b>** : type-ON<br/>
-* **<b>Image pour la valeur OFF </b>** : type-OFF<br/>
-(remplacer "type" par le nom de votre image)<br/>
-Pour ajouter vos icônes, sur la page du Widget, cliquer sur le bouton "Fichiers" tout en haut puis "choisir un fichier" et ajouter vos images une par une.<br/>
-
-<br/>Pour afficher les informations de temps depuis le dernier allumage/extinction, il suffit d'ajouter un paramètre optionnel "<i><b>logoTime</b></i>" avec la valeur suivante au choix:<br/>
-    Merci à @Salvialf pour le code
-* '**duree**' : affiche la durée depuis le dernier allumage/extinction.  
-* '**heure**' : affiche l'heure de dernier allumage extinction.  
-* '**date**'  : affiche la date et l'heure de dernier allumage/extinction.  
-
-<b>Pour le paramétrage dans l'équipement</b><br/>
-Cliquez sur la roue crantée à gauche de la commande ETAT, ne pas oublier que l'etat doit être de type 'binaire'<br/>
-<img src="Lampe-Acces-binaire.png" alt="Access"/><br/>
-<b>Choisir le widget et ajouter les parametres voulus</b><br/>
-<img src="Lampe-Configuration-binaire.png" alt="Configuration"/><br/>
-
-
-Pour choisir le type de visuel à afficher en cas de problème, il est possible de paramètrer l'image
-* '**<b>logoER</b>**': Permet de choisir l'image pour la valeur ETAT en cas de problème<i>(valeur par défaut : oups)<br/></i>
-* '**<b>logoER_type</b>**': Permet de choisir l'extension pour l'image pour la valeur ETAT en cas de problème<i>(valeur par défaut : png)<br/></i>
-<img src="Image-Error.png" alt="Image Error"/>
