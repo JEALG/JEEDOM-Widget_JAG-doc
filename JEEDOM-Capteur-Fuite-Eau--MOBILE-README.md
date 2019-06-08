@@ -7,7 +7,7 @@ description: explication widget Capteur-Fuite-Eau (Mobile)
 # Widget "Capteur-Fuite-Eau (Mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/JEEDOM-Capteur-Fuite-Eau_Resultat.png" alt="Resultat" /></p>
+<p><img src="Img/JEEDOM-Capteur-Fuite-Eau--mobile_Resultat.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus d'office 6 types d'icônes.
 </blockquote>
@@ -35,24 +35,13 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 30)</i></li>
         </ul>
 </blockquote>
-
-<h4 id="TEMPS">Pour afficher les valeurs de temps</h4>
-Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction. il suffit d'ajouter un paramètre optionnel <I>Merci à @Salvialf pour le code</I>
-<blockquote>
-        <ul>
-            <li><b>logoTime-M</b><i>(Pas de valeur par défaut)</i></li>
-                <dd><b>logoTime-M = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
-                    <b>logoTime-M = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.<br/>
-                    <b>logoTime-M = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
-                </dd>
-        </ul>
-</blockquote>
  
 <h4 id="Error">Autres paramétrages possible</h4>
 <blockquote>
         <ul>
             <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
             <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
+            <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
         </ul>
 </blockquote>
 

@@ -1,26 +1,38 @@
 ---
 layout: default
-title: JEEDOM-AIDE Affichage de l'historique
-description: explication Affichage de l'historique
+title: JEEDOM-AIDE Affichage des informations de durée
+description: explication Affichage des informations de durée
 ---
 
-# Affichage de l'historique 
+# Affichage des informations de durée
+<blockquote>
+    Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF) sur les widgets de type info. il suffit d'ajouter un paramètre optionnel <i>Merci à @Salvialf pour le code</i>
+</blockquote>
 
-<h4 id="Error">Activation de l'historique</h4>
-Il est impératif que l'info de l'équipement soit historisé pour être afficher
-<p><img src="Img/Image-Stats-Activation.png" alt="Error" /></p>
+<h4 id="Error">Affichage des informations de durée sur les widgets info (binaire, numérique)<i>Dashboard</i></h4>
+Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF). il suffit d'ajouter un paramètre optionnel <i>Merci à @Salvialf pour le code</i>
+<blockquote>
+        <ul>
+            <li><b>logoTime</b><i>(Pas de valeur par défaut)</i></li>
+                <dd><b>logoTime = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
+                    <b>logoTime = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.<br/>
+                    <b>logoTime = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
+                </dd>
+        </ul>
+</blockquote>
 
-<h4 id="Error">Afficher les statistiques sur les widgets</h4>
-Il faut vérifier que la case "Afficher les statistiques sur les widgets" soit coché dans la configuration de jeedoom
-<p><img src="Img/Image-Stats-Activation-V4.png" alt="Config V4" /></p>
-<p><img src="Img/Image-Stats-Activation-V3.3.png" alt="Config V3" /></p>
+<h4 id="Error">Affichage des informations de durée sur les widgets info (binaire, numérique)<i>Mobile</i></h4>
+Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF). il suffit d'ajouter un paramètre optionnel <i>Merci à @Salvialf pour le code</i>
+<blockquote>
+        <ul>
+            <li><b>logoTime-M</b><i>(Pas de valeur par défaut)</i></li>
+                <dd><b>logoTime-M = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
+                    <b>logoTime-M = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.<br/>
+                    <b>logoTime-M = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
+                </dd>
+        </ul>
+</blockquote>
 
-<h4 id="Error">Afficher les statistiques sur le widget</h4>
-Dans les réglages de chaque commande, cliquer sur la roue
-<p><img src="Img/Image-Stats-Acces.png" alt="Acces config" /></p>
-Ensuite cocher <i>Afficher les statistiques</i> soit pour le Dashboard soit pour le mobile soit pour les 2 dans l'onglet <b>Affichage</b>
-<p><img src="Img/Image-Stats-Cocher.png" alt="Cocher" /></p>
-<hr />
 <dl>
     <dt>Mise à jour JAG - 20190608<br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>

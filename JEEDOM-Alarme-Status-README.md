@@ -35,24 +35,13 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
         </ul>
 </blockquote>
-
-<h4 id="TEMPS">Pour afficher les valeurs de temps</h4>
-Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction. il suffit d'ajouter un paramètre optionnel <I>Merci à @Salvialf pour le code</I>
-<blockquote>
-        <ul>
-            <li><b>logoTime</b><i>(Pas de valeur par défaut)</i></li>
-                <dd><b>logoTime = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
-                    <b>logoTime = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.<br/>
-                    <b>logoTime = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
-                </dd>
-        </ul>
-</blockquote>
  
 <h4 id="Error">Autres paramétrages possible</h4>
 <blockquote>
         <ul>
             <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
             <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
+            <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
         </ul>
 </blockquote>
 
