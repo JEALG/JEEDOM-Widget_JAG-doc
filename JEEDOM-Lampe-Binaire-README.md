@@ -16,7 +16,7 @@ Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant : <br/>
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
     <blockquote>
         <ul>
             <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)</i></li>
