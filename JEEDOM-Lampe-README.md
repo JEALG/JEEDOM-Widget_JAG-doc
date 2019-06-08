@@ -13,8 +13,16 @@ Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'
 <img src="Img/JEEDOM-Lampe-Visuel.png" alt="visuels"/>
 
 Pour choisir le type de visuel à afficher, il faut ajouter un paramètre optionnel<br/>
-* '**<b>logo</b>**' : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)<br/></i>
-* '**<b>logo_type</b>**' : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)<br/></i>
+<blockquote>
+    <ul>
+        <li><b>logo</b>         : Permet de choisir l'image pour la valeur ON ou OFF                    <i>(valeur par défaut : Lampe)</i></li>
+        <li><b>logo_type</b>    : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF   <i>(valeur par défaut : png)</i></li>
+  <li>This is an unordered list following a header.</li>
+</ul>
+</blockquote>
+
+
+
 
 Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/>
 * '**<b>sizeh</b>**' : Permet de choisir l'hauteur de l'image <i>(valeur par défaut : 80)<br/></i>
