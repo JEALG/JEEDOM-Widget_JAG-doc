@@ -45,7 +45,7 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
             <b>logoTime = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
         </dd>
 </ul>
-
+</blockquote>
 <h3 id="Aide Paramétrage">Aide pour le paramétrage du widget</h3>
 <hr />
 <h5 id="header-5">Paramétrage de l'équipement</h5>
@@ -61,8 +61,6 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
 </dd>
 </dl>
 
-
-</blockquote>
 <hr />
 <h3 id="Add img">Ajout d'image</h3>
 <hr />
