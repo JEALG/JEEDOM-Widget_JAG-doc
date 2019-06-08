@@ -47,6 +47,19 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
     <img src="Img/JEEDOM-Lampe-Binaire-Configuration.png" alt="Configuration"/>
 </dd>
 </dl>
+
+<h5 id="header-5">Pour afficher les valeurs de temps</h5>
+<dl>
+<dd>Choisir le widget et ajouter les parametres voulus<br/>
+    <I>Merci à @Salvialf pour le code</I>
+</dd>
+</dl>
+
+
+
+
+
+
 <dd>Pour afficher les valeurs de temps<br/></dd>
     <blockquote>
         <br/>Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction. il suffit d'ajouter un paramètre optionnel "<br/>
