@@ -57,8 +57,8 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 <blockquote>
     <ul>
         <li><b>logoTime</b></li>
-        <dd><b>logoTime = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.
-            <b>logoTime = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.
+        <dd><b>logoTime = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
+            <b>logoTime = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.<br/>
             <b>logoTime = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
         </dd>
 </ul>
