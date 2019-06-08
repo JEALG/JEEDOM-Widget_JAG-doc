@@ -7,30 +7,30 @@ description: Explication widget Lampe
 # Widget "Lampe" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
-    <blockquote>
+<blockquote>
     Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
-    </blockquote>
+</blockquote>
     <p><img src="Img/JEEDOM-Lampe--mobile-Visuel.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
-    <blockquote>
+<blockquote>
         <ul>
             <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)</i></li>
             <li><b>logo_type</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
         </ul>
-    </blockquote>
+</blockquote>
 
 <h4 id="TaIlle">Taille de l'image</h4>
 Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/>
-    <blockquote>
+<blockquote>
         <ul>
             <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
             <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
         </ul>
-    </blockquote>
+</blockquote>
 
 <h1 id="Aide Paramétrage">Aide pour le paramétrage du widget</h1>
 <hr />
@@ -48,7 +48,7 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
     
 <h1 id="Add img">Ajout d'image</h1>
 <hr />
-    <blockquote>
+<blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
         Le nommage des images est normalisé et doit respecter le format suivant :
         <ul>
@@ -56,11 +56,11 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
             <li><b>Image pour la valeur OFF</b> : type-OFF</li>
             <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
         </ul>
-    </blockquote>
+</blockquote>
 
 <hr />
-    <dl>
-        <dt>Mise à jour JAG - 20190608</dt>
-    </dl>
+<dl>
+    <dt>Mise à jour JAG - 20190608</dt>
+</dl>
 <hr />
 [back](./)

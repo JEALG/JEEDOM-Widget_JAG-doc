@@ -8,8 +8,8 @@
 </ul>
 
 <hr />
-    <dl>
-        <dt>Mise à jour JAG - 20190608</dt>
-    </dl>
+<dl>
+    <dt>Mise à jour JAG - 20190608</dt>
+</dl>
 <hr />
 [back](./)
