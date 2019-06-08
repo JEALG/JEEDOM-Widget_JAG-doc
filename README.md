@@ -7,7 +7,7 @@
     <li><a href="./JEEDOM-Alarme-Activation--MOBILE-README.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
     <li><a href="./JEEDOM-Alarme-Status-README.html">Widget Dashboard : <b>Alarme-Status</b></a></li>
     <li><a href="./JEEDOM-Alarme-Status--MOBILE-README.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
-    <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
+    <li><a href="./JEEDOM-Capteur-Fuite-Eau -README.html">Widget Dashboard : <b>Capteur-Fuite-Eau</b></a></li>
     <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
     <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
     <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
