@@ -54,7 +54,6 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images est normalisé et doit respecter le format suivant :
 </blockquote>
-<br/>
 
 <blockquote>
     <ul>
