@@ -1,6 +1,7 @@
 # JEEDOM-Widget DOC JAG
 
 <h1 id="Alarme diverse">Alarme diverse</h1>
+<p><img src="Img/ALARME.png" alt="Visuels" /></p>
 <ul>
     <li><a href="./JEEDOM-Alarme-Activation-README.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
     <li><a href="./JEEDOM-Alarme-Activation--MOBILE-README.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
