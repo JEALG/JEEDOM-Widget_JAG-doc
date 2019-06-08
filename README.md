@@ -23,9 +23,5 @@
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190608</dt>
+    <dt><a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Chancelog DOC</a></dt>
 </dl>
-<hr />
-
-<h1 id="CHANCELOG DOC">changelog</h1>
-<hr />
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">
