@@ -63,5 +63,9 @@ Le nommage des images est normalisé et doit respecter le format suivant :
         <li> <i>(remplacer <b>type</b> par le nom de votre image)</i></li>
 </ul>
 </blockquote>
-
+<hr />
+<dl>
+<dt>Mise à jour JAG - 20190608</dt>
+</dl>
+<hr />
 [back](./)
