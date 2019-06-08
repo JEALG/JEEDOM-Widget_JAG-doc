@@ -47,13 +47,12 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
     <img src="Img/JEEDOM-Lampe-Binaire-Configuration.png" alt="Configuration"/>
 </dd>
 </dl>
-<dd>Pour afficher les valeurs de temps<br/>
+<dd>Pour afficher les valeurs de temps<br/></dd>
     <blockquote>
         <br/>Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction. il suffit d'ajouter un paramètre optionnel "<br/>
     Merci à @Salvialf pour le code
     </blockquote>
-    <img src="Img/JEEDOM-Lampe-Binaire-Configuration.png" alt="Configuration"/>
-</dd>
+
 </dl>
 
 <h3 id="Add img">Ajout d'image</h3>
@@ -75,6 +74,8 @@ Le nommage des images est normalisé et doit respecter le format suivant :
 [back](./)
 
 # JEEDOM-Lampe-Binaire
+
+https://jealg.github.io/JEEDOM-Widget_JAG-doc/Img/JEEDOM-Lampe-Binaire-Acces.png
 
 
   
