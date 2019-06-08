@@ -63,7 +63,18 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
         </dd>
 </ul>
 </blockquote>
-
+<hr />
+<h3 id="Add img">Ajout d'image</h3>
+<hr />
+<blockquote>
+Il est possible d'inclure d'autres icônes dans le widget.<br/>
+Le nommage des images est normalisé et doit respecter le format suivant :
+    <ul>
+        <li><b>Image pour la valeur ON</b> : type-ON <i>(valeur par défaut : 80)</i></li>
+        <li><b>Image pour la valeur OFF</b> : type-OFF</li>
+        <li> <i>(remplacer <b>type</b> par le nom de votre image)</i></li>
+    </ul> 
+</blockquote>
 <hr />
 <dl>
 <dt>Mise à jour JAG - 20190608</dt>
