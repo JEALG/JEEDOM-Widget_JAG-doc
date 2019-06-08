@@ -54,6 +54,15 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
     <I>Merci à @Salvialf pour le code</I>
 </dd>
 </dl>
+<blockquote>
+    <ul>
+        <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
+        <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
+</ul>
+
+
+
+
 
 
 

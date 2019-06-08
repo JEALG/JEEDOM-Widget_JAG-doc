@@ -4,7 +4,7 @@
 <ul>
   <li><a href="./JEEDOM-Lampe-README.html">Widget Dashboard : <b>Lampe</b></a></li>
   <li><a href="./JEEDOM-Lampe--mobile-README.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
-  <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire </b></a></li>
+  <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
 </ul>
 <hr />
 <dl>
