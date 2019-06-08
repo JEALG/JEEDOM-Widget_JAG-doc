@@ -1,9 +1,9 @@
 # JEEDOM-Widget DOC JAG
 
-<h1 id="Lumière">Alarme</h1>
+<h1 id="Alarme diverse">Alarme diverse</h1>
 <ul>
     <li><a href="./JEEDOM-Alarme-Activation-README.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
-    <li><a href="./JEEDOM-Lampe--mobile-README.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
+    <li><a href="./JEEDOM-Alarme-Activation--Mobile-README.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
     <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
     <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
     <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>

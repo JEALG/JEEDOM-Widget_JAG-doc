@@ -1,10 +1,10 @@
 ---
 layout: default
 title: JEEDOM-Lampe
-description: Explication widget Alarme Activation
+description: Explication widget Alarme-Activation (mobile)
 ---
 
-# Widget "Alarme-Activation" 
+# Widget "Alarme-Activation (mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
 <p><img src="Img/JEEDOM-Alarme-Activation-Resultat.png" alt="Resultat" /></p>
@@ -19,10 +19,10 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON<i>(valeur par défaut : alarm-status-T0-lock)</i></li>
-            <li><b>logoON_type</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
-            <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF<i>(valeur par défaut : alarm-status-T0-unlock)</i></li>
-            <li><b>logoOFF_type</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
+            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON<i>(valeur par défaut : alarm-status-T0-lock)</i></li>
+            <li><b>logoON_type-M</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
+            <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF<i>(valeur par défaut : alarm-status-T0-unlock)</i></li>
+            <li><b>logoOFF_type-M</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
@@ -30,8 +30,8 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/>
 <blockquote>
         <ul>
-            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
-            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
+            <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
+            <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
         </ul>
 </blockquote>
 
