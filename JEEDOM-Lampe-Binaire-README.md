@@ -52,8 +52,6 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
             <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
         </ul>
 </blockquote>
-<p><img src="Img/Image-Error.png" alt="Error" /></p>
-
 
 <h1 id="Aide Paramétrage">Aide pour le paramétrage du widget</h1>
 <hr />

@@ -48,16 +48,12 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
         </ul>
 </blockquote>
  
-<h4 id="Error">Choix de l'icône en cas d'erreur</h4>
-En cas de défaut d'erreur, le widget affichage un icône d'erreur, il est possible de paramétrer cette image
+<h4 id="Error">Autres paramétrages possible</h4>
 <blockquote>
         <ul>
-            <li><b>logoER-M</b> : Permet de choisir l'image pour la valeur ETAT en cas de problème <i>(valeur par défaut : oups)</i></li>
-            <li><b>logoER_type-M</b> : Permet de choisir l'extension pour l'image pour la valeur ETAT en cas de problème <i>(valeur par défaut : png)</i></li>
+            <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
         </ul>
 </blockquote>
-<p><img src="Img/Image-Error.png" alt="Error" /></p>
-
 
 <h1 id="Aide Paramétrage">Aide pour le paramétrage du widget</h1>
 <hr />
