@@ -30,8 +30,8 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/>
 <blockquote>
         <ul>
-            <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
-            <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
+            <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 40)</i></li>
+            <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 40)</i></li>
         </ul>
 </blockquote>
 
