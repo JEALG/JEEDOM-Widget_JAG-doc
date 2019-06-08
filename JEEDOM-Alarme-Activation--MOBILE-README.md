@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JEEDOM-Lampe
+title: JEEDOM-Alarme-Activation--Mobile
 description: Explication widget Alarme-Activation (mobile)
 ---
 

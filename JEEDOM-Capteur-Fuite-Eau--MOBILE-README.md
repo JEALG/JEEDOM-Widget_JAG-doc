@@ -1,10 +1,10 @@
 ---
 layout: default
-title: JEEDOM-Lampe
-description: explication widget Capteur-Fuite-Eau
+title: JEEDOM-Capteur-Fuite-Eau--mobile
+description: explication widget Capteur-Fuite-Eau (Mobile)
 ---
 
-# Widget "Capteur-Fuite-Eau" 
+# Widget "Capteur-Fuite-Eau (Mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="Img/JEEDOM-Capteur-Fuite-Eau_Resultat.png" alt="Resultat" /></p>
@@ -20,10 +20,10 @@ Le widget inclus d'office 6 types d'icônes.
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : alarm-Eau-Fibaro-RAS)</i></li>
-            <li><b>logoON_type</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
-            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : alarm-Eau-Fibaro-Alert)</i></li>
-            <li><b>logoON_type</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
+            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : alarm-Eau-Fibaro-RAS)</i></li>
+            <li><b>logoON_type-M</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
+            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : alarm-Eau-Fibaro-Alert)</i></li>
+            <li><b>logoON_type-M</b> : Permet de choisir l'extension pour l'image pour la valeur ON ou OFF <i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
@@ -31,8 +31,8 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/>
 <blockquote>
         <ul>
-            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 72)</i></li>
-            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 72)</i></li>
+            <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 72)</i></li>
+            <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 72)</i></li>
         </ul>
 </blockquote>
 
@@ -40,10 +40,10 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction. il suffit d'ajouter un paramètre optionnel <I>Merci à @Salvialf pour le code</I>
 <blockquote>
         <ul>
-            <li><b>logoTime</b><i>(Pas de valeur par défaut)</i></li>
-                <dd><b>logoTime = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
-                    <b>logoTime = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.<br/>
-                    <b>logoTime = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
+            <li><b>logoTime-M</b><i>(Pas de valeur par défaut)</i></li>
+                <dd><b>logoTime-M = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
+                    <b>logoTime-M = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.<br/>
+                    <b>logoTime-M = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
                 </dd>
         </ul>
 </blockquote>
@@ -78,12 +78,7 @@ En cas de défaut d'erreur, le widget affichage un icône d'erreur, il est possi
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images est normalisé et doit respecter le format suivant :
-        <ul>
-            <li><b>Image pour la valeur ON</b> : type-ON</li>
-            <li><b>Image pour la valeur OFF</b> : type-OFF</li>
-            <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
-        </ul> 
+        Le nommage des images n'est pas normalisé pour ce widget
 </blockquote>
 
 <hr />

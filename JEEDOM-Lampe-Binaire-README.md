@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JEEDOM-Lampe
+title: JEEDOM-Lampe-Binaire
 description: explication widget Lampe-Binaire
 ---
 

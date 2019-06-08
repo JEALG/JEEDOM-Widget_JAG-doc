@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JEEDOM-Lampe
+title: JEEDOM-Lampe--mobile
 description: Explication widget Lampe (mobile)
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JEEDOM-Lampe
+title: JEEDOM-Alarme-Status
 description: explication widget Alarme-Status
 ---
 
