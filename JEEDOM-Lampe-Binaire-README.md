@@ -50,7 +50,7 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 
 <h5 id="header-5">Pour afficher les valeurs de temps</h5>
 <dl>
-<dd>Choisir le widget et ajouter les parametres voulus<br/>
+<dd>Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction. il suffit d'ajouter un paramètre optionnel<br/>
     <I>Merci à @Salvialf pour le code</I>
 </dd>
 </dl>
