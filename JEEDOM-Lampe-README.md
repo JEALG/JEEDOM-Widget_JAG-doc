@@ -1,8 +1,14 @@
-# JEEDOM-Lampe
+---
+layout: default
+title: JEEDOM-Lampe
+description: explication widget Lampe
+---
+
+# Widget "Lampe" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
 
-Le widget inclus d'office 8 types de lampes (4xON et 4xOFF). Il est possible d'ajouter ses propres icônes.
+Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 
 <img src="Img/JEEDOM-Lampe-Visuel.png" alt="visuels"/>
 
@@ -25,3 +31,5 @@ Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF<br/>
 <img src="Img/JEEDOM-Lampe-Acces.png" alt="Access"/><br/>
 <b>Choisir le widget et ajouter les parametres voulus</b><br/>
 <img src="Img/JEEDOM-Lampe-Configuration.png" alt="Configuration"/><br/>
+
+[back](./)
