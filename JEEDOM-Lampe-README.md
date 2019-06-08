@@ -33,16 +33,6 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 </ul>
 </blockquote>
 
-
-
-  
-Vous avez la possibilité d'inclure vos propres icônes dans le widget. Le nommage des images est normalisé et doit respecter le format suivant :<br/>
-* **<b>Image pour la valeur ON </b>** : type-ON<br/>
-* **<b>Image pour la valeur OFF </b>** : type-OFF<br/>
-(remplacer "type" par le nom de votre image)<br/>
-Pour ajouter vos icônes, sur la page du Widget, cliquer sur le bouton "Fichiers" tout en haut puis "choisir un fichier" et ajouter vos images une par une.<br/>
-
-
 <h3 id="Aide Paramétrage">Aide pour le paramétrage du widget</h3>
 <hr />
 <h5 id="header-5">Paramétrage de l'équipement</h5>
@@ -52,14 +42,19 @@ Pour ajouter vos icônes, sur la page du Widget, cliquer sur le bouton "Fichiers
 </dd>
 </dl>
 
+<dl>
+<dd>Choisir le widget et ajouter les parametres voulus<br/>
+    <img src="Img/JEEDOM-Lampe-Configuration.png" alt="Configuration"/>
+</dd>
+</dl>
 
 
-<b>Pour le paramétrage dans l'équipement</b><br/>
-
-<img src="Img/JEEDOM-Lampe-Acces.png" alt="Access"/><br/>
-<b>Choisir le widget et ajouter les parametres voulus</b><br/>
-<img src="Img/JEEDOM-Lampe-Configuration.png" alt="Configuration"/><br/>
-
+  
+Vous avez la possibilité d'inclure vos propres icônes dans le widget. Le nommage des images est normalisé et doit respecter le format suivant :<br/>
+* **<b>Image pour la valeur ON </b>** : type-ON<br/>
+* **<b>Image pour la valeur OFF </b>** : type-OFF<br/>
+(remplacer "type" par le nom de votre image)<br/>
+Pour ajouter vos icônes, sur la page du Widget, cliquer sur le bouton "Fichiers" tout en haut puis "choisir un fichier" et ajouter vos images une par une.<br/>
 
 
 
