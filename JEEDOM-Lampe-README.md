@@ -38,16 +38,15 @@ Pour choisir la dimension de l'image il faut ajouter un paramètre optionnel<br/
 <hr />
 <h5 id="header-5">Paramétrage de l'équipement</h5>
 <dl>
-<dd>Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF<br/>
+<dd>Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF</dd><br/>
     <img src="Img/JEEDOM-Lampe-Acces.png" alt="Access"/>
-</dd>
+
 </dl>
 
 <h5 id="header-5">Choix du widget et ajout des paramètres</h5>
 <dl>
-<dd>Choisir le widget et ajouter les parametres voulus<br/>
+<dd>Choisir le widget et ajouter les parametres voulus</dd><br/>
     <img src="Img/JEEDOM-Lampe-Configuration.png" alt="Configuration"/>
-</dd>
 </dl>
 <h1 id="Add img">Ajout d'image</h1>
 <hr />
@@ -57,7 +56,7 @@ Le nommage des images est normalisé et doit respecter le format suivant :
     <ul>
         <li><b>Image pour la valeur ON</b> : type-ON</li>
         <li><b>Image pour la valeur OFF</b> : type-OFF</li>
-        <li> <i>(remplacer <b>type</b> par le nom de votre image)</i></li>
+        <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
     </ul> 
 </blockquote>
 <hr />
