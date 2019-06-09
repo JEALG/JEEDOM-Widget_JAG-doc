@@ -1,30 +1,37 @@
 ---
 layout: default
-title: JEEDOM-Store_IMG
-description: explication widget Store_IMG
+title: JEEDOM-Luminosite-IMG-Mini--mobile
+description: explication widget Luminosité-IMG-Mini (mobile)
 ---
 [back](./)
-# Widget "Store_IMG" 
+# Widget "Luminosité-IMG-Mini (mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - JEEDOM-Store_IMG.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTA - JEEDOM-Lum_IMG.png" alt="Resultat" /></p>
 
 <h4 id="Taille">Taille des images ou des icônes</h4>
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 90)</i></li>
-            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 90)</i></li>
+            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 30)</i></li>
+            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 30)</i></li>
         </ul>
 </blockquote>
- 
+
+<h4 id="Level">Niveau</h4>
+Il est possible de modifier les niveaux
+<blockquote>
+        <ul>
+            <li><b>level_1</b> : Niveau Bas (nuit) <i>(valeur par défaut : 20)</i></li>
+            <li><b>level_2</b> : Niveau Haut (jour) <i>(valeur par défaut : 100.0)</i></li>
+        </ul>
+</blockquote>
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
             <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
             <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
             <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
-            <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
         </ul>
 </blockquote>
 

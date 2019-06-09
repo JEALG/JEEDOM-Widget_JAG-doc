@@ -36,7 +36,10 @@
 <ul>
     <li><a href="./JEEDOM-Lampe.html">Widget Dashboard : <b>Lampe</b></a></li>
     <li><a href="./JEEDOM-Lampe--MOBILE.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
-    <li><a href="./JEEDOM-Lampe-Binair.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
+    <li><a href="./JEEDOM-Lampe-Binaire.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
+    <li><a href="./JEEDOM-Lum_IMG.html">Widget Dashboard : <b>Luminosité-IMG</b></a></li>
+    <li><a href="./JEEDOM-Lum_IMG_mini.html">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a></li>
+    <li><a href="./JEEDOM-Lum_IMG_mini--MOBILE.html">Widget Dashboard : <b>Luminosité-IMG-Mini (mobile)</b></a></li>
 </ul>
 
 <h1 id="Météo">Météo</h1>

@@ -24,7 +24,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         </ul>
 </blockquote>
 
-<h4 id="TaIlle">Taille des images ou des icônes</h4>
+<h4 id="Taille">Taille des images ou des icônes</h4>
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
