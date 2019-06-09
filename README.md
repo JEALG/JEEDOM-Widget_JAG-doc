@@ -49,6 +49,7 @@
     <li><a href="./JEEDOM-Fenetre-IMG-README.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
     <li><a href="./JEEDOM-Fenetre-IMG--MOBILE-README.html">Widget Mobile : <b>Fenêtre-IMG</b></a></li>
     <li><a href="./JEEDOM-Store-Velux.html">Widget Dashboard : <b>Store-Velux</b></a></li>
+    <li><a href="./JEEDOM-Store-Velux-num.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a></li>
 </ul>
 
 <h1 id="Température">Température</h1>
