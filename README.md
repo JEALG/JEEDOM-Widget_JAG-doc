@@ -48,13 +48,14 @@
 <ul>
     <li><a href="./JEEDOM-Fenetre-IMG-README.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
     <li><a href="./JEEDOM-Fenetre-IMG--MOBILE-README.html">Widget Mobile : <b>Fenêtre-IMG</b></a></li>
-    <li><a href="./JEEDOM-Store_IMG.html">Widget Dashboard : <b>Store_IMG</b></a></li>
-    <li><a href="./JEEDOM-Store-Velux-num.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a></li>
+    <li><a href="./JEEDOM-Store_IMG-README.html">Widget Dashboard : <b>Store_IMG</b></a></li>
+    <li><a href="./JEEDOM-Store-Velux-num-README.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a></li>
 </ul>
 
 <h1 id="Température">Température</h1>
 <ul>
-    
+    <li><a href="./JEEDOM-Thermometre-README.html">Widget Dashboard : <b>Temperature thermometre</b></a></li>
+    <li><a href="./JEEDOM-Thermometre-README.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a></li>
 </ul>
 
 <h1 id="Aide">Aide aux paramétrages</h1>
@@ -64,6 +65,7 @@
     <li><a href="./JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a></li>
     <li><a href="./JEEDOM-AIDE-CONFIG-INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique)</a></li>
     <li><a href="./JEEDOM-AIDE-CONFIG-ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
+    <li><a href="./JEEDOM-AIDE-CONFIG-SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a></li>
 </ul>
 <hr />
 <dl>

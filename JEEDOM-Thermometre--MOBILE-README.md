@@ -1,0 +1,36 @@
+---
+layout: default
+title: JEEDOM-Thermometre--Mobile
+description: explication widget Temperature thermometre (mobile)
+---
+[back](./)
+# Widget "Temperature thermometre (mobile)" 
+
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
+<p><img src="Img/RESULTAT - Temperature thermometre.png" alt="Resultat" /></p>
+
+<h4 id="TaIlle">Affichage de l'historique ou min max sur la gauche</h4>
+<blockquote>
+        <ul>
+            <li><b>min_max</b> : Affiche par défaut le min et max configurer dans l'équipement <i>(valeur par défaut : X)</i></li>
+            <li><b>>min_max</b> : utilise le maxi et le mini de l'historique, <i>la variable doit ête vide</i></li>
+        </ul>
+</blockquote>
+ 
+<h4 id="Aide">Autres paramétrages possible et Aide</h4>
+<blockquote>
+        <ul>
+            <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
+            <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
+        </ul>
+</blockquote>
+
+<hr />
+<dl>
+    <dt>Mise à jour JAG - 20190609<br/>
+    <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+</dl>
+<hr />
+[back](./)
