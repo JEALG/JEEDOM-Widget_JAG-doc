@@ -1,38 +1,22 @@
+
+
 ---
 layout: default
-title: JEEDOM-Store_IMG
-description: explication widget Store_IMG
+title: JEEDOM-Store-Velux-num
+description: explication widget Store-VELUX (numérique)
 ---
 [back](./)
-# Widget "Store_IMG" 
+# Widget "Store-VELUX (numérique) " 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - JEEDOM-Store-Velux.png" alt="Resultat" /></p>
-<blockquote>
-Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
-</blockquote>
-
-<p><img src="Img/VISUEL - JEEDOM-Store-Velux.png" alt="Visuels" /></p>
-
-<h1 id="Type de paramètre">Type de paramètre</h1>
-<hr />
-<h4 id="Logo">Choix de l'icône</h4>
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
-<blockquote>
-        <ul>
-            <li><b>logoClose</b> : Permet de choisir l'image pour la fenêtre fermée <i>(valeur par défaut : BaieClose)</i></li>
-            <li><b>logoClose_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoClose</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-            <li><b>logoOpen</b> : Permet de choisir l'image pour la fenêtre fermée <i>(valeur par défaut : BaieOpen)</i></li>
-            <li><b>logoOpen_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOpen</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-        </ul>
-</blockquote>
+<p><img src="Img/RESULTAT - JEEDOM-Store-Velux-num.png" alt="Resultat" /></p>
 
 <h4 id="TaIlle">Taille des images ou des icônes</h4>
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
-            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
+            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 90)</i></li>
+            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 90)</i></li>
         </ul>
 </blockquote>
  
@@ -57,7 +41,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190609<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Store-Velux/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
