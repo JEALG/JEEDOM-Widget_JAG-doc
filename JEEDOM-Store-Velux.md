@@ -7,7 +7,7 @@ description: explication widget Store_IMG
 # Widget "Store_IMG" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - JEEDOM-Fenetre-IMG.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTAT - JEEDOM-Store-Velux.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 </blockquote>
