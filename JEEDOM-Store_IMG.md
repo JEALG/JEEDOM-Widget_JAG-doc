@@ -1,15 +1,13 @@
-
-
 ---
 layout: default
-title: JEEDOM-Store-Velux-num
-description: explication widget Store-VELUX (numérique)
+title: JEEDOM-Store_IMG
+description: explication widget Store_IMG
 ---
 [back](./)
-# Widget "Store-VELUX (numérique) " 
+# Widget "Store_IMG" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - JEEDOM-Store-Velux-num.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTAT - JEEDOM-Store_IMG" alt="Resultat" /></p>
 
 <h4 id="TaIlle">Taille des images ou des icônes</h4>
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
