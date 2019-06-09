@@ -1,10 +1,10 @@
 ---
 layout: default
-title: JEEDOM-Store-Velux
-description: explication widget Store-Velux
+title: JEEDOM-Store_IMG
+description: explication widget Store_IMG
 ---
 [back](./)
-# Widget "Store-Velux" 
+# Widget "Store_IMG" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="Img/RESULTAT - JEEDOM-Fenetre-IMG.png" alt="Resultat" /></p>
@@ -57,7 +57,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190609<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Fenetre-IMG/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Store-Velux/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />

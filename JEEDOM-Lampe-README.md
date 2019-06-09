@@ -61,17 +61,3 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </dl>
 <hr />
 [back](./)
-
-$.ajax({
- // github_repo_sha qu'on a récupéré dans l'appel ajax précédant
- url: "https://api.github.com/repos/laure-photographies/laure-photographies.github.io/git/trees/"+github_repo_sha,
- success: function(data){
-  
-  // Récupération du sha du dossier img
-  $.each(data.tree,function(){
-   if( this.path == "img"){
-    console.log(this.sha);
-   }
-  });
- }
-});
