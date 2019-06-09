@@ -36,28 +36,15 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
  
-<h4 id="Error">Autres paramétrages possible</h4>
+<h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
+            <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
             <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
             <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
             <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
         </ul>
 </blockquote>
-
-<h1 id="Aide Paramétrage">Aide pour le paramétrage du widget</h1>
-<hr />
-<h5 id="header-5">Paramétrage de l'équipement</h5>
-<dl>
-    <dd>Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF</dd>
-    <img src="Img/JEEDOM-Lampe-Binaire-Acces.png" alt="Access"/>
-</dl>
-
-<h5 id="header-5">Choix du widget et ajout des paramètres</h5>
-<dl>
-    <dd>Choisir le widget et ajouter les parametres voulus</dd>
-    <img src="Img/JEEDOM-Lampe-Binaire-Configuration.png" alt="Configuration"/>
-</dl>
 
 <hr />
 <h3 id="Add img">Ajout d'image</h3>

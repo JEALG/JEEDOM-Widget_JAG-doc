@@ -1,28 +1,24 @@
 ---
 layout: default
-title: JEEDOM-AIDE-CONFIG-INFO
-description: explication Aide pour le paramétrage des widgets de type info (binaire, numérique)
+title: JEEDOM-AIDE-CONFIG-Action
+description: explication Aide pour le paramétrage des widgets de type Action
 ---
 [back](./)
-# Aide pour le paramétrage des widgets de type info (binaire, numérique)
+# Aide pour le paramétrage des widgets de type action
 
 <h4 id="Para">Paramétrage de l'équipement</h4>
 Ici l'exemple d'un équipement fait avec le plugin info; il faut paramétrer les infos suivantes
-<p><img src="Img/AIDE-CONFIG-INFO - 1.png" alt="Aide 1" /></p>
+<p><img src="Img/AIDE-CONFIG-ACTION - 1.png" alt="Aide 1" /></p>
 <blockquote>
         <ul>
-            <li><b>En marron</b> : Nom de la commande</li>
-            <li><b>En rouge</b> :  	Sous-Type</li>
+            <li><b>En marron</b> : Action du widget, il est possible de cocher ou pas <i>Afficher</i> (je conseille de décocher)</li>
+            <li><b>En Bleu</b> :  	les boutons</li>
             <ul>
-                <li>Type : Sélectionner infos</li>
-                <li>Sous-Type : Sélectionner le sous type (dans l'exemple "binaire") cela permettra de choisir le widget dédié</li>
+                <li>Type : Sélectionner action</li>
+                <li>Sous-Type : Sélectionner le sous type voulu</li>
+                <li>Sous les commandes : Il faut absolument sélectionner le nom de l'état pour que le widget fonctionne</li>
+                <li>Roue cranté : permet de choisir le type de widget et les options</li>
             </ul>
-            <li><b>En vert</b> : Options</li>
-            <ul>
-                <li>Afficher : Permet d'afficher l'info sur le dashboard ou sur le mobile</li>
-                <li>Historiser : Permet d'historiser l'équipement</li>
-            </ul>
-            <li><b>En bleu</b> : roue cranté permet de choisir le type de widget et les options</li>
         </ul>
 </blockquote>
 

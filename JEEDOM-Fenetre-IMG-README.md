@@ -9,7 +9,7 @@ description: explication widget Fenêtre-IMG
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="Img/RESULTAT - JEEDOM-Fenetre-IMG.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
+Le widget inclus d'office 77 icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
 <p><img src="Img/VISUEL - JEEDOM-Fenetre-IMG.png" alt="Visuels" /></p>
@@ -20,8 +20,10 @@ Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)</i></li>
-            <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>logoClose</b> : Permet de choisir l'image pour la fenêtre fermée <i>(valeur par défaut : BaieClose)</i></li>
+            <li><b>logoClose_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoClose</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>logoOpen</b> : Permet de choisir l'image pour la fenêtre fermée <i>(valeur par défaut : BaieOpen)</i></li>
+            <li><b>logoOpen_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOpen</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
@@ -34,48 +36,29 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
  
-<h4 id="Error">Autres paramétrages possible</h4>
+<h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
+            <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
             <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
             <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
             <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
         </ul>
 </blockquote>
 
-<h1 id="Aide Paramétrage">Aide pour le paramétrage du widget</h1>
-<hr />
-<h5 id="header-5">Paramétrage de l'équipement</h5>
-<dl>
-    <dd>Cliquez sur la roue crantée à gauche de la commande ON et/ou OFF</dd>
-    <img src="Img/JEEDOM-Lampe-Binaire-Acces.png" alt="Access"/>
-</dl>
-
-<h5 id="header-5">Choix du widget et ajout des paramètres</h5>
-<dl>
-    <dd>Choisir le widget et ajouter les parametres voulus</dd>
-    <img src="Img/JEEDOM-Lampe-Binaire-Configuration.png" alt="Configuration"/>
-</dl>
-
 <hr />
 <h3 id="Add img">Ajout d'image</h3>
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images est normalisé et doit respecter le format suivant :
-        <ul>
-            <li><b>Image pour la valeur ON</b> : type-ON</li>
-            <li><b>Image pour la valeur OFF</b> : type-OFF</li>
-            <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
-        </ul> 
+        Le nommage des images n'est pas normalisé sur ce widget
 </blockquote>
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190608<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Lampe-Binaire/commits/master">Changelog WIDGET</a><br/>
+    <dt>Mise à jour JAG - 20190609<br/>
+    <a href="https://github.com/JEALG/JEEDOM-Fenetre-IMG/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
 [back](./)
-

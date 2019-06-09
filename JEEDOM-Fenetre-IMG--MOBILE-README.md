@@ -1,18 +1,18 @@
 ---
 layout: default
-title: JEEDOM-Capteur-Fuite-Eau--mobile
-description: explication widget Detection Mouvement (mobile) 
+title: JEEDOM-Fenetre-IMG--Mobile
+description: explication widget Fenetre-IMG (mobile)
 ---
 [back](./)
-# Widget "Detection Mouvement (mobile) " 
+# Widget "Fenetre-IMG (mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - JEEDOM-Detection-Mouvement--Mobile.png" alt="Resultat" width="100" height="100"/></p>
+<p><img src="Img/RESULTAT - JEEDOM-Fenetre-IMG.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 2 types d'icônes.
+Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-<p><img src="Img/VISUEL - JEEDOM-Detection-Mouvement.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Fenetre-IMG.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -20,10 +20,10 @@ Le widget inclus d'office 2 types d'icônes.
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : no_detection)</i></li>
-            <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON-M</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : detection)</i></li>
-            <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF-M</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>logoClose-M</b> : Permet de choisir l'image pour la fenêtre fermée <i>(valeur par défaut : BaieClose)</i></li>
+            <li><b>logoClose_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoClose</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>logoOpen-M</b> : Permet de choisir l'image pour la fenêtre fermée <i>(valeur par défaut : BaieOpen)</i></li>
+            <li><b>logoOpen_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOpen</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
@@ -35,7 +35,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 40)</i></li>
         </ul>
 </blockquote>
-
+ 
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
@@ -51,14 +51,14 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images n'est pas normalisé pour ce widget
+        Le nommage des images n'est pas normalisé sur ce widget
 </blockquote>
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190608<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Detection-Mouvement--mobile/commits/master">Chancelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Chancelog DOC</a></dt>
+    <dt>Mise à jour JAG - 20190609<br/>
+    <a href="https://github.com/JEALG/JEEDOM-Fenetre-IMG--Mobile/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
 [back](./)

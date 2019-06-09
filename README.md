@@ -47,6 +47,8 @@
 <h1 id="Ouverture">Ouverture</h1>
 <ul>
     <li><a href="./JEEDOM-Fenetre-IMG-README.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
+    <li><a href="./JEEDOM-Fenetre-IMG--MOBILE-README.html">Widget Mobile : <b>Fenêtre-IMG</b></a></li>
+    <li><a href="./JEEDOM-Store-Velux.html">Widget Dashboard : <b>Store-Velux</b></a></li>
 </ul>
 
 <h1 id="Température">Température</h1>
@@ -58,10 +60,12 @@
 <ul>
     <li><a href="./JEEDOM-AIDE-Error.html">Paramétrage image Erreur</a></li>
     <li><a href="./JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
-    <li><a href="./JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+    <li><a href="./JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a></li>
+    <li><a href="./JEEDOM-AIDE-CONFIG-INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique)</a></li>
+    <li><a href="./JEEDOM-AIDE-CONFIG-ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
 </ul>
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190608<br/>
+    <dt>Mise à jour JAG - 20190609<br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
