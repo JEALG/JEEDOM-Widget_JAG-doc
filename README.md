@@ -2,14 +2,14 @@
 
 <h1 id="Alarme diverse">Alarme diverse</h1>
 <ul>
-    <li><a href="./JEEDOM-Alarme-Activation-README.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
-    <li><a href="./JEEDOM-Alarme-Activation--MOBILE-README.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
-    <li><a href="./JEEDOM-Alarme-Status-README.html">Widget Dashboard : <b>Alarme-Status</b></a></li>
-    <li><a href="./JEEDOM-Alarme-Status--MOBILE-README.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
-    <li><a href="./JEEDOM-Capteur-Fuite-Eau-README.html">Widget Dashboard : <b>Capteur-Fuite-Eau</b></a></li>
-    <li><a href="./JEEDOM-Capteur-Fuite-Eau--MOBILE-README.html">Widget mobile: <b>Capteur-Fuite-Eau</b></a></li>
-    <li><a href="./JEEDOM-Detection-Mouvement-README.html">Widget Dashboard : <b>Detection Mouvement</b></a></li>
-    <li><a href="./JEEDOM-Detection-Mouvement--MOBILE-README.html">Widget Mobile : <b>Detection Mouvement</b></a></li>
+    <li><a href="./JEEDOM-Alarme-Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
+    <li><a href="./JEEDOM-Alarme-Activation--MOBILEE.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
+    <li><a href="./JEEDOM-Alarme-Status.html">Widget Dashboard : <b>Alarme-Status</b></a></li>
+    <li><a href="./JEEDOM-Alarme-Status--MOBILE.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
+    <li><a href="./JEEDOM-Capteur-Fuite-Eau.html">Widget Dashboard : <b>Capteur-Fuite-Eau</b></a></li>
+    <li><a href="./JEEDOM-Capteur-Fuite-Eau--MOBILE.html">Widget mobile: <b>Capteur-Fuite-Eau</b></a></li>
+    <li><a href="./JEEDOM-Detection-Mouvement.html">Widget Dashboard : <b>Detection Mouvement</b></a></li>
+    <li><a href="./JEEDOM-Detection-Mouvement--MOBILE.html">Widget Mobile : <b>Detection Mouvement</b></a></li>
 </ul>
 
 <h1 id="Automatisme">Automatisme</h1>
@@ -19,7 +19,7 @@
 
 <h1 id="Autre">Autre</h1>
 <ul>
-    <li><a href="./JEEDOM-Icon_Mode-README.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
+    <li><a href="./JEEDOM-Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
 </ul>
 
 <h1 id="Energie">Energie</h1>
@@ -34,9 +34,9 @@
 
 <h1 id="Lumière">Lumière</h1>
 <ul>
-    <li><a href="./JEEDOM-Lampe-README.html">Widget Dashboard : <b>Lampe</b></a></li>
-    <li><a href="./JEEDOM-Lampe--MOBILE-README.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
-    <li><a href="./JEEDOM-Lampe-Binaire-README.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
+    <li><a href="./JEEDOM-Lampe.html">Widget Dashboard : <b>Lampe</b></a></li>
+    <li><a href="./JEEDOM-Lampe--MOBILE.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
+    <li><a href="./JEEDOM-Lampe-Binair.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
 </ul>
 
 <h1 id="Météo">Météo</h1>
@@ -46,16 +46,16 @@
 
 <h1 id="Ouverture">Ouverture</h1>
 <ul>
-    <li><a href="./JEEDOM-Fenetre-IMG-README.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
-    <li><a href="./JEEDOM-Fenetre-IMG--MOBILE-README.html">Widget Mobile : <b>Fenêtre-IMG</b></a></li>
-    <li><a href="./JEEDOM-Store_IMG-README.html">Widget Dashboard : <b>Store_IMG</b></a></li>
-    <li><a href="./JEEDOM-Store-Velux-num-README.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a></li>
+    <li><a href="./JEEDOM-Fenetre-IMG.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
+    <li><a href="./JEEDOM-Fenetre-IMG--MOBILE.html">Widget Mobile : <b>Fenêtre-IMG</b></a></li>
+    <li><a href="./JEEDOM-Store_IMG.html">Widget Dashboard : <b>Store_IMG</b></a></li>
+    <li><a href="./JEEDOM-Store-Velux-num.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a></li>
 </ul>
 
 <h1 id="Température">Température</h1>
 <ul>
-    <li><a href="./JEEDOM-Thermometre-README.html">Widget Dashboard : <b>Temperature thermometre</b></a></li>
-    <li><a href="./JEEDOM-Thermometre-README.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a></li>
+    <li><a href="./JEEDOM-Thermometre.html">Widget Dashboard : <b>Temperature thermometre</b></a></li>
+    <li><a href="./JEEDOM-Thermometre.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a></li>
 </ul>
 
 <h1 id="Aide">Aide aux paramétrages</h1>

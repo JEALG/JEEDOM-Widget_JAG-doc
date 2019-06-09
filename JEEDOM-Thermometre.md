@@ -14,7 +14,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
         <ul>
             <li><b>min_max</b> : Affiche par défaut le min et max configurer dans l'équipement <i>(valeur par défaut : X)</i></li>
             <p><img src="Img/JEEDOM-Thermometre--MIN_MAX.png" alt="INFO" /></p>
-            <li><b>>min_max</b> : utilise le maxi et le mini de l'historique, <i>la variable doit ête vide</i></li>
+            <li><b>min_max</b> : utilise le maxi et le mini de l'historique, <i>la variable doit ête vide</i></li>
         </ul>
 </blockquote>
  
@@ -31,7 +31,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190609<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Thermometre/tree/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
