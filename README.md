@@ -46,7 +46,7 @@
 
 <h1 id="Ouverture">Ouverture</h1>
 <ul>
-    
+    <li><a href="./JEEDOM-Fenetre-IMG-README.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
 </ul>
 
 <h1 id="Température">Température</h1>
