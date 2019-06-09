@@ -39,12 +39,15 @@
     <li><a href="./JEEDOM-Lampe-Binaire.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
     <li><a href="./JEEDOM-Lum_IMG.html">Widget Dashboard : <b>Luminosité-IMG</b></a></li>
     <li><a href="./JEEDOM-Lum_IMG_mini.html">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a></li>
-    <li><a href="./JEEDOM-Lum_IMG_mini--MOBILE.html">Widget Dashboard : <b>Luminosité-IMG-Mini (mobile)</b></a></li>
+    <li><a href="./JEEDOM-Lum_IMG_mini--MOBILE.html">Widget Mobile : <b>Luminosité-IMG-Mini (mobile)</b></a></li>
 </ul>
 
 <h1 id="Météo">Météo</h1>
 <ul>
-    
+    <li><a href="./JEEDOM-Fenetre-IMG.html">Widget Dashboard : <b>Baromètre</b></a></li>
+    <li><a href="./JEEDOM-Fenetre-IMG--MOBILE.html">Widget Dashboard : <b>Biroute - vent</b></a></li>
+    <li><a href="./JEEDOM-Store_IMG.html">Widget Dashboard : <b>Point de rosée</b></a></li>
+    <li><a href="./JEEDOM-Tendance-Baro.html">Widget Dashboard : <b>Tendance-Baro</b></a></li>
 </ul>
 
 <h1 id="Ouverture">Ouverture</h1>

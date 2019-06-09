@@ -1,20 +1,31 @@
 ---
 layout: default
-title: JEEDOM-Luminosite-IMG-Mini--mobile
-description: explication widget Luminosité-IMG-Mini (mobile)
+title: JEEDOM-Tendance-Baro
+description: explication widget Luminosité-IMG-Mini
 ---
 [back](./)
-# Widget "Luminosité-IMG-Mini (mobile)" 
+# Widget "Tendance-Baro" 
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT%20-%20JEEDOM-Lum_IMG.png" alt="Resultat" /></p>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type
+<p><img src="Img/RESULTAT%20-%20JEEDOM-Tendance-Baro.png" alt="Resultat" /></p>
+
+<h1 id="Type de paramètre">Type de paramètre</h1>
+<hr />
+<h4 id="Logo">Choix de l'icône</h4>
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+<blockquote>
+        <ul>
+            <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)</i></li>
+            <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+        </ul>
+</blockquote>
 
 <h4 id="Taille">Taille des images ou des icônes</h4>
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 30)</i></li>
-            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 30)</i></li>
+            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 70)</i></li>
+            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 70)</i></li>
         </ul>
 </blockquote>
 
@@ -32,6 +43,7 @@ Il est possible de modifier les niveaux
             <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
             <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
             <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
+            <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
         </ul>
 </blockquote>
 
@@ -46,7 +58,7 @@ Il est possible de modifier les niveaux
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190609<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
