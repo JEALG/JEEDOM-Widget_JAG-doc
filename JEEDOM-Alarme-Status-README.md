@@ -7,12 +7,12 @@ description: explication widget Alarme-Status
 # Widget "Alarme-Status" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/JEEDOM-Alarme-Activation-Resultat.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTAT - JEEDOM-Alarme-Activation.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus d'office 14 types d'icônes.
 </blockquote>
 
-<p><img src="Img/JEEDOM-Alarme.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Alarme.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />

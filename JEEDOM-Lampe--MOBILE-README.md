@@ -7,11 +7,11 @@ description: Explication widget Lampe (mobile)
 # Widget "Lampe (mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
-<p><img src="Img/JEEDOM-Lampe--mobile-Resultat.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTAT - JEEDOM-Lampe--mobile.png" alt="Resultat" /></p>
 <blockquote>
     Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 </blockquote>
-<p><img src="Img/JEEDOM-Lampe-Visuel.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Lampe.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />

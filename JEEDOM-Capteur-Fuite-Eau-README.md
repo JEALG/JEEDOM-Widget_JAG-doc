@@ -7,12 +7,12 @@ description: explication widget Capteur-Fuite-Eau
 # Widget "Capteur-Fuite-Eau" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/JEEDOM-Capteur-Fuite-Eau_Resultat.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTAT - JEEDOM-Capteur-Fuite-Eau.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus d'office 6 types d'icônes.
 </blockquote>
 
-<p><img src="Img/JEEDOM-Capteur-Fuite-Eau.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Capteur-Fuite-Eau.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />

@@ -7,12 +7,12 @@ description: explication widget Lampe-Binaire
 # Widget "Lampe-Binaire" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/JEEDOM-Lampe-Binaire-Resultat.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTAT - JEEDOM-Lampe-Binaire.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-<p><img src="Img/JEEDOM-Lampe-Visuel.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Lampe-Binaire.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />

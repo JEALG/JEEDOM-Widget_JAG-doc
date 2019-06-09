@@ -7,12 +7,12 @@ description: explication widget Detection Mouvement (mobile)
 # Widget "Detection Mouvement (mobile) " 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/JEEDOM-Detection-Mouvement--Mobile-Resultat.png" alt="Resultat" width="100" height="100"/></p>
+<p><img src="Img/RESULTAT - JEEDOM-Detection-Mouvement--Mobile.png" alt="Resultat" width="100" height="100"/></p>
 <blockquote>
 Le widget inclus d'office 2 types d'icônes.
 </blockquote>
 
-<p><img src="Img/JEEDOM-Detection-Mouvement.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Detection-Mouvement.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
