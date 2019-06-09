@@ -29,14 +29,6 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-<h4 id="Level">Niveau</h4>
-Il est possible de modifier les niveaux
-<blockquote>
-        <ul>
-            <li><b>level_1</b> : Niveau Bas (nuit) <i>(valeur par défaut : 20)</i></li>
-            <li><b>level_2</b> : Niveau Haut (jour) <i>(valeur par défaut : 100.0)</i></li>
-        </ul>
-</blockquote>
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
