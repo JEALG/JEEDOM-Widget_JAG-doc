@@ -53,7 +53,7 @@
 <h1 id="Ouverture">Ouverture</h1>
 <ul>
     <li><a href="./JEEDOM-Fenetre-IMG.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
-    <li><a href="./JEEDOM-Fenetre-IMG--MOBILE.html">Widget Mobile : <b>Fenêtre-IMG</b></a></li>
+    <li><a href="./JEEDOM-Fenetre-IMG--MOBILE.html">Widget Mobile : <b>Fenetre-IMG (mobile)</b></a></li>
     <li><a href="./JEEDOM-Store_IMG.html">Widget Dashboard : <b>Store_IMG</b></a></li>
     <li><a href="./JEEDOM-Store-Velux-num.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a></li>
 </ul>
@@ -73,7 +73,7 @@
     <li><a href="./JEEDOM-AIDE-CONFIG-ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
     <li><a href="./JEEDOM-AIDE-CONFIG-SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a></li>
     <li><a href="./JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
-    <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+        <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </ul>
 <hr />
 <dl>
