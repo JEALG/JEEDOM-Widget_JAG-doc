@@ -44,9 +44,9 @@
 
 <h1 id="Météo">Météo</h1>
 <ul>
-    <li><a href="./JEEDOM-Fenetre-IMG.html">Widget Dashboard : <b>Baromètre</b></a></li>
+    <li><a href="./JEEDOM-Barometre.html">Widget Dashboard : <b>Baromètre</b></a></li>
     <li><a href="./JEEDOM-Biroute_vent.html">Widget Dashboard : <b>Biroute - vent</b></a></li>
-    <li><a href="./JEEDOM-Store_IMG.html">Widget Dashboard : <b>Point de rosée</b></a></li>
+    <li><a href="./JEEDOM-Point-rosee.html">Widget Dashboard : <b>Point de rosée</b></a></li>
     <li><a href="./JEEDOM-Tendance-Baro.html">Widget Dashboard : <b>Tendance-Baro</b></a></li>
 </ul>
 
