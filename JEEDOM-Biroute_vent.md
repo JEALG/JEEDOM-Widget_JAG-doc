@@ -1,21 +1,22 @@
 ---
 layout: default
-title: JEEDOM-Thermometre
-description: explication widget Temperature thermometre
+title: JEEDOM-Biroute_vent
+description: explication widget Biroute - vent
 ---
 [back](./)
-# Widget "Temperature thermometre" 
+# Widget "Biroute - vent" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - Temperature thermometre.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTAT - JEEDOM-Biroute_vent.png" alt="Resultat" /></p>
 
-<h4 id="TaIlle">Affichage de l'historique ou min max sur la gauche</h4>
+<h4 id="Taille">Taille des images ou des icônes</h4>
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>min_max-M</b> : Affiche par défaut le min et max configurer dans l'équipement <i>(valeur par défaut : X)</i></li>
-            <p><img src="Img/JEEDOM-Thermometre--MIN_MAX.png" alt="INFO" /></p>
-            <li><b>min_max_M</b> : utilise le maxi et le mini de l'historique, <i>la variable doit ête vide</i></li>
+            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
+            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
         </ul>
+</blockquote>
 </blockquote>
  
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
