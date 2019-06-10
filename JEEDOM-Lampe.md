@@ -52,11 +52,12 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><b>Image pour la valeur OFF</b> : type-OFF</li>
             <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
         </ul>
+    <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </blockquote>
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190608<br/>
+    <dt>Mise à jour JAG - 20190610<br/>
     <a href="https://github.com/JEALG/JEEDOM-Lampe/commits/master">Changelog WIDGET</a>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>

@@ -51,11 +51,12 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
             <li><i>Remplacer <b>x</b> par le niveau (Valeur possible : 0, 10, 20, 30, 40, 50, 60, 70, 80, 99)</i></li>
         </ul> 
+    <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </blockquote>
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190609<br/>
+    <dt>Mise à jour JAG - 20190610<br/>
     <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
