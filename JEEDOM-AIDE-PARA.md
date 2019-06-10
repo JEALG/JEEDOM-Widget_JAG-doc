@@ -7,7 +7,7 @@ description: explication Ajout paramétrage
 # Comment ajouter des paramétres
 
 <h4 id="Error">Ajout des paramétres</h4>
-Pour ajouterles paramétres, il faut se rendre dans le menu de la configuration de la commande
+Pour ajouter les paramétres, il faut se rendre dans le menu de la configuration de la commande
 <p><img src="Img/AIDE-CONFIG-SIZE%203.png" alt="Error" /></p>
 
 <blockquote>

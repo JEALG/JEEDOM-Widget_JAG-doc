@@ -30,7 +30,7 @@ description: explication Modification size Texte
 </blockquote>
 
 
-<h4 id="Error">Info importante</i></h4>
+<h4 id="Error">Info importante</h4>
 <blockquote>
         <ul>
 A la date d'écriture de la documentation, ce paramétrage ne fonctionne pas sur le Core V4
