@@ -1,0 +1,25 @@
+---
+layout: default
+title: JEEDOM-AIDE Ajouter des images
+description: explication Ajout image
+---
+[back](./)
+# Ajouter des images dans un widget
+<blockquote>
+    Il est possible d'ajouter des images dans un widget <i>Celle-ci ne sera pas effacer à la mise à jour du widget</i>
+    <ul>
+        <li>Il faut ce rendre dans le plugin Widget et sélectionner le widget voulu et cliquer sur <i><b>Fichiers</b></i></li>
+    </ul>
+    <p><img src="Img/AIDE-ADD_IMG%20-%201.png" alt="IMG 1" /></p>
+    <ul>
+        <li>Cliquez sur <i><b>Parcourir et sélectionner les images voulu</b></i></li>
+    </ul>
+    <p><img src="Img/AIDE-ADD_IMG%20-%202.png" alt="IMG 2" /></p>   
+</blockquote>
+
+<dl>
+    <dt>Mise à jour JAG - 20190609<br/>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+</dl>
+<hr />
+[back](./)

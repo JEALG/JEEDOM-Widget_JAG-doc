@@ -9,7 +9,7 @@ description: explication widget Fenetre-IMG (mobile)
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="Img/RESULTAT - JEEDOM-Fenetre-IMG.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 75 icônes. Il est possible d'ajouter ses propres icônes.
+Le widget inclus d'office 77 icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
 <p><img src="Img/VISUEL - JEEDOM-Fenetre-IMG.png" alt="Visuels" /></p>
