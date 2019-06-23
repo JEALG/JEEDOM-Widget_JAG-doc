@@ -14,6 +14,14 @@ Le widget inclus d'office 9 icônes. Il est possible d'ajouter ses propres icôn
 
 <p><img src="Img/JEEDOM-Lampe-Visuel.png" alt="Visuels" /></p>
 
+<h1 id="Merci">Merci</h1>
+<blockquote>
+        <ul>
+            <li>Merci @Salviaf pour l'affichafe de la durée </li>
+            <li>Merci @Nicoraptor pour le code pour récupérer valeur Mode</li>
+        </ul>
+</blockquote>
+
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
@@ -32,6 +40,14 @@ Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les varia
         <ul>
             <li><b>modex</b> : Valeur du mode</li>
             <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
+        </ul>
+</blockquote>
+
+<h4 id="Dossier">Sous dossier</h4>
+Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
+<blockquote>
+        <ul>
+            <li><b>dossier</b> : Nom du dossier (Par défaut aucune valeur)</li>
         </ul>
 </blockquote>
 
