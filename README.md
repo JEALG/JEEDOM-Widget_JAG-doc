@@ -3,7 +3,7 @@
 <h1 id="Alarme diverse">Alarme diverse</h1>
 <ul>
     <li><a href="./JEEDOM-Alarme-Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
-    <li><a href="./JEEDOM-Alarme-Activation--MOBILEE.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
+    <li><a href="./JEEDOM-Alarme-Activation--MOBILE.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
     <li><a href="./JEEDOM-Alarme-Status.html">Widget Dashboard : <b>Alarme-Status</b></a></li>
     <li><a href="./JEEDOM-Alarme-Status--MOBILE.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
     <li><a href="./JEEDOM-Capteur-Fuite-Eau.html">Widget Dashboard : <b>Capteur-Fuite-Eau</b></a></li>
