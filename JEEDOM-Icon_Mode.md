@@ -7,7 +7,7 @@ description: explication widget Icon_Mode
 # Widget "Icon_Mode" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
-<p><img src="Img/RESULTAT - JEEDOM-Lampe-Binaire-Resultat.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTAT%20-%20JEEDOM-Icon_Mode.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus d'office 9 icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
@@ -17,7 +17,7 @@ Le widget inclus d'office 9 icônes. Il est possible d'ajouter ses propres icôn
 <h1 id="Merci">Merci</h1>
 <blockquote>
         <ul>
-            <li>Merci @Salviaf pour l'affichafe de la durée </li>
+            <li>Merci @Salviaf pour l'affichage de la durée </li>
             <li>Merci @Nicoraptor pour le code pour récupérer valeur Mode</li>
         </ul>
 </blockquote>
@@ -28,7 +28,7 @@ Le widget inclus d'office 9 icônes. Il est possible d'ajouter ses propres icôn
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logox</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)</i></li>
+            <li><b>logox</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : mode<b>x</b>)</i></li>
             <li><b>logo_typex</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
             <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
         </ul>
