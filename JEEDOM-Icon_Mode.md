@@ -6,10 +6,10 @@ description: explication widget Icon_Mode
 [back](./)
 # Widget "Icon_Mode" 
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
+Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
 <p><img src="Img/RESULTAT - JEEDOM-Lampe-Binaire-Resultat.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
+Le widget inclus d'office 9 icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
 <p><img src="Img/JEEDOM-Lampe-Visuel.png" alt="Visuels" /></p>
@@ -20,8 +20,18 @@ Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)</i></li>
-            <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>logox</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)</i></li>
+            <li><b>logo_typex</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
+        </ul>
+</blockquote>
+
+<h4 id="Logo">Valeur du mode</h4>
+Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les variables
+<blockquote>
+        <ul>
+            <li><b>modex</b> : Valeur du mode</li>
+            <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
         </ul>
 </blockquote>
 
@@ -45,23 +55,11 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-<hr />
-<h3 id="Add img">Ajout d'image</h3>
-<hr />
-<blockquote>
-        Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images est normalisé et doit respecter le format suivant :
-        <ul>
-            <li><b>Image pour la valeur ON</b> : type-ON</li>
-            <li><b>Image pour la valeur OFF</b> : type-OFF</li>
-            <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
-        </ul>
-        <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
-</blockquote>
+
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190610<br/>
+    <dt>Mise à jour JAG - 20190623<br/>
     <a href="https://github.com/JEALG/JEEDOM-Lampe-Binaire/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
