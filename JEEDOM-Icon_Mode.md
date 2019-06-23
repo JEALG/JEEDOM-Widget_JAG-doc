@@ -12,7 +12,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info text
 Le widget inclus d'office 9 icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-<p><img src="Img/JEEDOM-Lampe-Visuel.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL%20-%20JEEDOM-Icon_Mode.png" alt="Visuels" /></p>
 
 <h1 id="Merci">Merci</h1>
 <blockquote>
