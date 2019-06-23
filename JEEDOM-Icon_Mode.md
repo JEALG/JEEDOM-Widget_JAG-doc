@@ -9,7 +9,7 @@ description: explication widget Icon_Mode
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
 <p><img src="Img/RESULTAT%20-%20JEEDOM-Icon_Mode.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 9 icônes. Il est possible d'ajouter ses propres icônes.
+Le widget inclus d'office 11 icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
 <p><img src="Img/VISUEL%20-%20JEEDOM-Icon_Mode.png" alt="Visuels" /></p>
