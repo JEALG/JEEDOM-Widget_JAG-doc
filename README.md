@@ -80,7 +80,7 @@
     <li><a href="./JEEDOM-AIDE-CONFIG-ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
     <li><a href="./JEEDOM-AIDE-CONFIG-SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a></li>
     <li><a href="./JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
-        <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+    <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </ul>
 <hr />
 <dl>
