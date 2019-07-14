@@ -7,12 +7,8 @@ description: explication Store-banne
 # Widget "Store-banne" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT%20-%20JEEDOM-Batterie-EeDomus.png" alt="Resultat" /></p>
-<blockquote>
-Le widget inclus d'office 1 type d'icônes.
-</blockquote>
+<p><img src="Img/RESULTAT%20-%20JEEDOM-Store-banne.png" alt="Resultat" /></p>
 
-<p><img src="Img/VISUEL%20-%20JEEDOM-Batterie-EeDomus.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />

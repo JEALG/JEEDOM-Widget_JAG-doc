@@ -29,6 +29,15 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
+            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 65)</i></li>
+            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 30)</i></li>
+        </ul>
+</blockquote>
+
+<h4 id="Niveau">Paramétrage des Niveau</h4>
+Il est possible de personnaliser les niveaux :
+<blockquote>
+        <ul>
             <li><b>level_0</b> : Niveau 0 <i>(valeur par défaut : 0)</i></li>
             <li><b>level_20</b> : Niveau 20 <i>(valeur par défaut : 20)</i></li>
             <li><b>level_40</b> : Niveau 40 <i>(valeur par défaut : 40)</i></li>
@@ -37,16 +46,6 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><b>level_100</b> : Niveau 100 <i>(valeur par défaut : 100)</i></li>
         </ul>
 </blockquote>
-
-<h4 id="Niveau">Paramétrage des Niveau</h4>
-Il est possible de personnaliser les niveaux :
-<blockquote>
-        <ul>
-            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 65)</i></li>
-            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 30)</i></li>
-        </ul>
-</blockquote>
-
 
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
@@ -67,7 +66,7 @@ Il est possible de personnaliser les niveaux :
         Le nommage des images est normalisé et doit respecter le format suivant :
         <ul>
             <li><b>Image pour la valeur pour le niveau</b> : battery_Niveau</li>
-            <li><i>Remplacer <b>Niveau</b> par la valeur 0 ou 20 ou 40 ou 60 ou 80 0u 100</i></li>
+            <li><i>Remplacer <b>Niveau</b> par la valeur 0 ou 20 ou 40 ou 60 ou 80 ou 100</i></li>
         </ul>
         <ul>
             <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
