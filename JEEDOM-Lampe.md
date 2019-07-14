@@ -52,7 +52,10 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><b>Image pour la valeur OFF</b> : type-OFF</li>
             <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
         </ul>
-    <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+        <ul>
+            <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+        </ul>
+    
 </blockquote>
 
 <hr />

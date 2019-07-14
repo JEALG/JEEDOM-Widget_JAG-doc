@@ -69,7 +69,9 @@ Il est possible de personnaliser les niveaux :
             <li><b>Image pour la valeur pour le niveau</b> : battery_Niveau</li>
             <li><i>Remplacer <b>Niveau</b> par la valeur 0 ou 20 ou 40 ou 60 ou 80 0u 100</i></li>
         </ul>
-    <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+        <ul>
+            <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+        </ul>   
 </blockquote>
 
 <hr />

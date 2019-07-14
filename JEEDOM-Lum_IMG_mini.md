@@ -37,14 +37,6 @@ Il est possible de modifier les niveaux
 </blockquote>
 
 <hr />
-<h3 id="Add img">Ajout d'image</h3>
-<hr />
-<blockquote>
-        Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images n'est pas normalisé sur ce widget
-</blockquote>
-
-<hr />
 <dl>
     <dt>Mise à jour JAG - 20190609<br/>
     <a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini/commits/master">Changelog WIDGET</a><br/>
