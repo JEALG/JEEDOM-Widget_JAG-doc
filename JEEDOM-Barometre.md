@@ -23,11 +23,11 @@ Il est possible de déplacer la légende
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = A droite <i>(valeur par défaut)</i></li>
-            <p><img src="Img/RESULTAT%20-%20JEEDOM-Barometre.png" alt="Resultat" /></p>
+            <p><img src="Img/RESULTAT%20-%20JEEDOM-Barometre.png" alt="Resultat - Droite" /></p>
             <li><b>leg_pos</b> = left</li>
-            <p><img src="Img/RESULTAT%20-%20JEEDOM-Barometre - left.png" alt="Resultat" /></p>
+            <p><img src="Img/RESULTAT - JEEDOM-Barometre - Left.png" alt="Resultat - Gauche" /></p>
             <li><b>leg_pos</b> = low</li>
-            <p><img src="Img/RESULTAT%20-%20JEEDOM-Barometre - low.png" alt="Resultat" /></p>
+            <p><img src="Img/RESULTAT - JEEDOM-Barometre - Low.png" alt="Resultat - Bas" /></p>
         </ul>
 </blockquote>
  
