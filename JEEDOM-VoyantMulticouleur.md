@@ -65,7 +65,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 <hr />
-<h4 id="Add img">Ajout d'image</h1>
+<h3 id="Add img">Ajout d'image</h3>
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>

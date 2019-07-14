@@ -59,7 +59,7 @@ Il est possible de personnaliser les niveaux :
 </blockquote>
 
 <hr />
-<h4 id="Add img">Ajout d'image</h1>
+<h3 id="Add img">Ajout d'image</h3>
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
