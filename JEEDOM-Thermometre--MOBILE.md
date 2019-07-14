@@ -6,7 +6,7 @@ description: explication widget Temperature thermometre (mobile)
 [back](./)
 # Widget "Temperature thermometre (mobile)" 
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="Img/RESULTAT - Temperature thermometre.png" alt="Resultat" /></p>
 
 <h4 id="TaIlle">Affichage de l'historique ou min max sur la gauche</h4>

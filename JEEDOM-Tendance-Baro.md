@@ -6,7 +6,7 @@ description: explication widget Luminosité-IMG-Mini
 [back](./)
 # Widget "Tendance-Baro" 
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="Img/RESULTAT%20-%20JEEDOM-Tendance-Baro.png" alt="Resultat" /></p>
 
 <h4 id="Taille">Taille des images ou des icônes</h4>

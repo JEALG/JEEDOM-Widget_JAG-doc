@@ -35,7 +35,8 @@
 
 <h1 id="Humidité">Humidité</h1>
 <ul>
-    
+    <li><a href="./JEEDOM-Humidite-Goutte_eau.html">Widget Dashboard : <b>Humidite-Goutte_eau</b></a></li>
+    <li><a href="./JEEDOM-Humidite-Goutte_eau--Mobile.html">Widget mobile : <b>Humidite-Goutte_eau (mobile)</b></a></li>  
 </ul>
 
 <h1 id="Lumière">Lumière</h1>

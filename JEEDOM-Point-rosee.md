@@ -6,7 +6,7 @@ description: explication widget Point de rosée
 [back](./)
 # Widget "Point de rosée" 
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="Img/RESULTAT%20-%20JEEDOM-Point-rosee.png" alt="Resultat" /></p>
 
 <h4 id="Taille">Taille des images ou des icônes</h4>
