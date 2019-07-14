@@ -74,8 +74,7 @@ Il est possible de personnaliser les niveaux :
         </ul>
         <ul>
             <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
-        </ul>
-    
+        </ul> 
 </blockquote>
 
 <hr />
