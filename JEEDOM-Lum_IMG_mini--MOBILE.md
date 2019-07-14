@@ -40,7 +40,7 @@ Il est possible de modifier les niveaux
 
 <dl>
     <dt>Mise à jour JAG - 20190609<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Lum_IMG_mini--MOBILE/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini--mobile/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
