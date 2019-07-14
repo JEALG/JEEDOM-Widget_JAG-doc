@@ -22,6 +22,13 @@ Le widget inclus d'office 11 icônes. Il est possible d'ajouter ses propres icô
         </ul>
 </blockquote>
 
+<h1 id="Info">Info importante</h1>
+<blockquote>
+        <ul>
+            A la date d'écriture de cette documentation, le widget n'est pas compatible avec la version du core V4
+        </ul>
+</blockquote>
+
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
