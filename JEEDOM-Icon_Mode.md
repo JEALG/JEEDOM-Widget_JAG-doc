@@ -84,9 +84,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190623<br/>
+    <dt>Mise à jour JAG - 20190623<br/></dt>
     <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET</a><br/></li>
-    <li><a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt></li>
+    <li><a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></li>
 </dl>
 <hr />
 [back](./)
