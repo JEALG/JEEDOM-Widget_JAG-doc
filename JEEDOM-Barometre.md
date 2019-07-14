@@ -44,7 +44,7 @@ Il est possible de déplacer la légende
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190609<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Barometre/tree/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Barometre/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />

@@ -24,7 +24,12 @@
 
 <h1 id="Energie">Energie</h1>
 <ul>
-    
+    <li><a href="./JEEDOM-Batterie-EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a></li>
+    <li><a href="./JEEDOM-Batterie-telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a></li>
+    <li><a href="./JEEDOM-Chaudiere-Activation.html">Widget Dashboard : <b>Chaudiere-Activation</b></a></li>
+    <li><a href="./JEEDOM-Chaudiere-Etat.html">Widget Dashboard : <b>Chaudiere-Etat</b></a></li>
+    <li><a href="./JEEDOM-Lum_IMG_mini.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
+    <li><a href="./JEEDOM-Lum_IMG_mini--MOBILE.html">Widget Mobile : <b>Legrand Prise Celiane (mobile)</b></a></li>    
 </ul>
 
 <h1 id="Humidité">Humidité</h1>
