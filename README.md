@@ -15,7 +15,7 @@
 <h1 id="Automatisme">Automatisme</h1>
 <ul>
     <li><a href="./JEEDOM-VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a></li>
-    <li><a href="./JEEDOM-VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a></li>  
+    <li><a href="./JEEDOM-Store-banne.html">Widget Dashboard : <b>Store-banne</b></a></li>  
 </ul>
 
 <h1 id="Autre">Autre</h1>
