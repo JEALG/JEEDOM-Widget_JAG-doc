@@ -28,8 +28,8 @@
     <li><a href="./JEEDOM-Batterie-telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a></li>
     <li><a href="./JEEDOM-Chaudiere-Activation.html">Widget Dashboard : <b>Chaudiere-Activation</b></a></li>
     <li><a href="./JEEDOM-Chaudiere-Etat.html">Widget Dashboard : <b>Chaudiere-Etat</b></a></li>
-    <li><a href="./JEEDOM-Lum_IMG_mini.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
-    <li><a href="./JEEDOM-Lum_IMG_mini--MOBILE.html">Widget Mobile : <b>Legrand Prise Celiane (mobile)</b></a></li>    
+    <li><a href="./JEEDOM-Fibaro-WallPlug.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
+    <li><a href="./JEEDOM-Legrand-Prise-Celiane--mobile.html">Widget Mobile : <b>Legrand Prise Celiane (mobile)</b></a></li>    
 </ul>
 
 <h1 id="Humidité">Humidité</h1>
@@ -82,6 +82,6 @@
 </ul>
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190609<br/>
+    <dt>Mise à jour JAG - 20190714<br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
