@@ -67,7 +67,7 @@
 <h1 id="Température">Température</h1>
 <ul>
     <li><a href="./JEEDOM-Thermometre.html">Widget Dashboard : <b>Temperature thermometre</b></a></li>
-    <li><a href="./JEEDOM-Thermometre.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a></li>
+    <li><a href="./JEEDOM-Thermometre--MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a></li>
 </ul>
 
 <h1 id="Aide">Aide aux paramétrages</h1>

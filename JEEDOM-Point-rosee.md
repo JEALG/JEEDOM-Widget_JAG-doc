@@ -24,9 +24,9 @@ Il est possible de déplacer la légende
         <ul>
             <li><b>leg_pos</b> : A droite <i>(valeur par défaut)</i></li>
             <p><img src="Img/RESULTAT%20-%20JEEDOM-Point-rosee.png" alt="Resultat" /></p>
-            <li><b>leg_pos = left</b>/i></li>
+            <li><b>leg_pos = left</b></i></li>
             <p><img src="Img/RESULTAT%20-%20JEEDOM-Point-rosee - left.png" alt="Resultat" /></p>
-            <li><b>leg_pos = low</b>/i></li>
+            <li><b>leg_pos = low</b></i></li>
             <p><img src="Img/RESULTAT%20-%20JEEDOM-Point-rosee - low.png" alt="Resultat" /></p>
         </ul>
 </blockquote>
@@ -44,7 +44,7 @@ Il est possible de déplacer la légende
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190609<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Point-rosee/tree/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Point-rosee/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
