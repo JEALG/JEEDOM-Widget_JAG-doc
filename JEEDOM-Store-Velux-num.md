@@ -9,6 +9,9 @@ description: explication widget Store-VELUX (numérique)
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="Img/RESULTAT%20-%20JEEDOM-Store-Velux-num.png" alt="Resultat" /></p>
 
+</blockquote>
+<p><img src="Img/VISUEL%20-%20JEEDOM-Store-Velux-num.png" alt="Visuels" /></p>
+
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
@@ -26,6 +29,24 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         <ul>
             <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 90)</i></li>
             <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 90)</i></li>
+        </ul>
+</blockquote>
+
+<h4 id="Niveau">Paramétrage des Niveau</h4>
+Il est possible de personnaliser les niveaux :
+<blockquote>
+        <ul>
+            <li><b>level_0</b> : Niveau 0 <i>(valeur par défaut : 0) </i></li>
+            <li><b>level_1</b> : Niveau 1 <i>(valeur par défaut : 17)</i></li>
+            <li><b>level_2</b> : Niveau 2 <i>(valeur par défaut : 35)</i></li>
+            <li><b>level_3</b> : Niveau 3 <i>(valeur par défaut : 45)</i></li>
+            <li><b>level_4</b> : Niveau 4 <i>(valeur par défaut : 55)</i></li>
+            <li><b>level_5</b> : Niveau 5 <i>(valeur par défaut : 63)</i></li>
+            <li><b>level_6</b> : Niveau 6 <i>(valeur par défaut : 73)</i></li>
+            <li><b>level_7</b> : Niveau 7 <i>(valeur par défaut : 84)</i></li>
+            <li><b>level_8</b> : Niveau 8 <i>(valeur par défaut : 92)</i></li>
+            <li><b>level_9</b> : Niveau 9 <i>(valeur par défaut : 95)</i></li>
+            <li><b>level_10</b> : Niveau 10 <i>(valeur par défaut : 100)</i></li>
         </ul>
 </blockquote>
  
@@ -49,8 +70,22 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         <ul>
             <li><b>Image</b> : type-x</li>
             <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
-            <li><i>Remplacer <b>x</b> par le niveau (Valeur possible : 0, 10, 20, 30, 40, 50, 60, 70, 80, 99)</i></li>
-        </ul> 
+            <li><i>Remplacer <b>x</b> par le niveau (Valeur possible : 0, 1, 10, 20, 30, 40, 50, 60, 70, 80, 99)</i></li>
+        </ul>
+        Les images en fonction des niveaux
+        <ul>
+            <li><b>Niveau = level_0</b> : Store-0</li>
+            <li><b>Niveau > level_0 et Niveau ≤ Level_1</b> : Store-1</li>
+            <li><b>Niveau > level_1 et Niveau ≤ Level_2</b> : Store-10</li>
+            <li><b>Niveau > level_2 et Niveau ≤ Level_3</b> : Store-20</li>
+            <li><b>Niveau > level_3 et Niveau ≤ Level_4</b> : Store-30</li>
+            <li><b>Niveau > level_4 et Niveau ≤ Level_5</b> : Store-40</li>
+            <li><b>Niveau > level_5 et Niveau ≤ Level_6</b> : Store-50</li>
+            <li><b>Niveau > level_6 et Niveau ≤ Level_7</b> : Store-60</li>
+            <li><b>Niveau > level_7 et Niveau ≤ Level_8</b> : Store-70</li>
+            <li><b>Niveau > level_8 et Niveau ≤ Level_9</b> : Store-80</li>
+            <li><b>Niveau > level_9 et Niveau ≤ Level_10</b> : Store-99</li>
+        </ul>  
     <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </blockquote>
 
