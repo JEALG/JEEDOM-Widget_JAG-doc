@@ -10,7 +10,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <p><img src="Img/RESULTAT%20-%20JEEDOM-Store-Velux-num.png" alt="Resultat" /></p>
 
 
-<p><img src="Img/VISUEL%20-%20JEEDOM-Store-Velux-num.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Store-Velux-num.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
