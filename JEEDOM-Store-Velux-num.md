@@ -36,9 +36,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 Il est possible de masquer la valeur de l'ouverture :
 <blockquote>
         <ul>
-            <li><b>masque_valeur</b> : Permet de masquer la valeur <i>(valeur par défaut :)</i></li>
-            <li>variable avec aucune valeur ne masque pas la valeur <i>(valeur par défaut)</i></li>
-            <li>variable avec la valeur <b>X</b> masque la valeur</li>
+            <li><b>masque_valeur</b> : Permet de masquer la valeur <i>(valeur par défaut :NO)</i></li>
+            <li>variable avec la valeur <b>NO</b> ne masque pas la valeur <i>(valeur par défaut)</i></li>
+            <li>variable avec la valeur <b>YES</b> masque la valeur</li>
         </ul>
 </blockquote>
 
