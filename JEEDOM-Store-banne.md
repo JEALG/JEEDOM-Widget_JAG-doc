@@ -30,7 +30,17 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-<h4 id="Niveau">Ivsersion sens image</h4>
+<h4 id="Masque">Masquer la valeur</h4>
+Il est possible de masquer la valeur de l'ouverture :
+<blockquote>
+        <ul>
+            <li><b>masque_valeur</b> : Permet de masquer la valeur <i>(valeur par défaut :NO)</i></li>
+            <li>variable avec la valeur <b>NO</b> ne masque pas la valeur <i>(valeur par défaut)</i></li>
+            <li>variable avec la valeur <b>YES</b> masque la valeur</li>
+        </ul>
+</blockquote>
+
+<h4 id="Niveau">Inversion sens image</h4>
 Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le sens 
 <blockquote>
         <ul>
