@@ -27,6 +27,16 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
+            <li><b>masque_valeur</b> : Permet de masquer la valeur <i>(valeur par défaut :)</i></li>
+            <li>variable avec aucune valeur ne masque pas la valeur <i>(valeur par défaut)</i></li>
+            <li>variable avec la valeur <b>X</b> masque la valeur</li>
+        </ul>
+</blockquote>
+
+<h4 id="Masque">Masquer la valeur</h4>
+Il est possible de masquer la valeur de l'ouverture
+<blockquote>
+        <ul>
             <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 90)</i></li>
             <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 90)</i></li>
         </ul>
