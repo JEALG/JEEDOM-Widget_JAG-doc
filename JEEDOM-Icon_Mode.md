@@ -17,7 +17,7 @@ Le widget inclus d'office 11 icônes. Il est possible d'ajouter ses propres icô
 <h1 id="Merci">Merci</h1>
 <blockquote>
         <ul>
-            <li>Merci @Salviaf pour l'affichage de la durée </li>
+            <li>Merci @Salviaf pour l'affichage de la durée</li>
             <li>Merci @Nicoraptor pour le code pour récupérer valeur Mode</li>
             <li>Merci @Antoinekl1 pour l'info et le code suite à la modif du plugin "Mode"</li>
         </ul>
@@ -26,8 +26,8 @@ Le widget inclus d'office 11 icônes. Il est possible d'ajouter ses propres icô
 <h1 id="Info">Info importante</h1>
 <blockquote>
         <ul>
-            A la date d'écriture de cette documentation, le widget est compatible avec la nouvelle version du plugin "Mode" d'Août 2019
-            Il est important de respecter les majuscules et les minuscules lors de la déclaration des variables et des valeurs
+            <li>A la date d'écriture de cette documentation, le widget est compatible avec la nouvelle version du plugin "Mode" d'Août 2019</li>
+            <li>Il est important de respecter les majuscules et les minuscules lors de la déclaration des variables et des valeurs</li>
         </ul>
 </blockquote>
 
