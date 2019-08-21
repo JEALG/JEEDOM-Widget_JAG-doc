@@ -19,13 +19,15 @@ Le widget inclus d'office 11 icônes. Il est possible d'ajouter ses propres icô
         <ul>
             <li>Merci @Salviaf pour l'affichage de la durée </li>
             <li>Merci @Nicoraptor pour le code pour récupérer valeur Mode</li>
+            <li>Merci @Antoinekl1 pour l'info et le code suite à la modif du plugin "Mode"</li>
         </ul>
 </blockquote>
 
 <h1 id="Info">Info importante</h1>
 <blockquote>
         <ul>
-            A la date d'écriture de cette documentation, le widget n'est pas compatible avec la version du core V4
+            A la date d'écriture de cette documentation, le widget est compatible avec la nouvelle version du plugin "Mode" d'Août 2019
+            Il est important de respecter les majuscules et les minuscules lors de la déclaration des variables et des valeurs
         </ul>
 </blockquote>
 
@@ -35,7 +37,7 @@ Le widget inclus d'office 11 icônes. Il est possible d'ajouter ses propres icô
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logox</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : mode<b>x</b>)</i></li>
+            <li><b>logox</b> : Permet de choisir l'image pour la valeur pour le mode <i>(valeur par défaut : <b>Nom_MODE</b>)</i></li>
             <li><b>logo_typex</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
             <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
         </ul>
