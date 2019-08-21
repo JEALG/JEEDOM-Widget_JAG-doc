@@ -53,23 +53,6 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         </ul>
 </blockquote>
 
-<h4 id="Logo">Exemple</h4>
-Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG"
-<blockquote>
-        <ul>
-            <li><b>mode0</b> : renseigner la valeur <b>CONFORT</b></li>
-            <li><b>logo0</b> : Il n'est pas necessaire de le renseigner vu que le nom du mode est identique au nom de l'image</li>
-            <li><b>logo_type0</b> : Il n'est pas necessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
-        </ul>
-</blockquote>
-Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PNG"
-<blockquote>
-        <ul>
-            <li><b>mode5</b> : renseigner la valeur <b>PURGE</b></li>
-            <li><b>logo5</b> : renseigner la valeur <b>puitsvide</b></li>
-            <li><b>logo_type5</b> : Il n'est pas necessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
-        </ul>
-</blockquote>
 
 <h4 id="Dossier">Sous dossier</h4>
 Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
@@ -102,6 +85,23 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <h1 id="Aide">Exemple Paramétrage d'un mode</h1>
 <p><img src="Img/ JEEDOM-Icon_Mode - Para mode.png" alt="exemple Para" /></p>
 <hr />
+<h4 id="Logo">Exemple</h4>
+Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG"
+<blockquote>
+        <ul>
+            <li><b>mode0</b> : renseigner la valeur <b>CONFORT</b></li>
+            <li><b>logo0</b> : Il n'est pas necessaire de le renseigner vu que le nom du mode est identique au nom de l'image</li>
+            <li><b>logo_type0</b> : Il n'est pas necessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
+        </ul>
+</blockquote>
+Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PNG"
+<blockquote>
+        <ul>
+            <li><b>mode5</b> : renseigner la valeur <b>PURGE</b></li>
+            <li><b>logo5</b> : renseigner la valeur <b>puitsvide</b></li>
+            <li><b>logo_type5</b> : Il n'est pas necessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
+        </ul>
+</blockquote>
 
 <hr />
 <dl>
