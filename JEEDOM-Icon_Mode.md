@@ -33,22 +33,40 @@ Le widget inclus d'office 11 icônes. Il est possible d'ajouter ses propres icô
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
-<h4 id="Logo">Choix de l'icône</h4>
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
-<blockquote>
-        <ul>
-            <li><b>logox</b> : Permet de choisir l'image pour la valeur pour le mode <i>(valeur par défaut : <b>Nom_MODE</b>)</i></li>
-            <li><b>logo_typex</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-            <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
-        </ul>
-</blockquote>
-
 <h4 id="Logo">Valeur du mode</h4>
 Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les variables
 <blockquote>
         <ul>
             <li><b>modex</b> : Valeur du mode</li>
             <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
+        </ul>
+</blockquote>
+
+<h4 id="Logo">Choix de l'icône</h4>
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels si le nom du mode ne correspond pas au nom de l'image :
+<blockquote>
+        <ul>
+            <li><b>logox</b> : Permet de choisir l'image pour la valeur pour le mode <i>(valeur par défaut : <b>Nom_MODE</b>)</i></li>
+            <li><b>logo_typex</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
+            <li><b>Nom_MODE</b> : correspond au nom exact de l'image</li>
+        </ul>
+</blockquote>
+
+<h4 id="Logo">Exemple</h4>
+Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG"
+<blockquote>
+        <ul>
+            <li><b>mode0</b> : renseigner la valeur <b>CONFORT</b></li>
+            <li><b>logo0</b> : Il n'est pas necessaire de le renseigner vu que le nom du mode est identique au nom de l'image</li>
+            <li><b>logo_type0</b> : Il n'est pas necessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
+        </ul>
+Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PNG"
+<blockquote>
+        <ul>
+            <li><b>mode5</b> : renseigner la valeur <b>PURGE</b></li>
+            <li><b>logo5</b> : renseigner la valeur <b>puitsvide</b></li>
+            <li><b>logo_type5</b> : Il n'est pas necessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
         </ul>
 </blockquote>
 
