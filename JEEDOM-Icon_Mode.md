@@ -41,6 +41,13 @@ Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les varia
             <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
         </ul>
 </blockquote>
+Pour que le widget fonctionne dans le cas où les noms des commandes sont remplacés par des icônes, il faut indiquer la valeur du mode dans les variables
+<blockquote>
+        <ul>
+            <li><b>modex</b> : Nom de l'icône</li>
+            <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
+        </ul>
+</blockquote>
 
 <h4 id="Logo">Choix de l'icône</h4>
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels si le nom du mode ne correspond pas au nom de l'image :
