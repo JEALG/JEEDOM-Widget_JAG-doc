@@ -22,7 +22,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 Il est possible de déplacer la légende
 <blockquote>
         <ul>
-            <li><b>leg_pos</b> = A droite <i>(valeur par défaut)</i></li>
+            <li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li>
             <p><img src="Img/RESULTAT%20-%20JEEDOM-Barometre.png" alt="Resultat - Droite" /></p>
             <li><b>leg_pos</b> = left</li>
             <p><img src="Img/RESULTAT - JEEDOM-Barometre - Left.png" alt="Resultat - Gauche" /></p>
