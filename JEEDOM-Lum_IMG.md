@@ -46,10 +46,16 @@ Il est possible de déplacer la légende
         <ul>
             <li><b>leg_pos</b> = low <i>(valeur par défaut)</i></li>
             <p><img src="Img/RESULTAT - JEEDOM-Lum_IMG.png" alt="Resultat - Bas" /></p>
+        </ul>
+        <ul>
             <li><b>leg_pos</b> = right <i></i></li>
             <p><img src="Img/RESULTAT - JEEDOM-Lum_IMG - Droite.png" alt="Resultat - Droite" /></p>
+        </ul>
+        <ul>
             <li><b>leg_pos</b> = left</li>
             <p><img src="Img/RESULTAT - JEEDOM-Lum_IMG - Gauche.png" alt="Resultat - Gauche" /></p>
+        </ul>
+        <ul>
             <li><b>leg_pos</b> = top</li>
             <p><img src="Img/RESULTAT - JEEDOM-Lum_IMG - Haut.png" alt="Resultat - Haut" /></p>
         </ul>
