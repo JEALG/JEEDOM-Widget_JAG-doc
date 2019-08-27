@@ -7,12 +7,12 @@ description: explication widget Fenêtre (numérique)
 # Widget "Fenêtre (numérique)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="Img/RESULTAT - JEEDOM-Fenetre-IMG.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTAT - JEEDOM-Fenetre.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 77 icônes. Il est possible d'ajouter ses propres icônes.
+Le widget inclus d'office 80 icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-<p><img src="Img/VISUEL - JEEDOM-Fenetre-IMG.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Fenetre.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -22,8 +22,10 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
     <ul>
         <li><b>logo_<b>x</b></b> : Permet de choisir l'image pour la valeur <b>x</b></li>
         <li><b>logo_<b>x</b>_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo_<b>x</b></i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-        <li><b>x</b> : Remplacer <b>x</b> par le numéro de la valeur correspondante (valeur possible de 0 à 5)</li>
+        <li><b>x</b> : Remplacer <b>x</b> par le numéro de la valeur correspondante (valeur possible de 0 à 8)</li>
     </ul>
+</blockquote>
+<blockquote>
     <ul>
         <li><b>logo_<b>0</b></b> : <i>valeur par défaut : baie_fermee</i></li>
         <li><b>logo_<b>1</b></b> : <i>valeur par défaut : baie_ouverte-G</i></li>
@@ -31,6 +33,9 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>logo_<b>3</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
         <li><b>logo_<b>4</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
         <li><b>logo_<b>5</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
+        <li><b>logo_<b>6</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
+        <li><b>logo_<b>7</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
+        <li><b>logo_<b>8</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
     </ul>
 </blockquote>
             
@@ -41,6 +46,8 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>valeur_<b>x</b></b> : Permet de choisir l'image pour la valeur <b>x</b></li>
         <li><b>x</b> : Remplacer <b>x</b> par le numéro de la valeur correspondante (valeur possible de 0 à 5)</li>
     </ul>
+</blockquote>
+<blockquote>
     <ul>
         <li><b>valeur_<b>0</b></b> : <i>valeur par défaut : 0</i></li>
         <li><b>valeur_<b>1</b></b> : <i>valeur par défaut : 1</i></li>
@@ -48,6 +55,9 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>valeur_<b>3</b></b> : <i>valeur par défaut : 3</i></li>
         <li><b>valeur_<b>4</b></b> : <i>valeur par défaut : 4</i></li>
         <li><b>valeur_<b>5</b></b> : <i>valeur par défaut : 5</i></li>
+        <li><b>valeur_<b>6</b></b> : <i>valeur par défaut : 3</i></li>
+        <li><b>valeur_<b>7</b></b> : <i>valeur par défaut : 4</i></li>
+        <li><b>valeur_<b>8</b></b> : <i>valeur par défaut : 5</i></li>
     </ul>
 </blockquote>      
 
@@ -66,7 +76,6 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         <ul>
             <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
             <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
             <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
             <li><a href="JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
