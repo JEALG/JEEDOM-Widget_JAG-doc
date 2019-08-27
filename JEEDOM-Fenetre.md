@@ -55,9 +55,9 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>valeur_<b>3</b></b> : <i>valeur par défaut : 3</i></li>
         <li><b>valeur_<b>4</b></b> : <i>valeur par défaut : 4</i></li>
         <li><b>valeur_<b>5</b></b> : <i>valeur par défaut : 5</i></li>
-        <li><b>valeur_<b>6</b></b> : <i>valeur par défaut : 3</i></li>
-        <li><b>valeur_<b>7</b></b> : <i>valeur par défaut : 4</i></li>
-        <li><b>valeur_<b>8</b></b> : <i>valeur par défaut : 5</i></li>
+        <li><b>valeur_<b>6</b></b> : <i>valeur par défaut : 6</i></li>
+        <li><b>valeur_<b>7</b></b> : <i>valeur par défaut : 7</i></li>
+        <li><b>valeur_<b>8</b></b> : <i>valeur par défaut : 8</i></li>
     </ul>
 </blockquote>      
 
