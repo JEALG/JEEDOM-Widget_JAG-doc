@@ -59,6 +59,7 @@
 
 <h1 id="Ouverture">Ouverture</h1>
 <ul>
+    <li><a href="./JEEDOM-Fenetre.html">Widget Dashboard : <b>Fenêtre (numérique)</b></a></li>
     <li><a href="./JEEDOM-Fenetre-IMG.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
     <li><a href="./JEEDOM-Fenetre-IMG--MOBILE.html">Widget Mobile : <b>Fenetre-IMG (mobile)</b></a></li>
     <li><a href="./JEEDOM-Store_IMG.html">Widget Dashboard : <b>Store_IMG</b></a></li>
@@ -84,6 +85,6 @@
 </ul>
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190714<br/>
+    <dt>Mise à jour JAG - 20190827<br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
