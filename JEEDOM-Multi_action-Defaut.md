@@ -6,7 +6,7 @@ description: Explication widget Multi-action
 [back](./)
 # Widget "Multi-action" 
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b><br/>
 Ce widget regroupe l'ensemble des différentes images de mes widgets
 
 <p><img src="Img/RESULTAT - JEEDOM-Chaudiere-Activation.png" alt="Resultat" /></p>
