@@ -21,6 +21,10 @@
 <h1 id="Autre">Autre</h1>
 <ul>
     <li><a href="./JEEDOM-Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
+    <li><a href="./JEEDOM-Multi_action-Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+    <li><a href="./JEEDOM-Multi_action-Defaut--mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a></li>
+    <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="./JEEDOM-Multi_info-Binaire--mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
 </ul>
 
 <h1 id="Energie">Energie</h1>
@@ -85,6 +89,6 @@
 </ul>
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190827<br/>
+    <dt>Mise à jour JAG - 20190829<br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
