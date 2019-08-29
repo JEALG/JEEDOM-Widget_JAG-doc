@@ -21,9 +21,9 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 <blockquote>
         <ul>
             <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : no_detection)</i></li>
-            <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
             <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : detection)</i></li>
-            <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF-M</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF-M</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 

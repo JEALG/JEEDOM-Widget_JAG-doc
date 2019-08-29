@@ -40,11 +40,11 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 Il est possible de personnaliser les niveaux :
 <blockquote>
         <ul>
-            <li><b>level_0</b> : Niveau 0 <i>(valeur par défaut : 0)</i></li>
-            <li><b>level_20</b> : Niveau 20 <i>(valeur par défaut : 20)</i></li>
-            <li><b>level_40</b> : Niveau 40 <i>(valeur par défaut : 40)</i></li>
-            <li><b>level_60</b> : Niveau 60 <i>(valeur par défaut : 60)</i></li>
-            <li><b>level_80</b> : Niveau 80 <i>(valeur par défaut : 80)</i></li>
+            <li><b>level_0</b>   : Niveau 0 <i>(valeur par défaut : 0)</i></li>
+            <li><b>level_20</b>  : Niveau 20 <i>(valeur par défaut : 20)</i></li>
+            <li><b>level_40</b>  : Niveau 40 <i>(valeur par défaut : 40)</i></li>
+            <li><b>level_60</b>  : Niveau 60 <i>(valeur par défaut : 60)</i></li>
+            <li><b>level_80</b>  : Niveau 80 <i>(valeur par défaut : 80)</i></li>
             <li><b>level_100</b> : Niveau 100 <i>(valeur par défaut : 100)</i></li>
         </ul>
 </blockquote>

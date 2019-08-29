@@ -21,7 +21,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 <blockquote>
     <ul>
         <li><b>logo_<b>x</b></b> : Permet de choisir l'image pour la valeur <b>x</b></li>
-        <li><b>logo_<b>x</b>_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo_<b>x</b></i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+        <li><b>logo_<b>x</b>_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo_<b>x</b></i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
         <li><b>x</b> : Remplacer <b>x</b> par le numéro de la valeur correspondante (valeur possible de 0 à 8)</li>
     </ul>
 </blockquote>

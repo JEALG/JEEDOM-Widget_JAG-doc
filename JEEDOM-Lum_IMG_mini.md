@@ -25,11 +25,11 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 <blockquote>
         <ul>
             <li><b>logo_level1</b> : Permet de choisir l'image pour la valeur  pour le niveau 1 <i>(valeur par défaut : moon)</i></li>
-            <li><b>logo_level1_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo_level1</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>logo_level1_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo_level1</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
             <li><b>logo_level2</b> : Permet de choisir l'image pour la valeur  pour le niveau 2 <i>(valeur par défaut : cloud)</i></li>
-            <li><b>logo_level2_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo_level2</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>logo_level2_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo_level2</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
             <li><b>logo_level3</b> : Permet de choisir l'image pour la valeur  pour le niveau 3 <i>(valeur par défaut : sun)</i></li>
-            <li><b>logo_level3_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo_level3</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+            <li><b>logo_level3_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo_level3</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
