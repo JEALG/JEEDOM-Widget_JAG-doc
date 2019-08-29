@@ -12,9 +12,9 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <h4 id="TaIlle">Affichage de l'historique ou min max sur la gauche</h4>
 <blockquote>
         <ul>
-            <li><b>min_max</b> : Affiche par défaut le min et max configurer dans l'équipement <i>(valeur par défaut : X)</i></li>
+            <li><b>min_max-M</b> : Affiche par défaut le min et max configurer dans l'équipement <i>(valeur par défaut : X)</i></li>
             <p><img src="Img/JEEDOM-Thermometre--MIN_MAX.png" alt="INFO" /></p>
-            <li><b>min_max</b> : utilise le maxi et le mini de l'historique, <i>la variable doit ête vide</i></li>
+            <li><b>min_max-M</b> : utilise le maxi et le mini de l'historique, <i>la variable doit ête vide</i></li>
         </ul>
 </blockquote>
  
