@@ -35,8 +35,10 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
         <ul>
             <li><b>dossier-M</b> : Nom du dossier (Par défaut : Divers)</li>
         </ul>
-        <ul>
-            Liste des dossiers
+</blockquote>
+Liste des dossiers
+<blockquote>
+    <ul>
         <li>Alarme</li>
         <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Alarme.png" alt="Visuels" /></p>
         <li>Chauffage</li>
