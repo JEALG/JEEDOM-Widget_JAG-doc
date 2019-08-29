@@ -11,9 +11,8 @@ Ce widget regroupe l'ensemble des différentes images de mes widgets
 
 <p><img src="Img/RESULTAT - JEEDOM-Chaudiere-Activation.png" alt="Resultat" /></p>
 <blockquote>
-    Le widget inclus d'office 10 types d'icônes.
+    Le widget inclus plusieurs icônes dans des sous dossiers
 </blockquote>
-<p><img src="Img/VISUEL%20-%20JEEDOM-Chaudiere-Activation.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -37,12 +36,19 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
         <ul>
             Liste des dossiers
         <li>Alarme</li>
+        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Alarme.png" alt="Visuels" /></p>
         <li>Chauffage</li>
+        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Chauffage.png" alt="Visuels" /></p>
         <li>Divers</li>
+        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Divers.png" alt="Visuels" /></p>
         <li>Eau</li>
+        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Eau.png" alt="Visuels" /></p>
         <li>FibaroOeil</li>
+        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-FibaroOeil.png" alt="Visuels" /></p>
         <li>Lampe</li>
+        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Lampe.png" alt="Visuels" /></p>
         <li>Prise</li>
+        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Prise.png" alt="Visuels" /></p>
     </ul>
 </blockquote>
 
@@ -76,8 +82,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190714<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Chaudiere-Activation/commits/master">Changelog WIDGET</a><br/>
+    <dt>Mise à jour JAG - 20190829<br/>
+    <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
