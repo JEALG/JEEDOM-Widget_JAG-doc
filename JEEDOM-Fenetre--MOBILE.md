@@ -12,7 +12,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Le widget inclus d'office 80 icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-<p><img src="Img/VISUEL - JEEDOM-Fenetre.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL%20-%20JEEDOM-Fenetre--Mobile.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
