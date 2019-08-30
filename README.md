@@ -21,6 +21,7 @@
 <h1 id="Autre">Autre</h1>
 <ul>
     <li><a href="./JEEDOM-Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
+    <li><a href="./JEEDOM-Icon_Mode--Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
     <li><a href="./JEEDOM-Multi_action-Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
     <li><a href="./JEEDOM-Multi_action-Defaut--mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a></li>
     <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>

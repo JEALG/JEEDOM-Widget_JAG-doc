@@ -39,7 +39,7 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 Liste des dossiers
 <blockquote>
     <ul>
-        <li>Alarme</li>
+          <li>Alarme</li>
         <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Alarme.png" alt="Visuels" /></p>
         <li>Chauffage</li>
         <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Chauffage.png" alt="Visuels" /></p>
@@ -47,10 +47,14 @@ Liste des dossiers
         <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Divers.png" alt="Visuels" /></p>
         <li>Eau</li>
         <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Eau.png" alt="Visuels" /></p>
+        <li>Fenetre</li>
+        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Fenetre.png" alt="Visuels" /></p>
         <li>FibaroOeil</li>
         <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-FibaroOeil.png" alt="Visuels" /></p>
         <li>Lampe</li>
         <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Lampe.png" alt="Visuels" /></p>
+        <li>Presence</li>
+        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Presence.png" alt="Visuels" /></p>
         <li>Prise</li>
         <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Prise.png" alt="Visuels" /></p>
     </ul>

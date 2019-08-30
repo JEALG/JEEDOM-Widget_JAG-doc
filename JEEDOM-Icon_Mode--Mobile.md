@@ -1,10 +1,10 @@
 ---
 layout: default
-title: JEEDOM-Icon_Mode
-description: explication widget Icon_Mode
+title: JEEDOM-Icon_Mode--Mobile
+description: explication widget Icon_Mode (Mobile)
 ---
 [back](./)
-# Widget "Icon_Mode" 
+# Widget "Icon_Mode (Mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
 <p><img src="Img/RESULTAT%20-%20JEEDOM-Icon_Mode.png" alt="Resultat" /></p>
@@ -96,8 +96,8 @@ Liste des dossiers
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
-            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
+            <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 40)</i></li>
+            <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 40)</i></li>
         </ul>
 </blockquote>
  
