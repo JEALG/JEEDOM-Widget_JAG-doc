@@ -66,37 +66,16 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 <blockquote>
         <ul>
             <li><b>dossier</b> : Nom du dossier (Par défaut : Chauffage)</li>
+            <li><a href="./JEEDOM-Liste_images_dossiers.html">Listes des images par dossiers</a></li>
         </ul>
-</blockquote>
-Liste des dossiers
-<blockquote>
-    <ul>
-        <li>Alarme</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Alarme.png" alt="Visuels" /></p>
-        <li>Chauffage</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Chauffage.png" alt="Visuels" /></p>
-        <li>Divers</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Divers.png" alt="Visuels" /></p>
-        <li>Eau</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Eau.png" alt="Visuels" /></p>
-        <li>Fenetre</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Fenetre.png" alt="Visuels" /></p>
-        <li>FibaroOeil</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-FibaroOeil.png" alt="Visuels" /></p>
-        <li>Lampe</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Lampe.png" alt="Visuels" /></p>
-        <li>Presence</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Presence.png" alt="Visuels" /></p>
-        <li>Prise</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Prise.png" alt="Visuels" /></p>
-    </ul>
 </blockquote>
 
 <h4 id="Taille">Taille des images ou des icônes</h4>
-Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant : (en px ou %)
 <blockquote>
         <ul>
-            <li><b>Pourcentage-M</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
+            <li><b>Pourcentage-M = <i>NO</i></b> : Permet de choisir la taille en "px" <i>(valeur par défaut : NO)</i></li>
+            <li><b>Pourcentage-M = <i>YES</i></b> : Permet de choisir la taille en "%"</li>
             <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 40)</i></li>
             <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 40)</i></li>
         </ul>
