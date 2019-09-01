@@ -20,20 +20,42 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+Il est possible de récupérer le même réglage que le dashboard
 <blockquote>
+    Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
         <ul>
-            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : oeiloff")</i></li>
+            <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
+            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : Oeiloff)</i></li>
+            <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+            <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : Oeilon)</i></li>
+            <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+        </ul>
+</blockquote>
+<blockquote>
+    Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
+        <ul>
+            <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
+            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : Oeiloff)</i></li>
             <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-            <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : oeilon)</i></li>
+            <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : Oeilon)</i></li>
             <li><b>logoOFF_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
+
 <h4 id="Dossier">Sous dossier</h4>
 Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 <blockquote>
+    Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
         <ul>
             <li><b>dossier-M</b> : Nom du dossier (Par défaut : FibaroOeil)</li>
+            <li><a href="./JEEDOM-Liste_images_dossiers.html">Listes des images par dossiers</a></li>
+        </ul>
+</blockquote>
+<blockquote>
+    Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
+        <ul>
+            <li><b>dossier</b> : Nom du dossier (Par défaut : FibaroOeil)</li>
             <li><a href="./JEEDOM-Liste_images_dossiers.html">Listes des images par dossiers</a></li>
         </ul>
 </blockquote>
