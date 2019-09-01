@@ -52,6 +52,8 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
             <li><b>Dashboard-M</b> = <i>YES (valeur par défaut)</i> : Image identique au Dashboard</li>
             <li><b>Dashboard-M</b> = <i>NO</i>  : Image différente au Dashboard</li>
         </ul>
+</blockquote>
+<blockquote>
     Paramétrage image Erreur : Il est possible d'appliquer la même image que pour la valeur ON ou OFF
         <ul>
             <li><b>para_ER</b> = <i>logoON</i> : l'image d'erreur sera identique que pour la valeur ON</li>
