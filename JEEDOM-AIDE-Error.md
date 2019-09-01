@@ -26,9 +26,24 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
 
 <p><img src="Img/Image-Error.png" alt="Error" /></p>
 
+<h4 id="Error_Cas">Cas Particulier</h4>
+Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'erreur
+<ul>
+    <li><a href="./JEEDOM-Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
+    <li><a href="./JEEDOM-Icon_Mode--Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
+    <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="./JEEDOM-Multi_info-Binaire--mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+</ul>
+<blockquote>
+        <ul>
+            <li><b>dossierER</b> : Permet de choisir le dossier pour l'image "Erreur" pour la version dashboard<i>(valeur par défaut : Erreur_danger)</i></li>
+            <li><b>dossierER-M</b> : Permet de choisir le dossier pour l'image "Erreur" pour la version dashboard<i>(valeur par défaut : Erreur_danger)</i></li>
+        </ul>
+</blockquote>
+
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190608<br/>
+    <dt>Mise à jour JAG - 20190901<br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
 </dl>
 <hr />
