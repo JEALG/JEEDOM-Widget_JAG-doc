@@ -36,8 +36,8 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
 </ul>
 <blockquote>
         <ul>
-            <li><b>dossierER</b> : Permet de choisir le dossier pour l'image "Erreur" pour la version dashboard<i>(valeur par défaut : Erreur_danger)</i></li>
-            <li><b>dossierER-M</b> : Permet de choisir le dossier pour l'image "Erreur" pour la version dashboard<i>(valeur par défaut : Erreur_danger)</i></li>
+            <li><b>dossierER</b> : Permet de choisir le dossier pour l'image "Erreur" pour la version dashboard <i>(valeur par défaut : Erreur_danger)</i></li>
+            <li><b>dossierER-M</b> : Permet de choisir le dossier pour l'image "Erreur" pour la version dashboard <i>(valeur par défaut : Erreur_danger)</i></li>
         </ul>
 </blockquote>
 
