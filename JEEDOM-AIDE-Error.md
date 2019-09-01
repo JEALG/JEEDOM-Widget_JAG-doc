@@ -60,8 +60,8 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
             <li><b>para_ER-M</b> = <i>logoON</i> : l'image d'erreur sera identique que pour la valeur ON</li>
             <li><b>para_ER</b> = <i>logoOFF</i> : l'image d'erreur sera identique que pour la valeur OFF</li>
             <li><b>para_ER-M</b> = <i>logoOFF</i> : l'image d'erreur sera identique que pour la valeur OFF</li>
-            <li><b>para_ER</b> = <i> </i> : l'image d'erreur sera identique que pour la valeur logoER <i>(valeur par défaut)</i></li>
-            <li><b>para_ER-M</b> = <i></i> : l'image d'erreur sera identique que pour la valeur logoER <i>(valeur par défaut)</i></li>
+            <li><b>para_ER</b> = <i> </i> (valeur vide) : l'image d'erreur sera identique que pour la valeur logoER <i>(valeur par défaut)</i></li>
+            <li><b>para_ER-M</b> = <i></i> (valeur vide) : l'image d'erreur sera identique que pour la valeur logoER <i>(valeur par défaut)</i></li>
         </ul>
 </blockquote>
 <hr />
