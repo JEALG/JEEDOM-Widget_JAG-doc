@@ -41,6 +41,27 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
         </ul>
 </blockquote>
 
+<h4 id="Error_Cas">Cas Particulier pour les widgets Multi_info-Binaire</h4>
+<ul>
+    <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="./JEEDOM-Multi_info-Binaire--mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+</ul>
+<blockquote>
+    Petit rappel : la variable ci-dessous permet de récupèrer ou pas les même infos que le Dashboard
+        <ul>
+            <li><b>Dashboard-M</b> = <i>YES (valeur par défaut)</i> : Image identique au Dashboard</li>
+            <li><b>Dashboard-M</b> = <i>NO</i>  : Image différente au Dashboard</li>
+        </ul>
+    Paramétrage image Erreur : Il est possible d'appliquer la même image que pour la valeur ON ou OFF
+        <ul>
+            <li><b>para_ER</b> = <i>logoON</i> : l'image d'erreur sera identique que pour la valeur ON</li>
+            <li><b>para_ER-M</b> = <i>logoON</i> : l'image d'erreur sera identique que pour la valeur ON</li>
+            <li><b>para_ER</b> = <i>logoOFF</i> : l'image d'erreur sera identique que pour la valeur OFF</li>
+            <li><b>para_ER-M</b> = <i>logoOFF</i> : l'image d'erreur sera identique que pour la valeur OFF</li>
+            <li><b>para_ER</b> = <i> </i> : l'image d'erreur sera identique que pour la valeur logoER <i>(valeur par défaut)</i></li>
+            <li><b>para_ER-M</b> = <i></i> : l'image d'erreur sera identique que pour la valeur logoER <i>(valeur par défaut)</i></li>
+        </ul>
+</blockquote>
 <hr />
 <dl>
     <dt>Mise à jour JAG - 20190901<br/>
