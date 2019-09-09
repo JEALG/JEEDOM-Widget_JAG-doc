@@ -19,12 +19,12 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
 <blockquote>
         <ul>
-            <li><b>logoER-M</b> : Permet de choisir l'image pour la valeur ETAT en cas de problème <i>(valeur par défaut en général : oups)</i></li>
+            <li><b>logoER-M</b> : Permet de choisir l'image pour la valeur ETAT en cas de problème <i>(valeur par défaut en général : er_oups1)</i></li>
             <li><b>logoER_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoER-M</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
-<p><img src="Img/Image-Error.png" alt="Error" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Error.png" alt="Error" /></p>
 
 <h4 id="Error_Cas">Cas Particulier</h4>
 Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'erreur
@@ -36,8 +36,8 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
 </ul>
 <blockquote>
         <ul>
-            <li><b>dossierER</b> : Permet de choisir le dossier pour l'image "Erreur" pour la version dashboard <i>(valeur par défaut : Erreur_danger)</i></li>
-            <li><b>dossierER-M</b> : Permet de choisir le dossier pour l'image "Erreur" pour la version dashboard <i>(valeur par défaut : Erreur_danger)</i></li>
+            <li><b>dossierER</b> : Permet de choisir le dossier pour l'image "Erreur" pour la version dashboard <i>(valeur par défaut : error)</i></li>
+            <li><b>dossierER-M</b> : Permet de choisir le dossier pour l'image "Erreur" pour la version dashboard <i>(valeur par défaut : error)</i></li>
         </ul>
 </blockquote>
 
@@ -66,8 +66,7 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
 </blockquote>
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190901<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

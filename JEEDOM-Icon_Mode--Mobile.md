@@ -9,10 +9,8 @@ description: explication widget Icon_Mode (Mobile)
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
 <p><img src="Img/RESULTAT%20-%20JEEDOM-Icon_Mode.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 11 icônes. Il est possible d'ajouter ses propres icônes.
+Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-
-<p><img src="Img/VISUEL%20-%20JEEDOM-Icon_Mode.png" alt="Visuels" /></p>
 
 <h1 id="Merci">Merci</h1>
 <blockquote>
@@ -115,11 +113,8 @@ Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PN
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190623<br/></dt>
-     <ul>
-    <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET</a><br/></li>
-    <li><a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></li>
-    </ul>
+    <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

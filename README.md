@@ -15,6 +15,7 @@
 <h1 id="Automatisme">Automatisme</h1>
 <ul>
     <li><a href="./JEEDOM-VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a></li>
+    <li><a href="./JEEDOM-VoyantMulticouleur--MOBILE.html">Widget Mobile : <b>Bouton en forme de voyant Multi couleur</b></a></li>
     <li><a href="./JEEDOM-Store-banne.html">Widget Dashboard : <b>Store-banne</b></a></li>  
 </ul>
 
@@ -91,6 +92,5 @@
 </ul>
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190829<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>

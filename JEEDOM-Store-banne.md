@@ -16,7 +16,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logo</b> : Permet de choisir l'image pour la valeur <i>(valeur par défaut : battery_)</i></li>
+            <li><b>logo</b> : Permet de choisir l'image pour la valeur <i>(valeur par défaut : store_ext_pos)</i></li>
             <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
@@ -74,9 +74,8 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190714<br/>
     <a href="https://github.com/JEALG/JEEDOM-Store-banne/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

@@ -9,9 +9,8 @@ description: explication widget Fenêtre (numérique)
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="Img/RESULTAT - JEEDOM-Fenetre.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 80 icônes. Il est possible d'ajouter ses propres icônes.
+Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-
 <p><img src="Img/VISUEL - JEEDOM-Fenetre.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
@@ -27,15 +26,15 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 </blockquote>
 <blockquote>
     <ul>
-        <li><b>logo_<b>0</b></b> : <i>valeur par défaut : baie_fermee</i></li>
-        <li><b>logo_<b>1</b></b> : <i>valeur par défaut : baie_ouverte-G</i></li>
-        <li><b>logo_<b>2</b></b> : <i>valeur par défaut : baie_ouverte-D</i></li>
-        <li><b>logo_<b>3</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
-        <li><b>logo_<b>4</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
-        <li><b>logo_<b>5</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
-        <li><b>logo_<b>6</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
-        <li><b>logo_<b>7</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
-        <li><b>logo_<b>8</b></b> : <i>valeur par défaut : baie_ouverte</i></li>
+        <li><b>logo_<b>0</b></b> : <i>valeur par défaut : ou_baie2_wh_db_off</i></li>
+        <li><b>logo_<b>1</b></b> : <i>valeur par défaut : ou_baie2_wh_lf_on</i></li>
+        <li><b>logo_<b>2</b></b> : <i>valeur par défaut : ou_baie2_wh_rg_on</i></li>
+        <li><b>logo_<b>3</b></b> : <i>valeur par défaut : ou_baie2_wh_db_on</i></li>
+        <li><b>logo_<b>4</b></b> : <i>valeur par défaut : ou_baie2_wh_db_on</i></li>
+        <li><b>logo_<b>5</b></b> : <i>valeur par défaut : ou_baie2_wh_db_on</i></li>
+        <li><b>logo_<b>6</b></b> : <i>valeur par défaut : ou_baie2_wh_db_on</i></li>
+        <li><b>logo_<b>7</b></b> : <i>valeur par défaut : ou_baie2_wh_db_on</i></li>
+        <li><b>logo_<b>8</b></b> : <i>valeur par défaut : ou_baie2_wh_db_on</i></li>
     </ul>
 </blockquote>
             
@@ -95,9 +94,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190827<br/>
     <a href="https://github.com/JEALG/JEEDOM-Fenetre/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

@@ -30,9 +30,8 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190609<br/>
     <a href="https://github.com/JEALG/JEEDOM-Thermometre--mobile/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

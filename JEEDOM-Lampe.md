@@ -9,7 +9,7 @@ description: Explication widget Lampe
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
 <p><img src="Img/RESULTAT - JEEDOM-Lampe.png" alt="Resultat" /></p>
 <blockquote>
-    Le widget inclus d'office 12 types de lampes (6xON et 6xOFF). Il est possible d'ajouter ses propres icônes.
+Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 <p><img src="Img/VISUEL - JEEDOM-Lampe.png" alt="Visuels" /></p>
 
@@ -19,7 +19,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : Lampe)</i></li><b> Il n'est pas necessaire d'ajouter '-ON' ou '-OFF', ces 2 valeurs sont ajoutées automatiquement par le code du widget</b>
+            <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : la_ampoule)</i></li><b> Il n'est pas necessaire d'ajouter '-ON' ou '-OFF', ces 2 valeurs sont ajoutées automatiquement par le code du widget</b>
             <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
@@ -48,8 +48,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
         Le nommage des images est normalisé et doit respecter le format suivant :
         <ul>
-            <li><b>Image pour la valeur ON</b> : type-ON</li>
-            <li><b>Image pour la valeur OFF</b> : type-OFF</li>
+            <li><b>Image pour la valeur ON</b> : type_on</li>
+            <li><b>Image pour la valeur OFF</b> : type_off</li>
             <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
         </ul>
         <ul>
@@ -60,9 +60,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190610<br/>
     <a href="https://github.com/JEALG/JEEDOM-Lampe/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

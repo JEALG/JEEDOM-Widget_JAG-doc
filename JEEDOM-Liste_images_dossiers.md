@@ -8,34 +8,41 @@ description: Liste des dossiers
 Liste des images par dossiers
 <blockquote>
     <ul>
-        <li>Alarme</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Alarme.png" alt="Visuels" /></p>
-        <li>Chauffage</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Chauffage.png" alt="Visuels" /></p>
-        <li>Divers</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Divers.png" alt="Visuels" /></p>
-        <li>Eau</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Eau.png" alt="Visuels" /></p>
-        <li>Fenetre</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Fenetre1.png" alt="Visuels" /></p>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Fenetre2.png" alt="Visuels" /></p>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Fenetre3.png" alt="Visuels" /></p>
-        <li>FibaroOeil</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-FibaroOeil.png" alt="Visuels" /></p>
-        <li>Lampe</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Lampe.png" alt="Visuels" /></p>
-        <li>Presence</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Presence.png" alt="Visuels" /></p>
-        <li>Prise</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Prise.png" alt="Visuels" /></p>
-        <li>Toggle_bouton</li>
-        <p><img src="Img/VISUEL%20-%20JEEDOM-Multi-Toggle_bouton.png" alt="Visuels" /></p>
+        <li>alarme</li>
+        <p><img src="Img/VISUEL - JEEDOM-Alarme.png" alt="Visuels" /></p>
+        <li>baro</li>
+        <p><img src="Img/VISUEL - JEEDOM-Baro.png" alt="Visuels" /></p>
+        <li>chauffage</li>
+        <p><img src="Img/VISUEL - JEEDOM-Chauffage.png" alt="Visuels" /></p>
+        <li>divers</li>
+        <p><img src="Img/VISUEL - JEEDOM-Divers.png" alt="Visuels" /></p>
+        <li>eau</li>
+        <p><img src="Img/VISUEL - JEEDOM-Capteur-Fuite-Eau.png" alt="Visuels" /></p>
+        <li>error</li>
+        <p><img src="Img/VISUEL - JEEDOM-Error.png" alt="Visuels" /></p>
+        <li>fenetre</li>
+        <p><img src="Img/VISUEL - JEEDOM-Fenetre.png" alt="Visuels" /></p>
+        <li>fibarooeil</li>
+        <p><img src="Img/VISUEL - JEEDOM-Oeil.png" alt="Visuels" /></p>
+        <li>lampe</li>
+        <p><img src="Img/VISUEL - JEEDOM-Lampe.png" alt="Visuels" /></p>
+        <li>presence</li>
+        <p><img src="Img/VISUEL - JEEDOM-Presence.png" alt="Visuels" /></p>
+        <li>prise</li>
+        <p><img src="Img/VISUEL - JEEDOM-Prise.png" alt="Visuels" /></p>
+        <li>season</li>
+        <p><img src="Img/VISUEL - JEEDOM-Season.png" alt="Visuels" /></p>
+        <li>store</li>
+        <p><img src="Img/VISUEL - JEEDOM-Store.png" alt="Visuels" /></p>
+        <li>toggle</li>
+        <p><img src="Img/VISUEL - JEEDOM-Toggle.png" alt="Visuels" /></p>
+        <li>voyant</li>
+        <p><img src="Img/VISUEL - JEEDOM-Voyant.png" alt="Visuels" /></p>
     </ul>
 </blockquote>
 
 <dl>
-    <dt>Mise à jour JAG - 20190831<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

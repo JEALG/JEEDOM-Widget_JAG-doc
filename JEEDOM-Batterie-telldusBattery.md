@@ -75,9 +75,8 @@ Il est possible de personnaliser les niveaux :
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190714<br/>
     <a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

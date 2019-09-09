@@ -9,9 +9,8 @@ description: explication widget Capteur-Fuite-Eau
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="Img/RESULTAT - JEEDOM-Capteur-Fuite-Eau.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 6 types d'icônes.
+Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-
 <p><img src="Img/VISUEL - JEEDOM-Capteur-Fuite-Eau.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
@@ -20,9 +19,9 @@ Le widget inclus d'office 6 types d'icônes.
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : alarm-Eau-Fibaro-RAS)</i></li>
+            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : ea_typefibaro_off)</i></li>
             <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : alarm-Eau-Fibaro-Alert)</i></li>
+            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : ea_typefibaro_on)</i></li>
             <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF-M</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
@@ -60,9 +59,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190610<br/>
     <a href="https://github.com/JEALG/JEEDOM-Capteur-Fuite-Eau/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

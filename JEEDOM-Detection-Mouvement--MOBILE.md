@@ -9,10 +9,9 @@ description: explication widget Detection Mouvement (mobile)
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="Img/RESULTAT - JEEDOM-Detection-Mouvement--Mobile.png" alt="Resultat" width="100" height="100"/></p>
 <blockquote>
-Le widget inclus d'office 2 types d'icônes.
+Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-
-<p><img src="Img/VISUEL - JEEDOM-Detection-Mouvement.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Mouv.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -20,9 +19,9 @@ Le widget inclus d'office 2 types d'icônes.
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : no_detection)</i></li>
+            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : al_mouv_off)</i></li>
             <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON-M</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : detection)</i></li>
+            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : al_mouv_on)</i></li>
             <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF-M</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
@@ -60,9 +59,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190610<br/>
     <a href="https://github.com/JEALG/JEEDOM-Detection-Mouvement--mobile/commits/master">Chancelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Chancelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Chancelog DOC</a>
 </dl>
 <hr />
 [back](./)

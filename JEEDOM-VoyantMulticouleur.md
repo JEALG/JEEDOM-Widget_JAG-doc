@@ -12,7 +12,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Le widget inclus d'office 14 types d'icônes.
 </blockquote>
 
-<p><img src="Img/VISUEL%20-%20JEEDOM-VoyantMulticouleur.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Voyant.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -45,17 +45,6 @@ Pour choisir le type d'extension de l'image
         </ul>
 </blockquote>
 
-
-
-<h4 id="Taille">Taille de l'image</h4>
-Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
-<blockquote>
-        <ul>
-            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 65)</i></li>
-            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 30)</i></li>
-        </ul>
-</blockquote>
-
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
@@ -72,8 +61,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         Le nommage des images est normalisé et doit respecter le format suivant :
         <ul>
             <li><b>Image pour la valeur pour le niveau</b> : FORME_COULEUR</li>
-            <li><i>Remplacer <b>FORME</b> par la valeur ROND ou CARRE ou Autres</i></li>
-            <li><i>Remplacer <b>COULEUR</b> par la valeur BK, BU, GN, OR, RD, WH, YE</i></li>
+            <li><i>Remplacer <b>FORME</b> par la valeur rond ou carre ou Autres</i></li>
+            <li><i>Remplacer <b>COULEUR</b> par la valeur bk, bu, gn, or, rd, wh, ye</i></li>
         </ul>
         <ul>
             <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
@@ -82,9 +71,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190714<br/>
     <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

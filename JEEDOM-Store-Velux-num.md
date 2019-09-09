@@ -10,7 +10,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <p><img src="Img/RESULTAT%20-%20JEEDOM-Store-Velux-num.png" alt="Resultat" /></p>
 
 
-<p><img src="Img/VISUEL - JEEDOM-Store-Velux-num.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Store.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -18,7 +18,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logo</b> : Permet de choisir l'imag e<i>(valeur par défaut : Store-)</i></li>
+            <li><b>logo</b> : Permet de choisir l'imag e<i>(valeur par défaut : store_pos)</i></li>
             <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
@@ -101,9 +101,8 @@ Il est possible de personnaliser les niveaux :
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190610<br/>
     <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

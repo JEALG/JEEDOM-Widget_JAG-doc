@@ -9,10 +9,9 @@ description: explication widget Fenêtre-IMG
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="Img/RESULTAT - JEEDOM-Fenetre-IMG.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 77 icônes. Il est possible d'ajouter ses propres icônes.
+Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-
-<p><img src="Img/VISUEL - JEEDOM-Fenetre-IMG.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Fenetre.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -20,9 +19,9 @@ Le widget inclus d'office 77 icônes. Il est possible d'ajouter ses propres icô
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logoClose</b> : Permet de choisir l'image pour la fenêtre fermée <i>(valeur par défaut : BaieClose)</i></li>
+            <li><b>logoClose</b> : Permet de choisir l'image pour la fenêtre fermée <i>(valeur par défaut : ou_baie2_wh_db_off)</i></li>
             <li><b>logoClose_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoClose</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-            <li><b>logoOpen</b> : Permet de choisir l'image pour la fenêtre fermée <i>(valeur par défaut : BaieOpen)</i></li>
+            <li><b>logoOpen</b> : Permet de choisir l'image pour la fenêtre fermée <i>(valeur par défaut : ou_baie2_wh_rg_on)</i></li>
             <li><b>logoOpen_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOpen</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
@@ -59,9 +58,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190610<br/>
     <a href="https://github.com/JEALG/JEEDOM-Fenetre-IMG/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

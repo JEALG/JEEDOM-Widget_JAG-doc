@@ -25,9 +25,9 @@ Il est possible de récupérer le même réglage que le dashboard
     Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
         <ul>
             <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : Oeiloff)</i></li>
+            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : fi_wh_off)</i></li>
             <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-            <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : Oeilon)</i></li>
+            <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : fi_bu_on)</i></li>
             <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
@@ -35,9 +35,9 @@ Il est possible de récupérer le même réglage que le dashboard
     Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
         <ul>
             <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : Oeiloff)</i></li>
+            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : fi_wh_off)</i></li>
             <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-            <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : Oeilon)</i></li>
+            <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : fi_bu_on)</i></li>
             <li><b>logoOFF_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
@@ -48,14 +48,14 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 <blockquote>
     Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
         <ul>
-            <li><b>dossier-M</b> : Nom du dossier (Par défaut : FibaroOeil)</li>
+            <li><b>dossier</b> : Nom du dossier (Par défaut : fibarooeil)</li>
             <li><a href="./JEEDOM-Liste_images_dossiers.html">Listes des images par dossiers</a></li>
         </ul>
 </blockquote>
 <blockquote>
     Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
         <ul>
-            <li><b>dossier</b> : Nom du dossier (Par défaut : FibaroOeil)</li>
+            <li><b>dossier-M</b> : Nom du dossier (Par défaut : fibarooeil)</li>
             <li><a href="./JEEDOM-Liste_images_dossiers.html">Listes des images par dossiers</a></li>
         </ul>
 </blockquote>
@@ -93,9 +93,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190829<br/>
     <a href="https://github.com/JEALG/JEEDOM-Multi_info-Binaire--mobile/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

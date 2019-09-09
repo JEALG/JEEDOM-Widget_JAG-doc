@@ -48,8 +48,7 @@ A la date d'écriture de la documentation, ce paramétrage ne fonctionne pas sur
 </blockquote>
 
 <dl>
-    <dt>Mise à jour JAG - 20190609<br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)

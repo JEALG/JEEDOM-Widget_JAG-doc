@@ -9,7 +9,7 @@ description: Explication widget Alarme-Activation (mobile)
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
 <p><img src="Img/RESULTAT - JEEDOM-Alarme-Activation-Mobile.png" alt="Resultat" /></p>
 <blockquote>
-    Le widget inclus d'office 14 types d'icônes.
+Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 <p><img src="Img/VISUEL - JEEDOM-Alarme.png" alt="Visuels" /></p>
 
@@ -19,9 +19,9 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : alarm-status-T0-lock)</i></li>
+            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : al_type1_on)</i></li>
             <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON-M</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-            <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : alarm-status-T0-unlock)</i></li>
+            <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : al_type1_off)</i></li>
             <li><b>logoOFF_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF-M</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
@@ -56,9 +56,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <hr />
 <dl>
-    <dt>Mise à jour JAG - 20190610<br/>
     <a href="https://github.com/JEALG/JEEDOM-Alarme-Activation--Mobile/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a></dt>
+    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](./)
