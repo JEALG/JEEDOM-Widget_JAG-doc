@@ -16,6 +16,11 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
     Le widget inclus plusieurs icônes dans des sous dossiers
 </blockquote>
 
+<h4 id="A Savoir">A savoir</h4>
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir la version dashboard du widget</b>
+</blockquote>
+
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>

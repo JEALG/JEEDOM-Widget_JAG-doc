@@ -14,6 +14,11 @@ Le widget inclus d'office 14 types d'icônes.
 
 <p><img src="Img/VISUEL - JEEDOM-Voyant.png" alt="Visuels" /></p>
 
+<h4 id="A Savoir">A savoir</h4>
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir la version dashboard du widget</b>
+</blockquote>
+
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de la couleur</h4>
@@ -86,22 +91,6 @@ Il est possible de récupérer le même réglage que le dashboard
             <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
             <li><a href="JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
-</blockquote>
-
-<hr />
-<h3 id="Add img">Ajout d'image</h3>
-<hr />
-<blockquote>
-        Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images est normalisé et doit respecter le format suivant :
-        <ul>
-            <li><b>Image pour la valeur pour le niveau</b> : FORME_COULEUR</li>
-            <li><i>Remplacer <b>FORME</b> par la valeur rond ou carre ou Autres</i></li>
-            <li><i>Remplacer <b>COULEUR</b> par la valeur bk, bu, gn, or, rd, wh, ye</i></li>
-        </ul>
-        <ul>
-            <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
-        </ul>   
 </blockquote>
 
 <hr />

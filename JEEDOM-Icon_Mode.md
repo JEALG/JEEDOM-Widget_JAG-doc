@@ -21,12 +21,9 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
         </ul>
 </blockquote>
 
-<h1 id="Info">Info importante</h1>
+<h4 id="A Savoir">A savoir</h4>
 <blockquote>
-        <ul>
-            <li>A la date d'écriture de cette documentation, le widget est compatible avec la nouvelle version du plugin "Mode" d'Août 2019</li>
-            <li>Il est important de respecter les majuscules et les minuscules lors de la déclaration des variables et des valeurs</li>
-        </ul>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir la version dashboard du widget</b>
 </blockquote>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
