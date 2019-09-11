@@ -14,6 +14,11 @@ Le widget inclus d'office 14 types d'icônes.
 
 <p><img src="Img/VISUEL - JEEDOM-Voyant.png" alt="Visuels" /></p>
 
+<h4 id="A Savoir">A savoir</h4>
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
+</blockquote>
+
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de la couleur</h4>
