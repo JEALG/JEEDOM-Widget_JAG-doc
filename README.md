@@ -90,6 +90,11 @@
     <li><a href="./JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
     <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </ul>
+
+<h1 id="images">Liste des images</h1>
+<ul>
+    <li><a href="./JEEDOM-Liste_images_dossiers.html">Listes des images des widgets </a></li>
+</ul>
 <hr />
 <dl>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

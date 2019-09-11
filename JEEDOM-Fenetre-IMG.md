@@ -9,9 +9,11 @@ description: explication widget Fenêtre-IMG
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="Img/RESULTAT - JEEDOM-Fenetre-IMG.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
+
+<h4 id="A Savoir">A savoir</h4>
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
-<p><img src="Img/VISUEL - JEEDOM-Fenetre.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -42,17 +44,6 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
             <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
             <li><a href="JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
-        </ul>
-</blockquote>
-
-<hr />
-<h3 id="Add img">Ajout d'image</h3>
-<hr />
-<blockquote>
-        Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images n'est pas normalisé sur ce widget
-        <ul>
-            <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul>
 </blockquote>
 
