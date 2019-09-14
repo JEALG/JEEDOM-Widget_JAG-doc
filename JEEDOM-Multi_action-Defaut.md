@@ -20,11 +20,19 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+Dans le cas de l'utilisation avec le nom de l'image normalisé
 <blockquote>
         <ul>
-            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : di_day)</i></li>
+            <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : la_ampoule)</i></li>
+            <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+        </ul>
+</blockquote>
+Dans le cas de l'utilisation avec le nom de l'image non normalisé
+<blockquote>
+        <ul>
+            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : fi_wh_off")</i></li>
             <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-            <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : di_night)</i></li>
+            <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : fi_bu_on)</i></li>
             <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
