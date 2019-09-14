@@ -30,7 +30,7 @@ Dans le cas de l'utilisation avec le nom de l'image normalisé
         <ul>
             <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : la_ampoule)</i></li>
             <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-            <li>Le nommage des images est normalisé et doit respecter le format suivant :</li>
+            <li>Le nommage des images normalisées doit respecter le format suivant :</li>
             <ul>
                 <li><b>Image pour la valeur ON</b> : type_on</li>
                 <li><b>Image pour la valeur OFF</b> : type_off</li>
