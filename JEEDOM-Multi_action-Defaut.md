@@ -19,7 +19,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :<br/>
 Dans le cas de l'utilisation avec le nom de l'image normalisé
 <blockquote>
         <ul>
