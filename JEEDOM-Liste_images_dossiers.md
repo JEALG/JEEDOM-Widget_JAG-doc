@@ -40,7 +40,7 @@ Liste des images par dossiers
         <p><img src="Img/VISUEL - JEEDOM-Voyant.png" alt="Visuels" /></p>
     </ul>
 </blockquote>
-
+<hr />
 <dl>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
