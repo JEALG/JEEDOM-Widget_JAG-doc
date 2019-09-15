@@ -23,14 +23,16 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 Dans le cas de l'utilisation avec le nom de l'image normalisé
 <blockquote>
         <ul>
-            <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(valeur par défaut : la_ampoule)</i></li>
+            <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(pas de valeur par défaut)</i></li>
             <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
             <li>Le nommage des images normalisées doit respecter le format suivant :</li>
             <ul>
                 <li><b>Image pour la valeur ON</b> : type_on</li>
                 <li><b>Image pour la valeur OFF</b> : type_off</li>
                 <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
+                <li><i>à renseigner dans la variable logo <b>type</b></i></li>
             </ul>
+            <li><b>l'utilisation de cette méthode désactive les variables <i>logoON</i> et <i>logoOFF</i></b> </li>
         </ul>
 </blockquote>
 Dans le cas de l'utilisation avec le nom de l'image non normalisé
