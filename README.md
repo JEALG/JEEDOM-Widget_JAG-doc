@@ -1,5 +1,6 @@
 # JEEDOM-Widget DOC JAG
 
+# Alarme
 <h1 id="Alarme diverse">Alarme diverse</h1>
 <ul>
     <li><a href="./JEEDOM-Alarme-Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
@@ -12,6 +13,7 @@
     <li><a href="./JEEDOM-Detection-Mouvement--MOBILE.html">Widget Mobile : <b>Detection Mouvement</b></a></li>
 </ul>
 
+# Automatisme
 <h1 id="Automatisme">Automatisme</h1>
 <ul>
     <li><a href="./JEEDOM-VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a></li>
