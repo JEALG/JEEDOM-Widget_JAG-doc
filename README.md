@@ -1,5 +1,13 @@
 # Doc Widget JAG
 
+## Nettoyage des Dossiers et Migration V4
+<blockquote>
+Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la procédure pour avoir les différentes mises à jour pour la V4
+</blockquote>
+<ul>
+    <li><a href="./JEEDOM-JEEDOM-Nettoyage des dossiers.html">JEEDOM-Nettoyage des dossiers</a></li>
+</ul>
+
 ## Alarme
 <ul>
     <li><a href="./JEEDOM-Alarme-Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
