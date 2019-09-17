@@ -37,7 +37,7 @@ Il faut installer le plugin Jeexplorer
     <ul>
         <li>Ouvrir le plugin <b>JeeXplorer</b></li>
         <li>se rendre dans le dossier <i>plugins/widget/core/template/dashboard/</i>
-        <li>Supprimer ou exporter les dossiers suivants :<li>
+        <li>Supprimer ou exporter les dossiers suivants :</li>
             <ul>
                 <li>eee</li>
             </ul>
