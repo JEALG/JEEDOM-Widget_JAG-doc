@@ -32,16 +32,24 @@ Il faut installer le plugin Jeexplorer
     </ul>
 </blockquote>
 
-# Nettpoyage des dossiers
+# Nettoyage des dossiers
 <blockquote>
     <ul>
         <li>Ouvrir le plugin <b>JeeXplorer</b></li>
-        <li>se rendre dans le dossier <i>plugins/widget/core/template/dashboard/</i>
-        <li>Supprimer ou exporter les dossiers suivants :</li>
+        <ul>
+            <li>se rendre dans le dossier <i>plugins/widget/core/template/dashboard/</i>
+            <li>Supprimer ou exporter les dossiers suivants :</li>
             <ul>
-                <li>eee</li>
+                <li>cmd.info.numeric.Barometre</li>
+                <li>cmd.info.numeric.Biroute_vent</li>
+                <li>cmd.info.numeric.Fenetre</li>
+                <li>cmd.info.numeric.Fenetre</li>
+                <li>cmd.info.numeric.Humidite-Goutte_eau</li>
+                <li>dashboard/cmd.info.binary.Fenetre-IMG</li>
+                <li>dashboard/cmd.info.binary.Multi info - Binaire</li>
+                <li>dashboard/cmd.info.binary.Store_IMG</li>  
             </ul>
-        <li>Attention pour les widgets <i><b>Multi info - Binaire</b></i> et <i><b>Multi info - Binaire (mobile)</b></i></li> Il faut les retélécharger depuis le <b>plugin </b> Widget (idem pour la version core V4)
+        </ul>
     </ul>
 </blockquote>
 
