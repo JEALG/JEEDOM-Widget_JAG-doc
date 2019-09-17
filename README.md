@@ -5,7 +5,7 @@
 Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la procédure pour avoir les différentes mises à jour pour la V4
 </blockquote>
 <ul>
-    <li><a href="./JEEDOM-JEEDOM-Nettoyage des dossiers.html">JEEDOM-Nettoyage des dossiers</a></li>
+    <li><a href="./JEEDOM-Nettoyage des dossiers.html">JEEDOM-Nettoyage des dossiers</a></li>
 </ul>
 
 ## Alarme
