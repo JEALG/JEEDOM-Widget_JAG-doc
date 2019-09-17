@@ -18,7 +18,7 @@ Il faut installer le plugin Jeexplorer
     Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom. Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
 </blockquote>
 <ul>
-    <li><a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a>/li>
+    <li><a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a></li>
     <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>
     
 </ul>
@@ -28,6 +28,19 @@ Il faut installer le plugin Jeexplorer
     <ul>
         <li>Faire une sauvegade de la jeedom</li>
         <li>Vérifier que vous avez les dernières versions des widgets</li>
+        <li>Attention pour les widgets <i><b>Multi info - Binaire</b></i> et <i><b>Multi info - Binaire (mobile)</b></i></li> Il faut les retélécharger depuis le <b>plugin </b> Widget (idem pour la version core V4)
+    </ul>
+</blockquote>
+
+# Nettpoyage des dossiers
+<blockquote>
+    <ul>
+        <li>Ouvrir le plugin <b>JeeXplorer</b></li>
+        <li>se rendre dans le dossier <i>plugins/widget/core/template/dashboard/</i>
+        <li>Supprimer ou exporter les dossiers suivants :<li>
+            <ul>
+                <li>eee</li>
+            </ul>
         <li>Attention pour les widgets <i><b>Multi info - Binaire</b></i> et <i><b>Multi info - Binaire (mobile)</b></i></li> Il faut les retélécharger depuis le <b>plugin </b> Widget (idem pour la version core V4)
     </ul>
 </blockquote>
