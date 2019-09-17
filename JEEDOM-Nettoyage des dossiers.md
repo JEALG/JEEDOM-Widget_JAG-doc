@@ -36,7 +36,7 @@ Il faut installer le plugin Jeexplorer
 <ul>
     <li>Ouvrir le plugin <b>JeeXplorer</b></li>
     <ul>
-        <li>se rendre dans le dossier <i>plugins/widget/core/template/dashboard/</i>
+        <li>se rendre dans le dossier <i>plugins/widget/core/template/dashboard/</i></li>
         <li>Supprimer ou exporter les dossiers suivants :</li>
         <ul>
             <li>cmd.info.numeric.Barometre</li>
@@ -52,7 +52,8 @@ Il faut installer le plugin Jeexplorer
             <li>cmd.info.numeric.Store-banne</li>
             <li>cmd.info.numeric.Tendance-Baro</li>
             <li>cmd.info.numeric.Temperature_thermometre</li>
-        test
+        </ul>
+    </ul>
 </ul>
 
 <hr />
