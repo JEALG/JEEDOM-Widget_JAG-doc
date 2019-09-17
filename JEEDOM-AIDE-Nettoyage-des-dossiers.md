@@ -38,6 +38,7 @@ Il faut installer le plugin Jeexplorer
     <ul>
         <li>se rendre dans le dossier <i>plugins/widget/core/template/dashboard/</i></li>
         <li>Supprimer ou exporter les dossiers suivants :</li>
+        <blockquote>
         <ul>
             <li>cmd.info.numeric.Barometre</li>
             <li>cmd.info.numeric.Biroute_vent</li>
@@ -53,10 +54,12 @@ Il faut installer le plugin Jeexplorer
             <li>cmd.info.numeric.Tendance-Baro</li>
             <li>cmd.info.numeric.Temperature_thermometre</li>
         </ul>
+        </blockquote>
     </ul>
     <ul>
         <li>se rendre dans le dossier <i>plugins/widget/core/template/mobile</i></li>
         <li>Supprimer ou exporter les dossiers suivants :</li>
+        <blockquote>
         <ul>
             <li>cmd.info.numeric.Barometre</li>
             <li>cmd.info.numeric.Biroute_vent</li>
@@ -72,11 +75,13 @@ Il faut installer le plugin Jeexplorer
             <li>cmd.info.numeric.Tendance-Baro</li>
             <li>cmd.info.numeric.Temperature_thermometre</li>
         </ul>
+        </blockquote>
     </ul>
     <hr />
     <ul>
         <li>se rendre dans le dossier pour ceux qui ont déjà installer le core V4<i>core/template/dashboard/</i></li>
         <li>Supprimer ou exporter les dossiers suivants :</li>
+        <blockquote>
         <ul>
             <li>cmd.info.numeric.Barometre</li>
             <li>cmd.info.numeric.Biroute_vent</li>
@@ -92,10 +97,12 @@ Il faut installer le plugin Jeexplorer
             <li>cmd.info.numeric.Tendance-Baro</li>
             <li>cmd.info.numeric.Temperature_thermometre</li>
         </ul>
+        </blockquote>
     </ul>
     <ul>
         <li>se rendre dans le dossier <i>core/template/mobile</i></li>
         <li>Supprimer ou exporter les dossiers suivants :</li>
+        <blockquote>
         <ul>
             <li>cmd.info.numeric.Barometre</li>
             <li>cmd.info.numeric.Biroute_vent</li>
@@ -111,6 +118,7 @@ Il faut installer le plugin Jeexplorer
             <li>cmd.info.numeric.Tendance-Baro</li>
             <li>cmd.info.numeric.Temperature_thermometre</li>
         </ul>
+        </blockquote>
     </ul>
 </ul>
 
