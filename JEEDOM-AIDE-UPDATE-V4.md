@@ -19,15 +19,6 @@ Une fois la mise à jour faite, faite une mise à jour du core en sélectionnant
     
 </ul>
 
-# Opération préalable
-<blockquote>
-    <ul>
-        <li>Faire une sauvegade de la jeedom</li>
-        <li>Vérifier que vous avez les dernières versions des widgets</li>
-        <li>Attention pour les widgets <i><b>Multi info - Binaire</b></i> et <i><b>Multi info - Binaire (mobile)</b></i></li> Il faut les retélécharger depuis le <b>plugin </b> Widget (idem pour la version core V4)
-    </ul>
-</blockquote>
-
 <p><img src="Img/AIDE-UPDATE-V4.png" alt="Error" /></p>
 
 <hr />
