@@ -7,22 +7,30 @@ description: Nettoyage des dossiers
 # Rappel 
 <blockquote>
 Avant d'effectuer cette manipulation, il est conseillé de faire une sauvegarde de la Jeedon
-    
+Depuis quelques temps, je suis en train de migrer toutes les images vers le widget <i>dashboard Multi-action</i> les dossiers avec les anciennes versions restent sur la jeedom et prenne de la place.
+Je vous propose de faire un nettoyage des dossiers
 
 </blockquote>
 
 # Plugin necessaire
 <blockquote>
 Il faut installer le plugin Jeexplorer
-    <p style="color:#FF0000";>Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom. Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant ! </p>
+    Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom. Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
 </blockquote>
 <ul>
-    <li>Lien vers plugin</li>
-    <a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market</a>
-    <li>Lien vers docs</li>
-    <a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien Market</a>
+    <li><a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a>/li>
+    <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>
+    
 </ul>
 
+# Opération préalable
+<blockquote>
+    <ul>
+        <li>Faire une sauvegade de la jeedom</li>
+        <li>Vérifier que vous avez les dernières versions des widgets</li>
+        <li>Attention pour les widgets <i><b>Multi info - Binaire</b></i> et <i><b>Multi info - Binaire (mobile)</b></i></li> Il faut les retélécharger depuis le <b>plugin </b> Widget (idem pour la version core V4)
+    </ul>
+</blockquote>
 
 
 <hr />
