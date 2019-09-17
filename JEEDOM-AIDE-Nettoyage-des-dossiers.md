@@ -79,7 +79,7 @@ Il faut installer le plugin Jeexplorer
     </ul>
     <hr />
     <ul>
-        <li>se rendre dans le dossier pour ceux qui ont déjà installer le core V4<i>core/template/dashboard/</i></li>
+        <li>se rendre dans le dossier pour ceux qui ont déjà installer le core V4 <i>core/template/dashboard/</i></li>
         <li>Supprimer ou exporter les dossiers suivants :</li>
         <blockquote>
         <ul>
