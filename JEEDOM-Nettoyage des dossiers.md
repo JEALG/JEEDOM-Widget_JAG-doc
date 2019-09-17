@@ -51,7 +51,9 @@ Il faut installer le plugin Jeexplorer
             <li>cmd.info.string.Season</li>
             <li>cmd.info.numeric.Store-banne</li>
             <li>cmd.info.numeric.Tendance-Baro</li>
-            <li>cmd.info.numeric.Temperature_thermometre</li></ul>
+            <li>cmd.info.numeric.Temperature_thermometre</li>
+        test 
+        </ul>
     </ul>
 </ul>
 
