@@ -45,9 +45,12 @@ Il faut installer le plugin Jeexplorer
                 <li>cmd.info.numeric.Fenetre</li>
                 <li>cmd.info.numeric.Fenetre</li>
                 <li>cmd.info.numeric.Humidite-Goutte_eau</li>
-                <li>dashboard/cmd.info.binary.Fenetre-IMG</li>
-                <li>dashboard/cmd.info.binary.Multi info - Binaire</li>
-                <li>dashboard/cmd.info.binary.Store_IMG</li>  
+                <li>cmd.info.string.Icon_Mode</li>
+                <li>cmd.info.numeric.Luminosite-IMG-Mini</li>
+                <li>cmd.info.binary.Multi info - Binaire</li>
+                <li>cmd.info.numeric.pointrosee</li>
+                <li>cmd.info.string.Season</li>
+                <li>cmd.info.numeric.Store-banne</li>
             </ul>
         </ul>
     </ul>
