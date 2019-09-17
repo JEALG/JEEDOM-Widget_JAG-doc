@@ -52,9 +52,7 @@ Il faut installer le plugin Jeexplorer
             <li>cmd.info.numeric.Store-banne</li>
             <li>cmd.info.numeric.Tendance-Baro</li>
             <li>cmd.info.numeric.Temperature_thermometre</li>
-        test 
-        </ul>
-    </ul>
+        test
 </ul>
 
 <hr />
