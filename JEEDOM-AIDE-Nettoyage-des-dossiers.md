@@ -62,7 +62,10 @@ Il faut installer le plugin Jeexplorer
             <li>plugins/widget/core/template/mobile</li>
         </ul>
     </blockquote>
-Pour la version core V4, les widgets sont copiés dans les dossiers suivant :
+    
+    
+    
+  <li><b>Pour la version core V4, les widgets sont copiés dans les dossiers suivant :</b></li>
     <blockquote>
         <ul>
             <li>data/customTemplates/dashboard/</li>
