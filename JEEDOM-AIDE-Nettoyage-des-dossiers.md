@@ -56,6 +56,8 @@ Il faut installer le plugin Jeexplorer
         </ul>
         </blockquote>
     </ul>
+    <li>Faire la même chose pour les dossier suivant :</li>
+</ul>
     <ul>
         <li>se rendre dans le dossier <i>plugins/widget/core/template/mobile</i></li>
         <li>Supprimer ou exporter les dossiers suivants :</li>
@@ -79,7 +81,7 @@ Il faut installer le plugin Jeexplorer
     </ul>
     <hr />
     <ul>
-        <li>se rendre dans le dossier pour ceux qui ont déjà installer le core V4 <i>core/template/dashboard/</i></li>
+        <li>se rendre dans le dossier pour ceux qui ont déjà installer le core V4 <i>data/customTemplates/dashboard/</i></li>
         <li>Supprimer ou exporter les dossiers suivants :</li>
         <blockquote>
         <ul>
