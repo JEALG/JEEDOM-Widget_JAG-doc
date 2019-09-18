@@ -39,89 +39,36 @@ Il faut installer le plugin Jeexplorer
         <li>se rendre dans le dossier <i>plugins/widget/core/template/dashboard/</i></li>
         <li>Supprimer ou exporter les dossiers suivants :</li>
         <blockquote>
-        <ul>
-            <li>cmd.info.numeric.Barometre</li>
-            <li>cmd.info.numeric.Biroute_vent</li>
-            <li>cmd.info.numeric.Fenetre</li>
-            <li>cmd.info.numeric.Fenetre</li>
-            <li>cmd.info.numeric.Humidite-Goutte_eau</li>
-            <li>cmd.info.string.Icon_Mode</li>
-            <li>cmd.info.numeric.Luminosite-IMG-Mini</li>
-            <li>cmd.info.binary.Multi info - Binaire</li>
-            <li>cmd.info.numeric.pointrosee</li>
-            <li>cmd.info.string.Season</li>
-            <li>cmd.info.numeric.Store-banne</li>
-            <li>cmd.info.numeric.Tendance-Baro</li>
-            <li>cmd.info.numeric.Temperature_thermometre</li>
-        </ul>
+            <ul>
+                <li>cmd.info.numeric.Barometre</li>
+                <li>cmd.info.numeric.Biroute_vent</li>
+                <li>cmd.info.numeric.Fenetre</li>
+                <li>cmd.info.numeric.Fenetre</li>
+                <li>cmd.info.numeric.Humidite-Goutte_eau</li>
+                <li>cmd.info.string.Icon_Mode</li>
+                <li>cmd.info.numeric.Luminosite-IMG-Mini</li>
+                <li>cmd.info.binary.Multi info - Binaire</li>
+                <li>cmd.info.numeric.pointrosee</li>
+                <li>cmd.info.string.Season</li>
+                <li>cmd.info.numeric.Store-banne</li>
+                <li>cmd.info.numeric.Tendance-Baro</li>
+                <li>cmd.info.numeric.Temperature_thermometre</li>
+            </ul>
         </blockquote>
     </ul>
     <li>Faire la même chose pour les dossier suivant :</li>
-</ul>
-    <ul>
-        <li>se rendre dans le dossier <i>plugins/widget/core/template/mobile</i></li>
-        <li>Supprimer ou exporter les dossiers suivants :</li>
-        <blockquote>
+    <blockquote>
         <ul>
-            <li>cmd.info.numeric.Barometre</li>
-            <li>cmd.info.numeric.Biroute_vent</li>
-            <li>cmd.info.numeric.Fenetre</li>
-            <li>cmd.info.numeric.Fenetre</li>
-            <li>cmd.info.numeric.Humidite-Goutte_eau</li>
-            <li>cmd.info.string.Icon_Mode</li>
-            <li>cmd.info.numeric.Luminosite-IMG-Mini</li>
-            <li>cmd.info.binary.Multi info - Binaire</li>
-            <li>cmd.info.numeric.pointrosee</li>
-            <li>cmd.info.string.Season</li>
-            <li>cmd.info.numeric.Store-banne</li>
-            <li>cmd.info.numeric.Tendance-Baro</li>
-            <li>cmd.info.numeric.Temperature_thermometre</li>
+            <li>plugins/widget/core/template/mobile</li>
         </ul>
-        </blockquote>
-    </ul>
-    <hr />
-    <ul>
-        <li>se rendre dans le dossier pour ceux qui ont déjà installer le core V4 <i>data/customTemplates/dashboard/</i></li>
-        <li>Supprimer ou exporter les dossiers suivants :</li>
-        <blockquote>
+    </blockquote>
+Pour la version core V4, les widgets sont copiés dans les dossiers suivant :
+    <blockquote>
         <ul>
-            <li>cmd.info.numeric.Barometre</li>
-            <li>cmd.info.numeric.Biroute_vent</li>
-            <li>cmd.info.numeric.Fenetre</li>
-            <li>cmd.info.numeric.Fenetre</li>
-            <li>cmd.info.numeric.Humidite-Goutte_eau</li>
-            <li>cmd.info.string.Icon_Mode</li>
-            <li>cmd.info.numeric.Luminosite-IMG-Mini</li>
-            <li>cmd.info.binary.Multi info - Binaire</li>
-            <li>cmd.info.numeric.pointrosee</li>
-            <li>cmd.info.string.Season</li>
-            <li>cmd.info.numeric.Store-banne</li>
-            <li>cmd.info.numeric.Tendance-Baro</li>
-            <li>cmd.info.numeric.Temperature_thermometre</li>
+            <li>data/customTemplates/dashboard/</li>
+            <li>data/customTemplates/mobile/</li>
         </ul>
-        </blockquote>
-    </ul>
-    <ul>
-        <li>se rendre dans le dossier <i>core/template/mobile</i></li>
-        <li>Supprimer ou exporter les dossiers suivants :</li>
-        <blockquote>
-        <ul>
-            <li>cmd.info.numeric.Barometre</li>
-            <li>cmd.info.numeric.Biroute_vent</li>
-            <li>cmd.info.numeric.Fenetre</li>
-            <li>cmd.info.numeric.Fenetre</li>
-            <li>cmd.info.numeric.Humidite-Goutte_eau</li>
-            <li>cmd.info.string.Icon_Mode</li>
-            <li>cmd.info.numeric.Luminosite-IMG-Mini</li>
-            <li>cmd.info.binary.Multi info - Binaire</li>
-            <li>cmd.info.numeric.pointrosee</li>
-            <li>cmd.info.string.Season</li>
-            <li>cmd.info.numeric.Store-banne</li>
-            <li>cmd.info.numeric.Tendance-Baro</li>
-            <li>cmd.info.numeric.Temperature_thermometre</li>
-        </ul>
-        </blockquote>
-    </ul>
+    </blockquote>
 </ul>
 
 <hr />
