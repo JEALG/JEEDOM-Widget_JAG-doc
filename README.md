@@ -13,12 +13,6 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 <ul>
     <li><a href="./JEEDOM-Alarme-Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
     <li><a href="./JEEDOM-Alarme-Activation--MOBILE.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
-    <li><a href="./JEEDOM-Alarme-Status.html">Widget Dashboard : <b>Alarme-Status</b></a></li>
-    <li><a href="./JEEDOM-Alarme-Status--MOBILE.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
-    <li><a href="./JEEDOM-Capteur-Fuite-Eau.html">Widget Dashboard : <b>Capteur-Fuite-Eau</b></a></li>
-    <li><a href="./JEEDOM-Capteur-Fuite-Eau--MOBILE.html">Widget mobile: <b>Capteur-Fuite-Eau</b></a></li>
-    <li><a href="./JEEDOM-Detection-Mouvement.html">Widget Dashboard : <b>Detection Mouvement</b></a></li>
-    <li><a href="./JEEDOM-Detection-Mouvement--MOBILE.html">Widget Mobile : <b>Detection Mouvement</b></a></li>
 </ul>
 
 ## Automatisme
@@ -35,8 +29,13 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
     <li><a href="./JEEDOM-Multi_action-Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
     <li><a href="./JEEDOM-Multi_action-Defaut--mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a></li>
     <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
-        <ul> <li><a href="./JEEDOM-Archive_info_binaire">Voir les anciens widgets prises en charge par ce widget</a></li></ul>
+    <ul>
+            <li><a href="./JEEDOM-Archive_info_binaire">Voir les anciens widgets prises en charge par ce widget</a></li>
+    </ul>
     <li><a href="./JEEDOM-Multi_info-Binaire--mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+        <ul>
+            <li><a href="./JEEDOM-Archive_info_binaire_mobile">Voir les anciens widgets prises en charge par ce widget</a></li>
+    </ul>
 </ul>
 
 ## Energie
@@ -44,9 +43,8 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
     <li><a href="./JEEDOM-Batterie-EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a></li>
     <li><a href="./JEEDOM-Batterie-telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a></li>
     <li><a href="./JEEDOM-Chaudiere-Activation.html">Widget Dashboard : <b>Chaudiere-Activation</b></a></li>
-    <li><a href="./JEEDOM-Chaudiere-Etat.html">Widget Dashboard : <b>Chaudiere-Etat</b></a></li>
     <li><a href="./JEEDOM-Fibaro-WallPlug.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
-    <li><a href="./JEEDOM-Legrand-Prise-Celiane--mobile.html">Widget Mobile : <b>Legrand Prise Celiane (mobile)</b></a></li>    
+      
 </ul>
 
 ## Humidité
@@ -77,9 +75,6 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 <ul>
     <li><a href="./JEEDOM-Fenetre.html">Widget Dashboard : <b>Fenêtre (numérique)</b></a></li>
     <li><a href="./JEEDOM-Fenetre--MOBILE.html">Widget Mobile: <b>Fenêtre (mobile) (numérique)</b></a></li>
-    <li><a href="./JEEDOM-Fenetre-IMG.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
-    <li><a href="./JEEDOM-Fenetre-IMG--MOBILE.html">Widget Mobile : <b>Fenetre-IMG (mobile)</b></a></li>
-    <li><a href="./JEEDOM-Store_IMG.html">Widget Dashboard : <b>Store_IMG</b></a></li>
     <li><a href="./JEEDOM-Store-Velux-num.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a></li>
 </ul>
 
