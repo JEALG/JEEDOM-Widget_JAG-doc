@@ -36,54 +36,25 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 ## Lumière
 <ul>
-    <li><a href="./JEEDOM-Lampe.html">Widget Dashboard : <b>Lampe</b></a></li>
-    <li><a href="./JEEDOM-Lampe--MOBILE.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
     <li><a href="./JEEDOM-Lampe-Binaire.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
-    <li><a href="./JEEDOM-Lum_IMG.html">Widget Dashboard : <b>Luminosité-IMG</b></a></li>
-    <li><a href="./JEEDOM-Lum_IMG_mini.html">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a></li>
-    <li><a href="./JEEDOM-Lum_IMG_mini--MOBILE.html">Widget Mobile : <b>Luminosité-IMG-Mini (mobile)</b></a></li>
 </ul>
 
 ## Météo
 <ul>
-    <li><a href="./JEEDOM-Barometre.html">Widget Dashboard : <b>Baromètre</b></a></li>
-    <li><a href="./JEEDOM-Biroute_vent.html">Widget Dashboard : <b>Biroute - vent</b></a></li>
-    <li><a href="./JEEDOM-Point-rosee.html">Widget Dashboard : <b>Point de rosée</b></a></li>
-    <li><a href="./JEEDOM-Tendance-Baro.html">Widget Dashboard : <b>Tendance-Baro</b></a></li>
+
 </ul>
 
 ## Ouverture
 <ul>
-    <li><a href="./JEEDOM-Fenetre.html">Widget Dashboard : <b>Fenêtre (numérique)</b></a></li>
-    <li><a href="./JEEDOM-Fenetre--MOBILE.html">Widget Mobile: <b>Fenêtre (mobile) (numérique)</b></a></li>
     <li><a href="./JEEDOM-Fenetre-IMG.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
-    <li><a href="./JEEDOM-Fenetre-IMG--MOBILE.html">Widget Mobile : <b>Fenetre-IMG (mobile)</b></a></li>
     <li><a href="./JEEDOM-Store_IMG.html">Widget Dashboard : <b>Store_IMG</b></a></li>
-    <li><a href="./JEEDOM-Store-Velux-num.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a></li>
 </ul>
 
 ## Température
 <ul>
-    <li><a href="./JEEDOM-Thermometre.html">Widget Dashboard : <b>Temperature thermometre</b></a></li>
-    <li><a href="./JEEDOM-Thermometre--MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a></li>
+
 </ul>
 
-## Aide">Aide aux paramétrages
-<ul>
-    <li><a href="./JEEDOM-AIDE-Error.html">Paramétrage image Erreur</a></li>
-    <li><a href="./JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
-    <li><a href="./JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a></li>
-    <li><a href="./JEEDOM-AIDE-CONFIG-INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique)</a></li>
-    <li><a href="./JEEDOM-AIDE-CONFIG-ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
-    <li><a href="./JEEDOM-AIDE-CONFIG-SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a></li>
-    <li><a href="./JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
-    <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
-</ul>
-
-## Liste des images
-<ul>
-    <li><a href="./JEEDOM-Liste_images_dossiers.html">Listes des images des widgets </a></li>
-</ul>
 <hr />
 <dl>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
