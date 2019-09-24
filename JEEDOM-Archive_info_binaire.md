@@ -1,6 +1,10 @@
-# Doc Widget JAG
+---
+layout: default
+title: JEEDOM-Archive Widget Info Binaire
+description: Archive Widget Info Binaire
+---
+[back](./)# 
 
-## Archive Widget Info Binaire
 <blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
     <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
@@ -59,3 +63,5 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 <dl>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
+<hr />
+[back](./)
