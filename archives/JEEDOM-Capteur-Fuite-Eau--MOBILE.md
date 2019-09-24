@@ -7,11 +7,11 @@ description: explication widget Capteur-Fuite-Eau (Mobile)
 # Widget "Capteur-Fuite-Eau (Mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - JEEDOM-Capteur-Fuite-Eau--mobile.png" alt="Resultat" /></p>
+<p><img src="../Img/RESULTAT - JEEDOM-Capteur-Fuite-Eau--mobile.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-<p><img src="Img/VISUEL - JEEDOM-Capteur-Fuite-Eau.png" alt="Visuels" /></p>
+<p><img src="../Img/VISUEL - JEEDOM-Capteur-Fuite-Eau.png" alt="Visuels" /></p>
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>
@@ -43,11 +43,11 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
-            <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
-            <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="../JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="../JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
+            <li><a href="../JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
+            <li><a href="../JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+            <li><a href="../JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 
