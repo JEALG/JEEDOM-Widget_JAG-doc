@@ -9,9 +9,9 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 ## Alarme
 <ul>
-    <li><a href="./JEEDOM-Alarme-Status.html">Widget Dashboard : <b>Alarme-Status</b></a></li>
-    <li><a href="./JEEDOM-Capteur-Fuite-Eau.html">Widget Dashboard : <b>Capteur-Fuite-Eau</b></a></li>
-    <li><a href="./JEEDOM-Detection-Mouvement.html">Widget Dashboard : <b>Detection Mouvement</b></a></li>
+    <li><a href="./archives/JEEDOM-Alarme-Status.html">Widget Dashboard : <b>Alarme-Status</b></a></li>
+    <li><a href="./archives/JEEDOM-Capteur-Fuite-Eau.html">Widget Dashboard : <b>Capteur-Fuite-Eau</b></a></li>
+    <li><a href="./archives/JEEDOM-Detection-Mouvement.html">Widget Dashboard : <b>Detection Mouvement</b></a></li>
 </ul>
 
 ## Automatisme
@@ -26,7 +26,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 ## Energie
 <ul>
-    <li><a href="./JEEDOM-Chaudiere-Etat.html">Widget Dashboard : <b>Chaudiere-Etat</b></a></li>
+    <li><a href="./archives/JEEDOM-Chaudiere-Etat.html">Widget Dashboard : <b>Chaudiere-Etat</b></a></li>
 </ul>
 
 ## Humidité
@@ -36,7 +36,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 ## Lumière
 <ul>
-    <li><a href="./JEEDOM-Lampe-Binaire.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
+    <li><a href="./archives/JEEDOM-Lampe-Binaire.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
 </ul>
 
 ## Météo
@@ -46,8 +46,8 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 ## Ouverture
 <ul>
-    <li><a href="./JEEDOM-Fenetre-IMG.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
-    <li><a href="./JEEDOM-Store_IMG.html">Widget Dashboard : <b>Store_IMG</b></a></li>
+    <li><a href="./archives/JEEDOM-Fenetre-IMG.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
+    <li><a href="./archives/JEEDOM-Store_IMG.html">Widget Dashboard : <b>Store_IMG</b></a></li>
 </ul>
 
 ## Température
