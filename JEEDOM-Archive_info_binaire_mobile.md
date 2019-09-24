@@ -7,7 +7,7 @@ description: Archive Widget Info Binaire (mobile)
 
 <blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
-    <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="./JEEDOM-Multi_info-Binaire--mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
 </blockquote>
 
 
