@@ -1,58 +1,37 @@
 # Doc Widget JAG
 
-## Nettoyage des Dossiers et Migration V4
+## Archive Widget Info Binaire
 <blockquote>
-Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la procédure pour avoir les différentes mises à jour pour la V4
+L'ensemble des widgets ci-dessous est incorporé dans le widget
+    <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
 </blockquote>
-<ul>
-    <li><a href="./JEEDOM-AIDE-Nettoyage-des-dossiers.html">Nettoyage des dossiers</a></li>
-    <li><a href="./JEEDOM_AIDE_UPDATE_V4.html">Mise à jour des widgets pour le core v4</a></li>
-</ul>
+
 
 ## Alarme
 <ul>
-    <li><a href="./JEEDOM-Alarme-Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
-    <li><a href="./JEEDOM-Alarme-Activation--MOBILE.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
     <li><a href="./JEEDOM-Alarme-Status.html">Widget Dashboard : <b>Alarme-Status</b></a></li>
-    <li><a href="./JEEDOM-Alarme-Status--MOBILE.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
     <li><a href="./JEEDOM-Capteur-Fuite-Eau.html">Widget Dashboard : <b>Capteur-Fuite-Eau</b></a></li>
-    <li><a href="./JEEDOM-Capteur-Fuite-Eau--MOBILE.html">Widget mobile: <b>Capteur-Fuite-Eau</b></a></li>
     <li><a href="./JEEDOM-Detection-Mouvement.html">Widget Dashboard : <b>Detection Mouvement</b></a></li>
-    <li><a href="./JEEDOM-Detection-Mouvement--MOBILE.html">Widget Mobile : <b>Detection Mouvement</b></a></li>
 </ul>
 
 ## Automatisme
 <ul>
-    <li><a href="./JEEDOM-VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a></li>
-    <li><a href="./JEEDOM-VoyantMulticouleur--MOBILE.html">Widget Mobile : <b>Bouton en forme de voyant Multi couleur</b></a></li>
-    <li><a href="./JEEDOM-Store-banne.html">Widget Dashboard : <b>Store-banne</b></a></li>  
+
 </ul>
 
 ## Autre
 <ul>
-    <li><a href="./JEEDOM-Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
-    <li><a href="./JEEDOM-Icon_Mode--Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
-    <li><a href="./JEEDOM-Multi_action-Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
-    <li><a href="./JEEDOM-Multi_action-Defaut--mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a></li>
-    <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
-        <ul> <li><a href="./JEEDOM-Archive_info_binaire">Voir les anciens widgets prises en charge par ce widget</a></li></ul>
-    <li><a href="./JEEDOM-Multi_info-Binaire--mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+
 </ul>
 
 ## Energie
 <ul>
-    <li><a href="./JEEDOM-Batterie-EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a></li>
-    <li><a href="./JEEDOM-Batterie-telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a></li>
-    <li><a href="./JEEDOM-Chaudiere-Activation.html">Widget Dashboard : <b>Chaudiere-Activation</b></a></li>
     <li><a href="./JEEDOM-Chaudiere-Etat.html">Widget Dashboard : <b>Chaudiere-Etat</b></a></li>
-    <li><a href="./JEEDOM-Fibaro-WallPlug.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
-    <li><a href="./JEEDOM-Legrand-Prise-Celiane--mobile.html">Widget Mobile : <b>Legrand Prise Celiane (mobile)</b></a></li>    
 </ul>
 
 ## Humidité
 <ul>
-    <li><a href="./JEEDOM-Humidite-Goutte_eau.html">Widget Dashboard : <b>Humidite-Goutte_eau</b></a></li>
-    <li><a href="./JEEDOM-Humidite-Goutte_eau--Mobile.html">Widget mobile : <b>Humidite-Goutte_eau (mobile)</b></a></li>  
+
 </ul>
 
 ## Lumière

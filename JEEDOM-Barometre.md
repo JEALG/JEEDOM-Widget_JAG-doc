@@ -31,7 +31,7 @@ Il est possible de déplacer la légende
             <p><img src="Img/RESULTAT%20-%20JEEDOM-Barometre.png" alt="Resultat - Droite" /></p>
             <li><b>leg_pos</b> = left</li>
             <p><img src="Img/RESULTAT - JEEDOM-Barometre - Left.png" alt="Resultat - Gauche" /></p>
-            <li><b>leg_pos</b> = low</li>
+            <li><b>leg_pos</b> = bottom</li>
             <p><img src="Img/RESULTAT - JEEDOM-Barometre - Low.png" alt="Resultat - Bas" /></p>
         </ul>
 </blockquote>
