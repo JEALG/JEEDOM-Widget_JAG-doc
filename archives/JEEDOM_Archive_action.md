@@ -18,7 +18,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 ## Energie
 <ul>
     <li><a href="../archives/multiaction/JEEDOM_Chaudiere_Activation.html">Widget Dashboard : <b>Chaudiere-Activation</b></a></li>
-    <li><a href="./archives/multiaction/JEEDOM_Fibaro_WallPlug.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
+    <li><a href="../archives/multiaction/JEEDOM_Fibaro_WallPlug.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
 </ul>
 
 ## Lumière

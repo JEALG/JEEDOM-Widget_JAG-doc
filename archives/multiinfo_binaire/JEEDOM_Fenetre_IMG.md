@@ -8,7 +8,7 @@ description: explication widget Fenêtre-IMG
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>
-    <b>Afin de simplifier la gestion des images et la migration du widget en Core V4, depuis le 10/09/2019, ce widget est remplacé par le widget <a href="./JEEDOM_Multi_info_Binaire.html">Widget Mobile : <b>Multi info - Binaire</b></a></b>
+    <b>Afin de simplifier la gestion des images et la migration du widget en Core V4, depuis le 10/09/2019, ce widget est remplacé par le widget <a href="../../JEEDOM_Multi_info_Binaire.html">Widget Mobile : <b>Multi info - Binaire</b></a></b>
     <ul>
         <li><b>Pour avoir les images </b><a href="../../JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
         <li><b>Pour avoir le paramétrage par défaut du widget Fenetre-IMG, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
