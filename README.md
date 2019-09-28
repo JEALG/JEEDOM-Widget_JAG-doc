@@ -88,7 +88,7 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
     <li><a href="./aide/JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a></li>
     <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique)</a></li>
     <li><a href="./aide/JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
-    <li><a href="./aide/JEEDOM_AIDE_CONFIG_SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a></li>
     <li><a href="./aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
     <li><a href="./aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </ul>
