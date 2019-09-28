@@ -8,13 +8,13 @@ description: Explication widget Lampe
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>
-<b>Afin de simplifier la gestion des images et la migration du widget en Core V4, depuis le 10/09/2019, ce widget est remplacé par le widget <a href="../../JEEDOM_Multi_action_Defaut_mobile">Widget Dashboard : <b>Multi-action (mobile)</b></a></b>
+    <b>Afin de simplifier la gestion des images et la migration du widget en Core V4, depuis le 10/09/2019, ce widget est remplacé par le widget <a href="../../JEEDOM_Multi_action_Defaut_mobile">Widget Dashboard : <b>Multi-action (mobile)</b></a></b>
     <ul>
         <li><b>Pour le paramétrage, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
         <ul>
             <li><b>dossier</b> avec la valeur : <i>lampe</i></li>
             <li><b>logo</b> avec la valeur : <i>la_ampoule</i></li>
-            <li><b>Les autres variables sont identiques</b>
+            <li><b>Les autres variables sont identiques</b></li>
         </ul>
     </ul>
 </blockquote>
