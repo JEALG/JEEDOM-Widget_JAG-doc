@@ -13,9 +13,9 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 ## Alarme
 <ul>
-    <li><a href="./archives/JEEDOM-Alarme-Status--MOBILE.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
-    <li><a href="./archives/JEEDOM-Capteur-Fuite-Eau--MOBILE.html">Widget mobile: <b>Capteur-Fuite-Eau</b></a></li>
-    <li><a href="./archives/JEEDOM-Detection-Mouvement--MOBILE.html">Widget Mobile : <b>Detection Mouvement</b></a></li>
+    <li><a href="./archives/multiinfo_binaire/JEEDOM_Alarme_Status_MOBILE.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
+    <li><a href="./archives/multiinfo_binaire/JEEDOM_Capteur_Fuite_Eau_MOBILE.html">Widget mobile: <b>Capteur-Fuite-Eau</b></a></li>
+    <li><a href="./archives/multiinfo_binaire/JEEDOM_Detection_Mouvement_MOBILE.html">Widget Mobile : <b>Detection Mouvement</b></a></li>
 </ul>
 
 ## Automatisme
@@ -30,7 +30,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 ## Energie
 <ul>
-    <li><a href="./archives/JEEDOM-Legrand-Prise-Celiane--mobile.html">Widget Mobile : <b>Legrand Prise Celiane (mobile)</b></a></li>  
+    <li><a href="./archives/multiinfo_binaire/JEEDOM_Legrand_Prise_Celiane_mobile.html">Widget Mobile : <b>Legrand Prise Celiane (mobile)</b></a></li>  
 </ul>
 
 ## Humidité
@@ -50,7 +50,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 ## Ouverture
 <ul>
-    <li><a href="./archives/JEEDOM-Fenetre-IMG--MOBILE.html">Widget Mobile : <b>Fenetre-IMG (mobile)</b></a></li>
+    <li><a href="./archives/multiinfo_binaire/JEEDOM_Fenetre_IMG_MOBILE.html">Widget Mobile : <b>Fenetre-IMG (mobile)</b></a></li>
 </ul>
 
 ## Température

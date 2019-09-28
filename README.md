@@ -5,8 +5,8 @@
 Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la procédure pour avoir les différentes mises à jour pour la V4
 </blockquote>
 <ul>
-    <li><a href="./JEEDOM-AIDE-Nettoyage-des-dossiers.html">Nettoyage des dossiers</a></li>
-    <li><a href="./JEEDOM_AIDE_UPDATE_V4.html">Mise à jour des widgets pour le core v4</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_Nettoyage_des_dossiers.html">Nettoyage des dossiers</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_UPDATE_V4.html">Mise à jour des widgets pour le core v4</a></li>
 </ul>
 
 ## Alarme
@@ -30,11 +30,11 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
     <li><a href="./JEEDOM-Multi_action-Defaut--mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a></li>
     <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
     <ul>
-            <li><a href="./JEEDOM-Archive_info_binaire">Voir les anciens widgets prises en charge par ce widget</a></li>
+            <li><a href="./archives/JEEDOM_Archive_info_binaire.html">Voir les anciens widgets prises en charge par ce widget</a></li>
     </ul>
     <li><a href="./JEEDOM-Multi_info-Binaire--mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
         <ul>
-            <li><a href="./JEEDOM-Archive_info_binaire_mobile">Voir les anciens widgets prises en charge par ce widget</a></li>
+            <li><a href="./archives/JEEDOM_Archive_info_binaire_mobile.html">Voir les anciens widgets prises en charge par ce widget</a></li>
     </ul>
 </ul>
 

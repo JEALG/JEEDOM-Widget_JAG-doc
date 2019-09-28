@@ -1,18 +1,17 @@
 ---
 layout: default
-title: JEEDOM-Chaudiere-Etat
+title: JEEDOM-Legrand-Prise-Celiane--mobile
 description: explication widget Alarme-Status
 ---
 [back](./)
 # Widget "Alarme-Status" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT%20-%20JEEDOM-Chaudiere-ETAT.png" alt="Resultat" /></p>
+<p><img src="Img/RESULTAT - JEEDOM-Legrand-Prise-Celiane--mobile.png" alt="Resultat" /></p>
 <blockquote>
-    Les visuels possibles
+Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-
-<p><img src="Img/VISUEL - JEEDOM-Chauffage.png" alt="Visuels" /></p>
+<p><img src="Img/VISUEL - JEEDOM-Prise.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
@@ -20,9 +19,9 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : ch_chaudiere_off)</i></li>
+            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : pr_legrand_on)</i></li>
             <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-            <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : ch_chaudiere_on)</i></li>
+            <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : pr_legrand_off)</i></li>
             <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
@@ -39,11 +38,11 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
-            <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
-            <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_CONFIG_INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 
@@ -57,9 +56,10 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul>
 </blockquote>
+
 <hr />
 <dl>
-    <a href="https://github.com/JEALG/JEEDOM-Chaudiere-Etat/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEEDOM-Legrand-Prise-Celiane--mobile/commits/master">Changelog WIDGET</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
