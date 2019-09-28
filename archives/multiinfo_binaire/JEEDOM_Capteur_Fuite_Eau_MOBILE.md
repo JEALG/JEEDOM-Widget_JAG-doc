@@ -7,11 +7,11 @@ description: explication widget Capteur-Fuite-Eau (Mobile)
 # Widget "Capteur-Fuite-Eau (Mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="../img/RESULTAT_JEEDOM_Capteur-Fuite-Eau--mobile.png" alt="Resultat" /></p>
+<p><img src="../../img/RESULTAT_JEEDOM_Capteur-Fuite-Eau--mobile.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-<p><img src="../img/VISUEL - JEEDOM-Capteur-Fuite-Eau.png" alt="Visuels" /></p>
+<p><img src="../../img/VISUEL - JEEDOM-Capteur-Fuite-Eau.png" alt="Visuels" /></p>
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>
