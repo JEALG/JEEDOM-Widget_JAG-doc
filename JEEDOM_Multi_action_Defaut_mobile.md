@@ -78,9 +78,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <h4 id="Aider">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
-            <li><a href="../aide/JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
-            <li><a href="../aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="../aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="./aide//JEEDOM_AIDE_CONFIG_ACTION">Aide pour le paramétrage des widgets de type action</a></li>
+            <li><a href="./aide/JEEDOM_AIDE_STATS">Afficher les statistiques</a></li>
+            <li><a href="./aide/JEEDOM_AIDE_PARA">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
     
