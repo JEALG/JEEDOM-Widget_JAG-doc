@@ -7,7 +7,7 @@ description: Archive Widget Action
 
 <blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
-    <li><a href="../JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+    <li><a href="../JEEDOM_Multi_action_Defaut_mobile">Widget Dashboard : <b>Multi-action (mobile)</b></a></li>
 </blockquote>
 
 ## Alarme
