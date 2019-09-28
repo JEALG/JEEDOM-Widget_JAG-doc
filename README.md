@@ -10,10 +10,7 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 </ul>
 
 ## Alarme
-<ul>
-    <li><a href="./JEEDOM-Alarme-Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
-    <li><a href="./JEEDOM-Alarme-Activation--MOBILE.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
-</ul>
+
 
 ## Automatisme
 <ul>
@@ -27,6 +24,9 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
     <li><a href="./JEEDOM-Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
     <li><a href="./JEEDOM-Icon_Mode--Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
     <li><a href="./JEEDOM-Multi_action-Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+    <ul>
+            <li><a href="./archives/JEEDOM_Archive_action.html">Voir les anciens widgets prises en charge par ce widget</a></li>
+    </ul>
     <li><a href="./JEEDOM-Multi_action-Defaut--mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a></li>
     <li><a href="./JEEDOM-Multi_info-Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
     <ul>
@@ -42,8 +42,7 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 <ul>
     <li><a href="./JEEDOM-Batterie-EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a></li>
     <li><a href="./JEEDOM-Batterie-telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a></li>
-    <li><a href="./JEEDOM-Chaudiere-Activation.html">Widget Dashboard : <b>Chaudiere-Activation</b></a></li>
-    <li><a href="./JEEDOM-Fibaro-WallPlug.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
+
       
 </ul>
 
@@ -55,8 +54,6 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 
 ## Lumière
 <ul>
-    <li><a href="./JEEDOM-Lampe.html">Widget Dashboard : <b>Lampe</b></a></li>
-    <li><a href="./JEEDOM-Lampe--MOBILE.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
     <li><a href="./JEEDOM-Lum_IMG.html">Widget Dashboard : <b>Luminosité-IMG</b></a></li>
     <li><a href="./JEEDOM-Lum_IMG_mini.html">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a></li>
     <li><a href="./JEEDOM-Lum_IMG_mini--MOBILE.html">Widget Mobile : <b>Luminosité-IMG-Mini (mobile)</b></a></li>
@@ -85,14 +82,14 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 
 ## Aide">Aide aux paramétrages
 <ul>
-    <li><a href="./JEEDOM-AIDE-Error.html">Paramétrage image Erreur</a></li>
-    <li><a href="./JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
-    <li><a href="./JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a></li>
-    <li><a href="./JEEDOM-AIDE-CONFIG-INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique)</a></li>
-    <li><a href="./JEEDOM-AIDE-CONFIG-ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
-    <li><a href="./JEEDOM-AIDE-CONFIG-SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a></li>
-    <li><a href="./JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
-    <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_Error.html">Paramétrage image Erreur</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique)</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_CONFIG_SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a></li>
+    <li><a href="./aide/JEEDOM_AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </ul>
 
 ## Liste des images
