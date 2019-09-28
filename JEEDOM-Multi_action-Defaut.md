@@ -11,7 +11,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
     Ce widget regroupe l'ensemble des différentes images de mes widgets
 </blockquote>
 
-<p><img src="Img/RESULTAT - JEEDOM-Chaudiere-Activation.png" alt="Resultat" /></p>
+<p><img src="img/RESULTAT_JEEDOM_Chaudiere-Activation.png" alt="Resultat" /></p>
 <blockquote>
     Le widget inclus plusieurs icônes dans des sous dossiers
 </blockquote>

@@ -7,7 +7,7 @@ description: explication widget Biroute - vent
 # Widget "Biroute - vent" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - JEEDOM-Biroute_vent.png" alt="Resultat" /></p>
+<p><img src="img/RESULTAT_JEEDOM_Biroute_vent.png" alt="Resultat" /></p>
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>

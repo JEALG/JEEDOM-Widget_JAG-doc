@@ -7,7 +7,7 @@ description: explication widget Baromètre
 # Widget "Baromètre" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT%20-%20JEEDOM-Barometre.png" alt="Resultat" /></p>
+<p><img src="img/RESULTAT_JEEDOM_Barometre.png" alt="Resultat" /></p>
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>

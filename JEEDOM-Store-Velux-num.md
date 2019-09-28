@@ -7,7 +7,7 @@ description: explication widget Store-VELUX (numérique)
 # Widget "Store-VELUX (numérique)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="Img/RESULTAT%20-%20JEEDOM-Store-Velux-num.png" alt="Resultat" /></p>
+<p><img src="img/RESULTAT_JEEDOM_Store-Velux-num.png" alt="Resultat" /></p>
 
 
 <p><img src="Img/VISUEL - JEEDOM-Store.png" alt="Visuels" /></p>

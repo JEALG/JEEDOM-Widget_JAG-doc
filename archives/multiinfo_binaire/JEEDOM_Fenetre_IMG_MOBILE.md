@@ -7,11 +7,11 @@ description: explication widget Fenetre-IMG (mobile)
 # Widget "Fenetre-IMG (mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - JEEDOM-Fenetre-IMG.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Fenetre-IMG.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-<p><img src="Img/VISUEL - JEEDOM-Fenetre.png" alt="Visuels" /></p>
+<p><img src="../img/VISUEL - JEEDOM-Fenetre.png" alt="Visuels" /></p>
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>

@@ -7,7 +7,7 @@ description: explication widget Luminosité-IMG
 # Widget "Luminosité-IMG" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="Img/RESULTAT%20-%20JEEDOM-Lum_IMG.png" alt="Resultat" /></p>
+<p><img src="img/RESULTAT_JEEDOM_Lum_IMG.png" alt="Resultat" /></p>
 
 <h4 id="Taille">Info du 26/08/2019 s</h4>
 Ce widget est supprimé, il est remplacé par <a href="JEEDOM-Lum_IMG_mini.html">Luminosité-IMG-Min</a>

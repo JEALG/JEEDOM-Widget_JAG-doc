@@ -7,11 +7,11 @@ description: Explication widget Lampe
 # Widget "Lampe" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
-<p><img src="Img/RESULTAT - JEEDOM-Lampe.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Lampe.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-<p><img src="Img/VISUEL - JEEDOM-Lampe.png" alt="Visuels" /></p>
+<p><img src="../img/VISUEL - JEEDOM-Lampe.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />

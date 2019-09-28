@@ -7,7 +7,7 @@ description: explication widget Icon_Mode (Mobile)
 # Widget "Icon_Mode (Mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
-<p><img src="Img/RESULTAT%20-%20JEEDOM-Icon_Mode.png" alt="Resultat" /></p>
+<p><img src="img/RESULTAT_JEEDOM_Icon_Mode.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>

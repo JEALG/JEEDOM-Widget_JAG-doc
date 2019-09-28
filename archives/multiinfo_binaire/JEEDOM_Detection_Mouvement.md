@@ -7,11 +7,11 @@ description: explication widget Detection Mouvement
 # Widget "Detection Mouvement" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - JEEDOM-Detection-Mouvement.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Detection-Mouvement.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-<p><img src="Img/VISUEL - JEEDOM-Mouv.png" alt="Visuels" /></p>
+<p><img src="../img/VISUEL - JEEDOM-Mouv.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />

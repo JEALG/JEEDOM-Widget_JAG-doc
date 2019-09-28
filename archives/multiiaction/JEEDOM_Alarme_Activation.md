@@ -7,11 +7,11 @@ description: Explication widget Alarme Activation
 # Widget "Alarme-Activation" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
-<p><img src="Img/RESULTAT - JEEDOM-Alarme-Activation.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Alarme-Activation.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-<p><img src="Img/VISUEL - JEEDOM-Alarme.png" alt="Visuels" /></p>
+<p><img src="../img/VISUEL - JEEDOM-Alarme.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />

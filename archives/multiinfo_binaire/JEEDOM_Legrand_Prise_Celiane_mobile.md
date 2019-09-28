@@ -7,7 +7,7 @@ description: explication widget Alarme-Status
 # Widget "Alarme-Status" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="Img/RESULTAT - JEEDOM-Legrand-Prise-Celiane--mobile.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Legrand-Prise-Celiane--mobile.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
