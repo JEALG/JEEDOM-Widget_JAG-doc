@@ -22,10 +22,10 @@ description: explication Modification size Texte
 <blockquote>
     <ul>
         <li><b>Taille normale</b></li>
-        <p><img src="Img/AIDE-CONFIG-SIZE%201.png" alt="Size normal" /></p>
+        <p><img src="../img/AIDE-CONFIG-SIZE%201.png" alt="Size normal" /></p>
         <li><b>Taille normale</b></li>
-        <p><img src="Img/AIDE-CONFIG-SIZE%202.png" alt="Size" /></p>
-        <p><img src="Img/AIDE-CONFIG-SIZE%203.png" alt="Size réglage" /></p>
+        <p><img src="../img/AIDE-CONFIG-SIZE%202.png" alt="Size" /></p>
+        <p><img src="../img/AIDE-CONFIG-SIZE%203.png" alt="Size réglage" /></p>
         </ul>
 </blockquote>
 
