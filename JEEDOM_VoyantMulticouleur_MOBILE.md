@@ -88,7 +88,7 @@ Il est possible de récupérer le même réglage que le dashboard
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
-            <li><a href="./aide/JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="./aide/JEEDOM-AIDE-CONFIG-INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
             <li><a href="./aide/JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>

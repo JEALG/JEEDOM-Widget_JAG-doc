@@ -53,11 +53,11 @@ Il est possible de personnaliser les niveaux :
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
-            <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
-            <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="./aide/JEEDOM_AIDE_CONFIG_Error.html">Paramétrage image de défaut</a></li>
+            <li><a href="./aide/JEEDOM_AIDE_CONFIG_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="./aide/JEEDOM_AIDE_CONFIG_STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+            <li><a href="./aide/JEEDOM_AIDE_CONFIG_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 
@@ -73,7 +73,7 @@ Il est possible de personnaliser les niveaux :
             <li><i>Remplacer <b>Niveau</b> par la valeur 0 ou 20 ou 40 ou 60 ou 80 ou 100</i></li>
         </ul>
         <ul>
-            <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+            <li><a href="./aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul> 
 </blockquote>
 

@@ -53,7 +53,7 @@ Pour choisir le type d'extension de l'image
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
             <li><a href="./aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
