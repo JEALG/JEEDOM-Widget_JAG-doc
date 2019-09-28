@@ -18,24 +18,9 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     <li><a href="../archives/multiinfo_binaire/JEEDOM_Detection_Mouvement.html">Widget Dashboard : <b>Detection Mouvement</b></a></li>
 </ul>
 
-## Automatisme
-<ul>
-
-</ul>
-
-## Autre
-<ul>
-
-</ul>
-
 ## Energie
 <ul>
     <li><a href="../archives/multiinfo_binaire/JEEDOM_Chaudiere_Etat.html">Widget Dashboard : <b>Chaudiere-Etat</b></a></li>
-</ul>
-
-## Humidité
-<ul>
-
 </ul>
 
 ## Lumière
@@ -43,20 +28,10 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     <li><a href="../archives/multiinfo_binaire/JEEDOM_Lampe_Binaire.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
 </ul>
 
-## Météo
-<ul>
-
-</ul>
-
 ## Ouverture
 <ul>
     <li><a href="../archives/multiinfo_binaire/JEEDOM_Fenetre_IMG.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
     <li><a href="../archives/multiinfo_binaire/JEEDOM_Store_IMG.html">Widget Dashboard : <b>Store_IMG</b></a></li>
-</ul>
-
-## Température
-<ul>
-
 </ul>
 
 <hr />

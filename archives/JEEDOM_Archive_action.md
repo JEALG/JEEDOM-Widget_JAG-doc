@@ -17,45 +17,16 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     <li><a href="../archives/multiaction/JEEDOM_Alarme_Activation_MOBILE.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
 </ul>
 
-## Automatisme
-<ul>
-
-</ul>
-
-## Autre
-<ul>
-
-</ul>
-
 ## Energie
 <ul>
     <li><a href="../archives/multiaction/JEEDOM_Chaudiere_Activation.html">Widget Dashboard : <b>Chaudiere-Activation</b></a></li>
     <li><a href="../archives/multiaction/JEEDOM_Fibaro_WallPlug.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
-</ul>
-## Humidité
-<ul>
-
 </ul>
 
 ## Lumière
 <ul>
     <li><a href="../archives/multiaction/JEEDOM_Lampe.html">Widget Dashboard : <b>Lampe</b></a></li>
     <li><a href="../archives/multiaction/JEEDOM_Lampe_MOBILE.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
-</ul>
-
-## Météo
-<ul>
-
-</ul>
-
-## Ouverture
-<ul>
-
-</ul>
-
-## Température
-<ul>
-
 </ul>
 
 <hr />

@@ -42,8 +42,6 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 <ul>
     <li><a href="./JEEDOM-Batterie-EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a></li>
     <li><a href="./JEEDOM-Batterie-telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a></li>
-
-      
 </ul>
 
 ## Humidité
