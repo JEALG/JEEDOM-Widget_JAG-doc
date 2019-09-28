@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Nettoyage des dossiers
 description: Nettoyage des dossiers
 ---
-[back](./)
+[back](../)
 # Rappel 
 <blockquote>
 Avant d'effectuer cette manipulation, il est conseillé de faire une sauvegarde de la Jeedon

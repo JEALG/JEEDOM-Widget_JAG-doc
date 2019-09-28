@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE-CONFIG-Action
 description: explication Aide pour le paramétrage des widgets de type Action
 ---
-[back](./)
+[back](../)
 # Aide pour le paramétrage des widgets de type action
 
 <h4 id="Para">Paramétrage de l'équipement</h4>

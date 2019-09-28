@@ -35,24 +35,6 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-<h4 id="Aider">Autres paramétrages possible et Aide</h4>
-<blockquote>
-        <ul>
-            <li><a href="./JEEDOM-AIDE-CONFIG-ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
-            <li><a href="JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
-        </ul>
-</blockquote>
-    
-<h1 id="Add img">Ajout d'image</h1>
-<hr />
-<blockquote>
-        Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images n'est pas normalisé sur ce widget
-        <ul>
-            <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
-        </ul>
-</blockquote>
-
 <hr />
 <dl>
     <a href="https://github.com/JEALG/JEEDOM-Fibaro-WallPlug/commits/master">Changelog WIDGET</a><br/>

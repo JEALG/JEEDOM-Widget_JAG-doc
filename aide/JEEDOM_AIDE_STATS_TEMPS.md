@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Affichage des informations de durée
 description: explication Affichage des informations de durée
 ---
-[back](./)
+[back](../)
 # Affichage des informations de durée
 <blockquote>
     Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF) sur les widgets de type info. il suffit d'ajouter un paramètre optionnel <i>Merci à @Salvialf pour le code</i>

@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-Archive Widget Info Binaire
 description: Archive Widget Info Binaire
 ---
-[back](./)
+[back](../)
 
 <blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget

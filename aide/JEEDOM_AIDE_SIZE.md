@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Modifier la taille du texte
 description: explication Modification size Texte
 ---
-[back](./)
+[back](../)
 # Affichage des informations de durée
 <blockquote>
     Il est possible de modifier la taille du textes de la valeur et de l'historique sur les widgets de type Info

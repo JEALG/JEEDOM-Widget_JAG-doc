@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Error
 description: explication Image défaut widget
 ---
-[back](./)
+[back](../)
 # Paramétrage image défaut Widget 
 
 <h4 id="Error">Choix de l'icône en cas d'erreur pour un widget "Dashboard"</h4>

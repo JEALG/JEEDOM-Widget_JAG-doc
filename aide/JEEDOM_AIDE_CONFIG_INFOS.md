@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE-CONFIG-INFO
 description: explication Aide pour le paramétrage des widgets de type info (binaire, numérique)
 ---
-[back](./)
+[back](../)
 # Aide pour le paramétrage des widgets de type info (binaire, numérique)
 
 <h4 id="Para">Paramétrage de l'équipement</h4>

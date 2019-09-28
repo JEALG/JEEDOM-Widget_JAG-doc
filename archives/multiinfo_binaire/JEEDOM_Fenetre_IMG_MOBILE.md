@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-Fenetre-IMG--Mobile
 description: explication widget Fenetre-IMG (mobile)
 ---
-[back](./)
+[back](../)
 # Widget "Fenetre-IMG (mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
@@ -37,17 +37,6 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         <ul>
             <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 40)</i></li>
             <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 40)</i></li>
-        </ul>
-</blockquote>
- 
-<h4 id="Aide">Autres paramétrages possible et Aide</h4>
-<blockquote>
-        <ul>
-            <li><a href="../aide/JEEDOM_AIDE_CONFIG_INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="../aide/JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="../aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="../aide/JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="../aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 

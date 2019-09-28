@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Ajout paramétrage
 description: explication Ajout paramétrage
 ---
-[back](./)
+[back](../)
 # Comment ajouter des paramétres
 
 <h4 id="Error">Ajout des paramétres</h4>

@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-Archive Widget Action
 description: Archive Widget Action
 ---
-[back](./)
+[back](../)
 
 <blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
