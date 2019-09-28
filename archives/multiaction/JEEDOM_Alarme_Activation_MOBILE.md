@@ -6,6 +6,20 @@ description: Explication widget Alarme-Activation (mobile)
 [back](../JEEDOM_Archive_action.html)
 # Widget "Alarme-Activation (mobile)" 
 
+<h4 id="A Savoir">A savoir</h4>
+<blockquote>
+<b>Afin de simplifier la gestion des images et la migration du widget en Core V4, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
+    <ul>
+            <li><b>Pour avoir les images</b><a href="../../JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+            <li><b>Pour le paramétrage, il faudra ajouter </b> :</li>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>alarme</i></li>
+            <li><b>Les autres variables sont identiques</b></li>
+        </ul>
+    </ul>
+</blockquote>
+
+
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
 <p><img src="../../img/RESULTAT_JEEDOM_Alarme_Activation_Mobile.png" alt="Resultat" /></p>
 <blockquote>
