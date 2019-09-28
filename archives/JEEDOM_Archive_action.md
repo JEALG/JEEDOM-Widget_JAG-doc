@@ -17,7 +17,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 ## Lumière
 <ul>
-    <li><a href="../archives/multiaction/JEEDOM_Lampe_MOBILE.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
+    <li><a href="../archives/multiaction/JEEDOM_Lampe.html">Widget Dashboard : <b>Lampe</b></a></li>
 </ul>
 
 <hr />
@@ -25,4 +25,4 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
-[back](./)
+[back](../)

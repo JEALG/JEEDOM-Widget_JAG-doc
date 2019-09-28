@@ -14,8 +14,8 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 ## Alarme
 <ul>
     <li><a href="../archives/multiinfo_binaire/JEEDOM_Alarme_Status_MOBILE.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
-    <li><a href="../archives/multiinfo_binaire/JEEDOM_Capteur_Fuite_Eau_MOBILE.html">Widget mobile: <b>Capteur-Fuite-Eau</b></a></li>
-    <li><a href="../archives/multiinfo_binaire/JEEDOM_Detection_Mouvement_MOBILE.html">Widget Mobile : <b>Detection Mouvement</b></a></li>
+    <li><a href="../archives/multiinfo_binaire/JEEDOM_Capteur_Fuite_Eau_MOBILE.html">Widget mobile: <b>Capteur-Fuite-Eau (mobile)</b></a></li>
+    <li><a href="../archives/multiinfo_binaire/JEEDOM_Detection_Mouvement_MOBILE.html">Widget Mobile : <b>Detection Mouvement (mobile)</b></a></li>
 </ul>
 
 ## Energie
@@ -33,4 +33,4 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
-[back](./)
+[back](../)
