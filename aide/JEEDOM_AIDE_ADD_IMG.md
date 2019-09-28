@@ -10,11 +10,11 @@ description: explication Ajout image
     <ul>
         <li>Il faut ce rendre dans le plugin Widget et sélectionner le widget voulu et cliquer sur <i><b>Fichiers</b></i></li>
     </ul>
-    <p><img src="../img/AIDE-ADD_IMG%20-%201.png" alt="IMG 1" /></p>
+    <p><img src="../img/AIDE_ADD_IMG_1.png" alt="IMG 1" /></p>
     <ul>
         <li>Cliquez sur <i><b>Parcourir et sélectionner les images voulu</b></i></li>
     </ul>
-    <p><img src="../img/AIDE-ADD_IMG%20-%202.png" alt="IMG 2" /></p>   
+    <p><img src="../img/AIDE_ADD_IMG_2.png" alt="IMG 2" /></p>   
 </blockquote>
 
 <dl>

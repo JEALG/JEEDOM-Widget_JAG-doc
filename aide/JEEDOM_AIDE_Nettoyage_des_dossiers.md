@@ -28,7 +28,6 @@ Il faut installer le plugin Jeexplorer
     <ul>
         <li>Faire une sauvegade de la jeedom</li>
         <li>Vérifier que vous avez les dernières versions des widgets</li>
-        <li>Attention pour les widgets <i><b>Multi info - Binaire</b></i> et <i><b>Multi info - Binaire (mobile)</b></i></li> Il faut les retélécharger depuis le <b>plugin </b> Widget (idem pour la version core V4)
     </ul>
 </blockquote>
 

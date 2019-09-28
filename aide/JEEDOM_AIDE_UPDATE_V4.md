@@ -20,7 +20,7 @@ Cela va permettre par un script de déplacer les widgets dans le nouveau dossier
     
 </ul>
 
-<p><img src="../img/AIDE-UPDATE-V4.png" alt="Error" /></p>
+<p><img src="../img/AIDE_UPDATE_V4.png" alt="Error" /></p>
 
 <hr />
 <dl>
