@@ -28,6 +28,9 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
             <li><a href="./archives/JEEDOM_Archive_action.html">Voir les anciens widgets prises en charge par ce widget</a></li>
     </ul>
     <li><a href="./JEEDOM_Multi_action_Defaut_mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a></li>
+        <ul>
+            <li><a href="./archives/JEEDOM_Archive_action_mobile.html">Voir les anciens widgets prises en charge par ce widget</a></li>
+    </ul>
     <li><a href="./JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
     <ul>
             <li><a href="./archives/JEEDOM_Archive_info_binaire.html">Voir les anciens widgets prises en charge par ce widget</a></li>

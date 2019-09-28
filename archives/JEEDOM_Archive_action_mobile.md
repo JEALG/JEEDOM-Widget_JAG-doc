@@ -1,7 +1,7 @@
 ---
 layout: default
-title: JEEDOM-Archive Widget Action (mobile)
-description: Archive Widget Action (mobile)
+title: JEEDOM-Archive Widget Action
+description: Archive Widget Action
 ---
 [back](../)
 
@@ -12,7 +12,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 ## Alarme
 <ul>
-    <li><a href="../archives/multiaction/JEEDOM_Alarme_Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
+    <li><a href="../archives/multiaction/JEEDOM_Alarme_Activation_MOBILE.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
 </ul>
 
 ## Lumière

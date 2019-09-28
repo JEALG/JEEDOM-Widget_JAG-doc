@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-Alarme-Activation--Mobile
 description: Explication widget Alarme-Activation (mobile)
 ---
-[back](../JEEDOM_Archive_action.html)
+[back](../JEEDOM_Archive_action_mobile.html)
 # Widget "Alarme-Activation (mobile)" 
 
 <h4 id="A Savoir">A savoir</h4>
@@ -61,4 +61,4 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
-[back](../JEEDOM_Archive_action.html)
+[back](../JEEDOM_Archive_action_mobile.html)
