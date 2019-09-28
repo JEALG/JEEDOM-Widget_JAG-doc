@@ -80,7 +80,7 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
     <li><a href="./JEEDOM-Thermometre--MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a></li>
 </ul>
 
-## Aide">Aide aux paramétrages
+## Aide aux paramétrages
 <ul>
     <li><a href="./aide/JEEDOM_AIDE_Error.html">Paramétrage image Erreur</a></li>
     <li><a href="./aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
