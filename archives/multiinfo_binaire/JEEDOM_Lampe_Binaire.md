@@ -6,6 +6,20 @@ description: explication widget Lampe-Binaire
 [back](../JEEDOM_Archive_info_binaire.html)
 # Widget "Lampe-Binaire" 
 
+<h4 id="A Savoir">A savoir</h4>
+<blockquote>
+    <b>Afin de simplifier la gestion des images et la migration du widget en Core V4, depuis le 10/09/2019, ce widget est remplacé par le widget <a href="./JEEDOM_Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></b>
+    <ul>
+        <li><b>Pour avoir les images </b><a href="../../JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+        <li><b>Pour avoir le paramétrage par défaut du widget Lampe-Binaire, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>lampe</i></li>
+            <li><b>logo</b> avec la valeur : <i>la_ampoule</i></li>
+            <li><b>Les autres variables sont identiques</b></li>
+        </ul>
+    </ul>
+</blockquote>
+
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="../../img/RESULTAT_JEEDOM_Lampe_Binaire.png" alt="Resultat" /></p>
 <blockquote>

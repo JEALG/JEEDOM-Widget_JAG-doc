@@ -6,6 +6,21 @@ description: explication widget Alarme-Status
 [back](../JEEDOM_Archive_info_binaire.html)
 # Widget "Alarme-Status" 
 
+<h4 id="A Savoir">A savoir</h4>
+<blockquote>
+    <b>Afin de simplifier la gestion des images et la migration du widget en Core V4, depuis le 10/09/2019, ce widget est remplacé par le widget <a href="./JEEDOM_Multi_info_Binaire.html">Widget Mobile : <b>Multi info - Binaire</b></a></b>
+    <ul>
+        <li><b>Pour avoir les images </b><a href="../../JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+        <li><b>Pour avoir le paramétrage par défaut du widget Alarme-Status, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>alarme</i></li>
+            <li><b>logoON</b> avec la valeur : <i>al_type0_off</i></li>
+            <li><b>logoOFF</b> avec la valeur : <i>al_type0_on</i></li>
+            <li><b>Les autres variables sont identiques</b></li>
+        </ul>
+    </ul>
+</blockquote>
+
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="../../img/RESULTAT_JEEDOM_Alarme_Activation.png" alt="Resultat" /></p>
 <blockquote>
