@@ -88,7 +88,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 <h1 id="Aide">Exemple Paramétrage d'un mode</h1>
-<p><img src="Img/ JEEDOM-Icon_Mode - Para mode.png" alt="exemple Para" /></p>
+<p><img src="./img/JEEDOM_Icon_Mode_Para mode.png" alt="exemple Para" /></p>
 <hr />
 <h4 id="Logo">Exemple</h4>
 Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG"
