@@ -57,11 +57,11 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
-            <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="JEEDOM-AIDE-Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
-            <li><a href="JEEDOM-AIDE-STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 
@@ -72,7 +72,7 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
         Le nommage des images n'est pas normalisé sur ce widget
         <ul>
-            <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul>
 </blockquote>
 

@@ -54,14 +54,13 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
     Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
         <ul>
             <li><b>dossier</b> : Nom du dossier (Par défaut : divers)</li>
-            <li><a href="./JEEDOM-Liste_images_dossiers.html">Listes des images par dossiers</a></li>
+            <li><a href="./JEEDOM_liste_images_dossiers.html">Listes des images par dossiers</a></li>
         </ul>
 </blockquote>
 <blockquote>
     Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
         <ul>
             <li><b>dossier-M</b> : Nom du dossier (Par défaut : divers)</li>
-            <li><a href="./JEEDOM-Liste_images_dossiers.html">Listes des images par dossiers</a></li>
         </ul>
 </blockquote>
 
@@ -79,9 +78,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <h4 id="Aider">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
-            <li><a href="./JEEDOM-AIDE-CONFIG-ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
-            <li><a href="JEEDOM-AIDE-STATS.html">Afficher les statistiques</a></li>
-            <li><a href="JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
     
@@ -91,7 +90,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
         Le nommage des images n'est pas normalisé sur ce widget
         <ul>
-            <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul>
 </blockquote>
 

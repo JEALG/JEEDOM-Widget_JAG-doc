@@ -14,9 +14,9 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 
 ## Automatisme
 <ul>
-    <li><a href="./JEEDOM-VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a></li>
-    <li><a href="./JEEDOM-VoyantMulticouleur--MOBILE.html">Widget Mobile : <b>Bouton en forme de voyant Multi couleur</b></a></li>
-    <li><a href="./JEEDOM-Store-banne.html">Widget Dashboard : <b>Store-banne</b></a></li>  
+    <li><a href="./JEEDOM_VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a></li>
+    <li><a href="./JEEDOM_VoyantMulticouleur_MOBILE.html">Widget Mobile : <b>Bouton en forme de voyant Multi couleur</b></a></li>
+    <li><a href="./JEEDOM_Store_banne.html">Widget Dashboard : <b>Store-banne</b></a></li>  
 </ul>
 
 ## Autre
@@ -89,13 +89,13 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
     <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique)</a></li>
     <li><a href="./aide/JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
     <li><a href="./aide/JEEDOM_AIDE_CONFIG_SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a></li>
-    <li><a href="./aide/JEEDOM_AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
     <li><a href="./aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </ul>
 
 ## Liste des images
 <ul>
-    <li><a href="./JEEDOM-Liste_images_dossiers.html">Listes des images des widgets </a></li>
+    <li><a href="./JEEDOM_Liste_images_dossiers.html">Listes des images des widgets </a></li>
 </ul>
 <hr />
 <dl>

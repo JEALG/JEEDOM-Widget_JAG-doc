@@ -53,8 +53,8 @@ Pour choisir le type d'extension de l'image
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
-            <li><a href="JEEDOM-AIDE-CONFIG-INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="JEEDOM-AIDE-PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_CONFIG_INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 
@@ -70,7 +70,7 @@ Pour choisir le type d'extension de l'image
             <li><i>Remplacer <b>COULEUR</b> par la valeur bk, bu, gn, or, rd, wh, ye</i></li>
         </ul>
         <ul>
-            <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+            <li><a href="../aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul>   
 </blockquote>
 
