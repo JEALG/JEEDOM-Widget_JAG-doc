@@ -6,6 +6,20 @@ description: Explication widget Lampe (mobile)
 [back](../JEEDOM_Archive_action.html)
 # Widget "Lampe (mobile)" 
 
+<h4 id="A Savoir">A savoir</h4>
+<blockquote>
+<b>Afin de simplifier la gestion des images et la migration du widget en Core V4, depuis le 10/09/2019, ce widget est remplacé par le widget <a href="../../JEEDOM_Multi_action_Defaut_mobile">Widget Dashboard : <b>Multi-action (mobile)</b></a></b>
+    <ul>
+        <li><b>Pour avoir les images </b><a href="../../JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+        <li><b>Pour le paramétrage, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>lampe</i></li>
+            <li><b>logo-M</b> avec la valeur : <i>la_ampoule</i></li>
+            <li><b>Les autres variables sont identiques</b>
+        </ul>
+    </ul>
+</blockquote>
+
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
 <p><img src="../../img/RESULTAT_JEEDOM_Lampe__mobile.png" alt="Resultat" /></p>
 <blockquote>
