@@ -52,25 +52,25 @@ Il est possible de déplacer la légende
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = low <i>(valeur par défaut)</i></li>
-            <p><img src="Img/RESULTAT - JEEDOM-Lum_IMG.png" alt="Resultat - Bas" /></p>
+            <p><img src="img/RESULTAT_JEEDOM_Lum_IMG.png" alt="Resultat - Bas" /></p>
         </ul>
 </blockquote>
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = right <i></i></li>
-            <p><img src="Img/RESULTAT - JEEDOM-Lum_IMG - Droite.png" alt="Resultat - Droite" /></p>
+            <p><img src="img/RESULTAT_JEEDOM_Lum_IMG_Droite.png" alt="Resultat - Droite" /></p>
         </ul>
 </blockquote>
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = left</li>
-            <p><img src="Img/RESULTAT - JEEDOM-Lum_IMG - Gauche.png" alt="Resultat - Gauche" /></p>
+            <p><img src="img/RESULTAT_JEEDOM_Lum_IMG_Gauche.png" alt="Resultat - Gauche" /></p>
         </ul>
 </blockquote>
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = top</li>
-            <p><img src="Img/RESULTAT - JEEDOM-Lum_IMG - Haut.png" alt="Resultat - Haut" /></p>
+            <p><img src="img/RESULTAT_JEEDOM_Lum_IMG_Haut.png" alt="Resultat - Haut" /></p>
         </ul>
 </blockquote>
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>

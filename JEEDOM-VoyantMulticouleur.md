@@ -12,7 +12,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Le widget inclus d'office 14 types d'icônes.
 </blockquote>
 
-<p><img src="Img/VISUEL - JEEDOM-Voyant.png" alt="Visuels" /></p>
+<p><img src="img/VISUEL_JEEDOM_Voyant.png" alt="Visuels" /></p>
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>

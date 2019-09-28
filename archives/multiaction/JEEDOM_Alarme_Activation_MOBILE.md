@@ -7,7 +7,7 @@ description: Explication widget Alarme-Activation (mobile)
 # Widget "Alarme-Activation (mobile)" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
-<p><img src="../../img/RESULTAT_JEEDOM_Alarme-Activation-Mobile.png" alt="Resultat" /></p>
+<p><img src="../../img/RESULTAT_JEEDOM_Alarme_Activation_Mobile.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>

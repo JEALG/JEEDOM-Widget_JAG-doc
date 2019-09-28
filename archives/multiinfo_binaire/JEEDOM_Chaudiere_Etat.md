@@ -7,7 +7,7 @@ description: explication widget Chaudière Etat
 # Widget "Alarme-Status" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="../../img/RESULTAT_JEEDOM_Chaudiere-ETAT.png" alt="Resultat" /></p>
+<p><img src="../../img/RESULTAT_JEEDOM_Chaudiere_ETAT.png" alt="Resultat" /></p>
 <blockquote>
     Les visuels possibles
 </blockquote>

@@ -12,7 +12,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Le widget inclus d'office 1 type d'icônes.
 </blockquote>
 
-<p><img src="img/VISUEL%20-%20JEEDOM-Batterie-telldusBattery.png" alt="Visuels" /></p>
+<p><img src="img/VISUEL_JEEDOM_Batterie_telldusBattery.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
