@@ -4,7 +4,7 @@ title: JEEDOM-Chaudiere-Etat
 description: explication widget Chaudière Etat
 ---
 [back](../JEEDOM_Archive_info_binaire.html)
-# Widget "Alarme-Status" 
+# Widget " Chaudière Etat" 
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>

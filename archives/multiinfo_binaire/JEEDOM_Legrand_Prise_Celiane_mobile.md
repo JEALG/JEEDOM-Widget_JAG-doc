@@ -4,7 +4,7 @@ title: JEEDOM-Legrand-Prise-Celiane--mobile
 description: explication widget Legrand-Prise-Celiane--mobile
 ---
 [back](../JEEDOM_Archive_info_binaire_mobile.html)
-# Widget "Alarme-Status" 
+# Widget "Legrand-Prise-Celiane--mobile" 
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>
