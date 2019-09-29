@@ -43,42 +43,42 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 
 ## Energie
 <ul>
-    <li><a href="./JEEDOM-Batterie-EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a></li>
-    <li><a href="./JEEDOM-Batterie-telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a></li>
+    <li><a href="./JEEDOM_Batterie_EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a></li>
+    <li><a href="./JEEDOM_Batterie_telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a></li>
 </ul>
 
 ## Humidité
 <ul>
-    <li><a href="./JEEDOM-Humidite-Goutte_eau.html">Widget Dashboard : <b>Humidite-Goutte_eau</b></a></li>
-    <li><a href="./JEEDOM-Humidite-Goutte_eau--Mobile.html">Widget mobile : <b>Humidite-Goutte_eau (mobile)</b></a></li>  
+    <li><a href="./JEEDOM_Humidite_Goutte_eau.html">Widget Dashboard : <b>Humidite-Goutte_eau</b></a></li>
+    <li><a href="./JEEDOM_Humidite_Goutte_eau_Mobile.html">Widget mobile : <b>Humidite-Goutte_eau (mobile)</b></a></li>  
 </ul>
 
 ## Lumière
 <ul>
-    <li><a href="./JEEDOM-Lum_IMG.html">Widget Dashboard : <b>Luminosité-IMG</b></a></li>
-    <li><a href="./JEEDOM-Lum_IMG_mini.html">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a></li>
-    <li><a href="./JEEDOM-Lum_IMG_mini--MOBILE.html">Widget Mobile : <b>Luminosité-IMG-Mini (mobile)</b></a></li>
+    <li><a href="./JEEDOM_Lum_IMG.html">Widget Dashboard : <b>Luminosité-IMG</b></a></li>
+    <li><a href="./JEEDOM_Lum_IMG_mini.html">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a></li>
+    <li><a href="./JEEDOM_Lum_IMG_mini_MOBILE.html">Widget Mobile : <b>Luminosité-IMG-Mini (mobile)</b></a></li>
 </ul>
 
 ## Météo
 <ul>
-    <li><a href="./JEEDOM-Barometre.html">Widget Dashboard : <b>Baromètre</b></a></li>
-    <li><a href="./JEEDOM-Biroute_vent.html">Widget Dashboard : <b>Biroute - vent</b></a></li>
-    <li><a href="./JEEDOM-Point-rosee.html">Widget Dashboard : <b>Point de rosée</b></a></li>
-    <li><a href="./JEEDOM-Tendance-Baro.html">Widget Dashboard : <b>Tendance-Baro</b></a></li>
+    <li><a href="./JEEDOM_Barometre.html">Widget Dashboard : <b>Baromètre</b></a></li>
+    <li><a href="./JEEDOM_Biroute_vent.html">Widget Dashboard : <b>Biroute - vent</b></a></li>
+    <li><a href="./JEEDOM_Point_rosee.html">Widget Dashboard : <b>Point de rosée</b></a></li>
+    <li><a href="./JEEDOM_Tendance_Baro.html">Widget Dashboard : <b>Tendance-Baro</b></a></li>
 </ul>
 
 ## Ouverture
 <ul>
-    <li><a href="./JEEDOM-Fenetre.html">Widget Dashboard : <b>Fenêtre (numérique)</b></a></li>
-    <li><a href="./JEEDOM-Fenetre--MOBILE.html">Widget Mobile: <b>Fenêtre (mobile) (numérique)</b></a></li>
-    <li><a href="./JEEDOM-Store-Velux-num.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a></li>
+    <li><a href="./JEEDOM_Fenetre.html">Widget Dashboard : <b>Fenêtre (numérique)</b></a></li>
+    <li><a href="./JEEDOM_Fenetre_MOBILE.html">Widget Mobile: <b>Fenêtre (mobile) (numérique)</b></a></li>
+    <li><a href="./JEEDOM_Store_Velux_num.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a></li>
 </ul>
 
 ## Température
 <ul>
-    <li><a href="./JEEDOM-Thermometre.html">Widget Dashboard : <b>Temperature thermometre</b></a></li>
-    <li><a href="./JEEDOM-Thermometre--MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a></li>
+    <li><a href="./JEEDOM_Thermometre.html">Widget Dashboard : <b>Temperature thermometre</b></a></li>
+    <li><a href="./JEEDOM_Thermometre_MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a></li>
 </ul>
 
 ## Aide aux paramétrages
