@@ -78,4 +78,4 @@ Il faut installer le plugin Jeexplorer
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
-[back](./)
+[back](../)

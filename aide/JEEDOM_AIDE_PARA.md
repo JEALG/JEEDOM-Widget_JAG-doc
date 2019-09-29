@@ -23,4 +23,4 @@ Pour ajouter les paramétres, il faut se rendre dans le menu de la configuration
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
-[back](./)
+[back](../)

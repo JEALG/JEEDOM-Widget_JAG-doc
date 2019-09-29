@@ -51,4 +51,4 @@ A la date d'écriture de la documentation, ce paramétrage ne fonctionne pas sur
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
-[back](./)
+[back](../)

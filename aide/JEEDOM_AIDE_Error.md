@@ -69,4 +69,4 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
-[back](./)
+[back](../)

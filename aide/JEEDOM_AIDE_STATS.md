@@ -25,4 +25,4 @@ Ensuite cocher <i>Afficher les statistiques</i> soit pour le Dashboard soit pour
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
-[back](./)
+[back](../)

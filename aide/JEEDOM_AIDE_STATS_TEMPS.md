@@ -37,4 +37,4 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
-[back](./)
+[back](../)

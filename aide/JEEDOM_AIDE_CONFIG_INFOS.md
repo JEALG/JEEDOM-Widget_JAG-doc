@@ -39,4 +39,4 @@ Cliqur sur le bouton <i>Ajouter</i> pour ajouter les différents paramétres du 
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
-[back](./)
+[back](../)
