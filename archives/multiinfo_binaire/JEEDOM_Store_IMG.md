@@ -15,7 +15,7 @@ description: explication widget Store_IMG
         <ul>
             <li><b>dossier</b> avec la valeur : <i>store</i></li>
             <li><b>logoON</b> avec la valeur : <i>st_volet_pos0</i></li>
-            <li><b>logoOFF</b> avec la valeur : <i>st_volet_pos99</i></li>
+            <li><b>logoOFF</b> avec la valeur : <i> st_volet_pos99</i></li>
             <li><b>Les autres variables sont identiques</b></li>
         </ul>
     </ul>
