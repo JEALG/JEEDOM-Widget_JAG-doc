@@ -28,7 +28,7 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
             <li><a href="./archives/JEEDOM_Archive_action.html">Voir les anciens widgets prises en charge par ce widget</a></li>
     </ul>
     <li><a href="./JEEDOM_Multi_action_Defaut_mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a></li>
-        <ul>
+    <ul>
             <li><a href="./archives/JEEDOM_Archive_action_mobile.html">Voir les anciens widgets prises en charge par ce widget</a></li>
     </ul>
     <li><a href="./JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
@@ -55,8 +55,10 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 
 ## Lumière
 <ul>
-    <li><a href="./JEEDOM_Lum_IMG.html">Widget Dashboard : <b>Luminosité-IMG</b></a></li>
     <li><a href="./JEEDOM_Lum_IMG_mini.html">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a></li>
+    <ul>
+            <li><a href="./archives/JEEDOM_Lum_IMG.htmle.html">voir l'ancien Widget Dashboard : <b>Luminosité-IMG</b></a></li>
+    </ul>
     <li><a href="./JEEDOM_Lum_IMG_mini_MOBILE.html">Widget Mobile : <b>Luminosité-IMG-Mini (mobile)</b></a></li>
 </ul>
 
