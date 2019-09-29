@@ -6,6 +6,11 @@ description: explication widget Humidite-Goutte_eau
 [back](./)
 # Widget "Humidite-Goutte_eau (mobile)" 
 
+<h4 id="A Savoir">A savoir</h4>
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
+</blockquote>
+
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="img/RESULTAT_JEEDOM_Humidite_Goutte_eau__Mobile.png" alt="Resultat" /></p>
 

@@ -9,8 +9,11 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
     <li><a href="./aide/JEEDOM_AIDE_UPDATE_V4.html">Mise à jour des widgets pour le core v4</a></li>
 </ul>
 
-## Alarme
 
+## A SAVOIT
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets</b>
+</blockquote>
 
 ## Automatisme
 <ul>
