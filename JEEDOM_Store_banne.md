@@ -57,7 +57,7 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG-INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
             <li><a href="./aide/JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
             <li><a href="./aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
             <li><a href="./aide/JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
