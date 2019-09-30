@@ -14,6 +14,19 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
+Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
+</blockquote>
+<p><img src="img/VISUEL_JEEDOM_Vent.png" alt="Visuels" /></p>
+
+<h4 id="Logo">Choix de l'icône</h4>
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+<blockquote>
+        <ul>
+            <li><b>logo</b> : Permet de choisir l'image pour la valeur<i>(valeur par défaut : ve_manche2)</i></li>
+            <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+        </ul>
+</blockquote>
+
 <h4 id="Taille">Taille des images ou des icônes</h4>
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
