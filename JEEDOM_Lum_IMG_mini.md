@@ -19,6 +19,10 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <blockquote>
         <ul>
             <li><b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
+            <ul>
+                <li><i>Pourcentage = NO</i> la taille sera en "px"</li>
+                <li><i>Pourcentage = YES</i> la taille sera en "%"</li>
+            </ul>
             <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 65)</i></li>
             <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 70)</i></li>
         </ul>

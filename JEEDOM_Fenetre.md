@@ -64,15 +64,18 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
     </ul>
 </blockquote>      
 
-
 <h4 id="Taille">Taille des images ou des icônes</h4>
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
-    <ul>
-        <li><b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
-        <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
-        <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
-    </ul>
+        <ul>
+            <li><b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
+            <ul>
+                <li><i>Pourcentage = NO</i> la taille sera en "px"</li>
+                <li><i>Pourcentage = YES</i> la taille sera en "%"</li>
+            </ul>
+            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
+            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
+        </ul>
 </blockquote>
  
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>

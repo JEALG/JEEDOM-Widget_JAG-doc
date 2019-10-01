@@ -65,11 +65,14 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 </blockquote>
 
 <h4 id="Taille">Taille des images ou des icônes</h4>
-Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant : (en px ou %)
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
-            <li><b>Pourcentage-M = <i>NO</i></b> : Permet de choisir la taille en "px" <i>(valeur par défaut : NO)</i></li>
-            <li><b>Pourcentage-M = <i>YES</i></b> : Permet de choisir la taille en "%"</li>
+            <li><b>Pourcentage-M</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
+            <ul>
+                <li><i>Pourcentage-M = NO</i> la taille sera en "px"</li>
+                <li><i>Pourcentage-M = YES</i> la taille sera en "%"</li>
+            </ul>
             <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 40)</i></li>
             <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 40)</i></li>
         </ul>
