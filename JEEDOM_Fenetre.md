@@ -87,16 +87,18 @@ Voici un exemple de configuration
 <blockquote>
 Tout d'abord j'ai créé un virtuel avec com
 <p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_1.png" alt="Visuels" /></p>
-et j'ai configuré l'etat "Fenêtres" 
-<p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_2.png" alt="Visuels" /></p>
 </blockquote>
+<blockquote>
+et j'ai configuré l'etat "Fenêtres"
+</blockquote>
+<p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_2.png" alt="Visuels" /></p>
 
 <blockquote>
 Ensuite j'ai créer un scénario avec le paramétrage suivant
+</blockquote>
 <p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_3.png" alt="Visuels" /></p>
 <p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_4.png" alt="Visuels" /></p>
-</blockquote>
- 
+
  
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
