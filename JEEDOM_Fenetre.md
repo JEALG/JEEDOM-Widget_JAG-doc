@@ -85,7 +85,7 @@ Voici un exemple de configuration
 </blockquote> 
 
 <blockquote>
-Tout d'abord j'ai créé un virtuel avec com
+Tout d'abord j'ai créé un virtuel avec comme configs
 <p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_1.png" alt="Visuels" /></p>
 </blockquote>
 <blockquote>
