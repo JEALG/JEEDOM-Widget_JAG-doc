@@ -77,6 +77,26 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
         </ul>
 </blockquote>
+
+<h4 id="Exemples">Exemples de paramétrage</h4>
+Voici un exemple de configuration
+<blockquote>
+        <li><b>Ma config</b> : 1 baie avec 2 capteurs</li>
+</blockquote> 
+
+<blockquote>
+Tout d'abord j'ai créé un virtuel avec com
+<p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_1.png" alt="Visuels" /></p>
+et j'ai configuré l'etat "Fenêtres" 
+<p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_2.png" alt="Visuels" /></p>
+</blockquote>
+
+<blockquote>
+Ensuite j'ai créer un scénario avec le paramétrage suivant
+<p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_3.png" alt="Visuels" /></p>
+<p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_4.png" alt="Visuels" /></p>
+</blockquote>
+ 
  
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
