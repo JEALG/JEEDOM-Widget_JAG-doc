@@ -4,9 +4,9 @@ title: JEEDOM-AIDE Modifier la taille du texte
 description: explication Modification size Texte
 ---
 [back](../)
-# Affichage des informations de durée
+# Modification de la taille du texte
 <blockquote>
-    Il est possible de modifier la taille du textes de la valeur et de l'historique sur les widgets de type Info
+    Il est possible de modifier la taille du textes de la valeur et de l'historique sur certains widgets de type Info
 </blockquote>
 
 <h4 id="Size">Les variables</h4>
