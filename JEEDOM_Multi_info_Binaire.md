@@ -55,7 +55,7 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 <blockquote>
         <ul>
             <li><b>dossier</b> : Nom du dossier (Par défaut : fibarooeil)</li>
-            <li><a href="./JEEDOM_liste_images_dossiers.html">Listes des images par dossiers</a></li>
+            <li><a href="./JEEDOM_Liste_images_dossiers.html">Listes des images par dossiers</a></li>
         </ul>
 </blockquote>
 

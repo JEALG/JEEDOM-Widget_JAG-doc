@@ -39,7 +39,7 @@ Liste des images par dossiers
         <li>prise</li>
         <p><img src="img/VISUEL_JEEDOM_Prise.png" alt="Visuels" /></p>
         <li>season</li>
-        <p><img src="img/VISUEL_JEEDOM_saison.png" alt="Visuels" /></p>
+        <p><img src="img/VISUEL_JEEDOM_Saison.png" alt="Visuels" /></p>
         <li>signal</li>
         <p><img src="img/VISUEL_JEEDOM_Signal.png" alt="Visuels" /></p>
         <li>store</li>
