@@ -89,14 +89,21 @@ Voici un exemple de configuration
 <blockquote>
 Tout d'abord j'ai créé un virtuel avec comme configs :
     <ul>
-        <li>Avec une <i>info virtuelle</i> avec le nom <i>ETAT</i> : Cette info sera créer automatiquement lors de la création des commandes</li>
         <li>Avec une <i>info virtuelle</i> avec le nom <i>Fenêtre</i> : Cette info aura juste la fonction d'affichage</li>
-        <li>Avec une <i>commande virtuelle</i> avec le nom <i>Ouv-G</i> : Correspond à l'état de la fenêtre de gauche</li>
+        <img src="img/CONFIG_JEEDOM_FENETRE_NUM_FEN.png" alt="Visuels" />
+        <li>Avec une <i>commande virtuelle</i> avec le nom <i>Ouv-G</i> : Correspond à l'état de la fenêtre de gauche, j'affecte les valeurs suivantes :
+            <ul>
+                <li><b>ETAT</b> aura la valeur 1 </li>
+                <li><b>Fenêtres</b> aura la valeur 1 </li>
+            </ul>
+        </li>
         <img src="img/CONFIG_JEEDOM_FENETRE_NUM_G.png" alt="Visuels" />
         <li>Avec une <i>commande virtuelle</i> avec le nom <i>Ouv-D</i> : Correspond à l'état de la fenêtre de droite</li>
         <img src="img/CONFIG_JEEDOM_FENETRE_NUM_D.png" alt="Visuels" />
         <li>Avec une <i>commande virtuelle</i> avec le nom <i>Ouv-D_G</i> : Correspond à l'état des 2 fenêtres</li>
         <img src="img/CONFIG_JEEDOM_FENETRE_NUM_D_G.png" alt="Visuels" />
+        <li>Avec une <i>info virtuelle</i> avec le nom <i>ETAT</i> : Cette info sera créer automatiquement lors de la création des commandes, elle servira pour l'ensemble de mes scénarios</li>
+        <img src="img/CONFIG_JEEDOM_FENETRE_NUM_ETAT.png" alt="Visuels" />
     </ul>
 </blockquote>
 <blockquote>
