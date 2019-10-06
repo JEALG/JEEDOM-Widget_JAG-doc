@@ -134,11 +134,32 @@ et j'ai configuré l'etat <b>Fenêtres</b>
                 <img src="img/CONFIG_JEEDOM_FENETRE_NUM_FEN_AFF_1.png" alt="Visuels" />
                 <li><b>Paramètres optionnels widget</b> j'ajoute les valeurs :
                     <ul>
-                        <li><b>Pour l'état 0</b> j'affecte le widget
+                        <li><b>Pour l'état 0</b> j'affecte les valeurs suivantes
                             <ul>
                                 <li><b>logo_0</b> ou_baie2_wh_db_off</li>
                                 <li><b>valeur_0</b> 0</li>
                                 <img src="img/CONFIG_JEEDOM_FENETRE_NUM_FEN_AFF_1_0.png" alt="Visuels" />
+                            </ul>
+                        </li>
+                        <li><b>Pour l'état 1</b> j'affecte les valeurs suivantes
+                            <ul>
+                                <li><b>logo_1</b> ou_baie2_wh_lf_on</li>
+                                <li><b>valeur_1</b> 1</li>
+                                <img src="img/CONFIG_JEEDOM_FENETRE_NUM_FEN_AFF_1_1.png" alt="Visuels" />
+                            </ul>
+                        </li>
+                        <li><b>Pour l'état 2</b> j'affecte les valeurs suivantes
+                            <ul>
+                                <li><b>logo_2</b> ou_baie2_wh_rg_on</li>
+                                <li><b>valeur_2</b> 2</li>
+                                <img src="img/CONFIG_JEEDOM_FENETRE_NUM_FEN_AFF_1_2.png" alt="Visuels" />
+                            </ul>
+                        </li>
+                        <li><b>Pour l'état 3</b> j'affecte les valeurs suivantes
+                            <ul>
+                                <li><b>logo_3</b> ou_baie2_wh_db_on/li>
+                                <li><b>valeur_3</b> 3</li>
+                                <img src="img/CONFIG_JEEDOM_FENETRE_NUM_FEN_AFF_1_3.png" alt="Visuels" />
                             </ul>
                         </li>
                     </ul>
