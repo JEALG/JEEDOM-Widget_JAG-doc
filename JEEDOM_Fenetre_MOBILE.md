@@ -75,6 +75,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
     </ul>
 </blockquote>
+
+<h4 id="Exemples">Exemples de paramétrage</h4>
+<li><a href="./aide/JEEDOM_AIDE_PARA_FENETRES.html">Exemple de paramétrages</a></li>
  
 <h4 id="Aide">Autres paramétrages possible et Aide</h4>
 <blockquote>
