@@ -29,6 +29,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
     </ul>
 </blockquote>
 <blockquote>
+    Les valeurs pour la variable <b>logo_x</b>par défaut sont :
     <ul>
         <li><b>logo_<b>0</b></b> : <i>valeur par défaut : ou_baie2_wh_db_off</i></li>
         <li><b>logo_<b>1</b></b> : <i>valeur par défaut : ou_baie2_wh_lf_on</i></li>
@@ -51,6 +52,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
     </ul>
 </blockquote>
 <blockquote>
+     Les valeurs pour la variable <b>valeur_x</b>par défaut sont :
     <ul>
         <li><b>valeur_<b>0</b></b> : <i>valeur par défaut : 0</i></li>
         <li><b>valeur_<b>1</b></b> : <i>valeur par défaut : 1</i></li>
@@ -85,8 +87,17 @@ Voici un exemple de configuration
 </blockquote> 
 
 <blockquote>
-Tout d'abord j'ai créé un virtuel avec comme configs
-<p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_1.png" alt="Visuels" /></p>
+Tout d'abord j'ai créé un virtuel avec comme configs :
+    <ul>
+        <li>Avec une <i>info virtuelle</i> avec le nom <i>ETAT</i> : Cette info sera créer automatiquement lors de la création des commandes</li>
+        <li>Avec une <i>info virtuelle</i> avec le nom <i>Fenêtre</i> : Cette info aura juste la fonction d'affichage</li>
+        <li>Avec une <i>commande virtuelle</i> avec le nom <i>Ouv-G</i> : Correspond à l'état de la fenêtre de gauche</li>
+        <img src="img/CONFIG_JEEDOM_FENETRE_NUM_G.png" alt="Visuels" />
+        <li>Avec une <i>commande virtuelle</i> avec le nom <i>Ouv-D</i> : Correspond à l'état de la fenêtre de droite</li>
+        <img src="img/CONFIG_JEEDOM_FENETRE_NUM_D.png" alt="Visuels" />
+        <li>Avec une <i>commande virtuelle</i> avec le nom <i>Ouv-D_G</i> : Correspond à l'état des 2 fenêtres</li>
+        <img src="img/CONFIG_JEEDOM_FENETRE_NUM_D_G.png" alt="Visuels" />
+    </ul>
 </blockquote>
 <blockquote>
 et j'ai configuré l'etat "Fenêtres"
