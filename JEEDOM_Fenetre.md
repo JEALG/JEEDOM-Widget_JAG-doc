@@ -158,7 +158,7 @@ et j'ai configuré l'etat <b>Fenêtres</b>
                         <li><b>Pour l'état 3</b> j'affecte les valeurs suivantes
                             <ul>
                                 <li><b>logo_3 : </b>ou_baie2_wh_db_on</li>
-                                <li><b>valeur_3 : </b></li>
+                                <li><b>valeur_3 : </b>3</li>
                                 <img src="img/CONFIG_JEEDOM_FENETRE_NUM_FEN_AFF_1_3.png" alt="Visuels" />
                             </ul>
                         </li>
