@@ -81,6 +81,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 <h4 id="Exemples">Exemples de paramétrage</h4>
+<li><a href="./aide/JEEDOM_AIDE_PARA_FENETRES.html">Exemple de paramétrages</a></li>
 Voici un exemple de configuration
 <blockquote>
         <li><b>Ma config</b> : 1 baie avec 2 capteurs</li>
