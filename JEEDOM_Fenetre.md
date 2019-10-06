@@ -124,10 +124,29 @@ Tout d'abord j'ai créé un virtuel avec comme configs :
     </ul>
 </blockquote>
 <blockquote>
-et j'ai configuré l'etat "Fenêtres"
+et j'ai configuré l'etat <b>Fenêtres</b>
+    <ul>
+        <li>Dans l'onglet <i>configuration</i> dans la partie <i>Type générique</i> : j'affecte la valeur <i>Fenêtre</i></li>
+        <img src="img/CONFIG_JEEDOM_FENETRE_NUM_FEN_CONFIG.png" alt="Visuels" />
+        <li>Dans l'onglet <i>configuration</i> dans la partie <i>Affichage</i> : j'affecte les paramétres suivants :
+            <ul>
+                <li><b>Widget</b> j'affecte le widget</li>
+                <img src="img/CONFIG_JEEDOM_FENETRE_NUM_FEN_AFF_1.png" alt="Visuels" />
+                <li><b>Paramètres optionnels widget</b> j'ajoute les valeurs :
+                    <ul>
+                        <li><b>Pour l'état 0</b> j'affecte le widget
+                            <ul>
+                                <li><b>logo_0</b> ou_baie2_wh_db_off</li>
+                                <li><b>valeur_0</b> 0</li>
+                                <img src="img/CONFIG_JEEDOM_FENETRE_NUM_FEN_AFF_1_0.png" alt="Visuels" />
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
 </blockquote>
-<p><img src="img/CONFIG_JEEDOM_FENETRE_NUM_2.png" alt="Visuels" /></p>
-
 <blockquote>
 Ensuite j'ai créer un scénario avec le paramétrage suivant
 </blockquote>
