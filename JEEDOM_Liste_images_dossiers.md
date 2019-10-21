@@ -21,7 +21,7 @@ Liste des images par dossiers
         <li>divers</li>
         <p><img src="img/VISUEL_JEEDOM_Divers.png" alt="Visuels" /></p>
         <li>eau</li>
-        <p><img src="img/VISUEL_JEEDOM_Capteur_Fuite_Eau.png" alt="Visuels" /></p>
+        <p><img src="img/VISUEL_JEEDOM_Eau.png" alt="Visuels" /></p>
         <li>error</li>
         <p><img src="img/VISUEL_JEEDOM_Error.png" alt="Visuels" /></p>
         <li>fenetre</li>

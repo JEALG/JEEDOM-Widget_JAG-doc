@@ -10,7 +10,7 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 </ul>
 
 
-## A SAVOIT
+## A SAVOIR
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets</b>
 </blockquote>
