@@ -59,4 +59,8 @@ Liste des images par dossiers
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
+* Les informations système
+* Le nombre d'appels en absences
+    * Le nombre d'appels passés
+
 [back](./)
