@@ -54,7 +54,7 @@ Se rendre dans le dossier correspondant au type de widget <i>Les widgets mobiles
     </blockquote>
 </ul>
 <p><img src="../img/AIDE_V4_ADD_Widget_1.png" alt="ADD" /></p>
-
+Cliquer sur <img src="../img/AIDE_V4_ADD_Widget_2.png" alt="ADD" />
 
 
 <hr />
