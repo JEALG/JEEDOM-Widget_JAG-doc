@@ -76,7 +76,9 @@ Pour choisir le type d'extension de l'image
 
 <hr />
 <dl>
-    <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/master">Changelog WIDGET</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur-/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/masterv4">Changelog WIDGET Pour le Core V4</a><br/>
+    <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/master">Changelog WIDGET pour le Core V3</a><br/>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
