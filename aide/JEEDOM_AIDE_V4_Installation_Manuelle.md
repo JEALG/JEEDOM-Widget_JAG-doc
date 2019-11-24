@@ -33,7 +33,7 @@ Sélectionner la branche voulu :
 Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
 <p><img src="../img/AIDE_V4_Github_branche_2.png" alt="Download" /></p>
 
-# Plugin necessaire
+# Plugin nécessaire
 Il faut installer le plugin Jeexplorer
     Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom.
     Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
