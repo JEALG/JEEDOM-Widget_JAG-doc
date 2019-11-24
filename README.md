@@ -6,7 +6,8 @@ Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la proc
 </blockquote>
 <ul>
     <li><a href="./aide/JEEDOM_AIDE_Nettoyage_des_dossiers.html">Nettoyage des dossiers</a></li>
-    <li><a href="./aide/JEEDOM_AIDE_UPDATE_V4.html">Mise à jour des widgets pour le core v4</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_V4_Installation_Manuelle.html">Installation Manuelle des widgets</a></li>
+    <li><a href="./aide/JEEDOM_AIDE_V4_UPDATE.html">Mise à jour des widgets pour le core v4</a></li>
 </ul>
 
 
