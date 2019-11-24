@@ -6,7 +6,7 @@ description: Info V4
 [back](../)
 # Info
 <blockquote>
-Comme vous le savez le plugin widget va disparaitre avec la v4. Si vous voulez continuer a utiliser mes widgets et avoir les mises à jour. Voici une méthode vous permetant d'installation et de mise à jour
+Comme vous le savez le plugin widget va disparaitre avec la v4. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour. Voici une méthode vous permetant d'installation et de mise à jour
 </blockquote>
 
 # A Savoir
@@ -17,14 +17,16 @@ Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <b><i>JEEDO
 # Récupérer les sources
 Les sources sont disponible sur mon github 
 <a href="https://github.com/JEALG">Mon Github</a>
-Choisir le widget voulu, voici un exemple pour récupèrer les sources
+Choisir le widget voulu
+voici un exemple pour récupèrer les sources
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut">JEEDOM-Multi_action-Defaut</a>
-
-
-En cours de rédaction
-
-
-
+<p><img src="../img/AIDE_V4_Github_branche_1.png" alt="Choix Branche" /></p>
+Sélectionner la branche voulu :
+* Beta : Version en test 
+* Master : Version Stable pour le Core <b>V3</b>
+* MasterV4 : Version Stable pour le core <b>V4</b>
+Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
+<p><img src="../img/AIDE_V4_Github_branche_2.png" alt="Download" /></p>
 
 # Mise à jour
 <blockquote>
