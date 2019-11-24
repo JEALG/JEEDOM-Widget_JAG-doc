@@ -51,7 +51,7 @@ Se rendre dans le dossier correspondant au type de widget
     <blockquote>
         <ul>
             <li>data/customTemplates/dashboard/</li>
-            <li>data/customTemplates/mobile/ <i>Le nom des reposite de mes widgets mobile se termine par "--mobile"</i></li>
+            <li>data/customTemplates/mobile/ <i>Le nom des reposites de mes widgets mobile se termine par "--mobile"</i></li>
         </ul>
     </blockquote>
 </ul>
