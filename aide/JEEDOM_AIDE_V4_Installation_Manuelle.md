@@ -1,14 +1,30 @@
 ---
 layout: default
-title: JEEDOM-AIDE Update v4
+title: JEEDOM-AIDE Installation Manuelle des widgets
 description: Info V4
 ---
 [back](../)
 # Info
 <blockquote>
-Comme vous le savez le plugin widget va disparaitre avec la v4. J'ai trouvé un moyen pour mettre à jour les widgets pour le core V4
-
+Comme vous le savez le plugin widget va disparaitre avec la v4. Si vous voulez continuer a utiliser mes widgets et avoir les mises à jour. Voici une méthode vous permetant d'installation et de mise à jour
 </blockquote>
+
+# A Savoir
+<blockquote>
+Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <b><i>JEEDOM-Multi_action-Defaut</i></b>
+</blockquote>
+
+# Récupérer les sources
+Les sources sont disponible sur mon github 
+<a href="https://github.com/JEALG">Mon Github</a>
+Choisir le widget voulu, voici un exemple pour récupèrer les sources
+<a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut">JEEDOM-Multi_action-Defaut</a>
+
+
+En cours de rédaction
+
+
+
 
 # Mise à jour
 <blockquote>
