@@ -1,12 +1,12 @@
 ---
 layout: default
-title: JEEDOM-AIDE Update v4
+title: JEEDOM-AIDE Update V4
 description: Info V4
 ---
 [back](../)
 # Info
 <blockquote>
-Comme vous le savez le plugin widget va disparaitre avec la v4. J'ai trouvé un moyen pour mettre à jour les widgets pour le core V4 via le market.
+Comme vous le savez le plugin widget va disparaitre avec la version du Core V4. J'ai trouvé un moyen pour mettre à jour les widgets pour le core V4 via le market.
 Attention, cette méthode n'est valable si vous avez le plugin Widget encore installé
 
 </blockquote>

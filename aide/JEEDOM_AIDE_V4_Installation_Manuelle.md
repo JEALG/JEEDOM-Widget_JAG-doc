@@ -6,7 +6,7 @@ description: Installation Manuelle des widgets pour le core V4
 [back](../)
 # Info
 <blockquote>
-Comme vous le savez le plugin widget va disparaitre avec la v4. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour. Voici une méthode vous permetant d'installation et de mise à jour
+Comme vous le savez le plugin widget va disparaitre avec la version du Core V4. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour. Voici une méthode vous permetant d'installation et de mise à jour
 </blockquote>
 
 # A Savoir
@@ -34,22 +34,27 @@ Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
 Il faut installer le plugin Jeexplorer
     Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom. Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
 </blockquote>
+
 <ul>
     <li><a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a></li>
     <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>   
 </ul>
 
-# Mise à jour
-<blockquote>
-Effectuer toutes les mises à jour du core y compris des plugins/widget. N'oubliez pas de télécharger les widgets Multi-binaire (mobile et dashboard)
-</blockquote>
+# Installation ou Mise à jour
+
+
 <ul>
-Une fois la mise à jour faite, faite une mise à jour du core en sélectionnant dans la case "Mise à jour à réappliquer", la version <b>4.0.3</b>
-Cela va permettre par un script de déplacer les widgets dans le nouveau dossier
-    
+  <li><b>l'ensemble des fichiers sont à copier dans les dossiers suivant :</b></li>
+    <blockquote>
+        <ul>
+            <li>data/customTemplates/dashboard/</li>
+            <li>data/customTemplates/mobile/</li>
+        </ul>
+    </blockquote>
 </ul>
 
-<p><img src="../img/AIDE_UPDATE_V4.png" alt="Error" /></p>
+
+
 
 <hr />
 <dl>
