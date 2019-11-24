@@ -43,20 +43,21 @@ Il faut installer le plugin Jeexplorer
 # Installation ou Mise à jour
 Dézipper le fichier télécharger.
 Se rendre dans Jeedom et ouvrir le plugin <i>Organisation/Jeexplorer</i>
-Se rendre dans le dossier correspondant au type de widget <i>Les widgets mobiles ont "--mobile" à la fin de leur nom</i>
+Se rendre dans le dossier correspondant au type de widget
 <ul>
   <b>l'ensemble des fichiers sont à copier dans les dossiers suivant :</b>
     <blockquote>
         <ul>
             <li>data/customTemplates/dashboard/</li>
-            <li>data/customTemplates/mobile/</li>
+            <li>data/customTemplates/mobile/ <i>Le nom des reposite de mes widgets mobile se termine par "--mobile"</i></li>
         </ul>
     </blockquote>
 </ul>
 <p><img src="../img/AIDE_V4_ADD_Widget_1.png" alt="ADD" /></p>
-Cliquer sur <img src="../img/AIDE_V4_ADD_Widget_2.png" alt="ADD" />
-
-
+Cliquer sur 
+<p><img src="../img/AIDE_V4_ADD_Widget_1.png" alt="ADD" /></p>
+Cliquer ensuite sur <i>Sélectionner les fichiers à envoyer</i> ou pour envoyer l'ensemble des dossiers, cliquer sur <i>Choisir le dossier</i>
+<p><img src="../img/AIDE_V4_ADD_Widget_3.png" alt="ADD" /></p>
 <hr />
 <dl>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
