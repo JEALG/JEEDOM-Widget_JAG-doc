@@ -22,20 +22,18 @@ voici un exemple pour récupèrer les sources
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut">JEEDOM-Multi_action-Defaut</a>
 <p><img src="../img/AIDE_V4_Github_branche_1.png" alt="Choix Branche" /></p>
 Sélectionner la branche voulu :
-    <blockquote>
+<blockquote>
     <ul>
         <li>Beta : Version en test</li>
         <li>Master : Version Stable pour le Core <b>V3</b></li>
         <li>MasterV4 : Version Stable pour le core <b>V4</b></li>
     </ul>
-    </blockquote>
-
+</blockquote>
 Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
 <p><img src="../img/AIDE_V4_Github_branche_2.png" alt="Download" /></p>
 
 # Plugin necessaire
 Il faut installer le plugin Jeexplorer
-</p>
     Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom. Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
 <ul>
     <li><a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a></li>
