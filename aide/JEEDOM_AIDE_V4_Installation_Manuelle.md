@@ -6,7 +6,8 @@ description: Installation Manuelle des widgets pour le core V4
 [back](../)
 # Info
 <blockquote>
-Comme vous le savez le plugin widget va disparaitre avec la version du Core V4. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour. Voici une méthode vous permetant d'installation et de mise à jour
+Comme vous le savez le plugin widget va disparaitre avec la version du Core V4. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour. 
+    Voici une méthode vous permetant d'installer et de faire les mises à jour.
 </blockquote>
 
 # A Savoir
@@ -34,7 +35,8 @@ Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
 
 # Plugin necessaire
 Il faut installer le plugin Jeexplorer
-    Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom. Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
+    Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom.
+    Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
 <ul>
     <li><a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a></li>
     <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>   
