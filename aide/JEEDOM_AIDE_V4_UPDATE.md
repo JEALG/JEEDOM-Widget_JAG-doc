@@ -21,7 +21,7 @@ Cela va permettre par un script de déplacer les widgets dans le nouveau dossier
     
 </ul>
 
-<p><img src="../img/AIDE_UPDATE_V4.png" alt="Error" /></p>
+<p><img src="../img/AIDE_V4_UPDATE.png" alt="Fenêtre MOD Core" /></p>
 
 <hr />
 <dl>
