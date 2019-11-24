@@ -41,8 +41,9 @@ Il faut installer le plugin Jeexplorer
 </ul>
 
 # Installation ou Mise à jour
-
-
+Dézipper le fichier télécharger.
+Se rendre dans Jeedom et ouvrir le plugin <i>Organisation/Jeexplorer</i>
+Se rendre dans le dossier correspondant au type de widget <i>Les widgets mobiles ont "--mobile" à la fin de leur nom</i>
 <ul>
   <b>l'ensemble des fichiers sont à copier dans les dossiers suivant :</b>
     <blockquote>
@@ -52,7 +53,7 @@ Il faut installer le plugin Jeexplorer
         </ul>
     </blockquote>
 </ul>
-
+<p><img src="../img/AIDE_V4_ADD_Widget_1.png" alt="ADD" /></p>
 
 
 
