@@ -22,7 +22,7 @@ Il est possible d'ajouter des images dans un widget <i>Celle-ci ne sera pas effa
 <hr />
 # Télécharger les sources
 
-# Chancelog
+# Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />

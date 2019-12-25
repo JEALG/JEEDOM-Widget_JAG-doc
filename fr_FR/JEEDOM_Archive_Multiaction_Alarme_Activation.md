@@ -61,9 +61,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Alarme-Activation/commits/master">Changelog WIDGET</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+# Changelog
+<a href="https://github.com/JEALG/JEEDOM-Alarme-Activation/commits/master">Changelog WIDGET</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 </dl>
 <hr />
 [back](../JEEDOM_Archive_action.html)

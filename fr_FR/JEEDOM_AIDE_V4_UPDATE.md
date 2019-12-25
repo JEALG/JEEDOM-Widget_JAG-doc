@@ -26,7 +26,7 @@ Cela va permettre par un script de déplacer les widgets dans le nouveau dossier
 <hr />
 # Télécharger les sources
 
-# Chancelog
+# Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />

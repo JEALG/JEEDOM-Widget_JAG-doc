@@ -63,7 +63,7 @@ Cliquer ensuite sur <i>Sélectionner les fichiers à envoyer</i> ou pour envoyer
 <p><img src="img/AIDE_V4_ADD_Widget_3.png" alt="ADD" /></p>
 <hr />
 
-# Chancelog
+# Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />

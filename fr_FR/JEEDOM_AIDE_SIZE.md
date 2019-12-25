@@ -22,7 +22,7 @@ description: explication Modification size Texte
 <blockquote>
     <ul>
         <li><b>Taille normale</b></li>
-        <p><img src="img/AIDE-CONFIG_SIZE_1.png" alt="Size normal" /></p>
+        <p><img src="img/AIDE_CONFIG_SIZE_1.png" alt="Size normal" /></p>
         <li><b>Taille normale</b></li>
         <p><img src="img/AIDE_CONFIG_SIZE_2.png" alt="Size" /></p>
         <p><img src="img/AIDE_CONFIG_SIZE_3.png" alt="Size réglage" /></p>
@@ -49,7 +49,7 @@ A la date d'écriture de la documentation, ce paramétrage ne fonctionne pas sur
 
 # Télécharger les sources
 
-# Chancelog
+# Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />

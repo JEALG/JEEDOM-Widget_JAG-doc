@@ -36,8 +36,8 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </ul>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+# Changelog
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](../)
