@@ -22,7 +22,7 @@ Ici l'exemple d'un équipement fait avec le plugin info; il faut paramétrer les
         </ul>
 </blockquote>
 
-## Choix du widget
+# Choix du widget
 Cliquer sur la roue crantée (voir image ci-dessous), cliquer sur affichage, sélectionner ensuite le widget voulu
 <p><img src="img/AIDE_CONFIG_INFO_2.png" alt="Aide 2" /></p>
 

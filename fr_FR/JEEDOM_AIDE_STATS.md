@@ -6,7 +6,7 @@ description: explication Affichage de l'historique
 [back](./)
 # Affichage de l'historique 
 
-# ctivation de l'historique
+# Activation de l'historique
 Il est impératif que l'info de l'équipement soit historisé pour être afficher
 <p><img src="img/Image_Stats_Activation.png" alt="Error" /></p>
 

@@ -6,7 +6,7 @@ description: explication Ajout paramétrage
 [back](./)
 # Comment ajouter des paramétres
 
-## Ajout des paramétres
+# Ajout des paramétres
 Pour ajouter les paramétres, il faut se rendre dans le menu de la configuration de la commande
 <p><img src="img/AIDE_CONFIG_SIZE_3.png" alt="Error" /></p>
 
