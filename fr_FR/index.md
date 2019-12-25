@@ -4,47 +4,30 @@
 
 > Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la procédure pour avoir les différentes mises à jour pour la V4
 
-<ul>
-    <li><a href="./aide/JEEDOM_AIDE_Nettoyage_des_dossiers.html">Nettoyage des dossiers</a></li>
-    <li><a href="./aide/JEEDOM_AIDE_V4_Installation_Manuelle.html">Installation Manuelle des widgets pour le core V4</a></li>
-    <li><a href="./aide/JEEDOM_AIDE_V4_UPDATE.html">Mise à jour des widgets pour le core V4</a></li>
-</ul>
-
+* <a href="./aide/JEEDOM_AIDE_Nettoyage_des_dossiers.html">Nettoyage des dossiers</a>
+* <a href="./aide/JEEDOM_AIDE_V4_Installation_Manuelle.html">Installation Manuelle des widgets pour le core V4</a>
+ * <a href="./aide/JEEDOM_AIDE_V4_UPDATE.html">Mise à jour des widgets pour le core V4</a>
 
 ## A Savoir
-<blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets</b>
-</blockquote>
+>**Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets**
 
 ## Les widgets :
 ### Automatisme
-<ul>
-    <li><a href="./JEEDOM_VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a></li>
-    <li><a href="./JEEDOM_VoyantMulticouleur_MOBILE.html">Widget Mobile : <b>Bouton en forme de voyant Multi couleur</b></a></li>
-    <li><a href="./JEEDOM_Store_banne.html">Widget Dashboard : <b>Store-banne</b></a></li>  
-</ul>
+* <a href="./JEEDOM_VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a>
+<a href="./JEEDOM_VoyantMulticouleur_MOBILE.html">Widget Mobile : <b>Bouton en forme de voyant Multi couleur</b></a>
+* <a href="./JEEDOM_Store_banne.html">Widget Dashboard : <b>Store-banne</b></a>
 
 ### Autre
-<ul>
-    <li><a href="./JEEDOM_Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
-    <li><a href="./JEEDOM_Icon_Mode_Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
-    <li><a href="./JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
-    <ul>
-            <li><a href="./archives/JEEDOM_Archive_action.html">Voir les anciens widgets prises en charge par ce widget</a></li>
-    </ul>
-    <li><a href="./JEEDOM_Multi_action_Defaut_mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a></li>
-    <ul>
-            <li><a href="./archives/JEEDOM_Archive_action_mobile.html">Voir les anciens widgets prises en charge par ce widget</a></li>
-    </ul>
-    <li><a href="./JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
-    <ul>
-            <li><a href="./archives/JEEDOM_Archive_info_binaire.html">Voir les anciens widgets prises en charge par ce widget</a></li>
-    </ul>
-    <li><a href="./JEEDOM_Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
-        <ul>
-            <li><a href="./archives/JEEDOM_Archive_info_binaire_mobile.html">Voir les anciens widgets prises en charge par ce widget</a></li>
-    </ul>
-</ul>
+* <a href="./JEEDOM_Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a>
+* <a href="./JEEDOM_Icon_Mode_Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a>
+* <a href="./JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+    * <a href="./archives/JEEDOM_Archive_action.html">Voir les anciens widgets prises en charge par ce widget</a>
+* <a href="./JEEDOM_Multi_action_Defaut_mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a></li>
+    * <a href="./archives/JEEDOM_Archive_action_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
+* <a href="./JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a>
+    * <a href="./archives/JEEDOM_Archive_info_binaire.html">Voir les anciens widgets prises en charge par ce widget</a>
+* <a href="./JEEDOM_Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a>
+    * <a href="./archives/JEEDOM_Archive_info_binaire_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
 
 ### Energie
 <ul>
@@ -103,9 +86,8 @@
 </ul>
 
 ### Liste des images
-<ul>
-    <li><a href="./JEEDOM_Liste_images_dossiers.html">Listes des images des widgets </a></li>
-</ul>
+* <a href="./JEEDOM_Liste_images_dossiers.html">Listes des images des widgets </a>
+
 <hr />
 <dl>
     <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
