@@ -12,15 +12,13 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 <p><img src="img/VISUEL_JEEDOM_Store.png" alt="Visuels" /></p>
 
-## A savoir
+# A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
-## Paramétrage
-<h1 id="Type de paramètre">Type de paramètre</h1>
-<hr />
-<h4 id="Logo">Choix de l'icône</h4>
+# Paramétrage
+## Choix de l'icône
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -29,7 +27,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         </ul>
 </blockquote>
 
-<h4 id="Taille">Taille des images ou des icônes</h4>
+## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -38,7 +36,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-<h4 id="Masque">Masquer la valeur</h4>
+## Masquer la valeur
 Il est possible de masquer la valeur de l'ouverture :
 <blockquote>
         <ul>
@@ -48,7 +46,7 @@ Il est possible de masquer la valeur de l'ouverture :
         </ul>
 </blockquote>
 
-<h4 id="Niveau">Paramétrage des Niveau</h4>
+## Paramétrage des Niveau
 Il est possible de personnaliser les niveaux :
 <blockquote>
         <ul>
@@ -66,19 +64,19 @@ Il est possible de personnaliser les niveaux :
         </ul>
 </blockquote>
  
-<h4 id="Aide">Autres paramétrages possible et Aide</h4>
+# Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
+            <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 
 <hr />
-<h3 id="Add img">Ajout d'image</h3>
+## Ajout d'image
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
@@ -106,10 +104,10 @@ Il est possible de personnaliser les niveaux :
 </blockquote>
 
 <hr />
-## Télécharger les sources
+# Télécharger les sources
 <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/tree/masterv4">Télécharger les sources pour la V4</a><br/>
 
-## Chancelog
+# Chancelog
 <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

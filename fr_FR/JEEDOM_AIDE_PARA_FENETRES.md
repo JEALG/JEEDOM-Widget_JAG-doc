@@ -104,8 +104,10 @@ Ensuite j'ai créer un scénario avec le paramétrage suivant
 <p><img src="../img/CONFIG_JEEDOM_FENETRE_NUM_4.png" alt="Visuels" /></p>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+# Télécharger les sources
+
+# Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](../)

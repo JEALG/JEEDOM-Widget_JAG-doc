@@ -6,22 +6,20 @@ description: explication widget Batterie-telldusBattery
 [back](./)
 # Widget " Batterie-telldusBattery
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="img/RESULTAT_JEEDOM_Batterie-telldusBattery.png" alt="Resultat" /></p>
+<p><img src="img/RESULTAT_JEEDOM_Batterie_telldusBattery.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus d'office 1 type d'icônes.
 </blockquote>
 
-<p><img src="img/VISUEL_JEEDOM_Batterie_telldusBattery.png" alt="Visuels" /></p>
+<p><img src="img/VISUEL_JEEDOM_Batterie.png" alt="Visuels" /></p>
 
-## A savoir
+# A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
-## Paramétrage
-<h1 id="Type de paramètre">Type de paramètre</h1>
-<hr />
-<h4 id="Logo">Choix de l'icône</h4>
+# Paramétrage
+## Choix de l'icône
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -30,7 +28,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         </ul>
 </blockquote>
 
-<h4 id="Taille">Taille de l'image</h4>
+## Taille de l'image
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -39,7 +37,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-<h4 id="Niveau">Paramétrage des Niveau</h4>
+## Paramétrage des Niveau
 Il est possible de personnaliser les niveaux :
 <blockquote>
         <ul>
@@ -52,19 +50,19 @@ Il est possible de personnaliser les niveaux :
         </ul>
 </blockquote>
 
-<h4 id="Aide">Autres paramétrages possible et Aide</h4>
+# Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_Error.html">Paramétrage image de défaut</a></li>
+            <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 
 <hr />
-<h3 id="Add img">Ajout d'image</h3>
+## Ajout d'image
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
@@ -79,10 +77,10 @@ Il est possible de personnaliser les niveaux :
 </blockquote>
 
 <hr />
-## Télécharger les sources
+# Télécharger les sources
 <a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/tree/masterv4">Télécharger les sources pour la V4</a><br/>
 
-## Chancelog
+# Chancelog
 <a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

@@ -78,11 +78,11 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ### Autres paramétrages possible 
 <blockquote>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
+            <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 
@@ -98,7 +98,7 @@ Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG
             <li><b>logo_type0</b> : Il n'est pas necessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
         </ul>
 </blockquote>
-### Exemple 2
+## Exemple 2
 Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PNG"
 <blockquote>
         <ul>

@@ -4,7 +4,7 @@ title: JEEDOM-Barometre
 description: explication widget Baromètre
 ---
 [back](./)
-** Widget "Baromètre **
+# Widget "Baromètre
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="img/RESULTAT_JEEDOM_Barometre.png" alt="Resultat" /></p>
@@ -15,7 +15,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 </blockquote>
 
 # Paramétrage
-<h4 id="Taille">Taille des images ou des icônes</h4>
+## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -24,7 +24,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-<h4 id="Pos">Position Légende</h4>
+## Position Légende
 Il est possible de déplacer la légende
 <blockquote>
         <ul>
@@ -37,13 +37,13 @@ Il est possible de déplacer la légende
         </ul>
 </blockquote>
  
-<h4 id="Aide">Autres paramétrages possible et Aide</h4>
+# Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_html">Paramétrage image de défaut</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_html">Paramétrage image de défaut</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 

@@ -19,8 +19,10 @@ Pour ajouter les paramétres, il faut se rendre dans le menu de la configuration
 </blockquote>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+# Télécharger les sources
+
+# Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](../)

@@ -16,10 +16,8 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
     Le widget inclus plusieurs icônes dans des sous dossiers
 </blockquote>
 
-## Paramétrage
-<h1 id="Type de paramètre">Type de paramètre</h1>
-<hr />
-<h4 id="Logo">Choix de l'icône</h4>
+# Paramétrage
+## Choix de l'icône
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Dans le cas de l'utilisation avec le nom de l'image normalisé
 <blockquote>
@@ -46,7 +44,7 @@ Dans le cas de l'utilisation avec le nom de l'image non normalisé
         </ul>
 </blockquote>
 
-<h4 id="Dossier">Sous dossier</h4>
+## Sous dossier
 Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 <blockquote>
         <ul>
@@ -55,7 +53,7 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
         </ul>
 </blockquote>
 
-<h4 id="Taille">Taille des images ou des icônes</h4>
+## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -69,30 +67,30 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-<h4 id="Aider">Autres paramétrages possible et Aide</h4>
+# Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a></li>
+            <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
     
-<h1 id="Add img">Ajout d'image</h1>
+## Ajout d'image
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
         Le nommage des images n'est pas normalisé sur ce widget
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
+            <li><a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul>
 </blockquote>
 
 <hr />
-## Télécharger les sources
+# Télécharger les sources
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/masterv4">Télécharger les sources pour la V4</a><br/>
 
-## Chancelog
+# Chancelog
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

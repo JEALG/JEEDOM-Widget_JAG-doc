@@ -14,14 +14,13 @@ Le widget inclus d'office 14 types d'icônes.
 
 <p><img src="img/VISUEL_JEEDOM_Voyant.png" alt="Visuels" /></p>
 
-## A savoir
+# A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
-## Paramétrage
-<hr />
-<h4 id="Logo">Choix de la couleur</h4>
+# Paramétrage
+## Choix de la couleur
 Pour choisir la couleur, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -31,7 +30,7 @@ Pour choisir la couleur, il faut ajouter les paramètres optionnels suivant :
         </ul>
 </blockquote>
 
-<h4 id="Logo">Choix de la forme</h4>
+## Choix de la forme
 Pour choisir la forme, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -41,7 +40,7 @@ Pour choisir la forme, il faut ajouter les paramètres optionnels suivant :
         </ul>
 </blockquote>
 
-<h4 id="Logo">Choix de l'extension'</h4>
+## Choix de l'extension
 Pour choisir le type d'extension de l'image
 <blockquote>
         <ul>
@@ -50,16 +49,16 @@ Pour choisir le type d'extension de l'image
         </ul>
 </blockquote>
 
-<h4 id="Aide">Autres paramétrages possible et Aide</h4>
+# Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 
 <hr />
-<h3 id="Add img">Ajout d'image</h3>
+## Ajout d'image
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
@@ -70,15 +69,15 @@ Pour choisir le type d'extension de l'image
             <li><i>Remplacer <b>COULEUR</b> par la valeur bk, bu, gn, or, rd, wh, ye</i></li>
         </ul>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
+            <li><a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul>   
 </blockquote>
 
 <hr />
-## Télécharger les sources
+# Télécharger les sources
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur-/tree/masterv4">Télécharger les sources pour la V4</a><br/>
 
-## Chancelog
+# Chancelog
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/masterv4">Changelog WIDGET Pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

@@ -33,8 +33,10 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
         </ul>
 </blockquote>
 
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+# Télécharger les sources
+
+# Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](../)

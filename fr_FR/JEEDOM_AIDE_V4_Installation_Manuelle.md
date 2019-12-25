@@ -61,8 +61,10 @@ Cliquer sur
 Cliquer ensuite sur <i>Sélectionner les fichiers à envoyer</i> ou pour envoyer l'ensemble des dossiers, cliquer sur <i>Choisir le dossier</i>
 <p><img src="../img/AIDE_V4_ADD_Widget_3.png" alt="ADD" /></p>
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+# Télécharger les sources
+
+# Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](../)

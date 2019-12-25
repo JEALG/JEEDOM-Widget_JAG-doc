@@ -3,9 +3,9 @@
 
 > Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la procédure pour avoir les différentes mises à jour pour la V4
 
-* <a href="./aide/JEEDOM_AIDE_Nettoyage_des_dossiers.html">Nettoyage des dossiers</a>
-* <a href="./aide/JEEDOM_AIDE_V4_Installation_Manuelle.html">Installation Manuelle des widgets pour le core V4</a>
- * <a href="./aide/JEEDOM_AIDE_V4_UPDATE.html">Mise à jour des widgets pour le core V4</a>
+* <a href="JEEDOM_AIDE_Nettoyage_des_dossiers.html">Nettoyage des dossiers</a>
+* <a href="JEEDOM_AIDE_V4_Installation_Manuelle.html">Installation Manuelle des widgets pour le core V4</a>
+ * <a href="JEEDOM_AIDE_V4_UPDATE.html">Mise à jour des widgets pour le core V4</a>
 
 # A Savoir
 >**Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets**
@@ -57,14 +57,14 @@
 * <a href="./JEEDOM_Thermometre_MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a>
 
 ## Aide aux paramétrages
-* <a href="./aide/JEEDOM_AIDE_Error.html">Paramétrage image Erreur</a>
-* <a href="./aide/JEEDOM_AIDE_STATS.html">Afficher les statistiques</a>
-* <a href="./aide/JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a>
-* <a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique)</a>
-* <a href="./aide/JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
-* <a href="./aide/JEEDOM_AIDE_SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a>
-* <a href="./aide/JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a>
-* <a href="./aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a>
+* <a href="JEEDOM_AIDE_Error.html">Paramétrage image Erreur</a>
+* <a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a>
+* <a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a>
+* <a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique)</a>
+* <a href="JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
+* <a href="JEEDOM_AIDE_SIZE.html">Aide pour changer la taille du texte pour des widgets de type info</a>
+* <a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a>
+* <a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a>
 
 ## Liste des images
 * <a href="./JEEDOM_Liste_images_dossiers.html">Listes des images des widgets </a>

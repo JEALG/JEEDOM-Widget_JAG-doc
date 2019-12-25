@@ -20,8 +20,10 @@ Il est possible d'ajouter des images dans un widget <i>Celle-ci ne sera pas effa
 <p><img src="../img/AIDE_ADD_IMG_2.png" alt="IMG 2" /></p>   
     
 <hr />
-<dl>    
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+# Télécharger les sources
+
+# Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](../)

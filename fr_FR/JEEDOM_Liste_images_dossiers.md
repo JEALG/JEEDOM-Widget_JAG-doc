@@ -55,9 +55,9 @@ Liste des images par dossiers
     </ul>
 </blockquote>
 <hr />
-## Télécharger les sources
+# Télécharger les sources
 
-## Chancelog
+# Chancelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />

@@ -4,7 +4,7 @@ title: JEEDOM-Batterie-EeDomus
 description: explication widget Batterie-EeDomus
 ---
 [back](./)
-** Widget "Batterie - EeDomus **
+# Widget "Batterie - EeDomus
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="img/RESULTAT_JEEDOM_Batterie_EeDomus.png" alt="Resultat" /></p>
@@ -20,8 +20,7 @@ Le widget inclus d'office 1 type d'icônes.
 </blockquote>
 
 # Paramétrage
-<hr />
-<h4 id="Logo">Choix de l'icône</h4>
+## Choix de l'icône
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -32,7 +31,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         </ul>
 </blockquote>
 
-<h4 id="Taille">Taille de l'image</h4>
+## Taille de l'image
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -41,7 +40,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-<h4 id="Niveau">Paramétrage des Niveau</h4>
+## Paramétrage des Niveau
 Il est possible de personnaliser les niveaux :
 <blockquote>
         <ul>
@@ -58,16 +57,16 @@ Il est possible de personnaliser les niveaux :
 # Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="./aide/JEEDOM_AIDE_CONFIG_PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_Error.html">Paramétrage image de défaut</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 
 <hr />
-<h3 id="Add img">Ajout d'image</h3>
+## Ajout d'image
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
@@ -78,7 +77,7 @@ Il est possible de personnaliser les niveaux :
             <li><i>Remplacer <b>Niveau</b> par la valeur 0 ou 20 ou 40 ou 60 ou 80 ou 100</i></li>
         </ul>
         <ul>
-            <li><a href="./aide/JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
+            <li><a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul> 
 </blockquote>
 

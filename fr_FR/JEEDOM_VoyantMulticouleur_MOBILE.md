@@ -14,14 +14,13 @@ Le widget inclus d'office 14 types d'icônes.
 
 <p><img src="img/VISUEL_JEEDOM_Voyant.png" alt="Visuels" /></p>
 
-## A savoir
+# A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
-## Paramétrage
-<hr />
-<h4 id="Logo">Choix de la couleur</h4>
+# Paramétrage
+## Choix de la couleur
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
 <blockquote>
@@ -43,7 +42,7 @@ Il est possible de récupérer le même réglage que le dashboard
         </ul>
 </blockquote>
 
-<h4 id="Logo">Choix de la forme</h4>
+## Choix de la forme
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
 <blockquote>
@@ -65,7 +64,7 @@ Il est possible de récupérer le même réglage que le dashboard
         </ul>
 </blockquote>
 
-<h4 id="Logo">Choix de l'extensio</h4>
+## Choix de l'extension
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
 <blockquote>
@@ -85,7 +84,7 @@ Il est possible de récupérer le même réglage que le dashboard
         </ul>
 </blockquote>
 
-<h4 id="Aide">Autres paramétrages possible et Aide</h4>
+## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="./aide/JEEDOM-AIDE-CONFIG-INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
@@ -94,10 +93,10 @@ Il est possible de récupérer le même réglage que le dashboard
 </blockquote>
 
 <hr />
-## Télécharger les sources
+# Télécharger les sources
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/masterv4">Télécharger les sources pour la V4</a><br/>
 
-## Chancelog
+# Chancelog
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
