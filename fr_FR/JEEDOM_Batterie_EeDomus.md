@@ -4,7 +4,7 @@ title: JEEDOM-Batterie-EeDomus
 description: explication widget Batterie-EeDomus
 ---
 [back](./)
-# Widget "Batterie - EeDomus
+** Widget "Batterie - EeDomus **
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="img/RESULTAT_JEEDOM_Batterie_EeDomus.png" alt="Resultat" /></p>
@@ -14,12 +14,12 @@ Le widget inclus d'office 1 type d'icônes.
 
 <p><img src="img/VISUEL_JEEDOM_Batterie_EeDomus.png" alt="Visuels" /></p>
 
-## A savoir
+# A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
-## Paramétrage
+# Paramétrage
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
@@ -55,7 +55,7 @@ Il est possible de personnaliser les niveaux :
 </blockquote>
 
 
-## Autres paramétrages possible et Aide
+# Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
@@ -83,10 +83,10 @@ Il est possible de personnaliser les niveaux :
 </blockquote>
 
 <hr />
-## Télécharger les sources
+# Télécharger les sources
 <a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/tree/masterv4">Télécharger les sources pour la V4</a><br/>
 
-## Chancelog
+# Chancelog
 <a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
