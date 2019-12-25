@@ -15,7 +15,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 # Nouveau paramétrage
 ## Remplacer par le widget
-Ce widget est remplacé par : <a href="../../JEEDOM_Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a>
+Ce widget est remplacé par : <a href="JEEDOM_Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a>
 
 ## Paramétrage
 Pour avoir le même  paramétrage par défaut du widget Legrand-Prise-Celiane--mobile, il faudra ajouter les variables suivante :

@@ -61,7 +61,7 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 <blockquote>
         <ul>
             <li><b>dossier</b> : Nom du dossier (Par défaut : Chauffage)</li>
-            <li><a href="./JEEDOM_liste_images_dossiers.html">Listes des images par dossiers</a></li>
+            <li><a href="JEEDOM_liste_images_dossiers.html">Listes des images par dossiers</a></li>
         </ul>
 </blockquote>
 
@@ -91,7 +91,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 # Exemple Paramétrage d'un mode
-<p><img src="./img/JEEDOM_Icon_Mode_Para mode.png" alt="exemple Para" /></p>
+<p><img src="img/JEEDOM_Icon_Mode_Para mode.png" alt="exemple Para" /></p>
 <hr />
 ## Exemple 1
 Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG"

@@ -53,7 +53,7 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
     Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
         <ul>
             <li><b>dossier</b> : Nom du dossier (Par défaut : divers)</li>
-            <li><a href="./JEEDOM_Liste_images_dossiers.html">Listes des images par dossiers</a></li>
+            <li><a href="JEEDOM_Liste_images_dossiers.html">Listes des images par dossiers</a></li>
         </ul>
 </blockquote>
 <blockquote>
@@ -80,7 +80,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="./aide//JEEDOM_AIDE_CONFIG_ACTION">Aide pour le paramétrage des widgets de type action</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_ACTION">Aide pour le paramétrage des widgets de type action</a></li>
             <li><a href="JEEDOM_AIDE_STATS">Afficher les statistiques</a></li>
             <li><a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique, actions)</a></li>
             <li><a href="JEEDOM_AIDE_PARA">Ajouter les paramétres sur un widget</a></li>
