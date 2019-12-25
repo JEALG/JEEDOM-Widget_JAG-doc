@@ -4,6 +4,7 @@ title: JEEDOM-AIDE Nettoyage des dossiers
 description: Nettoyage des dossiers
 ---
 [back](../)
+# Nettoyage des dossiers
 # Rappel 
 <blockquote>
 Avant d'effectuer cette manipulation, il est conseillé de faire une sauvegarde de la Jeedon
