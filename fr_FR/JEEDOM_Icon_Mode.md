@@ -4,7 +4,7 @@ title: JEEDOM-Icon_Mode
 description: explication widget Icon_Mode
 ---
 [back](./)
-# Widget "Icon_Mode" 
+**Widget "Icon_Mode"**
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
 <p><img src="img/RESULTAT_JEEDOM_Icon_Mode.png" alt="Resultat" /></p>
@@ -29,7 +29,7 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
 
 # Type de paramètre
 <hr />
-## Logo">Valeur du mode
+## Valeur du mode
 Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les variables
 <blockquote>
         <ul>

@@ -4,7 +4,7 @@ title: JEEDOM-Batterie-telldusBattery
 description: explication widget Batterie-telldusBattery
 ---
 [back](./)
-# Widget " Batterie-telldusBattery" 
+**Widget " Batterie-telldusBattery**
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>

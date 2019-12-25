@@ -4,7 +4,7 @@ title: JEEDOM-Icon_Mode--Mobile
 description: explication widget Icon_Mode (Mobile)
 ---
 [back](./)
-# Widget "Icon_Mode (Mobile)" 
+**Widget "Icon_Mode (Mobile)**
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
 <p><img src="img/RESULTAT_JEEDOM_Icon_Mode.png" alt="Resultat" /></p>

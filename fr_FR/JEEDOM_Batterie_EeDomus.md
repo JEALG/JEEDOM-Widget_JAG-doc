@@ -4,7 +4,7 @@ title: JEEDOM-Batterie-EeDomus
 description: explication widget Batterie-EeDomus
 ---
 [back](./)
-# Widget "Batterie - EeDomus" 
+**Widget "Batterie - EeDomus**
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>

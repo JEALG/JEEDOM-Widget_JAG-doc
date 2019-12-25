@@ -4,7 +4,7 @@ title: JEEDOM-Point-rosee
 description: explication widget Point de rosée
 ---
 [back](./)
-# Widget "Point de rosée" 
+**Widget "Point de rosée**
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>

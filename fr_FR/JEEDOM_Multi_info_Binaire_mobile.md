@@ -4,7 +4,7 @@ title: JEEDOM-Multi_info-Binaire
 description: Explication widget Multi-info-Binaire-mobile
 ---
 [back](./)
-# Widget "Multi-info-Binaire (mobile)" 
+**Widget "Multi-info-Binaire (mobile)**
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <blockquote>

@@ -4,7 +4,7 @@ title: JEEDOM-Fenetre
 description: explication widget Fenêtre (numérique)
 ---
 [back](./)
-# Widget "Fenêtre (numérique)" 
+**Widget "Fenêtre (numérique)**
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="img/RESULTAT_JEEDOM_Fenetre.png" alt="Resultat" /></p>

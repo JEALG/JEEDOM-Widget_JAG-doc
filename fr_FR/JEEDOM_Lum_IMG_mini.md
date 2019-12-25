@@ -4,7 +4,7 @@ title: JEEDOM-Luminosite-IMG-Mini
 description: explication widget Luminosité-IMG-Mini
 ---
 [back](./)
-# Widget "Luminosité-IMG-Mini" 
+**Widget "Luminosité-IMG-Mini**
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="img/RESULTAT_JEEDOM_Lum_IMG.png" alt="Resultat" /></p>

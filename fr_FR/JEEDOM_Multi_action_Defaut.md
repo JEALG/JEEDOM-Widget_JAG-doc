@@ -4,7 +4,7 @@ title: JEEDOM-Multi_action-Defaut
 description: Explication widget Multi-action
 ---
 [back](./)
-# Widget "Multi-action" 
+**Widget "Multi-action**
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
 <blockquote>
