@@ -6,7 +6,7 @@ description: explication widget Legrand-Prise-Celiane--mobile
 [back](../JEEDOM_Archive_info_binaire_mobile.html)
 # Widget "Legrand-Prise-Celiane--mobile" 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="img/RESULTAT_JEEDOM_Legrand_Prise_Celiane__mobile.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Legrand_Prise_Celiane__mobile.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>

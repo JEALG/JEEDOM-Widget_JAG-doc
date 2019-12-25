@@ -7,7 +7,7 @@ description: explication widget Tendance-Baro
 # Widget "Tendance-Baro
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="img/RESULTAT_JEEDOM_Tendance-Baro.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Tendance-Baro.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>

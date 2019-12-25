@@ -33,12 +33,12 @@ Ce widget est remplacé par :
 </blockquote>
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="../../img/RESULTAT_JEEDOM_Chaudiere_ETAT.png" alt="Resultat" /></p>
+<p><img src="../../../img/RESULTAT_JEEDOM_Chaudiere_ETAT.png" alt="Resultat" /></p>
 <blockquote>
     Les visuels possibles
 </blockquote>
 
-<p><img src="../../img/VISUEL_JEEDOM_Chauffage.png" alt="Visuels" /></p>
+<p><img src="../../../img/VISUEL_JEEDOM_Chauffage.png" alt="Visuels" /></p>
 
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />

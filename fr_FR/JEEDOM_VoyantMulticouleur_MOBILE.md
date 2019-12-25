@@ -7,12 +7,12 @@ description: explication Bouton en forme de voyant Multi couleur (mobile)
 # Widget "VoyantMulticouleur : Bouton en forme de voyant Multi couleur (mobile)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="img/RESULTAT_JEEDOM_VoyantMulticouleur.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_VoyantMulticouleur.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus d'office 14 types d'icônes.
 </blockquote>
 
-<p><img src="img/VISUEL_JEEDOM_Voyant.png" alt="Visuels" /></p>
+<p><img src="../img/VISUEL_JEEDOM_Voyant.png" alt="Visuels" /></p>
 
 # A savoir
 <blockquote>

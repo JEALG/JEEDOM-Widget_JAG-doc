@@ -7,7 +7,7 @@ description: explication widget Baromètre
 # Widget "Baromètre
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="img/RESULTAT_JEEDOM_Barometre.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Barometre.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>
@@ -29,11 +29,11 @@ Il est possible de déplacer la légende
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li>
-            <p><img src="img/RESULTAT_JEEDOM_Barometre.png" alt="Resultat - Droite" /></p>
+            <p><img src="../img/RESULTAT_JEEDOM_Barometre.png" alt="Resultat - Droite" /></p>
             <li><b>leg_pos</b> = left</li>
-            <p><img src="img/RESULTAT_JEEDOM_Barometre_Left.png" alt="Resultat - Gauche" /></p>
+            <p><img src="../img/RESULTAT_JEEDOM_Barometre_Left.png" alt="Resultat - Gauche" /></p>
             <li><b>leg_pos</b> = bottom</li>
-            <p><img src="img/RESULTAT_JEEDOM_Barometre_Low.png" alt="Resultat - Bas" /></p>
+            <p><img src="../img/RESULTAT_JEEDOM_Barometre_Low.png" alt="Resultat - Bas" /></p>
         </ul>
 </blockquote>
  

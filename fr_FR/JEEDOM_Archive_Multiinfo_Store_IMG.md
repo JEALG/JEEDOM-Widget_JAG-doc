@@ -6,7 +6,7 @@ description: explication widget Store_IMG
 [back](../JEEDOM_Archive_info_binaire.html)
 # Widget "Store_IMG" 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="img/RESULTAT_JEEDOM_Store_IMG.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Store_IMG.png" alt="Resultat" /></p>
 
 
 # A savoir

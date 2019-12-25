@@ -12,7 +12,7 @@ description: explication widget Humidite-Goutte_eau
 </blockquote>
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="img/RESULTAT_JEEDOM_Humidite_Goutte_eau.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Humidite_Goutte_eau.png" alt="Resultat" /></p>
  
 
 # Autres paramétrages possible et Aide

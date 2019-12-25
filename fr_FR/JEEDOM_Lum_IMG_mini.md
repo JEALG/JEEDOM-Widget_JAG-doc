@@ -7,7 +7,7 @@ description: explication widget Luminosité-IMG-Mini
 # Widget "Luminosité-IMG-Mini
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="img/RESULTAT_JEEDOM_Lum_IMG.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Lum_IMG.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>
@@ -55,25 +55,25 @@ Il est possible de déplacer la légende
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = low <i>(valeur par défaut)</i></li>
-            <p><img src="img/RESULTAT_JEEDOM_Lum_IMG.png" alt="Resultat - Bas" /></p>
+            <p><img src="../img/RESULTAT_JEEDOM_Lum_IMG.png" alt="Resultat - Bas" /></p>
         </ul>
 </blockquote>
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = right <i></i></li>
-            <p><img src="img/RESULTAT_JEEDOM_Lum_IMG_Droite.png" alt="Resultat - Droite" /></p>
+            <p><img src="../img/RESULTAT_JEEDOM_Lum_IMG_Droite.png" alt="Resultat - Droite" /></p>
         </ul>
 </blockquote>
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = left</li>
-            <p><img src="img/RESULTAT_JEEDOM_Lum_IMG_Gauche.png" alt="Resultat - Gauche" /></p>
+            <p><img src="../img/RESULTAT_JEEDOM_Lum_IMG_Gauche.png" alt="Resultat - Gauche" /></p>
         </ul>
 </blockquote>
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = top</li>
-            <p><img src="img/RESULTAT_JEEDOM_Lum_IMG_Haut.png" alt="Resultat - Haut" /></p>
+            <p><img src="../img/RESULTAT_JEEDOM_Lum_IMG_Haut.png" alt="Resultat - Haut" /></p>
         </ul>
 </blockquote>
 ## Autres paramétrages possible et Aide

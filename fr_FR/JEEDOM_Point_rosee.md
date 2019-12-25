@@ -12,7 +12,7 @@ description: explication widget Point de rosée
 </blockquote>
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="img/RESULTAT_JEEDOM_Point_rosee.png" alt="Resultat" /></p>
+<p><img src="../img/RESULTAT_JEEDOM_Point_rosee.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>
@@ -34,11 +34,11 @@ Il est possible de déplacer la légende
 <blockquote>
         <ul>
             <li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li>
-            <p><img src="img/RESULTAT_JEEDOM_Point_rosee.png" alt="Resultat" /></p>
+            <p><img src="../img/RESULTAT_JEEDOM_Point_rosee.png" alt="Resultat" /></p>
             <li><b>leg_pos</b> = left</li>
-            <p><img src="img/RESULTAT_JEEDOM_Point_rosee_left.png" alt="Resultat" /></p>
+            <p><img src="../img/RESULTAT_JEEDOM_Point_rosee_left.png" alt="Resultat" /></p>
             <li><b>leg_pos</b> = low</li>
-            <p><img src="img/RESULTAT_JEEDOM_Point_rosee_low.png" alt="Resultat" /></p>
+            <p><img src="../img/RESULTAT_JEEDOM_Point_rosee_low.png" alt="Resultat" /></p>
         </ul>
 </blockquote>
  

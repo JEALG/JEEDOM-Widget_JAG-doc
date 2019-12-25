@@ -11,13 +11,13 @@ Il est possible d'ajouter des images dans un widget <i>Celle-ci ne sera pas effa
         <li>Il faut ce rendre dans le plugin Widget et sélectionner le widget voulu et cliquer sur <i><b>Fichiers</b></i></li>
     </ul>
 </blockquote>
-<p><img src="img/AIDE_ADD_IMG_1.png" alt="IMG 1" /></p>
+<p><img src="../img/AIDE_ADD_IMG_1.png" alt="IMG 1" /></p>
 <blockquote>
     <ul>
         <li>Cliquez sur <i><b>Parcourir et sélectionner les images voulu</b></i></li>
     </ul>
 </blockquote>
-<p><img src="img/AIDE_ADD_IMG_2.png" alt="IMG 2" /></p>   
+<p><img src="../img/AIDE_ADD_IMG_2.png" alt="IMG 2" /></p>   
     
 <hr />
 # Télécharger les sources

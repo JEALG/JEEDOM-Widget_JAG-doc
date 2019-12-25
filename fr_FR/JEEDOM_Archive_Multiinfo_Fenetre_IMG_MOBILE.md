@@ -33,11 +33,11 @@ Ce widget est remplacé par :
 </blockquote>
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="../../img/RESULTAT_JEEDOM_Fenetre_IMG.png" alt="Resultat" /></p>
+<p><img src="../../../img/RESULTAT_JEEDOM_Fenetre_IMG.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
-<p><img src="../../img/VISUEL_JEEDOM_Fenetre.png" alt="Visuels" /></p>
+<p><img src="../../../img/VISUEL_JEEDOM_Fenetre.png" alt="Visuels" /></p>
 
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>
