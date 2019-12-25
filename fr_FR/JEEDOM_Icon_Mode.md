@@ -6,7 +6,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info text
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-## Info : Merci
+# Info : Merci
 <blockquote>
         <ul>
             <li>Merci @Salviaf pour l'affichage de la durée</li>
@@ -15,14 +15,14 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
         </ul>
 </blockquote>
 
-### A Savoir
+## A Savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
-## Paramétrage
+# Paramétrage
 <hr />
-### Valeur du mode
+## Valeur du mode
 Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les variables
 <blockquote>
         <ul>
@@ -38,7 +38,7 @@ Pour que le widget fonctionne dans le cas où les noms des commandes sont rempla
         </ul>
 </blockquote>
 
-### Choix de l'icône
+## Choix de l'icône
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels si le nom du mode ne correspond pas au nom de l'image :
 <blockquote>
         <ul>
@@ -50,7 +50,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 </blockquote>
 
 
-### Sous dossier
+## Sous dossier
 Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 <blockquote>
         <ul>
@@ -59,7 +59,7 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
         </ul>
 </blockquote>
 
-### Taille des images ou des icônes 
+## Taille des images ou des icônes 
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -84,10 +84,10 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-## Exemple Paramétrage d'un mode
+# Exemple Paramétrage d'un mode
 <p><img src="./img/JEEDOM_Icon_Mode_Para mode.png" alt="exemple Para" /></p>
 <hr />
-### Exemple 1
+## Exemple 1
 Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG"
 <blockquote>
         <ul>
@@ -106,10 +106,10 @@ Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PN
         </ul>
 </blockquote>
 
-## Télécharger les sources
+# Télécharger les sources
  <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/masterv4">Télécharger les sources pour la V4</a><br/>
  
-## Chancelog
+# Chancelog
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
