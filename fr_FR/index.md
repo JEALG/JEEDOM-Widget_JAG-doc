@@ -2,9 +2,8 @@
 
 ## Nettoyage des Dossiers et Migration V4
 
-<blockquote>
-Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la procédure pour avoir les différentes mises à jour pour la V4
-</blockquote>
+> Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la procédure pour avoir les différentes mises à jour pour la V4
+
 <ul>
     <li><a href="./aide/JEEDOM_AIDE_Nettoyage_des_dossiers.html">Nettoyage des dossiers</a></li>
     <li><a href="./aide/JEEDOM_AIDE_V4_Installation_Manuelle.html">Installation Manuelle des widgets pour le core V4</a></li>
