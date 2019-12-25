@@ -12,12 +12,12 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 # Alarme
 <ul>
-    <li><a href="JEEDOM_Archive_multiaction/JEEDOM_Alarme_Activation_MOBILE.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
+    <li><a href="JEEDOM_Archive_multiaction_Activation_MOBILE.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
 </ul>
 
 # Lumière
 <ul>
-    <li><a href="JEEDOM_Archive_multiaction/JEEDOM_Lampe_MOBILE.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
+    <li><a href="JEEDOM_Archive_multiaction_Lampe_MOBILE.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
 </ul>
 
 <hr />

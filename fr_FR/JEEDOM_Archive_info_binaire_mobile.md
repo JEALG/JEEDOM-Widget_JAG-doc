@@ -14,19 +14,19 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 # Alarme
 <ul>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire/JEEDOM_Alarme_Status_MOBILE.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire/JEEDOM_Capteur_Fuite_Eau_MOBILE.html">Widget mobile: <b>Capteur-Fuite-Eau (mobile)</b></a></li>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire/JEEDOM_Detection_Mouvement_MOBILE.html">Widget Mobile : <b>Detection Mouvement (mobile)</b></a></li>
+    <li><a href="JEEDOM_Archive_multiinfo_binaire_Alarme_Status_MOBILE.html">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
+    <li><a href="JEEDOM_Archive_multiinfo_binaire_Capteur_Fuite_Eau_MOBILE.html">Widget mobile: <b>Capteur-Fuite-Eau (mobile)</b></a></li>
+    <li><a href="JEEDOM_Archive_multiinfo_binaire_Detection_Mouvement_MOBILE.html">Widget Mobile : <b>Detection Mouvement (mobile)</b></a></li>
 </ul>
 
 # Energie
 <ul>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire/JEEDOM_Legrand_Prise_Celiane_mobile.html">Widget Mobile : <b>Legrand Prise Celiane (mobile)</b></a></li>  
+    <li><a href="JEEDOM_Archive_multiinfo_binaire_Legrand_Prise_Celiane_mobile.html">Widget Mobile : <b>Legrand Prise Celiane (mobile)</b></a></li>  
 </ul>
 
 # Ouverture
 <ul>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire/JEEDOM_Fenetre_IMG_MOBILE.html">Widget Mobile : <b>Fenetre-IMG (mobile)</b></a></li>
+    <li><a href="JEEDOM_Archive_multiinfo_binaire_Fenetre_IMG_MOBILE.html">Widget Mobile : <b>Fenetre-IMG (mobile)</b></a></li>
 </ul>
 
 <hr />

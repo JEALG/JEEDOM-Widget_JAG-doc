@@ -13,18 +13,18 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 # Alarme
 <ul>
-    <li><a href="JEEDOM_Archive_multiaction/JEEDOM_Alarme_Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
+    <li><a href="JEEDOM_Archive_multiaction_Alarme_Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
 </ul>
 
 # Energie
 <ul>
-    <li><a href="JEEDOM_Archive_multiaction/JEEDOM_Chaudiere_Activation.html">Widget Dashboard : <b>Chaudiere-Activation</b></a></li>
-    <li><a href="JEEDOM_Archive_multiaction/JEEDOM_Fibaro_WallPlug.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
+    <li><a href="JEEDOM_Archive_multiaction_Chaudiere_Activation.html">Widget Dashboard : <b>Chaudiere-Activation</b></a></li>
+    <li><a href="JEEDOM_Archive_multiaction_Fibaro_WallPlug.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
 </ul>
 
 # Lumière
 <ul>
-    <li><a href="JEEDOM_Archive_multiaction/JEEDOM_Lampe.html">Widget Dashboard : <b>Lampe</b></a></li>
+    <li><a href="JEEDOM_Archive_multiaction_Lampe.html">Widget Dashboard : <b>Lampe</b></a></li>
 </ul>
 
 <hr />
