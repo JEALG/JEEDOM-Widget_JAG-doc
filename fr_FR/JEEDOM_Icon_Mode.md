@@ -1,11 +1,4 @@
----
-layout: default
-title: JEEDOM-Icon_Mode
-description: explication widget Icon_Mode
----
-[back](./)
 # Widget "Icon_Mode"
-
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
 <p><img src="img/RESULTAT_JEEDOM_Icon_Mode.png" alt="Resultat" /></p>
 <blockquote>
