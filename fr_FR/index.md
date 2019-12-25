@@ -1,4 +1,4 @@
-# Ensemble de la documentation pour les widgets JAG
+Ensemble de la documentation pour les widgets JAG
 
 ## Nettoyage des Dossiers et Migration V4
 
