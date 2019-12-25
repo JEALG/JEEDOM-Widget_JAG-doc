@@ -47,7 +47,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 # Télécharger les sources
  <a href="https://github.com/JEALG/JEEDOM-Thermometre/tree/masterv4">Télécharger les sources pour la V4</a><br/>
  
-# Chancelog
+# Changelog
 <a href="https://github.com/JEALG/JEEDOM-Thermometre/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Thermometre/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

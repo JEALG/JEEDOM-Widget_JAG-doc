@@ -76,7 +76,7 @@ Liste des images par dossiers
 <hr />
 # Télécharger les sources
 
-# Chancelog
+# Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />

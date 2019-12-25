@@ -91,7 +91,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 # Télécharger les sources
 <a href="https://github.com/JEALG/JEEDOM-Multi_info-Binaire--mobile/tree/masterv4">Télécharger les sources pour la V4</a><br/>
 
-# Chancelog
+# Changelog
 <a href="https://github.com/JEALG/JEEDOM-Multi_info-Binaire--mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Multi_info-Binaire--mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
