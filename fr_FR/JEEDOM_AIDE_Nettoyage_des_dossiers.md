@@ -35,12 +35,12 @@ Il faut installer le plugin Jeexplorer
 # Nettoyage des dossiers
 ## Dossiers à nettoyer
 ### Pour le Core V3
-> Dashboard : plugins/widget/core/template/dashboard/
-> Mobile : plugins/widget/core/template/mobile/
+> * Dashboard : plugins/widget/core/template/dashboard/
+> * Mobile : plugins/widget/core/template/mobile/
 
 ### Pour le Core V4
-> Dashboard : data/customTemplates/dashboard/
-> Mobile : data/customTemplates/mobile/
+> * Dashboard : data/customTemplates/dashboard/
+> * Mobile : data/customTemplates/mobile/
 
 ## Nettoyage
 <ul>
