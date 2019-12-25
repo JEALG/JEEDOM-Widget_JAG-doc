@@ -32,10 +32,20 @@ Il faut installer le plugin Jeexplorer
 </blockquote>
 
 # Nettoyage des dossiers
+## Dossiers à nettoyer
+### Pour le Core V3
+> Dashboard : plugins/widget/core/template/dashboard/
+> Mobile : plugins/widget/core/template/mobile/
+
+### Pour le Core V4
+> Dashboard : data/customTemplates/dashboard/
+> Mobile : data/customTemplates/mobile/
+
+## Nettoyage
 <ul>
     <li>Ouvrir le plugin <b>JeeXplorer</b></li>
     <ul>
-        <li>se rendre dans le dossier <i>plugins/widget/core/template/dashboard/</i></li>
+        <li>se rendre dans le dossier </li>
         <li>Supprimer ou exporter les dossiers suivants :</li>
         <blockquote>
             <ul>
@@ -55,20 +65,6 @@ Il faut installer le plugin Jeexplorer
             </ul>
         </blockquote>
     </ul>
-    <li>Faire la même chose pour les dossier suivant :</li>
-    <blockquote>
-        <ul>
-            <li>plugins/widget/core/template/mobile</li>
-        </ul>
-    </blockquote>
-    
-  <li><b>Pour la version core V4, les widgets sont copiés dans les dossiers suivant :</b></li>
-    <blockquote>
-        <ul>
-            <li>data/customTemplates/dashboard/</li>
-            <li>data/customTemplates/mobile/</li>
-        </ul>
-    </blockquote>
 </ul>
 
 <hr />
