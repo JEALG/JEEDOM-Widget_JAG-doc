@@ -24,7 +24,7 @@ Ici l'exemple d'un équipement fait avec le plugin info; il faut paramétrer les
 
 ## Choix du widget
 Cliquer sur la roue crantée (voir image ci-dessous), cliquer sur affichage, sélectionner ensuite le widget voulu
-<p><img src="img/img/AIDE_CONFIG_INFO_2.png" alt="Aide 2" /></p>
+<p><img src="img/AIDE_CONFIG_INFO_2.png" alt="Aide 2" /></p>
 
 # Ajout des paramétres
 Cliqur sur le bouton <i>Ajouter</i> pour ajouter les différents paramétres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
