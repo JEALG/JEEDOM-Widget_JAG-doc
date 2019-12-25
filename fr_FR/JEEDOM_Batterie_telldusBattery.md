@@ -4,13 +4,7 @@ title: JEEDOM-Batterie-telldusBattery
 description: explication widget Batterie-telldusBattery
 ---
 [back](./)
-**Widget " Batterie-telldusBattery**
-
-<h4 id="A Savoir">A savoir</h4>
-<blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
-</blockquote>
-
+# Widget " Batterie-telldusBattery
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="img/RESULTAT_JEEDOM_Batterie-telldusBattery.png" alt="Resultat" /></p>
 <blockquote>
@@ -19,6 +13,12 @@ Le widget inclus d'office 1 type d'icônes.
 
 <p><img src="img/VISUEL_JEEDOM_Batterie_telldusBattery.png" alt="Visuels" /></p>
 
+## A savoir
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
+</blockquote>
+
+## Paramétrage
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
@@ -79,11 +79,13 @@ Il est possible de personnaliser les niveaux :
 </blockquote>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/tree/masterv4">Télécharger les sources pour la V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/commits/master">Changelog WIDGET pour le Core V3</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+## Télécharger les sources
+<a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+
+## Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/commits/master">Changelog WIDGET pour le Core V3</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](./)

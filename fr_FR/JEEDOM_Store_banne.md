@@ -4,16 +4,17 @@ title: JEEDOM-Store-banne
 description: explication Store-banne
 ---
 [back](./)
-**Widget "Store-banne**
+# Widget "Store-banne
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="img/RESULTAT_JEEDOM_Store_banne.png" alt="Resultat" /></p>
 
-<h4 id="A Savoir">A savoir</h4>
+## A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
+## Paramétrage
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
@@ -77,11 +78,13 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
 </blockquote>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Store-banne/tree/masterv4">Télécharger les sources pour la V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Store-banne/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Store-banne/commits/master">Changelog WIDGET pour le Core V3</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+## Télécharger les sources
+<a href="https://github.com/JEALG/JEEDOM-Store-banne/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+
+## Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Store-banne/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Store-banne/commits/master">Changelog WIDGET pour le Core V3</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](./)

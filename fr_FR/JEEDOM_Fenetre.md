@@ -4,7 +4,7 @@ title: JEEDOM-Fenetre
 description: explication widget Fenêtre (numérique)
 ---
 [back](./)
-**Widget "Fenêtre (numérique)**
+# Widget "Fenêtre (numérique)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="img/RESULTAT_JEEDOM_Fenetre.png" alt="Resultat" /></p>
@@ -13,10 +13,12 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
 </blockquote>
 <p><img src="img/VISUEL_JEEDOM_Fenetre.png" alt="Visuels" /></p>
 
+## A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
+## Paramétrage
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Choix de l'icône</h4>
@@ -105,11 +107,13 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Fenetre/tree/masterv4">Télécharger les sources pour la V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Fenetre/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Fenetre/commits/master">Changelog WIDGET pour le Core V3</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+## Télécharger les sources
+<a href="https://github.com/JEALG/JEEDOM-Fenetre/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+
+## Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Fenetre/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Fenetre/commits/master">Changelog WIDGET pour le Core V3</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](./)

@@ -4,16 +4,17 @@ title: JEEDOM-Tendance-Baro
 description: explication widget Tendance-Baro
 ---
 [back](./)
-**Widget "Tendance-Baro**
+# Widget "Tendance-Baro
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="img/RESULTAT_JEEDOM_Tendance-Baro.png" alt="Resultat" /></p>
 
-<h4 id="A Savoir">A savoir</h4>
+## A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
+## Paramétrage
 <h4 id="Taille">Taille des images ou des icônes</h4>
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
@@ -35,12 +36,13 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 <hr />
+## Télécharger les sources
+<a href="https://github.com/JEALG/JEEDOM-Tendance-Baro/tree/masterv4">Télécharger les sources pour la V4</a><br/>
 
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Tendance-Baro/tree/masterv4">Télécharger les sources pour la V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Tendance-Baro/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Tendance-Baro/commits/master">Changelog WIDGET pour le Core V3</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+## Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Tendance-Baro/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Tendance-Baro/commits/master">Changelog WIDGET pour le Core V3</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](./)

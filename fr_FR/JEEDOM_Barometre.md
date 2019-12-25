@@ -4,16 +4,17 @@ title: JEEDOM-Barometre
 description: explication widget Baromètre
 ---
 [back](./)
-**Widget "Baromètre**
+# Widget "Baromètre
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="img/RESULTAT_JEEDOM_Barometre.png" alt="Resultat" /></p>
 
-<h4 id="A Savoir">A savoir</h4>
+## A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
+## Paramétrage
 <h4 id="Taille">Taille des images ou des icônes</h4>
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
@@ -47,11 +48,13 @@ Il est possible de déplacer la légende
 </blockquote>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Barometre/tree/masterv4">Télécharger les sources pour la V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Barometre/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Barometre/commits/master">Changelog WIDGET pour le Core V3</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+## Télécharger les sources
+<a href="https://github.com/JEALG/JEEDOM-Barometre/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+
+## Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Barometre/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Barometre/commits/master">Changelog WIDGET pour le Core V3</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](./)

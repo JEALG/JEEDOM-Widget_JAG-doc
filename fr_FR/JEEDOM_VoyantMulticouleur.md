@@ -4,7 +4,7 @@ title: JEEDOM-VoyantMulticouleur
 description: explication Bouton en forme de voyant Multi couleur
 ---
 [back](./)
-**Widget "VoyantMulticouleur : Bouton en forme de voyant Multi couleur**
+# Widget "VoyantMulticouleur : Bouton en forme de voyant Multi couleur
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="img/RESULTAT_JEEDOM_VoyantMulticouleur.png" alt="Resultat" /></p>
@@ -14,12 +14,12 @@ Le widget inclus d'office 14 types d'icônes.
 
 <p><img src="img/VISUEL_JEEDOM_Voyant.png" alt="Visuels" /></p>
 
-<h4 id="A Savoir">A savoir</h4>
+## A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
-<h1 id="Type de paramètre">Type de paramètre</h1>
+## Paramétrage
 <hr />
 <h4 id="Logo">Choix de la couleur</h4>
 Pour choisir la couleur, il faut ajouter les paramètres optionnels suivant :
@@ -75,11 +75,13 @@ Pour choisir le type d'extension de l'image
 </blockquote>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur-/tree/masterv4">Télécharger les sources pour la V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/masterv4">Changelog WIDGET Pour le Core V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/master">Changelog WIDGET pour le Core V3</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+## Télécharger les sources
+<a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur-/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+
+## Chancelog
+<a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/masterv4">Changelog WIDGET Pour le Core V4</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/master">Changelog WIDGET pour le Core V3</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](./)

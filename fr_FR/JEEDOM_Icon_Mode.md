@@ -4,7 +4,6 @@ title: JEEDOM-Icon_Mode
 description: explication widget Icon_Mode
 ---
 [back](./)
-
 # Widget "Icon_Mode"
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
@@ -13,8 +12,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info text
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-## Infos
-### Merci
+## Info : Merci
 <blockquote>
         <ul>
             <li>Merci @Salviaf pour l'affichage de la durée</li>
@@ -28,7 +26,7 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
-## Type de paramètre
+## Paramétrage
 <hr />
 ### Valeur du mode
 Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les variables
@@ -115,11 +113,13 @@ Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PN
 </blockquote>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/masterv4">Télécharger les sources pour la V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET pour le Core V3</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+## Télécharger les sources
+ <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+ 
+## Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET pour le Core V3</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](./)

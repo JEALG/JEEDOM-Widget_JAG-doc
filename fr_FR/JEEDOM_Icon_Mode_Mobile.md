@@ -4,7 +4,7 @@ title: JEEDOM-Icon_Mode--Mobile
 description: explication widget Icon_Mode (Mobile)
 ---
 [back](./)
-**Widget "Icon_Mode (Mobile)**
+# Widget "Icon_Mode (Mobile)
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
 <p><img src="img/RESULTAT_JEEDOM_Icon_Mode.png" alt="Resultat" /></p>
@@ -12,7 +12,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info text
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-<h1 id="Merci">Merci</h1>
+## Info : Merci
 <blockquote>
         <ul>
             <li>Merci @Salviaf pour l'affichage de la durée</li>
@@ -21,11 +21,12 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
         </ul>
 </blockquote>
 
-<h4 id="A Savoir">A savoir</h4>
+## A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
+## Paramétrage
 <h1 id="Type de paramètre">Type de paramètre</h1>
 <hr />
 <h4 id="Logo">Valeur du mode</h4>
@@ -112,11 +113,13 @@ Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PN
 </blockquote>
 
 <hr />
-<dl>
-    <a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/tree/masterv4">Télécharger les sources pour la V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
-    <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-</dl>
+## Télécharger les sources
+<a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+
+## Chancelog
+<a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
 <hr />
 [back](./)
