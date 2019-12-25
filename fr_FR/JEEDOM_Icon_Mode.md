@@ -7,12 +7,13 @@ description: explication widget Icon_Mode
 # Widget "Icon_Mode" 
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
-<p><img src="Img/RESULTAT_JEEDOM_Icon_Mode.png" alt="Resultat" /></p>
+<p><img src="img/RESULTAT_JEEDOM_Icon_Mode.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-<h1 id="Merci">Merci</h1>
+# Infos
+## Merci
 <blockquote>
         <ul>
             <li>Merci @Salviaf pour l'affichage de la durée</li>
@@ -21,14 +22,14 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
         </ul>
 </blockquote>
 
-<h4 id="A Savoir">A savoir</h4>
+## A Savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
 </blockquote>
 
-<h1 id="Type de paramètre">Type de paramètre</h1>
+# Type de paramètre
 <hr />
-<h4 id="Logo">Valeur du mode</h4>
+## Logo">Valeur du mode
 Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les variables
 <blockquote>
         <ul>
@@ -44,7 +45,7 @@ Pour que le widget fonctionne dans le cas où les noms des commandes sont rempla
         </ul>
 </blockquote>
 
-<h4 id="Logo">Choix de l'icône</h4>
+## Choix de l'icône
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels si le nom du mode ne correspond pas au nom de l'image :
 <blockquote>
         <ul>
@@ -56,7 +57,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 </blockquote>
 
 
-<h4 id="Dossier">Sous dossier</h4>
+## Sous dossier
 Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 <blockquote>
         <ul>
@@ -65,7 +66,7 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
         </ul>
 </blockquote>
 
-<h4 id="Taille">Taille des images ou des icônes</h4>
+## Taille des images ou des icônes 
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -79,7 +80,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
  
-<h4 id="Error">Autres paramétrages possible</h4>
+## Autres paramétrages possible 
 <blockquote>
         <ul>
             <li><a href="./aide/JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
@@ -90,10 +91,10 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-<h1 id="Aide">Exemple Paramétrage d'un mode</h1>
+# Exemple Paramétrage d'un mode
 <p><img src="./img/JEEDOM_Icon_Mode_Para mode.png" alt="exemple Para" /></p>
 <hr />
-<h4 id="Logo">Exemple</h4>
+## Exemple
 Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG"
 <blockquote>
         <ul>
