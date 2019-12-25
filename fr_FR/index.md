@@ -1,4 +1,4 @@
-** Ensemble de la documentation pour les widgets JAG **
+**Ensemble de la documentation pour les widgets JAG**
 # Nettoyage des Dossiers et Migration V4
 
 > Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la procédure pour avoir les différentes mises à jour pour la V4
@@ -70,5 +70,5 @@
 * <a href="./JEEDOM_Liste_images_dossiers.html">Listes des images des widgets </a>
 
 <hr />
-# Chancelog>
+# Chancelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
