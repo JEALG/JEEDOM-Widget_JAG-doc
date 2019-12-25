@@ -77,7 +77,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-# Autres paramétrages possible et Aide
+## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="./aide//JEEDOM_AIDE_CONFIG_ACTION">Aide pour le paramétrage des widgets de type action</a></li>
@@ -87,7 +87,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
     
-## Ajout d'image
+### Ajout d'image
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>

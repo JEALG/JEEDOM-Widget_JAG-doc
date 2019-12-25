@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Modifier la taille du texte
 description: explication Modification size Texte
 ---
-[back](../)
+[back](./)
 # Modification de la taille du texte
 <blockquote>
     Il est possible de modifier la taille du textes de la valeur et de l'historique sur certains widgets de type Info
@@ -53,4 +53,4 @@ A la date d'écriture de la documentation, ce paramétrage ne fonctionne pas sur
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
-[back](../)
+[back](./)

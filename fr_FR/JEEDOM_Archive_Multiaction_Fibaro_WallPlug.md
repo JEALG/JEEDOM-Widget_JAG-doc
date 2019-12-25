@@ -6,6 +6,17 @@ description: Explication widget Fibaro-WallPlug
 [back](../JEEDOM_Archive_action.html)
 # Widget "Fibaro-WallPlug" 
 
+# A savoir
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
+</blockquote>
+
+# Nouveau paramétrage
+## Remplacer par le widget
+Ce widget est remplacé par :
+
+## Paramétrage
+
 <h4 id="A Savoir">A savoir</h4>
 <blockquote>
     <b>Afin de simplifier la gestion des images et la migration du widget en Core V4, depuis le 10/09/2019, ce widget est remplacé par le widget <a href="../../JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></b>

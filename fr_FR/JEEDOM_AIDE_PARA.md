@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Ajout paramétrage
 description: explication Ajout paramétrage
 ---
-[back](../)
+[back](./)
 # Comment ajouter des paramétres
 
 ## Ajout des paramétres
@@ -25,4 +25,4 @@ Pour ajouter les paramétres, il faut se rendre dans le menu de la configuration
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
-[back](../)
+[back](./)

@@ -37,7 +37,7 @@ Il est possible de déplacer la légende
         </ul>
 </blockquote>
  
-# Autres paramétrages possible et Aide
+## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>

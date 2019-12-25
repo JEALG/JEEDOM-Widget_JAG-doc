@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Affichage de l'historique
 description: explication Affichage de l'historique
 ---
-[back](../)
+[back](./)
 # Affichage de l'historique 
 
 # ctivation de l'historique
@@ -27,4 +27,4 @@ Ensuite cocher <i>Afficher les statistiques</i> soit pour le Dashboard soit pour
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
-[back](../)
+[back](./)

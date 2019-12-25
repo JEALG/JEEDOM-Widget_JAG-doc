@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Paramétrages Fenêtres numérique
 description: explication Paramétrage Fenêtre
 ---
-[back](../)
+[back](./)
 # Exemples de paramétrages
 Voici un exemple de configuration
 <blockquote>
@@ -108,4 +108,4 @@ Ensuite j'ai créer un scénario avec le paramétrage suivant
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
-[back](../)
+[back](./)

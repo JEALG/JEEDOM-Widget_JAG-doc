@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Installation Manuelle des widgets V4
 description: Installation Manuelle des widgets pour le core V4
 ---
-[back](../)
+[back](./)
 # Info
 <blockquote>
 Comme vous le savez le plugin widget va disparaitre avec la version du Core V4. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour. 
@@ -67,4 +67,4 @@ Cliquer ensuite sur <i>Sélectionner les fichiers à envoyer</i> ou pour envoyer
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
-[back](../)
+[back](./)

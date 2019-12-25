@@ -77,7 +77,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-# Autres paramétrages possible et Aide
+## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type infos</a></li>

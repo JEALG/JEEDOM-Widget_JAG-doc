@@ -49,7 +49,7 @@ Pour choisir le type d'extension de l'image
         </ul>
 </blockquote>
 
-# Autres paramétrages possible et Aide
+## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
@@ -58,7 +58,7 @@ Pour choisir le type d'extension de l'image
 </blockquote>
 
 <hr />
-## Ajout d'image
+### Ajout d'image
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>

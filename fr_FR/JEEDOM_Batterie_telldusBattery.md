@@ -50,7 +50,7 @@ Il est possible de personnaliser les niveaux :
         </ul>
 </blockquote>
 
-# Autres paramétrages possible et Aide
+## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
@@ -62,7 +62,7 @@ Il est possible de personnaliser les niveaux :
 </blockquote>
 
 <hr />
-## Ajout d'image
+### Ajout d'image
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>

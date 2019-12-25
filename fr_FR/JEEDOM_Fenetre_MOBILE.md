@@ -75,10 +75,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     </ul>
 </blockquote>
 
-# >Exemples de paramétrage
-<li><a href="JEEDOM_AIDE_PARA_FENETRES.html">Exemple de paramétrages</a></li>
- 
-# Autres paramétrages possible et Aide
+## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
@@ -87,6 +84,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
+
+# >Exemples de paramétrage
+<li><a href="JEEDOM_AIDE_PARA_FENETRES.html">Exemple de paramétrages</a></li>
 
 <hr />
 # Télécharger les sources

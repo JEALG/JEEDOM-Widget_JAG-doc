@@ -76,7 +76,7 @@ Il est possible de déplacer la légende
             <p><img src="img/RESULTAT_JEEDOM_Lum_IMG_Haut.png" alt="Resultat - Haut" /></p>
         </ul>
 </blockquote>
-# Autres paramétrages possible et Aide
+## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>

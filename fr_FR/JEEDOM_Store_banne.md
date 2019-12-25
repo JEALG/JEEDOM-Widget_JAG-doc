@@ -53,7 +53,7 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
 </blockquote>
 
 
-# Autres paramétrages possible et Aide
+## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
@@ -65,7 +65,7 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
 </blockquote>
 
 <hr />
-## Ajout d'image
+### Ajout d'image
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>

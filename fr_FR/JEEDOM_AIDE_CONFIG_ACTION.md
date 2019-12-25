@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE-CONFIG-Action
 description: explication Aide pour le paramétrage des widgets de type Action
 ---
-[back](../)
+[back](./)
 # Aide pour le paramétrage des widgets de type action
 
 # Paramétrage de l'équipement
@@ -37,4 +37,4 @@ Cliqur sur le bouton <i>Ajouter</i> pour ajouter les différents paramétres du 
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
-[back](../)
+[back](./)

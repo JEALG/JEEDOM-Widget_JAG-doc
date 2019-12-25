@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Error
 description: explication Image défaut widget
 ---
-[back](../)
+[back](./)
 # Paramétrage image défaut Widget 
 
 ## Choix de l'icône en cas d'erreur pour un widget "Dashboard"
@@ -71,4 +71,4 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
-[back](../)
+[back](./)

@@ -33,7 +33,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 </blockquote>
  
  
-# Autres paramétrages possible et Aide
+## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="JEEDOM_AIDE_CONFIG_INFOS.md">Aide ajout Des paramétres pour un widget Info</a></li>

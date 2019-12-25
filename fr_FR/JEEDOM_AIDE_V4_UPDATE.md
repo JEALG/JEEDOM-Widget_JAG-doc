@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Update V4
 description: Info V4
 ---
-[back](../)
+[back](./)
 # Info
 <blockquote>
 Comme vous le savez le plugin widget va disparaitre avec la version du Core V4. J'ai trouvé un moyen pour mettre à jour les widgets pour le core V4 via le market.
@@ -30,4 +30,4 @@ Cela va permettre par un script de déplacer les widgets dans le nouveau dossier
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
-[back](../)
+[back](./)

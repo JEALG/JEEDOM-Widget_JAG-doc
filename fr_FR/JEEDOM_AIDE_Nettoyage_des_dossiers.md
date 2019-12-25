@@ -3,7 +3,7 @@ layout: default
 title: JEEDOM-AIDE Nettoyage des dossiers
 description: Nettoyage des dossiers
 ---
-[back](../)
+[back](./)
 # Nettoyage des dossiers
 # Rappel 
 <blockquote>
@@ -75,4 +75,4 @@ Il faut installer le plugin Jeexplorer
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
-[back](../)
+[back](./)
