@@ -1,4 +1,5 @@
 # Widget "Icon_Mode"
+
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
 <p><img src="img/RESULTAT_JEEDOM_Icon_Mode.png" alt="Resultat" /></p>
 <blockquote>
@@ -105,7 +106,6 @@ Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PN
         </ul>
 </blockquote>
 
-<hr />
 ## Télécharger les sources
  <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/masterv4">Télécharger les sources pour la V4</a><br/>
  
@@ -114,5 +114,4 @@ Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PN
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
-<hr />
 [back](./)
