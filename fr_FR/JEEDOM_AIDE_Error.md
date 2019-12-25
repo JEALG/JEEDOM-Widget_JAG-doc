@@ -6,7 +6,7 @@ description: explication Image défaut widget
 [back](../)
 # Paramétrage image défaut Widget 
 
-<h4 id="Error">Choix de l'icône en cas d'erreur pour un widget "Dashboard"</h4>
+## Choix de l'icône en cas d'erreur pour un widget "Dashboard"
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
 <blockquote>
         <ul>
@@ -15,7 +15,7 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
         </ul>
 </blockquote>
 
-<h4 id="Error">Choix de l'icône en cas d'erreur pour un widget "Mobile"</h4>
+## Choix de l'icône en cas d'erreur pour un widget "Mobile"
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
 <blockquote>
         <ul>
@@ -24,15 +24,15 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
         </ul>
 </blockquote>
 
-<p><img src="../img/VISUEL_JEEDOM_Error.png" alt="Error" /></p>
+<p><img src="img/VISUEL_JEEDOM_Error.png" alt="Error" /></p>
 
-<h4 id="Error_Cas">Cas Particulier</h4>
+# Cas Particulier
 Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'erreur
 <ul>
-    <li><a href="../JEEDOM_Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
-    <li><a href="../JEEDOM_Icon_Mode_Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
-    <li><a href="../JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
-    <li><a href="../JEEDOM-Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+    <li><a href="JEEDOM_Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
+    <li><a href="JEEDOM_Icon_Mode_Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
+    <li><a href="JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="JEEDOM-Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
 </ul>
 <blockquote>
         <ul>
@@ -41,10 +41,10 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
         </ul>
 </blockquote>
 
-<h4 id="Error_Cas">Cas Particulier pour les widgets Multi_info-Binaire</h4>
+# Cas Particulier pour les widgets Multi_info-Binaire
 <ul>
-    <li><a href="../JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
-    <li><a href="../JEEDOM_Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+    <li><a href="JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="JEEDOM_Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
 </ul>
 <blockquote>
     Petit rappel : la variable ci-dessous permet de récupèrer ou pas les même infos que le Dashboard

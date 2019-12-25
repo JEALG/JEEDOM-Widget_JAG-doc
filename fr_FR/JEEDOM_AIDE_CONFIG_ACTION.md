@@ -8,7 +8,7 @@ description: explication Aide pour le paramétrage des widgets de type Action
 
 # Paramétrage de l'équipement
 Ici l'exemple d'un équipement fait avec le plugin info; il faut paramétrer les infos suivantes
-<p><img src="../img/AIDE_CONFIG_ACTION_1.png" alt="Aide 1" /></p>
+<p><img src="img/AIDE_CONFIG_ACTION_1.png" alt="Aide 1" /></p>
 <blockquote>
         <ul>
             <li><b>En marron</b> : Action du widget, il est possible de cocher ou pas <i>Afficher</i> (je conseille de décocher)</li>
@@ -24,11 +24,11 @@ Ici l'exemple d'un équipement fait avec le plugin info; il faut paramétrer les
 
 ## Choix du widget
 Cliquer sur la roue crantée (voir image ci-dessous), cliquer sur affichage, sélectionner ensuite le widget voulu
-<p><img src="../img/AIDE_CONFIG_INFO_2.png" alt="Aide 2" /></p>
+<p><img src="img/img/AIDE_CONFIG_INFO_2.png" alt="Aide 2" /></p>
 
 # Ajout des paramétres
 Cliqur sur le bouton <i>Ajouter</i> pour ajouter les différents paramétres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
-<p><img src="../img/AIDE_CONFIG_INFO_3.png" alt="Aide 3" /></p>
+<p><img src="img/AIDE_CONFIG_INFO_3.png" alt="Aide 3" /></p>
 
 <hr />
 # Télécharger les sources

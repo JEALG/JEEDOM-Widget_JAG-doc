@@ -6,14 +6,14 @@ description: explication Ajout paramétrage
 [back](../)
 # Comment ajouter des paramétres
 
-<h4 id="Error">Ajout des paramétres</h4>
+## Ajout des paramétres
 Pour ajouter les paramétres, il faut se rendre dans le menu de la configuration de la commande
-<p><img src="../img/AIDE_CONFIG_SIZE_3.png" alt="Error" /></p>
+<p><img src="AIDE_CONFIG_SIZE_3.png" alt="Error" /></p>
 
 <blockquote>
         <ul>
             Cliquer ensuite sur le bouton <i>Ajouter</i>
-            <p><img src="../img/AIDE_PARA_1.png" alt="INFO" /></p>
+            <p><img src="AIDE_PARA_1.png" alt="INFO" /></p>
             Ensuite renseigner les différents paramétres comme indiquer dans chaque widget
         </ul>
 </blockquote>

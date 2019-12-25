@@ -9,7 +9,8 @@ description: explication Affichage des informations de durée
     Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF) sur les widgets de type info et sur le widget Multi-action. il suffit d'ajouter un paramètre optionnel <i>Merci à @Salvialf pour le code</i>
 </blockquote>
 
-<h4 id="Error">Affichage des informations de durée sur les widgets info (binaire, numérique)<i>Dashboard</i></h4>
+# Affichage des informations de durée sur les widgets info (binaire, numérique)
+## Dashboard
 Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF). il suffit d'ajouter un paramètre optionnel <i>Merci à @Salvialf pour le code</i>
 <blockquote>
         <ul>
@@ -21,7 +22,7 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
         </ul>
 </blockquote>
 
-<h4 id="Error">Affichage des informations de durée sur les widgets info (binaire, numérique)<i>Mobile</i></h4>
+## Mobile
 Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF). il suffit d'ajouter un paramètre optionnel <i>Merci à @Salvialf pour le code</i>
 <blockquote>
         <ul>

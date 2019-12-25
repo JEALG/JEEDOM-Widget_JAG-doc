@@ -9,7 +9,7 @@ description: explication Modification size Texte
     Il est possible de modifier la taille du textes de la valeur et de l'historique sur certains widgets de type Info
 </blockquote>
 
-<h4 id="Size">Les variables</h4>
+# Les variables
 <blockquote>
         <ul>
             <li><b>font_size</b> : Modification de la taille de la valeur <i>(Valeur par défaut : 11px)</i></li>
@@ -18,26 +18,26 @@ description: explication Modification size Texte
         </ul>
 </blockquote>
 
-<h4 id="Exemple">Exemple</h4>
+# Exemple
 <blockquote>
     <ul>
         <li><b>Taille normale</b></li>
-        <p><img src="../img/AIDE-CONFIG_SIZE_1.png" alt="Size normal" /></p>
+        <p><img src="AIDE-CONFIG_SIZE_1.png" alt="Size normal" /></p>
         <li><b>Taille normale</b></li>
-        <p><img src="../img/AIDE_CONFIG_SIZE_2.png" alt="Size" /></p>
-        <p><img src="../img/AIDE_CONFIG_SIZE_3.png" alt="Size réglage" /></p>
+        <p><img src="AIDE_CONFIG_SIZE_2.png" alt="Size" /></p>
+        <p><img src="AIDE_CONFIG_SIZE_3.png" alt="Size réglage" /></p>
         </ul>
 </blockquote>
 
 
-<h4 id="Error">Info importante</h4>
+# Info importante
 <blockquote>
         <ul>
 A la date d'écriture de la documentation, ce paramétrage ne fonctionne pas sur le Core V4
         </ul>
 </blockquote>
 
-<h4 id="Aide">Autres paramétrages possible et Aide</h4>
+# Autres paramétrages possible et Aide
 <blockquote>
         <ul>
             <li><a href="JEEDOM_AIDE_CONFIG_INFO.html">Aide ajout Des paramétres pour un widget Info</a></li>
