@@ -1,3 +1,4 @@
+[back](./)
 # Widget "Icon_Mode"
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
@@ -6,7 +7,8 @@ Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info text
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
 
-# Info : Merci
+# Info
+## Merci
 <blockquote>
         <ul>
             <li>Merci @Salviaf pour l'affichage de la durée</li>
@@ -114,4 +116,5 @@ Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PN
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
+<hr />
 [back](./)
