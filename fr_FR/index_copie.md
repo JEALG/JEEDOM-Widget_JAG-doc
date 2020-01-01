@@ -1,19 +1,6 @@
 # Description
 
-Outil de sauvegarde et de synchronisation de fichiers depuis votre installation Jeedom et plusieurs services de cloud publics. ATTENTION : le plugin ne supporte actuellement que FTP, SFTP, Local, Dropbox, Google Drive et NextCloud",
-
-# Configuration
-
-Le plugin ne comporte pas de configuration générale, il faut ajouter :
-
-> - Equipement "Température"
-> - Equipement "Humidité Relative"
-
-> en option
-> - Equipement "Pression Atmosphérique" : Pression atmosphérique réelle sur le site. 1013.25 hPa par défaut si non renseignée
-> - Seuil (°C) : Seuil de déclenchement de l'alerte rosée, 2°C par défaut (dépression du point de rosée T°-Tr°) A ajuster en fonction des observations locales.
--- 
-Il faut ajouter un équipement pour la température et un équipement pour l’humidité
+Outil de sauvegarde et de synchronisation de fichiers depuis votre installation Jeedom et plusieurs services de cloud publics. ATTENTION : le plugin ne supporte actuellement que FTP, SFTP, Local, Dropbox, Google Drive et NextCloud".
 
 # Ajouter un équipement 
 - Cliquer sur "Ajouter"
@@ -21,7 +8,8 @@ Il faut ajouter un équipement pour la température et un équipement pour l’h
 - Cliquer sur OK
 
 # Paramétrer une sauvegarde FTP
-Dans l'onglet "Configuration" 
+Dans l'onglet "Configuration"
+
 ![FTP](../images/FTP.png)
 - Sélectionner Type de stockage : FTP
 - Indiquer l’adresse FTP de votre serveur, il peut être local mais aussi externe.
@@ -30,7 +18,8 @@ Dans l'onglet "Configuration"
 - Indiquer le mot de passe du serveur FTP
 
 # Paramétrer une sauvegarde SFTP
-Dans l'onglet "Configuration" 
+Dans l'onglet "Configuration"
+
 ![SFTP](../images/SFTP.png)
 - Sélectionner Type de stockage : SFTP
 - Indiquer l’adresse SFTP de votre serveur, il peut être local mais aussi externe.
@@ -48,31 +37,35 @@ Dans l'onglet "Configuration"
 
 - Allez à l’adresse suivante <a href="https://www.dropbox.com/developers/apps">https://www.dropbox.com/developers/apps</a>
 - Cliquer sur "Create app"
+
 ![Dropbox 1](../images/DROPBOX_1.png)
 - Donner un nom à votre application (exemple VotrePseudo_JEEDOM_SAUV)
 - Cocher "I agree …"
-- Cliquer sur  "Create App"
+- Cliquer sur "Create App"
 - Générer le token pour permettre à cloudsync pro de contacter votre application
 - Copier le token
+
 ![Dropbox 2](../images/DROPBOX_2.png)
 
 ## Configuration
-Dans l'onglet "Configuration" 
+Dans l'onglet "Configuration"
+
 ![DROPBOX](../images/SFTP.png)
 - Sélectionner Type de stockage : DROPBOX
 - Indiquer le token : Coller le token précédemment copier
 
 # Paramétrer une sauvegarde Google Drive
 
-# Paramétrer uune sauvegarde NestCloud
+# Paramétrer une sauvegarde NestCloud
 
-# Paramétrer uune sauvegarde Local
+# Paramétrer une sauvegarde Locale
 
 # Ajouter les commandes sur l'équipement
 Dans l'onglet "Commandes" 
 ## Ajouter une commande de Sauvegarde
 - Cliquer sur "Ajouter une commande"
 - Donner un nom à la commande (Exemple : Backup)
+
 ![Commandes_1](../images/Commandes_1.png)
 - Dans la partie configuration
     - Sélectionner "Copie (Source vers destination)
@@ -80,4 +73,26 @@ Dans l'onglet "Commandes"
     - Indiquer la destination : Dossier de destination
 - Dans la partie Paramètres
     - Indiquer l'inclusion  des fichiers : mettre "*.gz"
+
+## Ajouter une commande de Nettoyage
+- Cliquer sur "Ajouter une commande"
+- Donner un nom à la commande (Exemple : Clen)
+
+![Commandes_1](../images/Commandes_2.png)
+- Dans la partie configuration
+    - Indiquer la destination : Dossier de destination
+- Dans la partie Paramètres
+    - Indiquer Ancienneté (Minimum) : exemple 10d (pour garder 10 jours de sauvegarde)
     
+# Création Scenario
+Automatisation de la sauvegarde 
+- Dans la partie Général
+
+![Scenario_1](../images/Scenario_1.png)
+    - Sélectionner le mode de scénario  : Provoqué
+    - Indiquer le déclencheur : #end_backup# (ce déclencheur permet de déclencher le scénario à la fin de la sauvegarde automatique de jeedom.)
+ 
+ - Dans la partie Scénario
+
+![Scenario_2](../images/Scenario_2.png)
+    - Indiquer les commandes de sauvegardes et de nettoyage
