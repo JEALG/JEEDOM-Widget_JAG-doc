@@ -6,12 +6,7 @@ description: Explication widget Alarme-Activation (mobile)
 [back](../JEEDOM_Archive_action_mobile.html)
 # Widget "Alarme-Activation (mobile)" 
 
-# A savoir
-<blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut"</b>
-</blockquote>
-
-# Nouveau paramétrage
+# Remplacement du 
 ## Remplacer par le widget
 Ce widget est remplacé par :
 

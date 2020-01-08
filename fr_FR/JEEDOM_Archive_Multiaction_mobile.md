@@ -11,15 +11,33 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </blockquote>
 
 # Alarme
-<ul>
-    <li><a href="JEEDOM_Archive_Multiaction_mobile_Alarme_Activation.html">Widget mobile : <b>Alarme-Activation (mobile)</b></a></li>
-</ul>
+## Widget "Alarme-Activation (mobile)" 
+<blockquote>
+    <ul>
+        <li><b>Pour avoir les images </b><a href="JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+        <li><b>Pour avoir le paramétrage par défaut du widget Alarme-Activation (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>alarme</i></li>
+            <li><b>logoON-M</b> avec la valeur : <i>al_type1_on</i></li>
+            <li><b>logoOFF-M</b> avec la valeur : <i>al_type1_off</i></li>
+            <li><b>Les autres variables sont identiques</b></li>
+        </ul>
+    </ul>
+</blockquote>
 
 # Lumière
-<ul>
-    <li><a href="JEEDOM_Archive_Multiaction_mobile_Lampe.html">Widget mobile : <b>Lampe (mobile)</b></a></li>
-</ul>
-
+## Widget "Lampe (mobile)" 
+<blockquote>
+    <ul>
+        <li><b>Pour avoir les images </b><a href="JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+        <li><b>Pour avoir le paramétrage par défaut du widget Lampe (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>lampe</i></li>
+            <li><b>logo-M</b> avec la valeur : <i>la_ampoule</i></li>
+            <li><b>Les autres variables sont identiques</b></li>
+        </ul>
+    </ul>
+</blockquote>
 <hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
