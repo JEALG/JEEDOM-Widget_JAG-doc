@@ -15,8 +15,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 ## Widget "Alarme-Activation"
 <blockquote>
     <ul>
-        <li><b>Pour avoir les images </b><a href="../../JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
-        <li><b>Pour avoir le paramétrage par défaut du widget Alarme-Activation (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
+        <li><b>Pour avoir le paramétrage par défaut du widget Alarme-Activation, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
         <ul>
             <li><b>dossier</b> avec la valeur : <i>alarme</i></li>
             <li><b>logoON-M</b> avec la valeur : <i>al_type1_on</i></li>
