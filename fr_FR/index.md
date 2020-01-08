@@ -20,13 +20,13 @@
 * <a href="./JEEDOM_Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a>
 * <a href="./JEEDOM_Icon_Mode_Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a>
 * <a href="./JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
-    * <a href="JEEDOM_Archive_action.html">Voir les anciens widgets prises en charge par ce widget</a>
+    * <a href="JEEDOM_Archive_Multiaction.html">Voir les anciens widgets prises en charge par ce widget</a>
 * <a href="./JEEDOM_Multi_action_Defaut_mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a>
-    * <a href="JEEDOM_Archive_action_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
+    * <a href="JEEDOM_Archive_Multiaction_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
 * <a href="./JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a>
-    * <a href="JEEDOM_Archive_info_binaire.html">Voir les anciens widgets prises en charge par ce widget</a>
+    * <a href="JEEDOM_Archive_Multiinfo.html">Voir les anciens widgets prises en charge par ce widget</a>
 * <a href="./JEEDOM_Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a>
-    * <a href="JEEDOM_Archive_info_binaire_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
+    * <a href="JEEDOM_Archive_Multiinfo_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
 
 ## Energie
 * <a href="./JEEDOM_Batterie_EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a>
