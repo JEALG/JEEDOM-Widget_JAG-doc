@@ -3,12 +3,12 @@ layout: default
 title: JEEDOM-Archive Widget Info Binaire
 description: Archive Widget Info Binaire
 ---
-[back](../)
+[back](./)
 # Archive Widget Info Binaire
 
 <blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
-    <li><a href="../JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
 </blockquote>
 
 # A savoir
@@ -18,27 +18,89 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </blockquote>
 
 # Alarme
-<ul>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire_Alarme_Status.html">Widget Dashboard : <b>Alarme-Status</b></a></li>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire_Capteur_Fuite_Eau.html">Widget Dashboard : <b>Capteur-Fuite-Eau</b></a></li>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire_Detection_Mouvement.html">Widget Dashboard : <b>Detection Mouvement</b></a></li>
-</ul>
+## Widget "Alarme-Status"
+<b>Pour avoir le paramétrage par défaut du widget Alarme-Status, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+
+<blockquote>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>alarme</i></li>
+            <li><b>logoON</b> avec la valeur : <i>al_type0_off</i></li>
+            <li><b>logoOFF</b> avec la valeur : <i>al_type0_on</i></li>
+            <li><b>Les autres variables sont identiques</b></li>
+        </ul>
+</blockquote>
+
+## Widget "Capteur-Fuite-Eau"
+<b>Pour avoir le paramétrage par défaut du widget Capteur-Fuite-Eau, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+
+<blockquote>
+    <ul>
+        <li><b>dossier</b> avec la valeur : <i>eau</i></li>
+        <li><b>logoON</b> avec la valeur : <i>ea_typefibaro_off</i></li>
+        <li><b>logoOFF</b> avec la valeur : <i>ea_typefibaro_on</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
+
+## Widget "Detection Mouvement" 
+<b>Pour avoir le paramétrage par défaut du widget Detection Mouvement, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+<blockquote>
+    <ul>
+        <li><b>dossier</b> avec la valeur : <i>alarme</i></li>
+        <li><b>logoON</b> avec la valeur : <i>al_mouv_off</i></li>
+        <li><b>logoOFF</b> avec la valeur : <i>al_mouv_on</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
 
 # Energie
-<ul>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire_Chaudiere_Etat.html">Widget Dashboard : <b>Chaudiere-Etat</b></a></li>
-</ul>
+## Widget " Chaudière Etat" 
+<b>Pour avoir le paramétrage par défaut du widget Chaudière Etat, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+
+<blockquote>
+    <ul>
+        <li><b>dossier</b> avec la valeur : <i>chauffage</i></li>
+        <li><b>logoON</b> avec la valeur : <i>ch_chaudiere_off</i></li>
+        <li><b>logoOFF</b> avec la valeur : <i>ch_chaudiere_on</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
 
 # Lumière
-<ul>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire_Lampe_Binaire.html">Widget Dashboard : <b>Lampe-Binaire</b></a></li>
-</ul>
+## Widget "Lampe-Binaire" 
+<b>Pour avoir le paramétrage par défaut du widget Lampe-Binaire, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+
+<blockquote>
+    <ul>
+        <li><b>dossier</b> avec la valeur : <i>lampe</i></li>
+        <li><b>logo</b> avec la valeur : <i>la_ampoule</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
 
 # Ouverture
-<ul>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire_Fenetre_IMG.html">Widget Dashboard : <b>Fenêtre-IMG</b></a></li>
-    <li><a href="JEEDOM_Archive_multiinfo_binaire_Store_IMG.html">Widget Dashboard : <b>Store_IMG</b></a></li>
-</ul>
+## Widget "Fenêtre-IMG" 
+<b>Pour avoir le paramétrage par défaut du widget Fenetre-IMG, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+
+<blockquote>
+    <ul>
+        <li><b>dossier</b> avec la valeur : <i>fenetre</i></li>
+        <li><b>logoON</b> avec la valeur : <i>ou_baie2_wh_db_off</i></li>
+        <li><b>logoOFF</b> avec la valeur : <i>ou_baie2_wh_rg_on</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
+
+## Widget "Store_IMG" 
+<b>Pour avoir le paramétrage par défaut du widget Store_IMG, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+<blockquote>
+    <ul>
+        <li><b>dossier</b> avec la valeur : <i>store</i></li>
+        <li><b>logoON</b> avec la valeur : <i>st_volet_pos0</i></li>
+        <li><b>logoOFF</b> avec la valeur : <i> st_volet_pos99</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
 
 <hr />
 # Changelog

@@ -18,21 +18,68 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </blockquote>
 
 # Alarme
-<ul>
-    <li><a href="JEEDOM_Archive_Multiinfo_mobile_Alarme_Status_MOBILE">Widget mobile : <b>Alarme-Status (mobile)</b></a></li>
-    <li><a href="JEEDOM_Archive_Multiinfo_mobile_Capteur_Fuite_Eau_MOBILE.html">Widget mobile: <b>Capteur-Fuite-Eau (mobile)</b></a></li>
-    <li><a href="JEEDOM_Archive_Multiinfo_mobile_Detection_Mouvement_MOBILE.html">Widget Mobile : <b>Detection Mouvement (mobile)</b></a></li>
-</ul>
+## Widget "Alarme-Status (mobile)" 
+<b>Pour avoir le paramétrage par défaut du widget Alarme-Status (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+
+<blockquote>
+    <ul>
+        <li><b>dossier-M</b> avec la valeur : <i>alarme</i></li>
+        <li><b>logoON-M</b> avec la valeur : <i>al_type0_off</i></li>
+        <li><b>logoOFF-M</b> avec la valeur : <i>al_type0_on</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
+
+## Widget "Capteur-Fuite-Eau (Mobile)"
+<b>Pour avoir le paramétrage par défaut du widget Capteur-Fuite-Eau (Mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+
+<blockquote>
+    <ul>
+        <li><b>dossier-M</b> avec la valeur : <i>eau</i></li>
+        <li><b>logoON-M</b> avec la valeur : <i>ea_typefibaro_off</i></li>
+        <li><b>logoOFF-M</b> avec la valeur : <i>ea_typefibaro_on</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
+
+## Widget "Detection Mouvement (mobile)" 
+<b>Pour avoir le paramétrage par défaut du widget Detection Mouvement (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+
+<blockquote>
+    <ul>
+        <li><b>dossier-M</b> avec la valeur : <i>alarme</i></li>
+        <li><b>logoON-M</b> avec la valeur : <i>al_mouv_off</i></li>
+        <li><b>logoOFF-M</b> avec la valeur : <i>al_mouv_on</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
 
 # Energie
-<ul>
-    <li><a href="JEEDOM_Archive_Multiinfo_mobile_Legrand_Prise_Celiane_mobile.html">Widget Mobile : <b>Legrand Prise Celiane (mobile)</b></a></li>  
-</ul>
+## Widget "Legrand-Prise-Celiane--mobile"
+<b>Pour avoir le même  paramétrage par défaut du widget Legrand-Prise-Celiane--mobile, il faudra ajouter les variables suivante </b> :
+
+<blockquote>
+    <ul>
+        <li><b>dossier</b> avec la valeur : <i>prise</i></li>
+        <li><b>logoON-M</b> avec la valeur : <i>pr_legrand_on</i></li>
+        <li><b>logoOFF-M</b> avec la valeur : <i>pr_legrand_off</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
 
 # Ouverture
-<ul>
-    <li><a href="JEEDOM_Archive_Multiinfo_mobile_Fenetre_IMG_MOBILE.html">Widget Mobile : <b>Fenetre-IMG (mobile)</b></a></li>
-</ul>
+## Widget "Fenetre-IMG (mobile)"
+<b>Pour avoir le paramétrage par défaut du widget Fenetre-IMG (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
+
+
+<blockquote>
+    <ul>
+        <li><b>dossier-M</b> avec la valeur : <i>fenetre</i></li>
+        <li><b>logoON-M</b> avec la valeur : <i>ou_baie2_wh_db_off</i></li>
+        <li><b>logoOFF-M</b> avec la valeur : <i>ou_baie2_wh_rg_on</i></li>
+        <li><b>Les autres variables sont identiques</b></li>
+    </ul>
+</blockquote>
 
 <hr />
 # Changelog
