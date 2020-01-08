@@ -12,21 +12,59 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </blockquote>
 
 # Alarme
-<ul>
-    <li><a href="JEEDOM_Archive_Multiaction_Alarme_Activation.html">Widget Dashboard : <b>Alarme Activation</b></a></li>
-</ul>
+## Widget "Alarme-Activation"
+<blockquote>
+    <ul>
+        <li><b>Pour avoir les images </b><a href="../../JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+        <li><b>Pour avoir le paramétrage par défaut du widget Alarme-Activation (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>alarme</i></li>
+            <li><b>logoON-M</b> avec la valeur : <i>al_type1_on</i></li>
+            <li><b>logoOFF-M</b> avec la valeur : <i>al_type1_off</i></li>
+            <li><b>Les autres variables sont identiques</b></li>
+        </ul>
+    </ul>
+</blockquote>
 
 # Energie
-<ul>
-    <li><a href="JEEDOM_Archive_Multiaction_Chaudiere_Activation.html">Widget Dashboard : <b>Chaudiere-Activation</b></a></li>
-    <li><a href="JEEDOM_Archive_Multiaction_Fibaro_WallPlug.html">Widget Dashboard : <b>Fibaro-WallPlug</b></a></li>
-</ul>
+## Widget "Chaudiere-Activation"
+<blockquote>
+    <ul>
+        <li><b>Pour avoir le paramétrage par défaut du widget Chaudiere-Activation, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>chauffage</i></li>
+            <li><b>logoON</b> avec la valeur : <i>ch_chaudiere_on</i></li>
+            <li><b>logoOFF</b> avec la valeur : <i>ch_chaudiere_off</i></li>
+            <li><b>Les autres variables sont identiques</b></li>
+        </ul>
+    </ul>
+</blockquote>
+## Widget "Fibaro-WallPlug" 
+<blockquote>
+    <ul>
+        <li><b>Pour avoir le paramétrage par défaut du widget Fibaro-WallPlug, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>prise</i></li>
+            <li><b>logoON</b> avec la valeur : <i>pr_fibaro_bu_on)</i></li>
+            <li><b>logoOFF</b> avec la valeur : <i>pr_fibaro_off</i></li>
+            <li><b>Les autres variables sont identiques</b></li>
+        </ul>
+    </ul>
+</blockquote>
+
 
 # Lumière
-<ul>
-    <li><a href="JEEDOM_Archive_Multiaction_Lampe.html">Widget Dashboard : <b>Lampe</b></a></li>
-</ul>
-
+## Widget "Lampe" 
+<blockquote>
+    <ul>
+        <li><b>Pour avoir le paramétrage par défaut du widget Lampe, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :</li>
+        <ul>
+            <li><b>dossier</b> avec la valeur : <i>lampe</i></li>
+            <li><b>logo</b> avec la valeur : <i>la_ampoule</i></li>
+            <li><b>Les autres variables sont identiques</b></li>
+        </ul>
+    </ul>
+</blockquote>
 <hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
