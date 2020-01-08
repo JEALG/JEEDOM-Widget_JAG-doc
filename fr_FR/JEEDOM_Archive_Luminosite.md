@@ -1,10 +1,10 @@
 ---
 layout: default
-title: JEEDOM-Archive Widget Info Binaire
-description: Archive Widget Info Binaire
+title: JEEDOM-Archive Widget Luminosité
+description: Archive Widget Luminosité
 ---
 [back](./)
-# Archive Widget Info Binaire
+# Archive Widget Luminosité
 
 <blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
