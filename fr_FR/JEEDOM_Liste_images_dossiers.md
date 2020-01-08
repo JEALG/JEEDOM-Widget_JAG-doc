@@ -4,6 +4,11 @@ title: JEEDOM-AIDE Liste des dossiers
 description: Liste des dossiers
 ---
 [back](./)
+# A savoir
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, Les images se trouvent uniquement dans le </b><a href="JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+</blockquote>
+
 # Liste des images dans les dossiers
 Liste des images par dossiers
 
