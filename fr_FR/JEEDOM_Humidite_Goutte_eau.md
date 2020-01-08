@@ -4,7 +4,7 @@ title: JEEDOM-Humidite-Goutte_eau
 description: explication widget Humidite-Goutte_eau
 ---
 [back](./)
-# Widget "Humidite-Goutte_eau
+# Widget "Humidite-Goutte_eau"
 
 # A savoir
 <blockquote>

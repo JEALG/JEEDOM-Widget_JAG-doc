@@ -4,7 +4,7 @@ title: JEEDOM-Batterie-EeDomus
 description: explication widget Batterie-EeDomus
 ---
 [back](./)
-# Widget "Batterie - EeDomus
+# Widget "Batterie - EeDomus"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="../img/RESULTAT_JEEDOM_Batterie_EeDomus.png" alt="Resultat" /></p>

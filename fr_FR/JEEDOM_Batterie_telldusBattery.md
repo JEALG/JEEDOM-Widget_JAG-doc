@@ -4,7 +4,8 @@ title: JEEDOM-Batterie-telldusBattery
 description: explication widget Batterie-telldusBattery
 ---
 [back](./)
-# Widget " Batterie-telldusBattery
+# Widget " Batterie-telldusBattery"
+
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="../img/RESULTAT_JEEDOM_Batterie_telldusBattery.png" alt="Resultat" /></p>
 <blockquote>

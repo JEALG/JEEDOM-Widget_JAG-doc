@@ -4,7 +4,7 @@ title: JEEDOM-Archive Widget Action
 description: Archive Widget Action (mobile)
 ---
 [back](./)
-# Archive Widget Action mobile
+# Archive Widget "Multi-action (mobile)"
 <blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
     <li><a href="JEEDOM_Multi_action_Defaut_mobile">Widget Dashboard : <b>Multi-action (mobile)</b></a></li>

@@ -4,7 +4,7 @@ title: JEEDOM-VoyantMulticouleur
 description: explication Bouton en forme de voyant Multi couleur
 ---
 [back](./)
-# Widget "VoyantMulticouleur : Bouton en forme de voyant Multi couleur
+# Widget "VoyantMulticouleur : Bouton en forme de voyant Multi couleur"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="../img/RESULTAT_JEEDOM_VoyantMulticouleur.png" alt="Resultat" /></p>

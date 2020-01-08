@@ -4,7 +4,7 @@ title: JEEDOM-Archive Widget Info Binaire
 description: Archive Widget Info Binaire
 ---
 [back](./)
-# Archive Widget Info Binaire
+# Archive Widget "Multi-info-Binaire"
 
 <blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
