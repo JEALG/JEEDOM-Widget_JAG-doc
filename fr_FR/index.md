@@ -38,7 +38,7 @@
 
 ## Lumière
 * <a href="./JEEDOM_Lum_IMG_mini.html">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a>
-    * <a href="JEEDOM_Archive_Lum_IMG.html">voir l'ancien Widget Dashboard : <b>Luminosité-IMG</b></a>
+    * <a href="JEEDOM_Archive_Luminosite.html">voir l'ancien Widget Dashboard : <b>Luminosité-IMG</b></a>
 * <a href="./JEEDOM_Lum_IMG_mini_MOBILE.html">Widget Mobile : <b>Luminosité-IMG-Mini (mobile)</b></a>
 
 ## Météo
