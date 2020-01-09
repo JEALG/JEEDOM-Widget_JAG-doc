@@ -6,9 +6,9 @@ description: Archive Widget Luminosité
 [back](./)
 # Archive Widget "Luminosité"
 
-<blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
-    <li><a href="JEEDOM_Lum_IMG_mini">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a></li>
+<blockquote>
+<a href="JEEDOM_Lum_IMG_mini">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a>
 </blockquote>
 
 # A savoir

@@ -6,9 +6,9 @@ description: Archive Widget Info Binaire
 [back](./)
 # Archive Widget "Multi-info-Binaire"
 
-<blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
-    <li><a href="JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+<blockquote>
+    <a href="JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a>
 </blockquote>
 
 # A savoir

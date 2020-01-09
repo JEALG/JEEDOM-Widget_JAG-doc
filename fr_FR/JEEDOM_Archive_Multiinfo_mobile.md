@@ -6,9 +6,9 @@ description: Archive Widget Info Binaire (mobile)
 [back](./)
 # Archive Widget "Multi-info-Binaire (mobile)"
 
-<blockquote>
 L'ensemble des widgets ci-dessous est incorporé dans le widget
-    <li><a href="JEEDOM-Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+<blockquote>
+    <a href="JEEDOM-Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a>
 </blockquote>
 
 # A savoir
