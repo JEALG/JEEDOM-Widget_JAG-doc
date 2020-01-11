@@ -11,11 +11,13 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 # Paramétrage de l'équipement
 
 
-* [Installer le plug-in Cucumber-Eclipse](#plugInCucumberEclipse)
-* [Mettre en place votre premier projet Cucumber](#mettrePlaceProjetCucumber)
-	* [1. Créer un projet Maven](#creerProjetMaven)
-	* [2. Configurer le `pom.xml` pour Cucumber](#configurerPom)
-	* [3. Décrire le comportement en langage naturel (`.feature`)](#comportementLangageNaturel)
+* <b>En marron</b> : Action du widget, 
+    * Options : il est possible de cocher ou pas <i>Afficher</i> (je conseille de décocher)
+* <b>En Bleu</b> : les boutons
+	* Type : Sélectionner action
+	* Sous-Type : Défaut
+    * Options : Cocher la case Afficher
+	* Roue cranté : permet de choisir le type de widget et les options
 	* [4. Configurer le lanceur de tests](#configurerLanceurDeTests)
 	* [5. Implémenter le code de test des *steps* (méthodes java)](#implementerStepsJava)
 	* [6. Implémenter le code métier de l'application](#implementerCodeMetier)  
