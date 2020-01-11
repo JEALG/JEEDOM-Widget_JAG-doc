@@ -19,7 +19,7 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 	* Sous-Type : Défaut
     * Options : Cocher la case Afficher
 	* Roue cranté : permet de choisir le type de widget et les options
-    * Sous les commandes : Il faut absolument sélectionner le nom de l'état pour que le widget fonctionne<
+    * Sous les commandes : Il faut absolument sélectionner le nom de l'état pour que le widget fonctionne
 
 # Choix du widget
 Cliquer sur la roue crantée (voir image ci-dessous), cliquer sur affichage, sélectionner ensuite le widget voulu
@@ -49,7 +49,7 @@ Les paramétres suivants seront mis :
     * dossier : alarme
     * logoTime : duree
 
-<p><img src="../img/AIDE_CONFIG_ACTION_2.png" alt="Aide 3" /></p>
+<p><img src="../img/AIDE_CONFIG_ACTION_3.png" alt="Aide 3" /></p>
 
 ### Pour la commande <b>OFF</b>
 Les paramétres suivants seront mis :
@@ -64,7 +64,7 @@ Les paramétres suivants seront mis :
     * dossier : alarme
     * logoTime : duree
 
-<p><img src="../img/AIDE_CONFIG_ACTION_2.png" alt="Aide 3" /></p>
+<p><img src="../img/AIDE_CONFIG_ACTION_3.png" alt="Aide 3" /></p>
 
 <hr />
 
