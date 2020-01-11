@@ -10,14 +10,19 @@ description: explication Aide pour le paramétrage des widgets de type Action
 Ici l'exemple d'un équipement fait avec le plugin info; il faut paramétrer les infos suivantes
 <p><img src="../img/AIDE_CONFIG_ACTION_1.png" alt="Aide 1" /></p>
 <blockquote>
+* <b>En marron</b> : Action du widget, il est possible de cocher ou pas <i>Afficher</i> (je conseille de décocher)
+* <b>En Bleu</b> : les boutons
+    * Type : Sélectionner action
+    * Sous-Type : Défaut
+    * Roue cranté : permet de choisir le type de widget et les options
         <ul>
-            <li><b>En marron</b> : Action du widget, il est possible de cocher ou pas <i>Afficher</i> (je conseille de décocher)</li>
-            <li><b>En Bleu</b> :  	les boutons</li>
+            <li></li>
+            <li></li>
             <ul>
-                <li>Type : Sélectionner action</li>
+                <li></li>
                 <li>Sous-Type : Sélectionner le sous type voulu</li>
                 <li>Sous les commandes : Il faut absolument sélectionner le nom de l'état pour que le widget fonctionne</li>
-                <li>Roue cranté : permet de choisir le type de widget et les options</li>
+                <li></li>
             </ul>
         </ul>
 </blockquote>
