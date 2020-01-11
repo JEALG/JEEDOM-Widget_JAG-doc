@@ -29,14 +29,14 @@ Cliquer sur la roue crantée (voir image ci-dessous), cliquer sur affichage, sé
 Voici l'exemple voulu
 <p><img src="../img/AIDE_CONFIG_ACTION_2.png" alt="Aide 2" /></p>
 
-### Ajout des paramétres
+## Ajout des paramétres
 Cliquer sur le bouton <i>Ajouter</i> pour ajouter les différents paramétres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
 <p><img src="../img/AIDE_CONFIG_INFO_3.png" alt="Aide 3" /></p>
 
-#### Pour la commande <b>Etat</b>
+### Pour la commande <b>Etat</b>
 Vu que cette commande n'est pas affiché, le paramétrage sera laissé en <b>Défaut</b>
 
-#### Pour la commande <b>ON</b>
+### Pour la commande <b>ON</b>
 Les paramétres suivants seront mis :
 
 * <b>Widget</b> : Choix du widget
@@ -51,7 +51,7 @@ Les paramétres suivants seront mis :
 
 <p><img src="../img/AIDE_CONFIG_ACTION_2.png" alt="Aide 3" /></p>
 
-#### Pour la commande <b>OFF</b>
+### Pour la commande <b>OFF</b>
 Les paramétres suivants seront mis :
 
 * <b>Widget</b> : Choix du widget
@@ -67,7 +67,6 @@ Les paramétres suivants seront mis :
 <p><img src="../img/AIDE_CONFIG_ACTION_2.png" alt="Aide 3" /></p>
 
 <hr />
-# Télécharger les sources
 
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
