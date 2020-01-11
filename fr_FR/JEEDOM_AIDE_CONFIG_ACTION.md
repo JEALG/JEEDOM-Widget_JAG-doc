@@ -5,10 +5,11 @@ description: explication Aide pour le paramétrage des widgets de type Action
 ---
 [back](./)
 # Aide pour le paramétrage des widgets de type action
-
-# Paramétrage de l'équipement
 Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer les infos suivantes :
 <p><img src="../img/AIDE_CONFIG_ACTION_1.png" alt="Aide 1" /></p>
+
+# Paramétrage de l'équipement
+
 
 * [Installer le plug-in Cucumber-Eclipse](#plugInCucumberEclipse)
 * [Mettre en place votre premier projet Cucumber](#mettrePlaceProjetCucumber)
