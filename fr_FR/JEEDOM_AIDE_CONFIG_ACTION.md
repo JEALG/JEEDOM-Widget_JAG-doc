@@ -11,7 +11,7 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 
 # Paramétrage de l'équipement
 
-* <b>En marron</b> : Action du widget, 
+* <b>En marron</b> : Action du widget
     * Options : il est possible de cocher ou pas <i>Afficher</i> (je conseille de décocher)
     
 * <b>En Bleu</b> : les boutons
