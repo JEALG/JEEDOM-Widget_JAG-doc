@@ -20,7 +20,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 <blockquote>
         <ul>
             <li><b>logo</b> : Permet de choisir l'image pour la valeur <i>(valeur par défaut : st_banne_pos)</i></li>
-            <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+            <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
 
@@ -69,8 +69,13 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images n'est pas normalisé sur ce widget
+        Le nommage des images est normalisé et doit respecter le format suivant :
         <ul>
+            <li><b>Image</b> : typex</li>
+            <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
+            <li><i>Remplacer <b>x</b> par le niveau (Valeur possible : 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100)</i></li>
+        </ul>
+         <ul>
             <li><a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul>
 </blockquote>
