@@ -4,10 +4,10 @@ title: JEEDOM-AIDE Installation Manuelle des widgets V4
 description: Installation Manuelle des widgets pour le core V4
 ---
 [back](./)
-# Installation Manuelle des widgets pour le core V4
+# Installation Manuelle des widgets pour le core V3/V4
 # Info
 <blockquote>
-Comme vous le savez le plugin widget va disparaitre avec la version du Core V4. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour. 
+Comme vous le savez le market widget disparu. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour.
     Voici une méthode vous permetant d'installer et de faire les mises à jour.
 </blockquote>
 
@@ -16,8 +16,12 @@ Comme vous le savez le plugin widget va disparaitre avec la version du Core V4. 
 Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <b><i>JEEDOM-Multi_action-Defaut</i></b>
 </blockquote>
 
+<blockquote>
+Un script sera disponible dans quelques jours pour installer les mises à jour pour le core V3 ou V4
+</blockquote>
+
 # Récupérer les sources
-Les sources sont disponible sur mon github 
+Les sources sont disponible sur mon github
 <a href="https://github.com/JEALG">Mon Github</a>
 Choisir le widget voulu
 voici un exemple pour récupèrer les sources
@@ -40,7 +44,7 @@ Il faut installer le plugin Jeexplorer
     Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
 <ul>
     <li><a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a></li>
-    <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>   
+    <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>
 </ul>
 
 # Installation ou Mise à jour
@@ -48,7 +52,7 @@ Dézipper le fichier télécharger.
 Se rendre dans Jeedom et ouvrir le plugin <i>Organisation/Jeexplorer</i>
 Se rendre dans le dossier correspondant au type de widget
 <ul>
-  <b>l'ensemble des fichiers sont à copier dans les dossiers suivant :</b>
+  <b>l'ensemble des fichiers sont à copier dans les dossiers suivant Pour le core V4:</b>
     <blockquote>
         <ul>
             <li>data/customTemplates/dashboard/</li>
@@ -56,8 +60,19 @@ Se rendre dans le dossier correspondant au type de widget
         </ul>
     </blockquote>
 </ul>
+
+<ul>
+  <b>l'ensemble des fichiers sont à copier dans les dossiers suivant Pour le core V3:</b>
+    <blockquote>
+        <ul>
+            <li>plugins/widget/core/template/dashboard/</li>
+            <li>plugins/widget/core/template/mobile/ <i>Le nom des reposites de mes widgets mobile se termine par "--mobile"</i></li>
+        </ul>
+    </blockquote>
+</ul>
+
 <p><img src="../img/AIDE_V4_ADD_Widget_1.png" alt="ADD" /></p>
-Cliquer sur 
+Cliquer sur
 <p><img src="../img/AIDE_V4_ADD_Widget_1.png" alt="ADD" /></p>
 Cliquer ensuite sur <i>Sélectionner les fichiers à envoyer</i> ou pour envoyer l'ensemble des dossiers, cliquer sur <i>Choisir le dossier</i>
 <p><img src="../img/AIDE_V4_ADD_Widget_3.png" alt="ADD" /></p>

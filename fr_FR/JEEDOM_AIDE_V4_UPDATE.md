@@ -18,7 +18,7 @@ Effectuer toutes les mises à jour du core y compris des plugins/widget. N'oubli
 <ul>
 Une fois la mise à jour faite, faite une mise à jour du core en sélectionnant dans la case "Mise à jour à réappliquer", la version <b>4.0.3</b>
 Cela va permettre par un script de déplacer les widgets dans le nouveau dossier
-    
+
 </ul>
 
 <p><img src="../img/AIDE_V4_UPDATE.png" alt="Fenêtre MOD Core" /></p>

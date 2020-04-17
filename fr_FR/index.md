@@ -5,7 +5,7 @@
 
 * <a href="JEEDOM_AIDE_Nettoyage_des_dossiers.html">Nettoyage des dossiers</a>
 * <a href="JEEDOM_AIDE_V4_Installation_Manuelle.html">Installation Manuelle des widgets pour le core V4</a>
- * <a href="JEEDOM_AIDE_V4_UPDATE.html">Mise à jour des widgets pour le core V4</a>
+* <a href="JEEDOM_AIDE_V4_UPDATE.html">Mise à jour des widgets pour le core V4</a>
 
 # A Savoir
 >**Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets**
