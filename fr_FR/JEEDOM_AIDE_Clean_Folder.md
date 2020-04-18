@@ -8,8 +8,7 @@ description: Nettoyage des dossiers
 # Rappel
 <blockquote>
 Avant d'effectuer cette manipulation, il est conseillé de faire une sauvegarde de la Jeedom
-    Tous mes widgets necessitent d'avoir le widget <b><i>dashboard Multi-action</i></b> pour avoir les images.
-
+Tous mes widgets necessitent d'avoir le widget <b><i>dashboard Multi-action</i></b> pour avoir les images.
 Je vous propose de faire un nettoyage des dossiers
 
 </blockquote>
@@ -68,8 +67,6 @@ Il faut installer le plugin Jeexplorer
         </blockquote>
     </ul>
 </ul>
-
-<hr />
 
 <hr />
 [back](./)

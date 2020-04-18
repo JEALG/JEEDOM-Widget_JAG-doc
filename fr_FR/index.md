@@ -3,7 +3,7 @@
 # infos
 ## A Savoir
 >**Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets**
-
+>
 >Dans chaque widget, un exemple de configuration est disponible
 
 ## Nettoyage des Dossiers
@@ -14,11 +14,7 @@
 > Cette partie de doc va donner la procédure pour installer manuellement les widgets pour le core V3/v4
 * <a href="JEEDOM_AIDE_Install_Manu.html">Installation Manuelle des widgets pour le core V3/V4</a>
 
-
-# A Savoir
->**Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets**
-
-# Les widgets :
+# Les widgets
 ## Automatisme
 * <a href="./JEEDOM_VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a>
 * <a href="./JEEDOM_VoyantMulticouleur_MOBILE.html">Widget Mobile : <b>Bouton en forme de voyant Multi couleur</b></a>
@@ -64,7 +60,7 @@
 * <a href="./JEEDOM_Thermometre.html">Widget Dashboard : <b>Temperature thermometre</b></a>
 * <a href="./JEEDOM_Thermometre_MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a>
 
-## Aide aux paramétrages
+# Aide aux paramétrages
 * <a href="JEEDOM_AIDE_Error.html">Paramétrage image Erreur</a>
 * <a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a>
 * <a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a>
@@ -74,7 +70,7 @@
 * <a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a>
 * <a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a>
 
-## Liste des images
+# Liste des images
 * <a href="./JEEDOM_Liste_images_dossiers.html">Listes des images des widgets </a>
 
 <hr />
