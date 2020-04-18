@@ -75,7 +75,8 @@ Pour choisir le type d'extension de l'image
 
 <hr />
 # Télécharger les sources
-<a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+<li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/tree/masterv4">Télécharger les sources pour la V4</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/tree/master">Télécharger les sources pour la V3</a></li>
 
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/masterv4">Changelog WIDGET Pour le Core V4</a><br/>

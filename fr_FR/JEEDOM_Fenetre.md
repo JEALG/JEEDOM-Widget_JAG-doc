@@ -104,11 +104,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <li><a href="JEEDOM_AIDE_PARA_FENETRES.html">Exemple de paramétrages</a></li>
  
 <hr />
-
-
-<hr />
 # Télécharger les sources
-<a href="https://github.com/JEALG/JEEDOM-Fenetre/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+<li><a href="https://github.com/JEALG/JEEDOM-Fenetre/tree/masterv4">Télécharger les sources pour la V4</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Fenetre/tree/master">Télécharger les sources pour la V3</a></li>
 
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Fenetre/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>

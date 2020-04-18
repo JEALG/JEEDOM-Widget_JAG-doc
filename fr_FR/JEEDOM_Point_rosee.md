@@ -54,7 +54,8 @@ Il est possible de déplacer la légende
 
 <hr />
 # Télécharger les sources
-<a href="https://github.com/JEALG/JEEDOM-Point-rosee/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+<li><a href="https://github.com/JEALG/JEEDOM-Point-rosee/tree/masterv4">Télécharger les sources pour la V4</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Point-rosee/tree/master">Télécharger les sources pour la V3</a></li>
 
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Point-rosee/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>

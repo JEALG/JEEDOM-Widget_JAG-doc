@@ -102,7 +102,8 @@ Il est possible de personnaliser les niveaux :
 
 <hr />
 # Télécharger les sources
-<a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+<li><a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/tree/masterv4">Télécharger les sources pour la V4</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/tree/master">Télécharger les sources pour la V3</a></li>
 
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
