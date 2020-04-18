@@ -21,8 +21,6 @@ Dans les réglages de chaque commande, cliquer sur la roue
 Ensuite cocher <i>Afficher les statistiques</i> soit pour le Dashboard soit pour le mobile soit pour les 2 dans l'onglet <b>Affichage</b>
 <p><img src="../img/Image_Stats_Cocher.png" alt="Cocher" /></p>
 <hr />
-# Télécharger les sources
-
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 

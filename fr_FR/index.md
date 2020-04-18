@@ -76,5 +76,5 @@
 * <a href="./JEEDOM_Liste_images_dossiers.html">Listes des images des widgets </a>
 
 <hr />
-# Chancelog
+# Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

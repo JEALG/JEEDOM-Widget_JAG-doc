@@ -26,7 +26,6 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     </ul>
 </blockquote>
 
-
 <hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

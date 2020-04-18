@@ -24,8 +24,6 @@ Cela va permettre par un script de déplacer les widgets dans le nouveau dossier
 <p><img src="../img/AIDE_V4_UPDATE.png" alt="Fenêtre MOD Core" /></p>
 
 <hr />
-# Télécharger les sources
-
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 

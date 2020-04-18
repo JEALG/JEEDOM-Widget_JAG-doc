@@ -46,9 +46,6 @@ A la date d'écriture de la documentation, ce paramétrage ne fonctionne pas sur
             <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
-
-# Télécharger les sources
-
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 

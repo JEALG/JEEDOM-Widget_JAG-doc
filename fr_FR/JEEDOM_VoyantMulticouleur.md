@@ -70,7 +70,7 @@ Pour choisir le type d'extension de l'image
         </ul>
         <ul>
             <li><a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
-        </ul>   
+        </ul>
 </blockquote>
 
 <hr />
