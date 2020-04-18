@@ -17,7 +17,7 @@ exclude:
 - vendor
 plugins:
 - jekyll-seo-tag
-title: "Documentation Jeedom"
+title: "Documentation Jeedom - Widget JAG"
 description: "Ceci est la documentation, lier à la solution domotique Jeedom."
 author: "Jeedom"
 image: https://www.jeedom.com/site/logo.png
