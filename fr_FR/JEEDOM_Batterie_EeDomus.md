@@ -83,7 +83,9 @@ Il est possible de personnaliser les niveaux :
 
 <hr />
 # Télécharger les sources
-<a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+<li><a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/tree/masterv4">Télécharger les sources pour la V4</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/tree/master">Télécharger les sources pour la V3</a></li>
+<br/>
 
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>

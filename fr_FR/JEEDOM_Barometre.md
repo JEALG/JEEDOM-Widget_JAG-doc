@@ -44,7 +44,7 @@ Il est possible de déplacer la légende
             <p><img src="../img/RESULTAT_JEEDOM_Barometre_Low.png" alt="Resultat - Bas" /></p>
         </ul>
 </blockquote>
- 
+
 ## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
@@ -72,7 +72,8 @@ Il est possible de déplacer la légende
 
 <hr />
 # Télécharger les sources
-<a href="https://github.com/JEALG/JEEDOM-Barometre/tree/masterv4">Télécharger les sources pour la V4</a><br/>
+<li><a href="https://github.com/JEALG/JEEDOM-Barometre/tree/masterv4">Télécharger les sources pour la V4</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Barometre/tree/master">Télécharger les sources pour la V3</a></li><br/>
 
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Barometre/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
