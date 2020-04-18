@@ -8,7 +8,7 @@ description: Installation Manuelle des widgets pour le core V4
 # Info
 <blockquote>
 Comme vous le savez le market widget disparu. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour.
-    Voici une méthode vous permetant d'installer et de faire les mises à jour.
+Voici une méthode vous permetant d'installer et de faire les mises à jour.
 </blockquote>
 
 # A Savoir
@@ -52,7 +52,7 @@ Dézipper le fichier télécharger.
 Se rendre dans Jeedom et ouvrir le plugin <i>Organisation/Jeexplorer</i>
 Se rendre dans le dossier correspondant au type de widget
 <ul>
-  <b>l'ensemble des fichiers sont à copier dans les dossiers suivant Pour le core V4:</b>
+  <b>l'ensemble des fichiers sont à copier dans les dossiers suivant Pour le core V4 :</b>
     <blockquote>
         <ul>
             <li>data/customTemplates/dashboard/</li>
@@ -62,7 +62,7 @@ Se rendre dans le dossier correspondant au type de widget
 </ul>
 
 <ul>
-  <b>l'ensemble des fichiers sont à copier dans les dossiers suivant Pour le core V3:</b>
+  <b>l'ensemble des fichiers sont à copier dans les dossiers suivant Pour le core V3 :</b>
     <blockquote>
         <ul>
             <li>plugins/widget/core/template/dashboard/</li>

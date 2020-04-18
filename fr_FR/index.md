@@ -1,11 +1,19 @@
 **Ensemble de la documentation pour les widgets JAG**
-# Nettoyage des Dossiers et Migration V4
 
-> Cette partie de doc va expliquer comment nettoyer les dossiers ainsi que la procédure pour avoir les différentes mises à jour pour la V4
+# infos
+## A Savoir
+>**Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets**
 
-* <a href="JEEDOM_AIDE_Nettoyage_des_dossiers.html">Nettoyage des dossiers</a>
-* <a href="JEEDOM_AIDE_V4_Installation_Manuelle.html">Installation Manuelle des widgets pour le core V4</a>
-* <a href="JEEDOM_AIDE_V4_UPDATE.html">Mise à jour des widgets pour le core V4</a>
+>Dans chaque widget, un exemple de configuration est disponible
+
+## Nettoyage des Dossiers
+> Cette partie de doc va expliquer comment nettoyer les dossiers
+* <a href="JEEDOM_AIDE_Clean_Folder.html">Nettoyage des dossiers</a>
+
+## Installation Manuelle des widgets
+> Cette partie de doc va donner la procédure pour installer manuellement les widgets pour le core V3/v4
+* <a href="JEEDOM_AIDE_Install_Manu.html">Installation Manuelle des widgets pour le core V3/V4</a>
+
 
 # A Savoir
 >**Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets**

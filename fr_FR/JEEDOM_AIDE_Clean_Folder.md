@@ -5,10 +5,11 @@ description: Nettoyage des dossiers
 ---
 [back](./)
 # Nettoyage des dossiers
-# Rappel 
+# Rappel
 <blockquote>
-Avant d'effectuer cette manipulation, il est conseillé de faire une sauvegarde de la Jeedon
-Depuis quelques temps, je suis en train de migrer toutes les images vers le widget <i>dashboard Multi-action</i> les dossiers avec les anciennes versions restent sur la jeedom et prenne de la place.
+Avant d'effectuer cette manipulation, il est conseillé de faire une sauvegarde de la Jeedom
+    Tous mes widgets necessitent d'avoir le widget <b><i>dashboard Multi-action</i></b> pour avoir les images.
+
 Je vous propose de faire un nettoyage des dossiers
 
 </blockquote>
@@ -16,12 +17,12 @@ Je vous propose de faire un nettoyage des dossiers
 # Plugin nécessaire
 <blockquote>
 Il faut installer le plugin Jeexplorer
-    Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom. 
+    Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom.
     Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
 </blockquote>
 <ul>
     <li><a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a></li>
-    <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>   
+    <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>
 </ul>
 
 # Opération préalable
@@ -69,10 +70,6 @@ Il faut installer le plugin Jeexplorer
 </ul>
 
 <hr />
-# Télécharger les sources
-
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
 [back](./)
