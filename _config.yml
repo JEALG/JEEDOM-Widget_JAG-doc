@@ -1,5 +1,5 @@
 ---
-langs: [fr_FR,en_US,es_ES,de_DE]
+langs: [fr_FR,en_US,es_ES]
 baseurl: "/"
 sass:
   sass_dir: assets/css
@@ -17,7 +17,7 @@ exclude:
 - vendor
 plugins:
 - jekyll-seo-tag
-title: "Documentation Jeedom - Widget JAG"
+title: "Documentation Jeedom"
 description: "Ceci est la documentation, lier à la solution domotique Jeedom."
 author: "Jeedom"
 image: https://www.jeedom.com/site/logo.png
@@ -29,9 +29,7 @@ social:
     - https://twitter.com/Jeedom_domotic
     - https://www.facebook.com/Jeedom-249936178537210/
     - https://github.com/jeedom
-site :
-    - community: https://community.jeedom.com
-    - market: https://market.jeedom.com
-    - blog: https://blog.jeedom.com
-    - doc: https://doc.jeedom.com
-site.blog : https://blog.jeedom.com
+community: https://community.jeedom.com
+market: https://market.jeedom.com
+blog: https://blog.jeedom.com
+doc: https://doc.jeedom.com
