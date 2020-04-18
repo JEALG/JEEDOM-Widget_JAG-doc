@@ -34,3 +34,4 @@ site :
     - market: https://market.jeedom.com
     - blog: https://blog.jeedom.com
     - doc: https://doc.jeedom.com
+site.blog : https://blog.jeedom.com
