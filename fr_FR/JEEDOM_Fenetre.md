@@ -42,7 +42,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>logo_<b>8</b></b> : <i>valeur par défaut : ou_baie2_wh_db_on</i></li>
     </ul>
 </blockquote>
-            
+
 ## Choix de la valeur
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
@@ -64,7 +64,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>valeur_<b>7</b></b> : <i>valeur par défaut : 7</i></li>
         <li><b>valeur_<b>8</b></b> : <i>valeur par défaut : 8</i></li>
     </ul>
-</blockquote>      
+</blockquote>
 
 ## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
@@ -90,7 +90,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-### Ajout d'image</h3>
+### Ajout d'image
 <hr />
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
@@ -102,7 +102,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 # Exemples de paramétrage
 <li><a href="JEEDOM_AIDE_PARA_FENETRES.html">Exemple de paramétrages</a></li>
- 
+
 <hr />
 # Télécharger les sources
 <li><a href="https://github.com/JEALG/JEEDOM-Fenetre/tree/masterv4">Télécharger les sources pour la V4</a></li>
