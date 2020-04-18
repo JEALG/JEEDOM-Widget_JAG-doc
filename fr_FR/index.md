@@ -61,7 +61,7 @@
 * <a href="./JEEDOM_Thermometre_MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a>
 
 # Aide aux paramétrages
->Cette rubrique regroupe de l'aide au paramétrage des différents widgets
+>Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
 
 * <a href="JEEDOM_AIDE_Error.html">Paramétrage image Erreur</a>
 * <a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a>
@@ -73,7 +73,7 @@
 * <a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a>
 
 # Liste des images
->Cette rubrique regroupe les différents images des widgets
+>Cette rubrique regroupe les différentes images disponible pour les widgets
 * <a href="./JEEDOM_Liste_images_dossiers.html">Listes des images des widgets </a>
 
 <hr />
