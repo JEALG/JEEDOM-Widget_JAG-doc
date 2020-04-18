@@ -1,35 +1,35 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="{{page.lang}}">
 
 <head>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="../assets/css/styles.css">
-    <link rel="stylesheet" href="../assets/css/materialize.css">
+    <link rel="stylesheet" href="/{{site.github.project_title}}/assets/css/styles.css">
+    <link rel="stylesheet" href="/{{site.github.project_title}}/assets/css/materialize.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="Content-Language" content="pt-br">
+    <meta http-equiv="Content-Language" content="{{page.lang}}">
 </head>
 
 <body>
     <div class="navbar-fixed hide-on-print">
         <nav>
             <div class="nav-wrapper container">
-                <a id="logo-container" href="https://www.jeedom.com/doc" class="brand-logo center"><img src="../assets/images/logo.png" style="height:50px;margin-top:5px"></a>
+                <a id="logo-container" href="{{site.doc}}" class="brand-logo center"><img src="/{{site.github.project_title}}/assets/images/logo.png" style="height:50px;margin-top:5px"></a>
                 <ul class="left hide-on-med-and-down">
-                    <li><a href="ttps://jealg.github.io/JEEDOM-Widget_JAG-doc">JAG documentations Jeedom</a></li>
+                    <li><a href="{{site.doc}}">Jeedom Documentation</a></li>
                 </ul>
-                <a href="https://www.jeedom.com/doc" data-activates="nav-mobile" class="button-collapse btn-floating btn-large waves-effect waves-light jeedomcolorbg"><i class="material-icons">menu</i></a>
+                <a href="{{site.doc}}" data-activates="nav-mobile" class="button-collapse btn-floating btn-large waves-effect waves-light jeedomcolorbg"><i class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down">
-                    <li><a href="https://www.jeedom.com/site">Site</a></li>
-                    <li><a href="https://www.jeedom.com/blog">Blog</a></li>
-                    <li><a href="https://community.jeedom.com">Communauty</a></li>
-                    <li><a href="https://market.jeedom.com">Market</a></li>
-                    <li class="active"><a href="https://www.jeedom.com/doc">Doc</a></li>
+                    <li><a href="https://www.jeedom.com">Site</a></li>
+                    <li><a href="{{site.blog}}">Blog</a></li>
+                    <li><a href="{{site.community}}">Community</a></li>
+                    <li><a href="{{site.market}}">Market</a></li>
+                    <li class="active"><a href="{{site.doc}}">Doc</a></li>
                 </ul>
                 <ul class="side-nav" id="nav-mobile">
-                    <li><a href="https://www.jeedom.com/blog">Blog</a></li>
-                    <li><a href="https://community.jeedom.com">Communauty</a></li>
-                    <li><a href="https://market.jeedom.com">Market</a></li>
-                    <li class="active"><a href="https://www.jeedom.com/doc">Doc</a></li>
+                    <li><a href="{{site.blog}}">Blog</a></li>
+                    <li><a href="{{site.community}}">Community</a></li>
+                    <li><a href="{{site.market}}">Market</a></li>
+                    <li class="active"><a href="{{site.doc}}">Doc</a></li>
                 </ul>
             </div>
         </nav>
@@ -79,10 +79,10 @@
             </div>
         </div>
     </div>
-    <script type="text/javascript" src="../assets/js/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="../assets/js/materialize.min.js"></script>
-    <script type="text/javascript" src="../assets/js/jquery.inview.min.js"></script>
-    <script type="text/javascript" src="../assets/js/jquery.toc.js"></script>
+    <script type="text/javascript" src="/{{site.github.project_title}}/assets/js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="/{{site.github.project_title}}/assets/js/materialize.min.js"></script>
+    <script type="text/javascript" src="/{{site.github.project_title}}/assets/js/jquery.inview.min.js"></script>
+    <script type="text/javascript" src="/{{site.github.project_title}}/assets/js/jquery.toc.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
             var title = '{{site.github.project_title}}';
