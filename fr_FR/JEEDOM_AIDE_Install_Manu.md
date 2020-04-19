@@ -4,7 +4,6 @@ title: JEEDOM-AIDE Installation Manuelle des widgets V4
 description: Installation Manuelle des widgets pour le core V4
 ---
 [back](./)
-# Installation Manuelle des widgets pour le core V3/V4
 # Info
 <blockquote>
 Comme vous le savez le market widget disparu. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour.
@@ -14,9 +13,7 @@ Voici une méthode vous permetant d'installer et de faire les mises à jour.
 # A Savoir
 <blockquote>
 Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <b><i>JEEDOM-Multi_action-Defaut</i></b>
-</blockquote>
 
-<blockquote>
 Un script sera disponible dans quelques jours pour installer les mises à jour pour le core V3 ou V4
 </blockquote>
 
@@ -55,8 +52,8 @@ Se rendre dans le dossier correspondant au type de widget
   <b>L'ensemble des fichiers sont à copier dans les dossiers suivant Pour le core V4 :</b>
     <blockquote>
         <ul>
-            <li>data/customTemplates/dashboard/</li>
-            <li>data/customTemplates/mobile/ <i>Le nom des reposites de mes widgets mobile se termine par "--mobile"</i></li>
+            <li>html/data/customTemplates/dashboard/</li>
+            <li>html/data/customTemplates/mobile/ <i>Le nom des reposites de mes widgets mobile se termine par "--mobile"</i></li>
         </ul>
     </blockquote>
 </ul>
@@ -65,8 +62,8 @@ Se rendre dans le dossier correspondant au type de widget
   <b>L'ensemble des fichiers sont à copier dans les dossiers suivant Pour le core V3 :</b>
     <blockquote>
         <ul>
-            <li>plugins/widget/core/template/dashboard/</li>
-            <li>plugins/widget/core/template/mobile/ <i>Le nom des reposites de mes widgets mobile se termine par "--mobile"</i></li>
+            <li>html/plugins/widget/core/template/dashboard/</li>
+            <li>html/plugins/widget/core/template/mobile/ <i>Le nom des reposites de mes widgets mobile se termine par "--mobile"</i></li>
         </ul>
     </blockquote>
 </ul>
