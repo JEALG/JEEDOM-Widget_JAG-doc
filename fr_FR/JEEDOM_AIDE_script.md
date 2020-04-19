@@ -30,7 +30,7 @@ Ce script va copier les images dans le bon dossier du plugin Widget
 ## Script pour récupérer les widgets
 Ce script va copier l'ensemble de mes widgets
 ### Les widgets pour le Dashboard
-<code>
+<pre><code>
     wget https://raw.githubusercontent.com/JEALG/JEEDOM-Barometre/master/cmd.info.numeric.Barometre.html -O /var/www/html/plugins/widget/core/template/dashboard/cmd.info.numeric.Barometre.html
     wget https://raw.githubusercontent.com/JEALG/JEEDOM-Batterie-EeDomus/master/cmd.info.numeric.Batterie-EeDomus.html -O /var/www/html/plugins/widget/core/template/dashboard/cmd.info.numeric.Batterie-EeDomus.html
     wget https://raw.githubusercontent.com/JEALG/JEEDOM-Batterie-telldusBattery/master/cmd.info.numeric.Batterie-telldusBattery.html -O /var/www/html/plugins/widget/core/template/dashboard/cmd.info.numeric.Batterie-telldusBattery.html
@@ -50,7 +50,7 @@ Ce script va copier l'ensemble de mes widgets
     cd /var/www/html/plugins/widget/core/template/dashboard/
     sudo chown -R www-data:www-data /var/www/html/plugins/widget/core/template/
     sudo chmod 740 /var/www/html/plugins/widget/core/template/
-</code>
+</code></pre>
 
 # Script Pour le core V4
 ## Script Update dossier Image
