@@ -20,12 +20,12 @@ Ce script va copier les images dans le bon dossier du plugin Widget
 > * Script update image Widget Master Core V3 JAG
 > * Mise à jour du script : 20200419
 </blockquote>
-<code>
+<pre><code>
     cd /var/www/html/plugins/widget/core/template/dashboard/
     sudo ghclone https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/master/cmd.action.other.Multi-action-Defaut
     sudo chown -R www-data:www-data /var/www/html/plugins/widget/core/template/
     sudo chmod 740 /var/www/html/plugins/widget/core/template/
-</code>
+</code></pre>
 
 ## Script pour récupérer les widgets
 Ce script va copier l'ensemble de mes widgets
@@ -60,12 +60,12 @@ Ce script va copier les images dans le bon dossier du plugin Widget
 > * Script update image Widget Master Core V3 JAG
 > * Mise à jour du script : 20200419
 </blockquote>
-<code>
+<pre><code>
     cd /var/www/html/data/customTemplates/dashboard/
     sudo ghclone https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/masterv4/cmd.action.other.Multi-action-Defaut
     sudo chown -R www-data:www-data /var/www/html/data/customTemplates/dashboard/
     sudo chmod 740 /var/www/html/data/customTemplates/dashboard/
-</code>
+</code></pre>
 
 
 <hr />
