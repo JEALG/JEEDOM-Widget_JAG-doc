@@ -30,6 +30,8 @@ Ce script va copier les images dans le bon dossier du plugin Widget
 ## Script pour récupérer les widgets
 Ce script va copier l'ensemble de mes widgets
 ### Les widgets pour le Dashboard
+> * Script update code Widget Master Core V3 JAG
+> * Mise à jour du script : 20200419
 <pre><code>
     wget https://raw.githubusercontent.com/JEALG/JEEDOM-Barometre/master/cmd.info.numeric.Barometre.html -O /var/www/html/plugins/widget/core/template/dashboard/cmd.info.numeric.Barometre.html
     wget https://raw.githubusercontent.com/JEALG/JEEDOM-Batterie-EeDomus/master/cmd.info.numeric.Batterie-EeDomus.html -O /var/www/html/plugins/widget/core/template/dashboard/cmd.info.numeric.Batterie-EeDomus.html
@@ -57,9 +59,9 @@ Ce script va copier l'ensemble de mes widgets
 
 Ce script va copier les images dans le bon dossier du plugin Widget
 
-> * Script update image Widget Master Core V3 JAG
+> * Script update image Widget Master Core V4 JAG
 > * Mise à jour du script : 20200419
-</blockquote>
+
 <pre><code>
     cd /var/www/html/data/customTemplates/dashboard/
     sudo ghclone https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/masterv4/cmd.action.other.Multi-action-Defaut
