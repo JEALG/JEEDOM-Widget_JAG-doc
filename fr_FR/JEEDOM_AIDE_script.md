@@ -5,9 +5,9 @@ description: Script
 ---
 [back](./)
 # Prérequis
-<blockquote>
-Pour utiliser ce script, il faut d'abord installer en ssh
-</blockquote>
+
+> Pour utiliser ce script, il faut d'abord installer en ssh
+
 <pre><code>
     sudo pip3 install git+git://github.com/HR/github-clone#egg=ghclone
 </code></pre>
