@@ -8,9 +8,9 @@ description: Script
 <blockquote>
 Pour utiliser ce script, il faut d'abord installer en ssh
 </blockquote>
-<code>
+<pre><code>
     sudo pip3 install git+git://github.com/HR/github-clone#egg=ghclone
-</code>
+</code></pre>
 
 # Script Pour le core V3
 ## Script Update dossier Image
@@ -19,7 +19,7 @@ Ce script va copier les images dans le bon dossier du plugin Widget
 
 > * Script update image Widget Master Core V3 JAG
 > * Mise à jour du script : 20200419
-</blockquote>
+
 <pre><code>
     cd /var/www/html/plugins/widget/core/template/dashboard/
     sudo ghclone https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/master/cmd.action.other.Multi-action-Defaut
