@@ -69,8 +69,8 @@ Se rendre dans le dossier correspondant au type de widget
 </ul>
 
 <p><img src="../img/AIDE_V4_ADD_Widget_1.png" alt="ADD" /></p>
-Cliquer sur
-<p><img src="../img/AIDE_V4_ADD_Widget_1.png" alt="ADD" /></p>
+Cliquer sur Envoyer les fichiers
+<p><img src="../img/AIDE_V4_ADD_Widget_2.png" alt="ADD" /></p>
 Cliquer ensuite sur <i>Sélectionner les fichiers à envoyer</i> ou pour envoyer l'ensemble des dossiers, cliquer sur <i>Choisir le dossier</i>
 <p><img src="../img/AIDE_V4_ADD_Widget_3.png" alt="ADD" /></p>
 <hr />
