@@ -5,7 +5,7 @@ description: explication Aide pour le paramétrage des widgets de type Action
 ---
 [back](./)
 # Aide pour le paramétrage des widgets de type action
-    
+
 Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer les infos suivantes :
 <p><img src="../img/AIDE_CONFIG_ACTION_1.png" alt="Aide 1" /></p>
 
@@ -13,7 +13,7 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 
 * <b>En marron</b> : Action du widget
     * Options : il est possible de cocher ou pas <i>Afficher</i> (je conseille de décocher)
-    
+
 * <b>En Bleu</b> : les boutons
 	* Type : Sélectionner action
 	* Sous-Type : Défaut
@@ -22,7 +22,10 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
     * Sous les commandes : Il faut absolument sélectionner le nom de l'état pour que le widget fonctionne
 
 # Choix du widget
-Cliquer sur la roue crantée (voir image ci-dessous), cliquer sur affichage, sélectionner ensuite le widget voulu
+Cliquer sur la roue crantée (voir image ci-dessous)
+<p><img src="../img/AIDE_CONFIG_INFO_4.png" alt="Aide 4" /></p>
+
+Cliquer sur affichage, sélectionner ensuite le widget voulu
 <p><img src="../img/AIDE_CONFIG_INFO_2.png" alt="Aide 2" /></p>
 
 ## Exemple de paramétrage
@@ -42,7 +45,7 @@ Les paramétres suivants seront mis :
 * <b>Widget</b> : Choix du widget
     * Dashboard : Customtemp/Multi-action-Defaut
     * mobile : Customtemp/Multi-action-Defaut
-    
+
 * <b>Paramètres optionnels widget </b> : les variables ci-dessous seront ajouté en cliquant sur le bouton <i>Ajouter</i>
 	* logoON : al_type1_on
     * logoOFF : al_type1_off
@@ -57,7 +60,7 @@ Les paramétres suivants seront mis :
 * <b>Widget</b> : Choix du widget
     * Dashboard : Customtemp/Multi-action-Defaut
     * mobile : Customtemp/Multi-action-Defaut
-    
+
 * <b>Paramètres optionnels widget </b> : les variables ci-dessous seront ajouté en cliquant sur le bouton <i>Ajouter</i>
 	* logoON : al_type1_on
     * logoOFF : al_type1_off
@@ -67,7 +70,6 @@ Les paramétres suivants seront mis :
 <p><img src="../img/AIDE_CONFIG_ACTION_3.png" alt="Aide 3" /></p>
 
 <hr />
-
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
