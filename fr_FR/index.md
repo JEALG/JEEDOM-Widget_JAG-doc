@@ -20,6 +20,7 @@ title: Jeedom | Widget JAG
 * <a href="JEEDOM_AIDE_Install_Manu.html">Installation Manuelle des widgets pour le Core V3/V4</a>
 
 # Les widgets
+
 Nom du Widget | Dashboard | Mobile
 --- | --- | ---
  Voyant Multi-couleur | <img src="../img/exemple/JEEDOM_VoyantMulticouleur.png" alt="Exemple" /><a href="./JEEDOM_VoyantMulticouleur.html">Docs et Téléchargement</a> |
