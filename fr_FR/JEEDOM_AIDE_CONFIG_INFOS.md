@@ -5,7 +5,7 @@ description: explication Aide pour le paramétrage des widgets de type info (bin
 ---
 [back](./)
 # Aide pour le paramétrage des widgets de type info (binaire, numérique)
-    
+
 Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer les infos suivantes :
 <p><img src="../img/AIDE_CONFIG_INFO_1.png" alt="Aide 1" /></p>
 
@@ -13,11 +13,11 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 
 ## La commande d'info
 * <b>En marron</b> : Nom de la commande
-    
+
 * <b>En Rouge</b> : Sous types
 	* Type : info
 	* Sous-Type : Binaire
-    
+
 * <b>En vert</b> : Options
     * Afficher : Cocher cette case
     * Historiser : Permet d'historiser l'équipement (En option suivant les besoins)
@@ -29,7 +29,10 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 voir l'exemple dans la doc <a href="JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
 
 # Choix du widget
-Cliquer sur la roue crantée (voir image ci-dessous), cliquer sur affichage, sélectionner ensuite le widget voulu
+Cliquer sur la roue crantée (voir image ci-dessous),
+<p><img src="../img/AIDE_CONFIG_INFO_4.png" alt="Aide 4" /></p>
+
+Cliquer sur affichage, sélectionner ensuite le widget voulu dans la partie bleu (grace à la liste déroulante)
 <p><img src="../img/AIDE_CONFIG_INFO_2.png" alt="Aide 2" /></p>
 
 # Ajout des paramétres
@@ -37,8 +40,6 @@ Cliqur sur le bouton <i>Ajouter</i> pour ajouter les différents paramétres du 
 <p><img src="../img/AIDE_CONFIG_INFO_3.png" alt="Aide 3" /></p>
 
 <hr />
-# Télécharger les sources
-
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 

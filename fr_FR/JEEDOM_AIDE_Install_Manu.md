@@ -38,6 +38,7 @@ Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
 # Plugin nécessaire "jeexplorer"
 Il faut installer le plugin Jeexplorer
 > Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom.
+
 > Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
 
 <ul>
