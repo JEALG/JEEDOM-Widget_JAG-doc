@@ -23,12 +23,10 @@ title: Jeedom | Widget JAG
 
 Nom du Widget | Dashboard | Mobile | Docs/Téléchargement
 --- | --- | --- | ---
- Voyant Multi-couleur | <img src="../img/exemple/JEEDOM_VoyantMulticouleur.png" alt="Exemple" /> |    |<a href="./JEEDOM_VoyantMulticouleur.html">Docs et Téléchargement</a> |
-Store Banne |<img src="../img/exemple/JEEDOM_Store_banne.png" alt="Exemple" />| **Pas de version**
+ **Voyant Multi-couleur** | <img src="../img/exemple/JEEDOM_VoyantMulticouleur.png" alt="Exemple" /> |    |<a href="./JEEDOM_VoyantMulticouleur.html">Docs et Téléchargement</a> |
+**Store Banne** |<img src="../img/exemple/JEEDOM_Store_banne.png" alt="Exemple" />| *Pas de version* | <a href="./JEEDOM_Store_banne.html">Docs et Téléchargement</a>
 
 ## Automatisme
-
-
 
 * <a href="./JEEDOM_VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a>
 * <a href="./JEEDOM_VoyantMulticouleur_MOBILE.html">Widget Mobile : <b>Bouton en forme de voyant Multi couleur</b></a>
