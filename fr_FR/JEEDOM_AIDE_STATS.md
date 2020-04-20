@@ -4,7 +4,7 @@ title: JEEDOM-AIDE Affichage de l'historique
 description: explication Affichage de l'historique
 ---
 [back](./)
-# Affichage de l'historique 
+# Affichage de l'historique
 
 # Activation de l'historique
 Il est impératif que l'info de l'équipement soit historisé pour être afficher
@@ -13,7 +13,6 @@ Il est impératif que l'info de l'équipement soit historisé pour être affiche
 # Afficher les statistiques sur les widgets
 Il faut vérifier que la case "Afficher les statistiques sur les widgets" soit coché dans la configuration de jeedoom
 <p><img src="../img/Image_Stats_Activation_V4.png" alt="Config V4" /></p>
-<p><img src="../img/Image_Stats_Activation_V3_3.png" alt="Config V3" /></p>
 
 # Afficher les statistiques sur le widget
 Dans les réglages de chaque commande, cliquer sur la roue
