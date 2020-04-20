@@ -35,17 +35,18 @@ Sélectionner la branche voulu :
 Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
 <p><img src="../img/AIDE_V4_Github_branche_2.png" alt="Download" /></p>
 
-# Plugin nécessaire
+# Plugin nécessaire "jeexplorer"
 Il faut installer le plugin Jeexplorer
-    Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom.
-    Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
+> Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom.
+> Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
+
 <ul>
     <li><a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a></li>
     <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>
 </ul>
 
 # Installation ou Mise à jour
-Dézipper le fichier télécharger.
+Dézipper le fichier télécharger du widget voulu
 Se rendre dans Jeedom et ouvrir le plugin <i>Organisation/Jeexplorer</i>
 Se rendre dans le dossier correspondant au type de widget
 <ul>
