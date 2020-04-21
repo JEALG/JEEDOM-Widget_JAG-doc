@@ -7,12 +7,7 @@ description: explication widget Batterie-EeDomus
 # Widget "Batterie - EeDomus"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="../img/RESULTAT_JEEDOM_Batterie_EeDomus.png" alt="Resultat" /></p>
-<blockquote>
-Le widget inclus d'office 1 type d'icônes.
-</blockquote>
-
-<p><img src="../img/VISUEL_JEEDOM_batterie.png" alt="Visuels" /></p>
+<p><img src="../img/exemple/d/bat_eedomus.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>

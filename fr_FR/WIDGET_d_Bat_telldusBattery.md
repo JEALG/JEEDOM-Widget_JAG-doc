@@ -7,12 +7,8 @@ description: explication widget Batterie-telldusBattery
 # Widget " Batterie-telldusBattery"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="../img/RESULTAT_JEEDOM_Batterie_telldusBattery.png" alt="Resultat" /></p>
+<p><img src="../img/exemple/d/bat_telldusbatter.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 1 type d'icônes.
-</blockquote>
-
-<p><img src="../img/VISUEL_JEEDOM_batterie.png" alt="Visuels" /></p>
 
 # A savoir
 <blockquote>

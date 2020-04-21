@@ -30,6 +30,8 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Icone_Mode** |<img src="../img/exemple/d/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./WIDGET_d_Icon_Mode.html">Lien</a>
 **Multi-action** |<img src="../img/exemple/d/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_d_Multi_action_Defaut.html">Lien</a>
 **Multi info - Binaire** |<img src="../img/exemple/d/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_d_Multi_info_Binaire.html">Lien</a>
+**Batterie - EeDomus** |<img src="../img/exemple/d/bat_eedomus.png" alt="Exemple Batterie - EeDomus" /> | <a href="./WIDGET_d_Bat_EeDomus.html">Lien</a>
+**Batterie - telldusBatter** |<img src="../img/exemple/d/bat_telldusbatter.png" alt="Exemple Batterie-telldusBatter" /> | <a href="./WIDGET_d_Bat_telldusBattery.html">Lien</a>
 
 ## Mobile
 
@@ -48,9 +50,6 @@ Nom du Widget | Exemple | Docs/Téléchargement
 
 ## Ancien classement
 
-### Énergie
-* <a href="./JEEDOM_Batterie_EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a>
-* <a href="./JEEDOM_Batterie_telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a>
 
 ### Humidité
 * <a href="./JEEDOM_Humidite_Goutte_eau.html">Widget Dashboard : <b>Humidite-Goutte_eau</b></a>
