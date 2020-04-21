@@ -38,7 +38,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Voyant Multi-couleur** | <img src="../img/exemple/m/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_m_VoyantMulticouleur.html">Lien</a> |
 **Icone_Mode** |<img src="../img/exemple/m/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./WIDGET_m_Icon_Mode_Mobile.html">Lien</a>
 **Multi-action** |<img src="../img/exemple/m/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_m_Multi_action_Defaut_mobile.html">Lien</a>
-**Multi info - Binaire** |<img src="../img/m/exemple/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_m_Multi_info_Binaire_mobile.html">Lien</a>
+**Multi info - Binaire** |<img src="../img/exemple/m/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_m_Multi_info_Binaire_mobile.html">Lien</a>
 
 
 
@@ -49,16 +49,9 @@ Nom du Widget | Exemple | Docs/Téléchargement
 ## Ancien classement
 
 ### Autre
-* <a href="./JEEDOM_Icon_Mode_Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a>
-
-    * <a href="JEEDOM_Archive_Multiaction.html">Voir les anciens widgets prises en charge par ce widget</a>
-
-
+<a href="JEEDOM_Archive_Multiaction.html">Voir les anciens widgets prises en charge par ce widget</a>
     * <a href="JEEDOM_Archive_Multiaction_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
-
-
     * <a href="JEEDOM_Archive_Multiinfo.html">Voir les anciens widgets prises en charge par ce widget</a>
-
     * <a href="JEEDOM_Archive_Multiinfo_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
 
 ### Énergie
