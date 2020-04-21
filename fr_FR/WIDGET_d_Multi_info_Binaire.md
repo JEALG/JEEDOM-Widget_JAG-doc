@@ -11,15 +11,11 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
     Ce widget regroupe l'ensemble des différentes images de mes widgets
 </blockquote>
 
-<p><img src="../img/exemple/d/multi_binaire.png" alt="Resultat" /></p>
-<blockquote>
-    Le widget inclus plusieurs icônes dans des sous dossiers
-</blockquote>
-
 # A savoir
-
-> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
-
+<ul>
+<li><b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a></li>
+<li><b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_d_Multiinfo">Archive Widget Info Binaire</a></li>
+</ul>
 
 # Paramétrage
 ## Choix de l'icône
