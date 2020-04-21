@@ -52,8 +52,8 @@ Pour choisir le type d'extension de l'image
 ## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramètres pour un widget Info</a></li>
+            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramètres sur un widget</a></li>
         </ul>
 </blockquote>
 
@@ -84,9 +84,15 @@ Pour choisir le type d'extension de l'image
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/master">Télécharger les sources pour la V3</a></li>
 
 # Changelog
+## Version Dashboard
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/masterv4">Changelog WIDGET Pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+
+## Version mobile
+<a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog 
 
 <hr />
 [back](./)

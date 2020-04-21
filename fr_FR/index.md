@@ -21,10 +21,15 @@ title: Jeedom | Widget JAG
 
 # Les widgets
 
-Nom du Widget | Dashboard | Mobile | Docs/Téléchargement
---- | --- | --- | ---
- **Voyant Multi-couleur** | <img src="../img/exemple/JEEDOM_VoyantMulticouleur.png" alt="Exemple" /> |    |<a href="./JEEDOM_VoyantMulticouleur.html">Lien</a> |
-**Store Banne** |<img src="../img/exemple/JEEDOM_Store_banne.png" alt="Exemple" />| *Pas de version* | <a href="./JEEDOM_Store_banne.html">Lien</a>
+## Dashboard
+
+Nom du Widget | Dashboard | Docs/Téléchargement
+--- | --- | ---
+ **Voyant Multi-couleur** | <img src="../img/exemple/JEEDOM_VoyantMulticouleur.png" alt="Exemple" />|<a href="./JEEDOM_VoyantMulticouleur.html">Lien</a> |
+**Store Banne** |<img src="../img/exemple/JEEDOM_Store_banne.png" alt="Exemple" /> | <a href="./JEEDOM_Store_banne.html">Lien</a>
+
+
+## Mobile
 
 ## Automatisme
 
