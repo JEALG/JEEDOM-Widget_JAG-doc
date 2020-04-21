@@ -25,20 +25,20 @@ title: Jeedom | Widget JAG
 
 Nom du Widget | Exemple | Docs/Téléchargement
 --- | --- | ---
- **Voyant Multi-couleur** | <img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple" />|<a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a> |
-**Store Banne** |<img src="../img/exemple/d/store_banne.png" alt="Exemple" /> | <a href="./WIDGET_d_Store_banne.html">Lien</a>
-**Icone_Mode** |<img src="../img/exemple/d/icone_mode.png" alt="Exemple" /> | <a href="./WIDGET_d_Icon_Mode.html">Lien</a>
-**Multi-action** |<img src="../img/exemple/d/multi_action.png" alt="Exemple" /> | <a href="./WIDGET_d_Multi_action_Defaut.html">Lien</a>
-**Multi info - Binaire** |<img src="../img/exemple/d/multi_binaire.png" alt="Exemple" /> | <a href="./WIDGET_d_Multi_info_Binaire.html">Lien</a>
+**Voyant Multi-couleur** | <img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a> |
+**Store Banne** |<img src="../img/exemple/d/store_banne.png" alt="Exemple Store Banne" /> | <a href="./WIDGET_d_Store_banne.html">Lien</a>
+**Icone_Mode** |<img src="../img/exemple/d/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./WIDGET_d_Icon_Mode.html">Lien</a>
+**Multi-action** |<img src="../img/exemple/d/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_d_Multi_action_Defaut.html">Lien</a>
+**Multi info - Binaire** |<img src="../img/exemple/d/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_d_Multi_info_Binaire.html">Lien</a>
 
 ## Mobile
 
 Nom du Widget | Exemple | Docs/Téléchargement
 --- | --- | ---
- **Voyant Multi-couleur** | <img src="../img/exemple/m/VoyantMulticouleur.png" alt="Exemple" />|<a href="./VoyantMulticouleur_MOBILE.html">Lien</a> |
- **Icone_Mode** |<img src="../img/exemple/m/Icone_mode.png" alt="Exemple" /> | <a href="./JEEDOM_Icon_Mode_Mobile.html">Lien</a>
-**Multi-action** |<img src="../img/exemple/m/Multi-action_mobile.png" alt="Exemple" /> | <a href="./JEEDOM_Multi_action_Defaut_mobile.html">Lien</a>
-**Multi info - Binaire** |<img src="../img/m/exemple/Multi-binaire_mobile.png" alt="Exemple" /> | <a href="./JEEDOM_Multi_info_Binaire_mobile.html">Lien</a>
+**Voyant Multi-couleur** | <img src="../img/exemple/m/VoyantMulticouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./VoyantMulticouleur_MOBILE.html">Lien</a> |
+**Icone_Mode** |<img src="../img/exemple/m/Icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./JEEDOM_Icon_Mode_Mobile.html">Lien</a>
+**Multi-action** |<img src="../img/exemple/m/Multi-action_mobile.png" alt="Exemple Multi-action" /> | <a href="./JEEDOM_Multi_action_Defaut_mobile.html">Lien</a>
+**Multi info - Binaire** |<img src="../img/m/exemple/Multi-binaire_mobile.png" alt="Exemple Multi info - Binaire" /> | <a href="./JEEDOM_Multi_info_Binaire_mobile.html">Lien</a>
 
 
 
