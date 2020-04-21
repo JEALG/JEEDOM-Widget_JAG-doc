@@ -46,15 +46,17 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
 
 ## Sous dossier
 Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
+
+Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
 <blockquote>
-    Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
         <ul>
             <li><b>dossier</b> : Nom du dossier (Par défaut : fibarooeil)</li>
             <li><a href="JEEDOM_Liste_images_dossiers.html">Listes des images par dossiers</a></li>
         </ul>
 </blockquote>
+
+Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
 <blockquote>
-    Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
         <ul>
             <li><b>dossier-M</b> : Nom du dossier (Par défaut : fibarooeil)</li>
         </ul>
