@@ -7,7 +7,7 @@ description: explication Bouton en forme de voyant Multi couleur
 # Widget "VoyantMulticouleur : Bouton en forme de voyant Multi couleur"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<p><img src="../img/RESULTAT_JEEDOM_VoyantMulticouleur.png" alt="Resultat" /></p>
+<p><img src="../img/exemple/d/voyant_multicouleur.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus d'office 14 types d'icônes.
 </blockquote>
@@ -92,7 +92,7 @@ Pour choisir le type d'extension de l'image
 ## Version mobile
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog 
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog
 
 <hr />
 [back](./)

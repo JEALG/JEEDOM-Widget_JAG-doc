@@ -2,7 +2,7 @@
 # Widget "Icon_Mode"
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
-<p><img src="../img/RESULTAT_JEEDOM_Icon_Mode.png" alt="Resultat" /></p>
+<p><img src="../img/exemple/d/icone_mode.png" alt="Resultat" /></p>
 <blockquote>
 Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
 </blockquote>
@@ -61,7 +61,7 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
         </ul>
 </blockquote>
 
-## Taille des images ou des icônes 
+## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
         <ul>
@@ -74,8 +74,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
         </ul>
 </blockquote>
- 
-## Autres paramétrages possible 
+
+## Autres paramétrages possible
 <blockquote>
         <ul>
             <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
@@ -111,7 +111,7 @@ Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PN
 # Télécharger les sources
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/master">Télécharger les sources pour la V3</a></li>
- 
+
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET pour le Core V3</a><br/>
