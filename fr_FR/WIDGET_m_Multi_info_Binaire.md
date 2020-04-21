@@ -7,9 +7,6 @@ description: Explication widget Multi-info-Binaire-mobile
 # Widget "Multi-info-Binaire (mobile)"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<blockquote>
-    Ce widget regroupe l'ensemble des différentes images de mes widgets
-</blockquote>
 
 <p><img src="../img/exemple/m/multi_binaire.png" alt="Resultat" /></p>
 
@@ -23,7 +20,8 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 ## Choix de l'icône
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
-    Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
+
+Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
 <blockquote>
         <ul>
             <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
@@ -33,7 +31,8 @@ Il est possible de récupérer le même réglage que le dashboard
             <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
-    Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
+
+Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
 <blockquote>
         <ul>
             <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
