@@ -23,8 +23,8 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 ## Choix de l'icône
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
-<blockquote>
     Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
+<blockquote>
         <ul>
             <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
             <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : fi_wh_off)</i></li>
@@ -33,8 +33,8 @@ Il est possible de récupérer le même réglage que le dashboard
             <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
         </ul>
 </blockquote>
-<blockquote>
     Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
+<blockquote>
         <ul>
             <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
             <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : fi_wh_off)</i></li>
