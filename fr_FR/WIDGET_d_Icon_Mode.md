@@ -10,11 +10,11 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
 # Info
 ## Merci
 <blockquote>
-        <ul>
-            <li>Merci @Salviaf pour l'affichage de la durée</li>
-            <li>Merci @Nicoraptor pour le code pour récupérer valeur Mode</li>
-            <li>Merci @Antoinekl1 pour l'info et le code suite à la modif du plugin "Mode"</li>
-        </ul>
+    <ul>
+        <li>Merci @Salviaf pour l'affichage de la durée</li>
+        <li>Merci @Nicoraptor pour le code pour récupérer valeur Mode</li>
+        <li>Merci @Antoinekl1 pour l'info et le code suite à la modif du plugin "Mode"</li>
+    </ul>
 </blockquote>
 
 ## A Savoir
@@ -27,52 +27,52 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
 ## Valeur du mode
 Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les variables
 <blockquote>
-        <ul>
-            <li><b>modex</b> : Valeur du mode</li>
-            <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
-        </ul>
+    <ul>
+        <li><b>modex</b> : Valeur du mode</li>
+        <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
+    </ul>
 </blockquote>
 Pour que le widget fonctionne dans le cas où les noms des commandes sont remplacés par des icônes, il faut indiquer le nom de l'icône dans les variables
 <blockquote>
-        <ul>
-            <li><b>modex</b> : Nom de l'icône</li>
-            <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
-        </ul>
+    <ul>
+        <li><b>modex</b> : Nom de l'icône</li>
+        <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
+    </ul>
 </blockquote>
 
 ## Choix de l'icône
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels si le nom du mode ne correspond pas au nom de l'image :
 <blockquote>
-        <ul>
-            <li><b>logox</b> : Permet de choisir l'image pour la valeur pour le mode <i>(valeur par défaut : <b>Nom_MODE</b>)</i></li>
-            <li><b>logo_typex</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
-            <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
-            <li><b>Nom_MODE</b> : correspond au nom exact de l'image</li>
-        </ul>
+    <ul>
+        <li><b>logox</b> : Permet de choisir l'image pour la valeur pour le mode <i>(valeur par défaut : <b>Nom_MODE</b>)</i></li>
+        <li><b>logo_typex</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+        <li><b>x</b> : Remplacer <b>x</b> par le numéro de mode (valeur possible de 0 à 10)</li>
+        <li><b>Nom_MODE</b> : correspond au nom exact de l'image</li>
+    </ul>
 </blockquote>
 
 
 ## Sous dossier
 Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 <blockquote>
-        <ul>
-            <li><b>dossier</b> : Nom du dossier (Par défaut : Chauffage)</li>
-            <li><a href="./JEEDOM_Liste_images_dossiers.html">Listes des images par dossiers</a></li>
-        </ul>
+    <ul>
+        <li><b>dossier</b> : Nom du dossier (Par défaut : Chauffage)</li>
+        <li><a href="./JEEDOM_Liste_images_dossiers.html">Listes des images par dossiers</a></li>
+    </ul>
 </blockquote>
 
 ## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
+    <ul>
+        <li><b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
         <ul>
-            <li><b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
-            <ul>
-                <li><i>Pourcentage = NO</i> la taille sera en "px"</li>
-                <li><i>Pourcentage = YES</i> la taille sera en "%"</li>
-            </ul>
-            <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
-            <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
+            <li><i>Pourcentage = NO</i> la taille sera en "px"</li>
+            <li><i>Pourcentage = YES</i> la taille sera en "%"</li>
         </ul>
+        <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
+        <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
+    </ul>
 </blockquote>
 
 ## Autres paramétrages possible

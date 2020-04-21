@@ -23,24 +23,24 @@ Il est possible de récupérer le même réglage que le dashboard
 
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
 <blockquote>
-        <ul>
-            <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-            <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : fi_wh_off)</i></li>
-            <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-            <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : fi_bu_on)</i></li>
-            <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-        </ul>
+    <ul>
+        <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
+        <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : di_day)</i></li>
+        <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+        <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : di_night)</i></li>
+        <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+    </ul>
 </blockquote>
 
 Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
 <blockquote>
-        <ul>
-            <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-            <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : fi_wh_off)</i></li>
-            <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-            <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : fi_bu_on)</i></li>
-            <li><b>logoOFF_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-        </ul>
+    <ul>
+        <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
+        <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : di_day)</i></li>
+        <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+        <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : di_night)</i></li>
+        <li><b>logoOFF_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+    </ul>
 </blockquote>
 
 
@@ -49,41 +49,41 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
 <blockquote>
-        <ul>
-            <li><b>dossier</b> : Nom du dossier (Par défaut : fibarooeil)</li>
-            <li><a href="JEEDOM_Liste_images_dossiers.html">Listes des images par dossiers</a></li>
-        </ul>
+    <ul>
+        <li><b>dossier</b> : Nom du dossier (Par défaut : fibarooeil)</li>
+        <li><a href="JEEDOM_Liste_images_dossiers.html">Listes des images par dossiers</a></li>
+    </ul>
 </blockquote>
 
 Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
 <blockquote>
-        <ul>
-            <li><b>dossier-M</b> : Nom du dossier (Par défaut : fibarooeil)</li>
-        </ul>
+    <ul>
+        <li><b>dossier-M</b> : Nom du dossier (Par défaut : fibarooeil)</li>
+    </ul>
 </blockquote>
 
 ## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
+    <ul>
+        <li><b>Pourcentage-M</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
         <ul>
-            <li><b>Pourcentage-M</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
-            <ul>
-                <li><i>Pourcentage-M = NO</i> la taille sera en "px"</li>
-                <li><i>Pourcentage-M = YES</i> la taille sera en "%"</li>
-            </ul>
-            <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 40)</i></li>
-            <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 40)</i></li>
+            <li><i>Pourcentage-M = NO</i> la taille sera en "px"</li>
+            <li><i>Pourcentage-M = YES</i> la taille sera en "%"</li>
         </ul>
+        <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 40)</i></li>
+        <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 40)</i></li>
+    </ul>
 </blockquote>
 
 ## Autres paramétrages possible et Aide
 <blockquote>
-        <ul>
-            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type infos</a></li>
-            <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
-        </ul>
+    <ul>
+        <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type infos</a></li>
+        <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+        <li><a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+        <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+    </ul>
 </blockquote>
 
 <hr />

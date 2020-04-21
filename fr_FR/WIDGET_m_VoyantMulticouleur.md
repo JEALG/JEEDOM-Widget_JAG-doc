@@ -23,73 +23,80 @@ Le widget inclus d'office 14 types d'icônes.
 ## Choix de la couleur
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
+
+Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
 <blockquote>
-    Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
-        <ul>
-            <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-            <li><b>CouleurON</b> : Permet de choisir la couleur du voyant pour la valeur ON <i>(valeur par défaut : gn)</i></li>
-            <li><b>CouleurOFF</b> : Permet de choisir la couleur du voyant pour la valeur OFF <i>(valeur par défaut : rd)</i></li>
-            <li><b>Les valeurs possibles </b> : bk, bu, gn, or, rd, wh, ye</li>
+    <ul>
+        <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
+        <li><b>CouleurON</b> : Permet de choisir la couleur du voyant pour la valeur ON <i>(valeur par défaut : gn)</i></li>
+        <li><b>CouleurOFF</b> : Permet de choisir la couleur du voyant pour la valeur OFF <i>(valeur par défaut : rd)</i></li>
+        <li><b>Les valeurs possibles </b> : bk, bu, gn, or, rd, wh, ye</li>
         </ul>
 </blockquote>
+
+Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
 <blockquote>
-    Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
-        <ul>
-            <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-            <li><b>CouleurON-M</b> : Permet de choisir la couleur du voyant pour la valeur ON <i>(valeur par défaut : gn)</i></li>
-            <li><b>CouleurOFF-M</b> : Permet de choisir la couleur du voyant pour la valeur OFF <i>(valeur par défaut : rd)</i></li>
-            <li><b>Les valeurs possibles </b> : bk, bu, gn, or, rd, wh, ye</li>
-        </ul>
+    <ul>
+        <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
+        <li><b>CouleurON-M</b> : Permet de choisir la couleur du voyant pour la valeur ON <i>(valeur par défaut : gn)</i></li>
+        <li><b>CouleurOFF-M</b> : Permet de choisir la couleur du voyant pour la valeur OFF <i>(valeur par défaut : rd)</i></li>
+        <li><b>Les valeurs possibles </b> : bk, bu, gn, or, rd, wh, ye</li>
+    </ul>
 </blockquote>
 
 ## Choix de la forme
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
+
+Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
 <blockquote>
-    Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
-        <ul>
-            <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-            <li><b>FormeON</b> : Permet de choisir la forme du voyant pour la valeur ON <i>(valeur par défaut : rond)</i></li>
-            <li><b>FormeOFF</b> : Permet de choisir la forme du voyant pour la valeur OFF <i>(valeur par défaut : rond)</i></li>
-            <li><b>Les valeurs possibles</b> : rond, carre</li>
-        </ul>
+    <ul>
+        <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
+        <li><b>FormeON</b> : Permet de choisir la forme du voyant pour la valeur ON <i>(valeur par défaut : rond)</i></li>
+        <li><b>FormeOFF</b> : Permet de choisir la forme du voyant pour la valeur OFF <i>(valeur par défaut : rond)</i></li>
+        <li><b>Les valeurs possibles</b> : rond, carre</li>
+    </ul>
 </blockquote>
+
+
+Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
 <blockquote>
-    Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
-        <ul>
-            <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-            <li><b>FormeON-M</b> : Permet de choisir la forme du voyant pour la valeur ON <i>(valeur par défaut : rond)</i></li>
-            <li><b>FormeOFF-M</b> : Permet de choisir la forme du voyant pour la valeur OFF <i>(valeur par défaut : rond)</i></li>
-            <li><b>Les valeurs possibles</b> : rond, carre</li>
-        </ul>
+    <ul>
+        <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
+        <li><b>FormeON-M</b> : Permet de choisir la forme du voyant pour la valeur ON <i>(valeur par défaut : rond)</i></li>
+        <li><b>FormeOFF-M</b> : Permet de choisir la forme du voyant pour la valeur OFF <i>(valeur par défaut : rond)</i></li>
+        <li><b>Les valeurs possibles</b> : rond, carre</li>
+    </ul>
 </blockquote>
 
 ## Choix de l'extension
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
+
+Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
 <blockquote>
-    Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
-        <ul>
-            <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-            <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-            <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-        </ul>
+    <ul>
+        <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
+        <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+        <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+    </ul>
 </blockquote>
+
+Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
 <blockquote>
-    Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
-        <ul>
-            <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-            <li><b>logoON-M_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-            <li><b>logoOFF-M_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-        </ul>
+    <ul>
+        <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
+        <li><b>logoON-M_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+        <li><b>logoOFF-M_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
+    </ul>
 </blockquote>
 
 ## Autres paramétrages possible et Aide
 <blockquote>
-        <ul>
-            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
-        </ul>
+    <ul>
+        <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+        <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+    </ul>
 </blockquote>
 
 <hr />
