@@ -23,13 +23,27 @@ title: Jeedom | Widget JAG
 
 ## Dashboard
 
-Nom du Widget | Dashboard | Docs/Téléchargement
+Nom du Widget | Exemple | Docs/Téléchargement
 --- | --- | ---
  **Voyant Multi-couleur** | <img src="../img/exemple/JEEDOM_VoyantMulticouleur.png" alt="Exemple" />|<a href="./JEEDOM_VoyantMulticouleur.html">Lien</a> |
 **Store Banne** |<img src="../img/exemple/JEEDOM_Store_banne.png" alt="Exemple" /> | <a href="./JEEDOM_Store_banne.html">Lien</a>
-
+**Icone_Mode** |<img src="../img/exemple/JEEDOM_Icone_mode.png" alt="Exemple" /> | <a href="./JEEDOM_Icon_Mode.html">Lien</a>
+**Multi-action** |<img src="../img/exemple/JEEDOM_Multi-action.png" alt="Exemple" /> | <a href="./JEEDOM_Multi_action_Defaut.html">Lien</a>
+**Multi info - Binaire** |<img src="../img/exemple/JEEDOM_Multi-binaire.png" alt="Exemple" /> | <a href="./JEEDOM_Multi_info_Binaire.html">Lien</a>
 
 ## Mobile
+
+Nom du Widget | Exemple | Docs/Téléchargement
+--- | --- | ---
+ **Voyant Multi-couleur** | <img src="../img/exemple/JEEDOM_VoyantMulticouleur_mobile.png" alt="Exemple" />|<a href="./JEEDOM_VoyantMulticouleur_MOBILE.html">Lien</a> |
+ **Icone_Mode** |<img src="../img/exemple/JEEDOM_Icone_mode_mobile.png" alt="Exemple" /> | <a href="./JEEDOM_Icon_Mode_Mobile.html">Lien</a>
+**Multi-action** |<img src="../img/exemple/JEEDOM_Multi-action_mobile.png" alt="Exemple" /> | <a href="./JEEDOM_Multi_action_Defaut_mobile.html">Lien</a>
+**Multi info - Binaire** |<img src="../img/exemple/JEEDOM_Multi-binaire_mobile.png" alt="Exemple" /> | <a href="./JEEDOM_Multi_info_Binaire_mobile.html">Lien</a>
+
+
+
+
+
 
 ## Automatisme
 
