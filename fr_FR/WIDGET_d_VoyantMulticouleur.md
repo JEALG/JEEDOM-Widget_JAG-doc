@@ -9,14 +9,15 @@ description: explication Bouton en forme de voyant Multi couleur
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="../img/exemple/d/voyant_multicouleur.png" alt="Resultat" /></p>
 <blockquote>
-Le widget inclus d'office 14 types d'icônes.
+Les visu à utiliser sont :
 </blockquote>
 
 <p><img src="../img/VISUEL_JEEDOM_Voyant.png" alt="Visuels" /></p>
 
 # A savoir
-
-> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necéssaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+</blockquote>
 
 
 # Paramétrage

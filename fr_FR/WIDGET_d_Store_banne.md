@@ -10,8 +10,9 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <p><img src="../img/exemple/d/store_banne.png" alt="Resultat" /></p>
 
 # A savoir
-
-> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+</blockquote>
 
 
 # Paramétrage
@@ -44,11 +45,11 @@ Il est possible de masquer la valeur de l'ouverture :
 </blockquote>
 
 ## Inversion sens image
-Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le sens 
+Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le sens
 <blockquote>
     <ul>
-        <li><b>levelINV = 0</b>Ouverture = 100% <i>(valeur par défaut : 0)</i></li>
-        <li><b>levelINV = 1</b>Ouverture = 0%  <i></i></li>
+        <li><b>levelINV = 0</b> Ouverture = 100% <i>(valeur par défaut : 0)</i></li>
+        <li><b>levelINV = 1</b> Ouverture = 0%  <i></i></li>
     </ul>
 </blockquote>
 
@@ -64,9 +65,9 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
     </ul>
 </blockquote>
 
-<hr />
+
 ### Ajout d'image
-<hr />
+
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
         Le nommage des images est normalisé et doit respecter le format suivant :

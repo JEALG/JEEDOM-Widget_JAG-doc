@@ -18,7 +18,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 # A savoir
 
-> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 > <b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_m_Multiaction">Archive Widget Multi action</a>
 
 
@@ -93,7 +93,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 ### Ajout d'image
-<hr />
+
 <blockquote>
         Il est possible d'inclure d'autres icônes dans le widget.<br/>
         Le nommage des images n'est pas normalisé sur ce widget

@@ -23,8 +23,9 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
 </blockquote>
 
 # A savoir
-
-> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+<blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+</blockquote>
 
 
 # Paramétrage
@@ -79,7 +80,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 40)</i></li>
     </ul>
 </blockquote>
- 
+
 ## Autres paramétrages possible
 <blockquote>
     <ul>
@@ -93,23 +94,23 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 # Exemple Paramétrage d'un mode
 <p><img src="../img/JEEDOM_Icon_Mode_Para mode.png" alt="exemple Para" /></p>
-<hr />
+
 ## Exemple 1
 Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG"
 <blockquote>
     <ul>
         <li><b>mode0</b> : renseigner la valeur <b>CONFORT</b></li>
-        <li><b>logo0</b> : Il n'est pas necessaire de le renseigner vu que le nom du mode est identique au nom de l'image</li>
-        <li><b>logo_type0</b> : Il n'est pas necessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
+        <li><b>logo0</b> : Il n'est pas nécessaire de le renseigner vu que le nom du mode est identique au nom de l'image</li>
+        <li><b>logo_type0</b> : Il n'est pas nécessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
     </ul>
 </blockquote>
 ## Exemple 2
-Un deuxieme exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PNG"
+Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PNG"
 <blockquote>
     <ul>
         <li><b>mode5</b> : renseigner la valeur <b>PURGE</b></li>
         <li><b>logo5</b> : renseigner la valeur <b>puitsvide</b></li>
-        <li><b>logo_type5</b> : Il n'est pas necessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
+        <li><b>logo_type5</b> : Il n'est pas nécessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
     </ul>
 </blockquote>
 

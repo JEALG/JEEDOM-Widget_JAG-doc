@@ -48,7 +48,7 @@ Il est possible de déplacer la légende
 ## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramètres pour un widget Info</a></li>
             <li><a href="JEEDOM_AIDE_CONFIG_html">Paramétrage image de défaut</a></li>
             <li><a href="JEEDOM_AIDE_CONFIG_STATS.html">Afficher les statistiques</a></li>
             <li><a href="JEEDOM_AIDE_CONFIG_PARA.html">Ajouter les paramétres sur un widget</a></li>
