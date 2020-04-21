@@ -12,7 +12,7 @@ Voici une méthode vous permetant d'installer et de faire les mises à jour.
 
 # A Savoir
 <blockquote>
-Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <b><i>JEEDOM-Multi_action-Defaut</i></b>
+Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b>
 
 Un script sera disponible dans quelques jours pour installer les mises à jour pour le core V3 ou V4
 </blockquote>

@@ -48,12 +48,6 @@ Nom du Widget | Exemple | Docs/Téléchargement
 
 ## Ancien classement
 
-### Autre
-<a href="JEEDOM_Archive_Multiaction.html">Voir les anciens widgets prises en charge par ce widget</a>
-    * <a href="JEEDOM_Archive_Multiaction_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
-    * <a href="JEEDOM_Archive_Multiinfo.html">Voir les anciens widgets prises en charge par ce widget</a>
-    * <a href="JEEDOM_Archive_Multiinfo_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
-
 ### Énergie
 * <a href="./JEEDOM_Batterie_EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a>
 * <a href="./JEEDOM_Batterie_telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a>
