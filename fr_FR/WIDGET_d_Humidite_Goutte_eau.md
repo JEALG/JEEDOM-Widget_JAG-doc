@@ -6,7 +6,7 @@ description: explication widget Humidite-Goutte_eau
 [back](./)
 # Widget "Humidite-Goutte_eau"
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="../img/RESULTAT_JEEDOM_Humidite_Goutte_eau.png" alt="Resultat" /></p>
+<p><img src="../img/exemple/d/humidite_goutte_eau.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>
@@ -15,13 +15,13 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 # Autres paramétrages possible et Aide
 <blockquote>
-        <ul>
-            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="JEEDOM_AIDE_SIZE.html">Changer la Taille du texte de l'historique</a></li>
-            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
-        </ul>
+    <ul>
+        <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+        <li><a href="JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
+        <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+        <li><a href="JEEDOM_AIDE_SIZE.html">Changer la Taille du texte de l'historique</a></li>
+        <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+    </ul>
 </blockquote>
 
 <hr />

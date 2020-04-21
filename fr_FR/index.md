@@ -32,6 +32,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Multi info - Binaire** |<img src="../img/exemple/d/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_d_Multi_info_Binaire.html">Lien</a>
 **Batterie - EeDomus** |<img src="../img/exemple/d/bat_eedomus.png" alt="Exemple Batterie - EeDomus" /> | <a href="./WIDGET_d_Bat_EeDomus.html">Lien</a>
 **Batterie - telldusBatter** |<img src="../img/exemple/d/bat_telldusbatter.png" alt="Exemple Batterie-telldusBatter" /> | <a href="./WIDGET_d_Bat_telldusBattery.html">Lien</a>
+**Humidite-Goutte_eau** |<img src="../img/exemple/d/humidite_goutte_eau.png" alt="Exemple Humidite-Goutte_eau" /> | <a href="./WIDGET_d_Humidite_Goutte_eau.html">Lien</a>
 
 ## Mobile
 
@@ -41,6 +42,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Icone_Mode** |<img src="../img/exemple/m/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./WIDGET_m_Icon_Mode.html">Lien</a>
 **Multi-action** |<img src="../img/exemple/m/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_m_Multi_action_Defaut.html">Lien</a>
 **Multi info - Binaire** |<img src="../img/exemple/m/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_m_Multi_info_Binaire.html">Lien</a>
+**Humidite-Goutte_eau** |<img src="../img/exemple/m/humidite_goutte_eau.png" alt="Exemple Humidite-Goutte_eau" /> | <a href="./WIDGET_m_Humidite_Goutte_eau.html">Lien</a>
 
 
 
@@ -50,10 +52,6 @@ Nom du Widget | Exemple | Docs/Téléchargement
 
 ## Ancien classement
 
-
-### Humidité
-* <a href="./JEEDOM_Humidite_Goutte_eau.html">Widget Dashboard : <b>Humidite-Goutte_eau</b></a>
-* <a href="./JEEDOM_Humidite_Goutte_eau_Mobile.html">Widget mobile : <b>Humidite-Goutte_eau (mobile)</b></a>
 
 ### Lumière
 * <a href="./JEEDOM_Lum_IMG_mini.html">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a>
