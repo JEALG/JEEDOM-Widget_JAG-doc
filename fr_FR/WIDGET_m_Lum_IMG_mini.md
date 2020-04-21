@@ -7,7 +7,7 @@ description: explication widget Luminosité-IMG-Mini (mobile)
 # Widget "Luminosité-IMG-Mini (mobile)"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="../img/RESULTAT_JEEDOM_Lum_IMG.png" alt="Resultat" /></p>
+<p><img src="../img/exemple/m/lumi.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>
@@ -18,33 +18,33 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 ## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
+    <ul>
+        <li><b>Pourcentage-M</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
         <ul>
-            <li><b>Pourcentage-M</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
-            <ul>
-                <li><i>Pourcentage-M = NO</i> la taille sera en "px"</li>
-                <li><i>Pourcentage-M = YES</i> la taille sera en "%"</li>
-            </ul>
-            <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 30)</i></li>
-            <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 30)</i></li>
+            <li><i>Pourcentage-M = NO</i> la taille sera en "px"</li>
+            <li><i>Pourcentage-M = YES</i> la taille sera en "%"</li>
         </ul>
+        <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 30)</i></li>
+        <li><b>sizew-M</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 30)</i></li>
+    </ul>
 </blockquote>
 
 ## Niveau
 Il est possible de modifier les niveaux
 <blockquote>
-        <ul>
-            <li><b>level_1</b> : Niveau Bas (nuit) <i>(valeur par défaut : 20)</i></li>
-            <li><b>level_2</b> : Niveau Haut (jour) <i>(valeur par défaut : 100.0)</i></li>
-        </ul>
+    <ul>
+        <li><b>level_1</b> : Niveau Bas (nuit) <i>(valeur par défaut : 20)</i></li>
+        <li><b>level_2</b> : Niveau Haut (jour) <i>(valeur par défaut : 100.0)</i></li>
+    </ul>
 </blockquote>
 # Autres paramétrages possible et Aide
 <blockquote>
-        <ul>
-            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-            <li><a href="JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
-        </ul>
+    <ul>
+        <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+        <li><a href="JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
+        <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
+        <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+    </ul>
 </blockquote>
 
 <hr />

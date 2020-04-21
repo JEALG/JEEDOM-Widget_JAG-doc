@@ -8,7 +8,7 @@ description: Archive Widget Info Binaire
 
 L'ensemble des widgets ci-dessous est incorporé dans le widget
 <blockquote>
-    <a href="JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a>
+    <a href="../img/exemple/d/multi_action.png">Widget Dashboard : <b>Multi info - Binaire</b></a>
 </blockquote>
 
 # A savoir

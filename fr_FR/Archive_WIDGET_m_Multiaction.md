@@ -8,7 +8,7 @@ description: Archive Widget Action (mobile)
 
 L'ensemble des widgets ci-dessous est incorporé dans le widget
 <blockquote>
-    <a href="JEEDOM_Multi_action_Defaut_mobile">Widget Dashboard : <b>Multi-action (mobile)</b></a>
+    <a href="../img/exemple/m/multi_action.png">Widget Dashboard : <b>Multi-action (mobile)</b></a>
 </blockquote>
 
 # A savoir
@@ -17,7 +17,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </blockquote>
 
 # Alarme
-## Widget "Alarme-Activation (mobile)" 
+## Widget "Alarme-Activation (mobile)"
 <b>Pour avoir le paramétrage par défaut du widget Alarme-Activation (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 
@@ -31,7 +31,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </blockquote>
 
 # Lumière
-## Widget "Lampe (mobile)" 
+## Widget "Lampe (mobile)"
 <b>Pour avoir le paramétrage par défaut du widget Lampe (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
