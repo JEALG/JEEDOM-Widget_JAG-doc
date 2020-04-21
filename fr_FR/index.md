@@ -25,11 +25,11 @@ title: Jeedom | Widget JAG
 
 Nom du Widget | Exemple | Docs/Téléchargement
 --- | --- | ---
- **Voyant Multi-couleur** | <img src="../img/exemple/d/VoyantMulticouleur.png" alt="Exemple" />|<a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a> |
-**Store Banne** |<img src="../img/exemple/d/Store_banne.png" alt="Exemple" /> | <a href="./WIDGET_d_Store_banne.html">Lien</a>
-**Icone_Mode** |<img src="../img/exemple/d/Icone_mode.png" alt="Exemple" /> | <a href="./WIDGET_d_Icon_Mode.html">Lien</a>
-**Multi-action** |<img src="../img/exemple/d/Multi-action.png" alt="Exemple" /> | <a href="./WIDGET_d_Multi_action_Defaut.html">Lien</a>
-**Multi info - Binaire** |<img src="../img/exemple/d/Multi-binaire.png" alt="Exemple" /> | <a href="./WIDGET_d_Multi_info_Binaire.html">Lien</a>
+ **Voyant Multi-couleur** | <img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple" />|<a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a> |
+**Store Banne** |<img src="../img/exemple/d/store_banne.png" alt="Exemple" /> | <a href="./WIDGET_d_Store_banne.html">Lien</a>
+**Icone_Mode** |<img src="../img/exemple/d/icone_mode.png" alt="Exemple" /> | <a href="./WIDGET_d_Icon_Mode.html">Lien</a>
+**Multi-action** |<img src="../img/exemple/d/multi_action.png" alt="Exemple" /> | <a href="./WIDGET_d_Multi_action_Defaut.html">Lien</a>
+**Multi info - Binaire** |<img src="../img/exemple/d/multi_binaire.png" alt="Exemple" /> | <a href="./WIDGET_d_Multi_info_Binaire.html">Lien</a>
 
 ## Mobile
 
