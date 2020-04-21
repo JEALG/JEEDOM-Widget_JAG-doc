@@ -15,9 +15,9 @@ Le widget inclus d'office 14 types d'icônes.
 <p><img src="../img/VISUEL_JEEDOM_Voyant.png" alt="Visuels" /></p>
 
 # A savoir
-<blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
-</blockquote>
+
+> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+
 
 # Paramétrage
 ## Choix de la couleur

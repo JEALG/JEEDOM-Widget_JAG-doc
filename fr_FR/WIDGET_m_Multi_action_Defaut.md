@@ -17,10 +17,10 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 </blockquote>
 
 # A savoir
-<blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
-<b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_m_Multiaction">Archive Widget Multi action</a>
-</blockquote>
+
+> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+> <b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_m_Multiaction">Archive Widget Multi action</a>
+
 
 # Paramétrage
 ## Choix de l'icône
@@ -87,7 +87,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
             <li><a href="JEEDOM_AIDE_PARA">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
-    
+
 ### Ajout d'image
 <hr />
 <blockquote>
@@ -107,6 +107,6 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-    
+
 <hr />
 [back](./)

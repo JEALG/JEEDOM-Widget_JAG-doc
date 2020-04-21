@@ -17,10 +17,11 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 </blockquote>
 
 # A savoir
-<blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b>
-<b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_m_Multiinfo">Archive Widget Info Binaire</a></a>
-</blockquote>
+
+> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b>
+
+> <b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_m_Multiinfo">Archive Widget Info Binaire</a></a>
+
 
 # Paramétrage
 ## Choix de l'icône

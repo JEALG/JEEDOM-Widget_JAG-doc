@@ -12,10 +12,9 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 </blockquote>
 
 <p><img src="../img/exemple/d/multi_action.png" alt="Resultat" /></p>
-<blockquote>
-    Le widget inclus plusieurs icônes dans des sous dossiers
-    <b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_d_Multiaction">Archive Widget Multi action</a>
-</blockquote>
+
+> Le widget inclus plusieurs icônes dans des sous dossiers
+> <b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_d_Multiaction">Archive Widget Multi action</a>
 
 # Paramétrage
 ## Choix de l'icône
