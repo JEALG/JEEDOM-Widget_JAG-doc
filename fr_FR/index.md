@@ -21,24 +21,6 @@ title: Jeedom | Widget JAG
 
 # Les widgets
 
-## Automatisme
-### Dashboard
-
-Nom du Widget | Exemple | Docs/Téléchargement
---- | --- | ---
- **Voyant Multi-couleur** | <img src="../img/exemple/JEEDOM_VoyantMulticouleur.png" alt="Exemple" />|<a href="./JEEDOM_VoyantMulticouleur.html">Lien</a> |
-**Store Banne** |<img src="../img/exemple/JEEDOM_Store_banne.png" alt="Exemple" /> | <a href="./JEEDOM_Store_banne.html">Lien</a>
-
-### Mobile
-Nom du Widget | Exemple | Docs/Téléchargement
---- | --- | ---
- **Voyant Multi-couleur** | <img src="../img/exemple/JEEDOM_VoyantMulticouleur_mobile.png" alt="Exemple" />|<a href="./JEEDOM_VoyantMulticouleur_MOBILE.html">Lien</a> |
-
-
-
-
-
-
 ## Dashboard
 
 Nom du Widget | Exemple | Docs/Téléchargement
@@ -63,7 +45,9 @@ Nom du Widget | Exemple | Docs/Téléchargement
 
 
 
-## Automatisme
+
+## Ancien classement
+### Automatisme
 
 
 
@@ -84,11 +68,11 @@ Nom du Widget | Exemple | Docs/Téléchargement
 * <a href="./JEEDOM_Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a>
     * <a href="JEEDOM_Archive_Multiinfo_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
 
-## Énergie
+### Énergie
 * <a href="./JEEDOM_Batterie_EeDomus.html">Widget Dashboard : <b>Batterie - EeDomus</b></a>
 * <a href="./JEEDOM_Batterie_telldusBattery.html">Widget Dashboard : <b>Batterie-telldusBattery</b></a>
 
-## Humidité
+### Humidité
 * <a href="./JEEDOM_Humidite_Goutte_eau.html">Widget Dashboard : <b>Humidite-Goutte_eau</b></a>
 * <a href="./JEEDOM_Humidite_Goutte_eau_Mobile.html">Widget mobile : <b>Humidite-Goutte_eau (mobile)</b></a>
 
@@ -103,12 +87,12 @@ Nom du Widget | Exemple | Docs/Téléchargement
 * <a href="./JEEDOM_Point_rosee.html">Widget Dashboard : <b>Point de rosée</b></a>
 * <a href="./JEEDOM_Tendance_Baro.html">Widget Dashboard : <b>Tendance-Baro</b></a>
 
-## Ouverture
+### Ouverture
 * <a href="./JEEDOM_Fenetre.html">Widget Dashboard : <b>Fenêtre (numérique)</b></a>
 * <a href="./JEEDOM_Fenetre_MOBILE.html">Widget Mobile: <b>Fenêtre (mobile) (numérique)</b></a>
 * <a href="./JEEDOM_Store_Velux_num.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a>
 
-## Température
+### Température
 * <a href="./JEEDOM_Thermometre.html">Widget Dashboard : <b>Temperature thermometre</b></a>
 * <a href="./JEEDOM_Thermometre_MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a>
 
