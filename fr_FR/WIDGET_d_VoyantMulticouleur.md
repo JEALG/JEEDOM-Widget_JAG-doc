@@ -75,24 +75,15 @@ Pour choisir le type d'extension de l'image
 
 <hr />
 # Télécharger les sources
-## Version Dashboard
+
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/tree/master">Télécharger les sources pour la V3</a></li>
 
-## Version mobile
-<li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/masterv4">Télécharger les sources pour la V4</a></li>
-<li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/master">Télécharger les sources pour la V3</a></li>
-
 # Changelog
-## Version Dashboard
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/masterv4">Changelog WIDGET Pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
-## Version mobile
-<a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
-<a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog
 
 <hr />
 [back](./)

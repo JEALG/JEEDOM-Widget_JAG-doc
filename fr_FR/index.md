@@ -35,10 +35,10 @@ Nom du Widget | Exemple | Docs/Téléchargement
 
 Nom du Widget | Exemple | Docs/Téléchargement
 --- | --- | ---
-**Voyant Multi-couleur** | <img src="../img/exemple/m/VoyantMulticouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./VoyantMulticouleur_MOBILE.html">Lien</a> |
-**Icone_Mode** |<img src="../img/exemple/m/Icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./JEEDOM_Icon_Mode_Mobile.html">Lien</a>
-**Multi-action** |<img src="../img/exemple/m/Multi-action_mobile.png" alt="Exemple Multi-action" /> | <a href="./JEEDOM_Multi_action_Defaut_mobile.html">Lien</a>
-**Multi info - Binaire** |<img src="../img/m/exemple/Multi-binaire_mobile.png" alt="Exemple Multi info - Binaire" /> | <a href="./JEEDOM_Multi_info_Binaire_mobile.html">Lien</a>
+**Voyant Multi-couleur** | <img src="../img/exemple/m/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_m_VoyantMulticouleur.html">Lien</a> |
+**Icone_Mode** |<img src="../img/exemple/m/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./JEEDOM_Icon_Mode_Mobile.html">Lien</a>
+**Multi-action** |<img src="../img/exemple/m/Multi_action.png" alt="Exemple Multi-action" /> | <a href="./JEEDOM_Multi_action_Defaut_mobile.html">Lien</a>
+**Multi info - Binaire** |<img src="../img/m/exemple/Multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./JEEDOM_Multi_info_Binaire_mobile.html">Lien</a>
 
 
 
@@ -47,25 +47,18 @@ Nom du Widget | Exemple | Docs/Téléchargement
 
 
 ## Ancien classement
-### Automatisme
-
-
-
-
-* <a href="./JEEDOM_VoyantMulticouleur.html">Widget Dashboard : <b>Bouton en forme de voyant Multi couleur</b></a>
-* <a href="./JEEDOM_VoyantMulticouleur_MOBILE.html">Widget Mobile : <b>Bouton en forme de voyant Multi couleur</b></a>
-* <a href="./JEEDOM_Store_banne.html">Widget Dashboard : <b>Store-banne</b></a>
 
 ## Autre
-* <a href="./JEEDOM_Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a>
 * <a href="./JEEDOM_Icon_Mode_Mobile.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a>
-* <a href="./JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+
     * <a href="JEEDOM_Archive_Multiaction.html">Voir les anciens widgets prises en charge par ce widget</a>
-* <a href="./JEEDOM_Multi_action_Defaut_mobile.html">Widget Mobile : <b>Multi-action (mobile)</b></a>
+
+
     * <a href="JEEDOM_Archive_Multiaction_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
-* <a href="./JEEDOM_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a>
+
+
     * <a href="JEEDOM_Archive_Multiinfo.html">Voir les anciens widgets prises en charge par ce widget</a>
-* <a href="./JEEDOM_Multi_info_Binaire_mobile.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a>
+
     * <a href="JEEDOM_Archive_Multiinfo_mobile.html">Voir les anciens widgets prises en charge par ce widget</a>
 
 ### Énergie
