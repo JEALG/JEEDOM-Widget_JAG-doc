@@ -21,7 +21,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
 
-Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
+Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
 <blockquote>
         <ul>
             <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
@@ -32,7 +32,7 @@ Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES<
         </ul>
 </blockquote>
 
-Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
+Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
 <blockquote>
         <ul>
             <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
