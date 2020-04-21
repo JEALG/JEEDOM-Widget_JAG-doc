@@ -62,12 +62,12 @@ Nom du Widget | Exemple | Docs/Téléchargement
 * <a href="./JEEDOM_Humidite_Goutte_eau.html">Widget Dashboard : <b>Humidite-Goutte_eau</b></a>
 * <a href="./JEEDOM_Humidite_Goutte_eau_Mobile.html">Widget mobile : <b>Humidite-Goutte_eau (mobile)</b></a>
 
-## Lumière
+### Lumière
 * <a href="./JEEDOM_Lum_IMG_mini.html">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a>
     * <a href="JEEDOM_Archive_Luminosite.html">voir l'ancien Widget Dashboard : <b>Luminosité-IMG</b></a>
 * <a href="./JEEDOM_Lum_IMG_mini_MOBILE.html">Widget Mobile : <b>Luminosité-IMG-Mini (mobile)</b></a>
 
-## Météo
+### Météo
 * <a href="./JEEDOM_Barometre.html">Widget Dashboard : <b>Baromètre</b></a>
 * <a href="./JEEDOM_Biroute_vent.html">Widget Dashboard : <b>Biroute - vent</b></a>
 * <a href="./JEEDOM_Point_rosee.html">Widget Dashboard : <b>Point de rosée</b></a>
