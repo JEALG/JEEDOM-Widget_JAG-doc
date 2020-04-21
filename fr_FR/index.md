@@ -36,9 +36,9 @@ Nom du Widget | Exemple | Docs/Téléchargement
 Nom du Widget | Exemple | Docs/Téléchargement
 --- | --- | ---
 **Voyant Multi-couleur** | <img src="../img/exemple/m/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_m_VoyantMulticouleur.html">Lien</a> |
-**Icone_Mode** |<img src="../img/exemple/m/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./WIDGET_m_Icon_Mode_Mobile.html">Lien</a>
-**Multi-action** |<img src="../img/exemple/m/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_m_Multi_action_Defaut_mobile.html">Lien</a>
-**Multi info - Binaire** |<img src="../img/exemple/m/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_m_Multi_info_Binaire_mobile.html">Lien</a>
+**Icone_Mode** |<img src="../img/exemple/m/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./WIDGET_m_Icon_Mode.html">Lien</a>
+**Multi-action** |<img src="../img/exemple/m/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_m_Multi_action_Defaut.html">Lien</a>
+**Multi info - Binaire** |<img src="../img/exemple/m/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_m_Multi_info_Binaire.html">Lien</a>
 
 
 
