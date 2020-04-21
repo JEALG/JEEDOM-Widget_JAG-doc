@@ -11,7 +11,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 # A savoir
 <blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Paramétrage
@@ -23,7 +23,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
             <li><b>min_max</b> : utilise le maxi et le mini de l'historique, <i>la variable doit ête vide</i></li>
         </ul>
 </blockquote>
- 
+
 ## Taille du texte
 <blockquote>
         <ul>
@@ -31,8 +31,8 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
             <a href="JEEDOM_AIDE_SIZE.html">Changer la Taille du texte de l'historique</a>
         </ul>
 </blockquote>
- 
- 
+
+
 ## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
@@ -47,7 +47,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 # Télécharger les sources
 <li><a href="https://github.com/JEALG/JEEDOM-Thermometre/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Thermometre/tree/master">Télécharger les sources pour la V3</a></li>
- 
+
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Thermometre/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Thermometre/commits/master">Changelog WIDGET pour le Core V3</a><br/>
