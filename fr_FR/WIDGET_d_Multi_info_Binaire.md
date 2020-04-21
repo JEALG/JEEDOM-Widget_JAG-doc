@@ -7,9 +7,8 @@ description: Explication widget Multi-info-Binaire
 # Widget "Multi-info-Binaire"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
-<blockquote>
-    Ce widget regroupe l'ensemble des différentes images de mes widgets
-</blockquote>
+
+<p><img src="../img/exemple/d/multi_binaire.png" alt="Resultat" /></p>
 
 # A savoir
 <ul>
