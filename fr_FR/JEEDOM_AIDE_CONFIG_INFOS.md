@@ -25,7 +25,7 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 * <b>En bleue</b> : Options
     * roue cranté permet de choisir le type de widget et les options
 
-## Exemple de parametrage
+## Exemple de paramétrage
 Voici l'exemple voulu
 <p><img src="../img/exemple/d/multi_binaire.png" alt="Résultat" /></p>
 
