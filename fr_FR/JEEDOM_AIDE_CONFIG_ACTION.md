@@ -30,9 +30,9 @@ Cliquer sur affichage, sélectionner ensuite le widget voulu
 
 ## Exemple de paramétrage
 Voici l'exemple voulu
-<p><img src="../img/AIDE_CONFIG_ACTION_2.png" alt="Aide 2" /></p>
+<p><img src="../img/exemple/d/multi_action.png" alt="Résultat" /></p>
 
-## Ajout des paramétres
+## Ajout des paramètres
 Cliquer sur le bouton <i>Ajouter</i> pour ajouter les différents paramétres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
 <p><img src="../img/AIDE_CONFIG_INFO_3.png" alt="Aide 3" /></p>
 
@@ -55,7 +55,7 @@ Les paramétres suivants seront mis :
 <p><img src="../img/AIDE_CONFIG_ACTION_3.png" alt="Aide 3" /></p>
 
 ### Pour la commande <b>OFF</b>
-Les paramétres suivants seront mis :
+Les paramètres suivants seront mis :
 
 * <b>Widget</b> : Choix du widget
     * Dashboard : Customtemp/Multi-action-Defaut
