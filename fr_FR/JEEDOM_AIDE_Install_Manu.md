@@ -19,8 +19,9 @@ Un script sera disponible dans quelques jours pour installer les mises à jour p
 
 # Récupérer les sources
 Les sources sont disponible sur mon github
-<a href="https://github.com/JEALG">Mon Github</a>
+<a href="https://github.com/JEALG">Mon Github</a><br/>
 Choisir le widget voulu
+<br/>
 voici un exemple pour récupèrer les sources
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut">JEEDOM-Multi_action-Defaut</a>
 <p><img src="../img/AIDE_V4_Github_branche_1.png" alt="Choix Branche" /></p>
@@ -48,7 +49,9 @@ Il faut installer le plugin Jeexplorer
 
 # Installation ou Mise à jour
 Dézipper le fichier télécharger du widget voulu
+<br/>
 Se rendre dans Jeedom et ouvrir le plugin <i>Organisation/Jeexplorer</i>
+<br/>
 Se rendre dans le dossier correspondant au type de widget
 <ul>
   <b>L'ensemble des fichiers sont à copier dans les dossiers suivant Pour le core V4 :</b>
