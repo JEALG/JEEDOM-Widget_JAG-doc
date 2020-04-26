@@ -27,11 +27,11 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Position Légende
 Il est possible de déplacer la légende
 <ul>
-    > <li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li>
+    ><li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li>
     <p><img src="../img/exemple/d/rosee.png" alt="Resultat" /></p>
-    > <li><b>leg_pos</b> = left</li>
+    ><li><b>leg_pos</b> = left</li>
     <p><img src="../img/exemple/d/rosee_le.png" alt="Resultat" /></p>
-    > <li><b>leg_pos</b> = low</li>
+    ><li><b>leg_pos</b> = low</li>
     <p><img src="../img/exemple/d/rosee_l.png" alt="Resultat" /></p>
 </ul>
 
