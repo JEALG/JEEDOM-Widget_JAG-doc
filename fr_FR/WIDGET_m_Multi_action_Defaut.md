@@ -83,7 +83,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         <li><a href="HELP_CONFIG_ACTION">Aide pour le paramétrage des widgets de type action</a></li>
         <li><a href="HELP_STATS">Afficher les statistiques</a></li>
         <li><a href="HELP_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique, actions)</a></li>
-        <li><a href="HELP_PARA">Ajouter les paramétres sur un widget</a></li>
+        <li><a href="HELP_PARA">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 

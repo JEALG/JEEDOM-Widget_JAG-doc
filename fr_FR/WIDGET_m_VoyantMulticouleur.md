@@ -92,8 +92,8 @@ Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-        <li><a href="HELP_PARA.html">Ajouter les paramétres sur un widget</a></li>
+        <li><a href="HELP_CONFIG_INFOS.html">Aide ajout des paramètres pour un widget Info</a></li>
+        <li><a href="HELP_PARA.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 

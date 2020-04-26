@@ -11,7 +11,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 # A savoir
 <blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Paramétrage
@@ -52,11 +52,11 @@ Il est possible de personnaliser les niveaux :
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+        <li><a href="HELP_CONFIG_INFOS.html">Aide ajout des paramètres pour un widget Info</a></li>
         <li><a href="HELP_CONFIG_Error.html">Paramétrage image de défaut</a></li>
         <li><a href="HELP_CONFIG_STATS.html">Afficher les statistiques</a></li>
         <li><a href="HELP_CONFIG_STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-        <li><a href="HELP_CONFIG_PARA.html">Ajouter les paramétres sur un widget</a></li>
+        <li><a href="HELP_CONFIG_PARA.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
