@@ -48,7 +48,7 @@ Il est possible de déplacer la légende
 ## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramètres pour un widget Info</a></li>
+            <li><a href="HELP_CONFIG_INFOS.html">Aide ajout Des paramètres pour un widget Info</a></li>
             <li><a href="JEEDOM_AIDE_CONFIG_html">Paramétrage image de défaut</a></li>
             <li><a href="JEEDOM_AIDE_CONFIG_STATS.html">Afficher les statistiques</a></li>
             <li><a href="JEEDOM_AIDE_CONFIG_PARA.html">Ajouter les paramétres sur un widget</a></li>
@@ -66,7 +66,7 @@ Il est possible de déplacer la légende
             <li><i>Remplacer <b>x</b> par le niveau (Valeur possible : 940, 950, 960, 970, 980, 990, 1000, 1010, 1020, 1030, 1040, 1050, 1060)</i></li>
         </ul>
          <ul>
-            <li><a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
+            <li><a href="HELP_ADD_IMG.html">Ajouter des images dans un widget</a></li>
         </ul>
 </blockquote>
 

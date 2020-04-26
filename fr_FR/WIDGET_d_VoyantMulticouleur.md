@@ -53,8 +53,8 @@ Pour choisir le type d'extension de l'image
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramètres pour un widget Info</a></li>
-        <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="HELP_CONFIG_INFOS.html">Aide ajout Des paramètres pour un widget Info</a></li>
+        <li><a href="HELP_PARA.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
@@ -69,7 +69,7 @@ Le nommage des images est normalisé et doit respecter le format suivant :
         <li><i>Remplacer <b>COULEUR</b> par la valeur bk, bu, gn, or, rd, wh, ye</i></li>
     </ul>
     <ul>
-        <li><a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
+        <li><a href="HELP_ADD_IMG.html">Ajouter des images dans un widget</a></li>
     </ul>
 </blockquote>
 

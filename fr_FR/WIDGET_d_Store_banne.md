@@ -57,11 +57,11 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
-        <li><a href="JEEDOM_AIDE_Error.html">Paramétrage image de défaut</a></li>
-        <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-        <li><a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-        <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+        <li><a href="HELP_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+        <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
+        <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
+        <li><a href="HELP_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+        <li><a href="HELP_PARA.html">Ajouter les paramétres sur un widget</a></li>
     </ul>
 </blockquote>
 
@@ -76,7 +76,7 @@ Le nommage des images est normalisé et doit respecter le format suivant :
         <li><i>Remplacer <b>x</b> par le niveau (Valeur possible : 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100)</i></li>
     </ul>
     <ul>
-        <li><a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
+        <li><a href="HELP_ADD_IMG.html">Ajouter des images dans un widget</a></li>
     </ul>
 </blockquote>
 

@@ -11,7 +11,7 @@ Il est impératif que l'info de l'équipement soit historisé pour être affiche
 <p><img src="../img/Image_Stats_Activation.png" alt="Error" /></p>
 
 # Afficher les statistiques sur les widgets
-Il faut vérifier que la case "Afficher les statistiques sur les widgets" soit coché dans la configuration de jeedoom
+Il faut vérifier que la case "Afficher les statistiques sur les widgets" soit coché dans la configuration de Jeedoom
 <p><img src="../img/Image_Stats_Activation_V4.png" alt="Config V4" /></p>
 
 # Afficher les statistiques sur le widget

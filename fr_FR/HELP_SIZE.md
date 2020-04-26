@@ -42,7 +42,7 @@ description: explication Modification size Texte
         <li><a href="JEEDOM_AIDE_CONFIG_INFO.html">Aide ajout Des paramètres pour un widget Info</a></li>
         <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
         <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
-        <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="HELP_PARA.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 

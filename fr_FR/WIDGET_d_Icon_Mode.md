@@ -54,7 +54,7 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 <blockquote>
     <ul>
         <li><b>dossier</b> : Nom du dossier (Par défaut : Chauffage)</li>
-        <li><a href="./JEEDOM_Liste_images_dossiers.html">Listes des images par dossiers</a></li>
+        <li><a href="./List_img.html">Listes des images par dossiers</a></li>
     </ul>
 </blockquote>
 
@@ -75,11 +75,11 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Autres paramétrages possible
 <blockquote>
         <ul>
-            <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramètres pour un widget Info</a></li>
-            <li><a href="JEEDOM_AIDE_Error.html">Paramètrage image de défaut</a></li>
-            <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+            <li><a href="HELP_CONFIG_INFOS.html">Aide ajout Des paramètres pour un widget Info</a></li>
+            <li><a href="HELP_Error.html">Paramètrage image de défaut</a></li>
+            <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
+            <li><a href="HELP_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+            <li><a href="HELP_PARA.html">Ajouter les paramétres sur un widget</a></li>
         </ul>
 </blockquote>
 

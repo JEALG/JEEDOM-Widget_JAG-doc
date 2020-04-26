@@ -8,7 +8,7 @@ description: explication Paramétrage Fenêtre
 Voici un exemple de configuration
 <blockquote>
         <li><b>Ma config</b> : 1 baie avec 2 capteurs</li>
-</blockquote> 
+</blockquote>
 
 # Paramétrage Virtuel
 <blockquote>

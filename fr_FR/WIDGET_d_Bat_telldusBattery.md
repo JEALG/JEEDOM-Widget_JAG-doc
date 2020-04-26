@@ -49,11 +49,11 @@ Il est possible de personnaliser les niveaux :
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+        <li><a href="HELP_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
         <li><a href="JEEDOM_AIDE_CONFIG_Error.html">Paramétrage image de défaut</a></li>
-        <li><a href="JEEDOM_AIDE_STATS.html">Afficher les statistiques</a></li>
-        <li><a href="JEEDOM_AIDE_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-        <li><a href="JEEDOM_AIDE_PARA.html">Ajouter les paramétres sur un widget</a></li>
+        <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
+        <li><a href="HELP_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+        <li><a href="HELP_PARA.html">Ajouter les paramétres sur un widget</a></li>
     </ul>
 </blockquote>
 

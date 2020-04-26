@@ -52,7 +52,7 @@ Il est possible de personnaliser les niveaux :
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="JEEDOM_AIDE_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
+        <li><a href="HELP_CONFIG_INFOS.html">Aide ajout Des paramétres pour un widget Info</a></li>
         <li><a href="JEEDOM_AIDE_CONFIG_Error.html">Paramétrage image de défaut</a></li>
         <li><a href="JEEDOM_AIDE_CONFIG_STATS.html">Afficher les statistiques</a></li>
         <li><a href="JEEDOM_AIDE_CONFIG_STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
@@ -71,7 +71,7 @@ Le nommage des images est normalisé et doit respecter le format suivant :
         <li><i>Remplacer <b>Niveau</b> par la valeur 0 ou 20 ou 40 ou 60 ou 80 ou 100</i></li>
     </ul>
     <ul>
-        <li><a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget</a></li>
+        <li><a href="HELP_ADD_IMG.html">Ajouter des images dans un widget</a></li>
     </ul> 
 </blockquote>
 

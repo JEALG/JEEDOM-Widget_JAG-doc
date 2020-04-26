@@ -78,11 +78,11 @@ Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
 >* <a href="HELP_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
 >* <a href="HELP_SIZE.html">Aide pour changer la taille du texte pour des widgets de type info (uniquement pour le Core V3)</a>
 >* <a href="HELP_PARA.html">Ajouter les paramètres sur un widget</a>
->* <a href="JEEDOM_AIDE_ADD_IMG.html">Ajouter des images dans un widget (uniquement pour le Core V3)</a>
+>* <a href="HELP_ADD_IMG.html">Ajouter des images dans un widget (uniquement pour le Core V3)</a>
 
 # Liste des images
 Cette rubrique regroupe les différentes images disponibles pour les widgets
->* <a href="./JEEDOM_Liste_images_dossiers.html">Listes des images des widgets </a>
+>* <a href="./List_img.html">Listes des images des widgets </a>
 
 <hr />
 # Changelog
