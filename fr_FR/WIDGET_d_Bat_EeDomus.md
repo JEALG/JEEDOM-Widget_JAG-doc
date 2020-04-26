@@ -77,8 +77,9 @@ Le nommage des images est normalisé et doit respecter le format suivant :
 
 
 # Télécharger les sources
-><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a></li>
+><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
 <br/>
+
 <li><a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
 

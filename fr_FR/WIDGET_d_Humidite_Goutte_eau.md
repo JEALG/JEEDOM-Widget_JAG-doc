@@ -25,8 +25,9 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 </blockquote>
 
 # Télécharger les sources
-><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a></li>
+><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
 <br/>
+
 <li><a href="https://github.com/JEALG/JEEDOM-Humidite-Goutte_eau/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Humidite-Goutte_eau/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
 
