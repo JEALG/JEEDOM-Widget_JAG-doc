@@ -33,14 +33,14 @@ Voici l'exemple voulu
 <p><img src="../img/exemple/d/multi_action.png" alt="Résultat" /></p>
 
 ## Ajout des paramètres
-Cliquer sur le bouton <i>Ajouter</i> pour ajouter les différents paramétres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
+Cliquer sur le bouton <i>Ajouter</i> pour ajouter les différents paramètres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
 <p><img src="../img/AIDE_CONFIG_INFO_3.png" alt="Aide 3" /></p>
 
 ### Pour la commande <b>Etat</b>
-Vu que cette commande n'est pas affiché, le paramétrage sera laissé en <b>Défaut</b>
+Vu que cette commande n'est pas affichée, le paramétrage sera laissé en <b>Défaut</b>
 
 ### Pour la commande <b>ON</b>
-Les paramétres suivants seront mis :
+Les paramètres suivants seront mis :
 
 * <b>Widget</b> : Choix du widget
     * Dashboard : Customtemp/Multi-action-Defaut

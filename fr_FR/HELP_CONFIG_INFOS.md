@@ -30,17 +30,17 @@ Voici l'exemple voulu
 <p><img src="../img/exemple/d/multi_binaire.png" alt="Résultat" /></p>
 
 ## Les commandes d'action
-voir l'exemple dans la doc <a href="JEEDOM_AIDE_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
+voir l'exemple dans la doc <a href="HELP_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
 
 # Choix du widget
 Cliquer sur la roue crantée (voir image ci-dessous),
 <p><img src="../img/AIDE_CONFIG_INFO_4.png" alt="Aide 4" /></p>
 
-Cliquer sur affichage, sélectionner ensuite le widget voulu dans la partie bleu (grace à la liste déroulante)
+Cliquer sur affichage, sélectionner ensuite le widget voulu dans la partie bleu (grâce à la liste déroulante)
 <p><img src="../img/AIDE_CONFIG_INFO_2.png" alt="Aide 2" /></p>
 
-# Ajout des paramétres
-Cliqur sur le bouton <i>Ajouter</i> pour ajouter les différents paramétres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
+# Ajout des paramètres
+Cliquer sur le bouton <i>Ajouter</i> pour ajouter les différents paramètres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
 <p><img src="../img/AIDE_CONFIG_INFO_3.png" alt="Aide 3" /></p>
 
 <hr />

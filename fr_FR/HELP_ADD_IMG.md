@@ -8,7 +8,7 @@ description: explication Ajout image
 Il est possible d'ajouter des images dans un widget <i>Celle-ci ne sera pas effacer à la mise à jour du widget</i>
 <blockquote>
     <ul>
-        <li>Il faut ce rendre dans le plugin Widget et sélectionner le widget voulu et cliquer sur <i><b>Fichiers</b></i></li>
+        <li>Il faut se rendre dans le plugin Widget et sélectionner le widget voulu et cliquer sur <i><b>Fichiers</b></i></li>
     </ul>
 </blockquote>
 <p><img src="../img/AIDE_ADD_IMG_1.png" alt="IMG 1" /></p>

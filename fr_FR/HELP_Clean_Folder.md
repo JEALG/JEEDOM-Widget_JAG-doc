@@ -5,18 +5,18 @@ description: Nettoyage des dossiers
 ---
 [back](./)
 # Nettoyage des dossiers
-# Rappel
+## Rappel
 <blockquote>
 Avant d'effectuer cette manipulation, il est conseillé de faire une sauvegarde de la Jeedom
-Tous mes widgets necessitent d'avoir le widget <b><i>dashboard Multi-action</i></b> pour avoir les images.
+Tous mes widgets nécessitent d'avoir le widget <b><i>dashboard Multi-action</i></b> pour avoir les images.
 Je vous propose de faire un nettoyage des dossiers
 
 </blockquote>
 
-# Plugin nécessaire
+## Plugin nécessaire
 <blockquote>
 Il faut installer le plugin Jeexplorer
-    Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présent dans le répertoire racine de Jeedom.
+    Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présents dans le répertoire racine de Jeedom.
     Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
 </blockquote>
 <ul>
@@ -27,7 +27,7 @@ Il faut installer le plugin Jeexplorer
 # Opération préalable
 <blockquote>
     <ul>
-        <li>Faire une sauvegade de la jeedom</li>
+        <li>Faire une sauvegarde de la Jeedom</li>
         <li>Vérifier que vous avez les dernières versions des widgets</li>
     </ul>
 </blockquote>
@@ -67,6 +67,10 @@ Il faut installer le plugin Jeexplorer
         </blockquote>
     </ul>
 </ul>
+
+<hr />
+# Changelog
+<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
 [back](./)
