@@ -17,7 +17,7 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
 <blockquote>
     <ul>
         <li><b>logoTime</b><i>(Pas de valeur par défaut)</i></li>
-        <dd><b>logoTime = <i>duree</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
+        <dd><b>logoTime = <i>duree</i> ou <i>durée</i></b> : affiche la durée depuis le dernier allumage/extinction.<br/>
             <b>logoTime = <i>heure</i></b> : affiche l'heure de dernier allumage extinction.<br/>
             <b>logoTime = <i>date</i></b> : affiche la date et l'heure de dernier allumage/extinction.
         </dd>

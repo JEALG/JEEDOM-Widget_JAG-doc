@@ -7,7 +7,7 @@ description: explication widget Store-VELUX (numérique)
 # Widget "Store-VELUX (numérique)"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="../img/RESULTAT_JEEDOM_Store_Velux_num.png" alt="Resultat" /></p>
+<p><img src="../img/exemple/d/store_velux.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>
@@ -60,7 +60,7 @@ Il est possible de personnaliser les niveaux :
         <li><b>level_10</b> : Niveau 10 <i>(valeur par défaut : 100)</i></li>
     </ul>
 </blockquote>
- 
+
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
@@ -96,7 +96,7 @@ Les images en fonction des niveaux
         <li><b>Niveau > level_7 et Niveau ≤ Level_8</b> : Store-70</li>
         <li><b>Niveau > level_8 et Niveau ≤ Level_9</b> : Store-80</li>
         <li><b>Niveau > level_9 et Niveau ≤ Level_10</b> : Store-99</li>
-    </ul>  
+    </ul>
     <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </blockquote>
 

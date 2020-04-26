@@ -37,7 +37,8 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Biroute - vent** |<img src="../img/exemple/d/biroute.png" alt="Exemple Biroute Vent" /> | <a href="./WIDGET_d_biroute.html">Lien</a>
 **Point de rosée** |<img src="../img/exemple/d/rosee.png" alt="Exemple Point de rosée" /> | <a href="./WIDGET_d_rosee.html">Lien</a>
 **Tendance-Baro** |<img src="../img/exemple/d/tendance.png" alt="Exemple Tendance-Baro" /> | <a href="./WIDGET_d_tendance.html">Lien</a>
-
+**Fenêtre (numérique)** |<img src="../img/exemple/d/fenetre.png" alt="Exemple Fenêtre (numérique)" /> | <a href="./WIDGET_d_fenetre.html">Lien</a>
+**Store-VELUX (numérique)** |<img src="../img/exemple/d/store_velux.png" alt="Exemple Store-VELUX (numérique)" /> | <a href="./WIDGET_d_Store_Velux_num.html">Lien</a>
 
 ## Mobile
 
@@ -49,19 +50,12 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Multi info - Binaire** |<img src="../img/exemple/m/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_m_Multi_info_Binaire.html">Lien</a>
 **Humidite-Goutte_eau** |<img src="../img/exemple/m/humidite_goutte_eau.png" alt="Exemple Humidite-Goutte_eau" /> | <a href="./WIDGET_m_Humidite_Goutte_eau.html">Lien</a>
 **Luminosité-IMG-Mini** |<img src="../img/exemple/m/lumi.png" alt="Exemple Luminosité-IMG-Mini" /> | <a href="./WIDGET_m_Lum_IMG_mini.html">Lien</a>
-
-
-
+**Fenêtre (numérique)** |<img src="../img/exemple/m/fenetre.png" alt="Exemple Fenêtre (numérique)" /> | <a href="./WIDGET_m_fenetre.html">Lien</a>
 
 
 
 
 ## Ancien classement
-### Ouverture
-* <a href="./JEEDOM_Fenetre.html">Widget Dashboard : <b>Fenêtre (numérique)</b></a>
-* <a href="./JEEDOM_Fenetre_MOBILE.html">Widget Mobile: <b>Fenêtre (mobile) (numérique)</b></a>
-* <a href="./JEEDOM_Store_Velux_num.html">Widget Dashboard : <b>Store-VELUX (numérique)</b></a>
-
 ### Température
 * <a href="./JEEDOM_Thermometre.html">Widget Dashboard : <b>Temperature thermometre</b></a>
 * <a href="./JEEDOM_Thermometre_MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a>
@@ -72,7 +66,7 @@ Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
 >* <a href="HELP_Error.html">Paramétrage image Erreur</a>
 >* <a href="HELP_STATS.html">Afficher les statistiques</a>
 >* <a href="HELP_STATS_TEMPS.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a>
->* <a href="HELP_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique)</a>
+>* <a href="HELP_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
 >* <a href="HELP_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
 >* <a href="HELP_SIZE.html">Aide pour changer la taille du texte pour des widgets de type info (uniquement pour le Core V3)</a>
 >* <a href="HELP_PARA.html">Ajouter les paramètres sur un widget</a>
