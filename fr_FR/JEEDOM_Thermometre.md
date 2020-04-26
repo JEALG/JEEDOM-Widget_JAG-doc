@@ -17,30 +17,30 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 # Paramétrage
 ## Affichage de l'historique ou min max sur la gauche
 <blockquote>
-        <ul>
-            <li><b>min_max</b> : Affiche par défaut le min et max configurer dans l'équipement <i>(valeur par défaut : X)</i></li>
-            <p><img src="../img/JEEDOM_Thermometre_MIN_MAX.png" alt="INFO" /></p>
-            <li><b>min_max</b> : utilise le maxi et le mini de l'historique, <i>la variable doit ête vide</i></li>
-        </ul>
+    <ul>
+        <li><b>min_max</b> : Affiche par défaut le min et max configurer dans l'équipement <i>(valeur par défaut : X)</i></li>
+        <p><img src="../img/JEEDOM_Thermometre_MIN_MAX.png" alt="INFO" /></p>
+        <li><b>min_max</b> : utilise le maxi et le mini de l'historique, <i>la variable doit ête vide</i></li>
+    </ul>
 </blockquote>
 
 ## Taille du texte
 <blockquote>
-        <ul>
-            Il est possible sur ce widget de modifier la taille du texte, cette fonction ne fonctionne qu'avec le Core V3
-            <a href="HELP_SIZE.html">Changer la Taille du texte de l'historique</a>
-        </ul>
+    <ul>
+        Il est possible sur ce widget de modifier la taille du texte, cette fonction ne fonctionne qu'avec le Core V3
+        <a href="HELP_SIZE.html">Changer la Taille du texte de l'historique</a>
+    </ul>
 </blockquote>
 
 
 ## Autres paramétrages possible et Aide
 <blockquote>
-        <ul>
-            <li><a href="HELP_CONFIG_INFOS.md">Aide ajout des paramétres pour un widget Info</a></li>
-            <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
-            <li><a href="HELP_PARA.html">Ajouter les paramètres sur un widget</a></li>
-        </ul>
+    <ul>
+        <li><a href="HELP_CONFIG_INFOS.md">Aide ajout des paramétres pour un widget Info</a></li>
+        <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
+        <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
+        <li><a href="HELP_PARA.html">Ajouter les paramètres sur un widget</a></li>
+    </ul>
 </blockquote>
 
 <hr />
