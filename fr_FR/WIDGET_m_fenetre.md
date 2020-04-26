@@ -8,9 +8,7 @@ description: explication widget Fenêtre (numérique)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="../img/exemple/m/fenetre.png" alt="Resultat" /></p>
-<blockquote>
-Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
-</blockquote>
+
 <p><img src="../img/VISUEL_JEEDOM_Fenetre.png" alt="Visuels" /></p>
 
 # A savoir
@@ -28,6 +26,8 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>x</b> : Remplacer <b>x</b> par le numéro de la valeur correspondante (valeur possible de 0 à 8)</li>
     </ul>
 </blockquote>
+
+Les valeurs pour la variable <b>logo_x</b>par défaut sont :
 <blockquote>
     <ul>
         <li><b>logo_<b>0</b></b> : <i>valeur par défaut : ou_baie2_wh_db_off</i></li>
@@ -41,7 +41,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>logo_<b>8</b></b> : <i>valeur par défaut : ou_baie2_wh_db_on</i></li>
     </ul>
 </blockquote>
-            
+
 ## Choix de la valeur
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
@@ -51,6 +51,8 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>x</b> : Remplacer <b>x</b> par le numéro de la valeur correspondante (valeur possible de 0 à 5)</li>
     </ul>
 </blockquote>
+
+Les valeurs pour la variable <b>valeur_x</b>par défaut sont :
 <blockquote>
     <ul>
         <li><b>valeur_<b>0</b></b> : <i>valeur par défaut : 0</i></li>
@@ -63,7 +65,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>valeur_<b>7</b></b> : <i>valeur par défaut : 7</i></li>
         <li><b>valeur_<b>8</b></b> : <i>valeur par défaut : 8</i></li>
     </ul>
-</blockquote>      
+</blockquote>
 
 
 ## Taille des images ou des icônes
@@ -85,7 +87,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
         </ul>
 </blockquote>
 
-# >Exemples de paramétrage
+# Exemples de paramétrage
 <li><a href="HELP_PARA_FENETRES.html">Exemple de paramétrages</a></li>
 
 <hr />
@@ -95,7 +97,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
  <li><a href="https://github.com/JEALG/JEEDOM-Fenetre--mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
  <li><a href="https://github.com/JEALG/JEEDOM-Fenetre--mobile/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
- 
+
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Fenetre--mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Fenetre--mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>

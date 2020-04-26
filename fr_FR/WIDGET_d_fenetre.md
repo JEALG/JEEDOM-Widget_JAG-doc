@@ -8,9 +8,7 @@ description: explication widget Fenêtre (numérique)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="../img/exemple/d/fenetre.png" alt="Resultat" /></p>
-<blockquote>
-Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
-</blockquote>
+
 <p><img src="../img/VISUEL_JEEDOM_Fenetre.png" alt="Visuels" /></p>
 
 # A savoir
@@ -29,8 +27,9 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
     </ul>
 </blockquote>
 
-<blockquote>
+
 Les valeurs pour la variable <b>logo_x</b>par défaut sont :
+<blockquote>
     <ul>
         <li><b>logo_<b>0</b></b> : <i>valeur par défaut : ou_baie2_wh_db_off</i></li>
         <li><b>logo_<b>1</b></b> : <i>valeur par défaut : ou_baie2_wh_lf_on</i></li>
@@ -52,8 +51,9 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>x</b> : Remplacer <b>x</b> par le numéro de la valeur correspondante (valeur possible de 0 à 5)</li>
     </ul>
 </blockquote>
+
+Les valeurs pour la variable <b>valeur_x</b>par défaut sont :
 <blockquote>
-     Les valeurs pour la variable <b>valeur_x</b>par défaut sont :
     <ul>
         <li><b>valeur_<b>0</b></b> : <i>valeur par défaut : 0</i></li>
         <li><b>valeur_<b>1</b></b> : <i>valeur par défaut : 1</i></li>
@@ -92,7 +92,6 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 ### Ajout d'image
-<hr />
 <blockquote>
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images n'est pas normalisé sur ce widget
@@ -104,7 +103,7 @@ Le nommage des images n'est pas normalisé sur ce widget
 # Exemples de paramétrage
 <li><a href="HELP_PARA_FENETRES.html">Exemple de paramétrages</a></li>
 
-<hr />
+
 # Télécharger les sources
 ><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
 <br/>
@@ -112,6 +111,7 @@ Le nommage des images n'est pas normalisé sur ce widget
 <li><a href="https://github.com/JEALG/JEEDOM-Fenetre/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Fenetre/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
 
+<hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Fenetre/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Fenetre/commits/master">Changelog WIDGET pour le Core V3</a><br/>
