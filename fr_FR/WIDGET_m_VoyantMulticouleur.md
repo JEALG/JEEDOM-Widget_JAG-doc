@@ -69,9 +69,8 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
 </blockquote>
 
 ## Choix de l'extension
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
-Il est possible de récupérer le même réglage que le dashboard
-
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :<br/>
+Il est possible de récupérer le même réglage que le dashboard<br/>
 Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
 <blockquote>
     <ul>
@@ -98,11 +97,11 @@ Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO
     </ul>
 </blockquote>
 
-<hr />
 # Télécharger les sources
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/master">Télécharger les sources pour la V3</a></li>
 
+<hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
