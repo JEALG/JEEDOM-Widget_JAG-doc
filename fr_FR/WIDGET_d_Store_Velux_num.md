@@ -72,17 +72,18 @@ Il est possible de personnaliser les niveaux :
     </ul>
 </blockquote>
 
-<hr />
 ### Ajout d'image
-<hr />
-<blockquote>
+
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images est normalisé et doit respecter le format suivant :
+<blockquote>
     <ul>
         <li><b>Image</b> : type-x</li>
         <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
         <li><i>Remplacer <b>x</b> par le niveau (Valeur possible : 0, 1, 10, 20, 30, 40, 50, 60, 70, 80, 99)</i></li>
     </ul>
+</blockquote>
+<blockquote>
 Les images en fonction des niveaux
     <ul>
         <li><b>Niveau = level_0</b> : Store-0</li>
@@ -97,17 +98,19 @@ Les images en fonction des niveaux
         <li><b>Niveau > level_8 et Niveau ≤ Level_9</b> : Store-80</li>
         <li><b>Niveau > level_9 et Niveau ≤ Level_10</b> : Store-99</li>
     </ul>
+</blockquote>
+<blockquote>
     <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
 </blockquote>
 
-<hr />
+
 # Télécharger les sources
 ><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
-
+<hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/master">Changelog WIDGET pour le Core V3</a><br/>
