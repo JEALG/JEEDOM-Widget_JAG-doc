@@ -35,6 +35,9 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Luminosité-IMG-Mini** |<img src="../img/exemple/d/lumi.png" alt="Exemple Luminosité-IMG-Mini" /> | <a href="./WIDGET_d_Lum_IMG_mini.html">Lien</a>
 **Baromètre** |<img src="../img/exemple/d/baro.png" alt="Exemple Baromètre" /> | <a href="./WIDGET_d_baro.html">Lien</a>
 **Biroute - vent** |<img src="../img/exemple/d/biroute.png" alt="Exemple Biroute Vent" /> | <a href="./WIDGET_d_biroute.html">Lien</a>
+**Point de rosée** |<img src="../img/exemple/d/rosee.png" alt="Exemple Point de rosée" /> | <a href="./WIDGET_d_rosee.html">Lien</a>
+**Tendance-Baro** |<img src="../img/exemple/d/tendance.png" alt="Exemple Tendance-Baro" /> | <a href="./WIDGET_d_tendance.html">Lien</a>
+
 
 ## Mobile
 
@@ -54,11 +57,6 @@ Nom du Widget | Exemple | Docs/Téléchargement
 
 
 ## Ancien classement
-
-### Météo
-* <a href="./JEEDOM_Point_rosee.html">Widget Dashboard : <b>Point de rosée</b></a>
-* <a href="./JEEDOM_Tendance_Baro.html">Widget Dashboard : <b>Tendance-Baro</b></a>
-
 ### Ouverture
 * <a href="./JEEDOM_Fenetre.html">Widget Dashboard : <b>Fenêtre (numérique)</b></a>
 * <a href="./JEEDOM_Fenetre_MOBILE.html">Widget Mobile: <b>Fenêtre (mobile) (numérique)</b></a>

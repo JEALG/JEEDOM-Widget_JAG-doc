@@ -7,7 +7,7 @@ description: explication widget Point de rosée
 # Widget "Point de rosée"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="../img/RESULTAT_JEEDOM_Point_rosee.png" alt="Resultat" /></p>
+<p><img src="../img/exemple/d/rosee.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>
@@ -26,17 +26,15 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 ## Position Légende
 Il est possible de déplacer la légende
-<blockquote>
-    <ul>
-        <li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li>
-        <p><img src="../img/RESULTAT_JEEDOM_Point_rosee.png" alt="Resultat" /></p>
-        <li><b>leg_pos</b> = left</li>
-        <p><img src="../img/RESULTAT_JEEDOM_Point_rosee_left.png" alt="Resultat" /></p>
-        <li><b>leg_pos</b> = low</li>
-        <p><img src="../img/RESULTAT_JEEDOM_Point_rosee_low.png" alt="Resultat" /></p>
-    </ul>
-</blockquote>
- 
+<ul>
+    > <li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li>
+    <p><img src="../img/exemple/d/rosee.png" alt="Resultat" /></p>
+    > <li><b>leg_pos</b> = left</li>
+    <p><img src="../img/exemple/d/rosee_le.png" alt="Resultat" /></p>
+    > <li><b>leg_pos</b> = low</li>
+    <p><img src="../img/exemple/d/rosee_l.png" alt="Resultat" /></p>
+</ul>
+
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
@@ -59,6 +57,6 @@ Il est possible de déplacer la légende
 <a href="https://github.com/JEALG/JEEDOM-Point-rosee/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Point-rosee/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-    
+
 <hr />
 [back](./)
