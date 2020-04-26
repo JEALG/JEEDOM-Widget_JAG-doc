@@ -53,30 +53,16 @@ Il est possible de modifier les niveaux
 </blockquote>
 ## Position Légende
 Il est possible de déplacer la légende
-<blockquote>
-    <ul>
-        <li><b>leg_pos</b> = low <i>(valeur par défaut)</i></li>
-        <p><img src="../img/exemple/d/lumi.png" alt="Resultat - Bas" /></p>
-    </ul>
-</blockquote>
-<blockquote>
-    <ul>
-        <li><b>leg_pos</b> = right <i></i></li>
-        <p><img src="../img/exemple/d/lumi_r.png" alt="Resultat - Droite" /></p>
-    </ul>
-</blockquote>
-<blockquote>
-    <ul>
-        <li><b>leg_pos</b> = left</li>
-        <p><img src="../img/exemple/d/lumi_l.png" alt="Resultat - Gauche" /></p>
-        </ul>
-</blockquote>
-<blockquote>
-    <ul>
-        <li><b>leg_pos</b> = top</li>
-        <p><img src="../img/exemple/d/lumi_t.png" alt="Resultat - Haut" /></p>
-    </ul>
-</blockquote>
+<ul>
+    > <li><b>leg_pos</b> = low <i>(valeur par défaut)</i></li>
+    <p><img src="../img/exemple/d/lumi.png" alt="Resultat - Bas" /></p>
+    > <li><b>leg_pos</b> = right <i></i></li>
+    <p><img src="../img/exemple/d/lumi_r.png" alt="Resultat - Droite" /></p>
+    > <li><b>leg_pos</b> = left</li>
+    <p><img src="../img/exemple/d/lumi_l.png" alt="Resultat - Gauche" /></p>
+    > <li><b>leg_pos</b> = top</li>
+    <p><img src="../img/exemple/d/lumi_t.png" alt="Resultat - Haut" /></p>
+</ul>
 
 ## Autres paramétrages possible et Aide
 <blockquote>

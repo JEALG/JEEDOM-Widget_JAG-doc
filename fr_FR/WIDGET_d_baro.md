@@ -34,16 +34,15 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 ## Position Légende
 Il est possible de déplacer la légende
-<blockquote>
-    <ul>
-        <li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li>
-        <p><img src="../img/exemple/d/baro.png" alt="Resultat - Droite" /></p>
-        <li><b>leg_pos</b> = left</li>
-        <p><img src="../img/exemple/d/baro_le.png" alt="Resultat - Gauche" /></p>
-        <li><b>leg_pos</b> = bottom</li>
-        <p><img src="../img/exemple/d/baro_l.png" alt="Resultat - Bas" /></p>
-    </ul>
-</blockquote>
+<ul>
+    > <li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li>
+    <p><img src="../img/exemple/d/baro.png" alt="Resultat - Droite" /></p>
+    > <li><b>leg_pos</b> = left</li>
+    <p><img src="../img/exemple/d/baro_le.png" alt="Resultat - Gauche" /></p>
+    > <li><b>leg_pos</b> = bottom</li>
+    <p><img src="../img/exemple/d/baro_l.png" alt="Resultat - Bas" /></p>
+</ul>
+
 
 ## Autres paramétrages possible et Aide
 <blockquote>
