@@ -24,10 +24,10 @@ Il faut installer le plugin Jeexplorer
     <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>
 </ul>
 
-# Opération préalable
+## Opération préalable
 <blockquote>
     <ul>
-        <li>Faire une sauvegarde de la Jeedom</li>
+        <li>Faire une sauvegarde de Jeedom</li>
         <li>Vérifier que vous avez les dernières versions des widgets</li>
     </ul>
 </blockquote>

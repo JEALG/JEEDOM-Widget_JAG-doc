@@ -86,8 +86,10 @@ Le nommage des images n'est pas normalisé sur ce widget$
 </blockquote>
 
 # Télécharger les sources
-<li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/masterv4">Télécharger les sources pour la V4</a></li>
-<li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/master">Télécharger les sources pour la V3</a></li>
+><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a></li>
+<br/>
+<li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
 
 <hr />
 # Changelog

@@ -81,8 +81,10 @@ Le nommage des images est normalisé et doit respecter le format suivant :
 </blockquote>
 
 # Télécharger les sources
-<li><a href="https://github.com/JEALG/JEEDOM-Store-banne/tree/masterv4">Télécharger les sources pour la V4</a></li>
-<li><a href="https://github.com/JEALG/JEEDOM-Store-banne/tree/master">Télécharger les sources pour la V3</a></li>
+><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a></li>
+<br/>
+<li><a href="https://github.com/JEALG/JEEDOM-Store-banne/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Store-banne/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
 
 <hr />
 # Changelog

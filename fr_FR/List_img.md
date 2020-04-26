@@ -23,46 +23,46 @@ Liste des images par dossiers
 
 ## chauffage
 <img src="../img/VISUEL_JEEDOM_Chauffage.png" alt="Visuels" />
-        
+
 ## courriers
 <img src="../img/VISUEL_JEEDOM_Courriers.png" alt="Visuels" />
-        
+
 ## divers
 <img src="../img/VISUEL_JEEDOM_Divers.png" alt="Visuels" />
-        
+
 ## eau
 <img src="../img/VISUEL_JEEDOM_Eau.png" alt="Visuels" />
-        
+
 ## error
 <img src="../img/VISUEL_JEEDOM_Error.png" alt="Visuels" />
-        
+
 ## fenetre
 <img src="../img/VISUEL_JEEDOM_Fenetre.png" alt="Visuels" />
-        
+
 ## fibarooeil
 <img src="../img/VISUEL_JEEDOM_Oeil.png" alt="Visuels" />
-        
+
 ## humidite
 <img src="../img/VISUEL_JEEDOM_Humidite.png" alt="Visuels" />
-        
+
 ## lampe
 <img src="../img/VISUEL_JEEDOM_Lampe.png" alt="Visuels" />
-        
+
 ## poubelles
 <img src="../img/VISUEL_JEEDOM_Poubelles.png" alt="Visuels" />
-        
+
 ## presence
 <img src="../img/VISUEL_JEEDOM_Presence.png" alt="Visuels" />
-        
+
 ## prise
 <img src="../img/VISUEL_JEEDOM_Prise.png" alt="Visuels" />
-        
+
 ## season
 <img src="../img/VISUEL_JEEDOM_Saison.png" alt="Visuels" />
-        
+
 ## signal
 <img src="../img/VISUEL_JEEDOM_Signal.png" alt="Visuels" />
-        
+
 ## store
 <img src="../img/VISUEL_JEEDOM_Store.png" alt="Visuels" />
 
@@ -80,6 +80,8 @@ Liste des images par dossiers
 
 <hr />
 # Télécharger les sources
+><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a></li>
+<br/>
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/tree/masterv4">Télécharger les sources du Widget Multi-action pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/tree/master">Télécharger les sources du Widget Multi-action pour le Core V3</a></li>
 

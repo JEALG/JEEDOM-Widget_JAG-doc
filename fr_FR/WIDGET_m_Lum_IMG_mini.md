@@ -48,8 +48,10 @@ Il est possible de modifier les niveaux
 </blockquote>
 
 # Télécharger les sources
-<li><a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini--mobile/tree/masterv4">Télécharger les sources pour la V4</a></li>
-<li><a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini--mobile/tree/master">Télécharger les sources pour la V3</a></li>
+><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a></li>
+<br/>
+<li><a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini--mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini--mobile/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
 
 <hr />
 # Changelog
