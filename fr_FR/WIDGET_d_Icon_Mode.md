@@ -3,9 +3,6 @@
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
 <p><img src="../img/exemple/d/icone_mode.png" alt="Resultat" /></p>
-<blockquote>
-Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icônes.
-</blockquote>
 
 # Info
 ## Merci

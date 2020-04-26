@@ -73,12 +73,12 @@ Le nommage des images est normalisé et doit respecter le format suivant :
     </ul>
 </blockquote>
 
-<hr />
-# Télécharger les sources
 
+# Télécharger les sources
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/tree/master">Télécharger les sources pour la V3</a></li>
 
+<hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/masterv4">Changelog WIDGET Pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/commits/master">Changelog WIDGET pour le Core V3</a><br/>

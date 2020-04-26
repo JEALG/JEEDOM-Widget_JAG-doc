@@ -5,11 +5,7 @@ description: Explication widget Multi-action--mobile
 ---
 [back](./)
 # Widget "Multi-action (mobile)"
-
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
-<blockquote>
-    Ce widget regroupe l'ensemble des différentes images de mes widgets
-</blockquote>
 
 <p><img src="../img/exemple/m/multi_action.png" alt="Resultat" /></p>
 <blockquote>
@@ -17,8 +13,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 </blockquote>
 
 # A savoir
-
-> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a><br/>
 > <b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_m_Multiaction">Archive Widget Multi action</a>
 
 
