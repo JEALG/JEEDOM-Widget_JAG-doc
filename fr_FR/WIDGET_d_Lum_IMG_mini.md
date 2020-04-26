@@ -54,13 +54,13 @@ Il est possible de modifier les niveaux
 ## Position Légende
 Il est possible de déplacer la légende
 <ul>
-    > <li><b>leg_pos</b> = low <i>(valeur par défaut)</i></li>
+    <blockquote><li><b>leg_pos</b> = low <i>(valeur par défaut)</i></li></blockquote>
     <p><img src="../img/exemple/d/lumi.png" alt="Resultat - Bas" /></p>
-    > <li><b>leg_pos</b> = right <i></i></li>
+    <blockquote><li><b>leg_pos</b> = right <i></i></li></blockquote>
     <p><img src="../img/exemple/d/lumi_r.png" alt="Resultat - Droite" /></p>
-    > <li><b>leg_pos</b> = left</li>
+    <blockquote><li><b>leg_pos</b> = left</li></blockquote>
     <p><img src="../img/exemple/d/lumi_l.png" alt="Resultat - Gauche" /></p>
-    > <li><b>leg_pos</b> = top</li>
+    <blockquote><li><b>leg_pos</b> = top</li></blockquote>
     <p><img src="../img/exemple/d/lumi_t.png" alt="Resultat - Haut" /></p>
 </ul>
 
