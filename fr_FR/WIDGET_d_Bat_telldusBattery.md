@@ -8,7 +8,6 @@ description: explication widget Batterie-telldusBattery
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="../img/exemple/d/bat_telldusbatter.png" alt="Resultat" /></p>
-<blockquote>
 
 # A savoir
 <blockquote>
@@ -60,10 +59,9 @@ Il est possible de personnaliser les niveaux :
 
 
 ### Ajout d'image
-
-<blockquote>
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images est normalisé et doit respecter le format suivant :
+<blockquote>
     <ul>
         <li><b>Image pour la valeur pour le niveau</b> : battery_Niveau</li>
         <li><i>Remplacer <b>Niveau</b> par la valeur 0 ou 20 ou 40 ou 60 ou 80 ou 100</i></li>
@@ -73,11 +71,12 @@ Le nommage des images est normalisé et doit respecter le format suivant :
     </ul>
 </blockquote>
 
-<hr />
+
 # Télécharger les sources
 <li><a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/tree/master">Télécharger les sources pour la V3</a></li>
 
+<hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/commits/master">Changelog WIDGET pour le Core V3</a><br/>

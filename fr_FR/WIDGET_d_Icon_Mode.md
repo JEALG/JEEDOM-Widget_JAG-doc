@@ -112,6 +112,7 @@ Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.P
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/master">Télécharger les sources pour la V3</a></li>
 
+<hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET pour le Core V3</a><br/>

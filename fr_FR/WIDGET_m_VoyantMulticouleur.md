@@ -22,8 +22,7 @@ Les visu à utiliser sont :
 # Paramétrage
 ## Choix de la couleur
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
-Il est possible de récupérer le même réglage que le dashboard
-
+Il est possible de récupérer le même réglage que le dashboard <br/>
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
 <blockquote>
     <ul>

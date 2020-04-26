@@ -67,10 +67,9 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
 
 
 ### Ajout d'image
-
+Il est possible d'inclure d'autres icônes dans le widget.<br/>
+Le nommage des images est normalisé et doit respecter le format suivant :
 <blockquote>
-        Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images est normalisé et doit respecter le format suivant :
     <ul>
         <li><b>Image</b> : typex</li>
         <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>

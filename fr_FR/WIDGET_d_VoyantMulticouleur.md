@@ -58,12 +58,11 @@ Pour choisir le type d'extension de l'image
     </ul>
 </blockquote>
 
-<hr />
+
 ### Ajout d'image
-<hr />
+Il est possible d'inclure d'autres icônes dans le widget.<br/>
+Le nommage des images est normalisé et doit respecter le format suivant :
 <blockquote>
-        Il est possible d'inclure d'autres icônes dans le widget.<br/>
-        Le nommage des images est normalisé et doit respecter le format suivant :
     <ul>
         <li><b>Image pour la valeur pour le niveau</b> : FORME_COULEUR</li>
         <li><i>Remplacer <b>FORME</b> par la valeur rond ou carre ou Autres</i></li>

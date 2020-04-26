@@ -62,10 +62,9 @@ Il est possible de personnaliser les niveaux :
 
 
 ### Ajout d'image
-
-<blockquote>
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images est normalisé et doit respecter le format suivant :
+<blockquote>
     <ul>
         <li><b>Image pour la valeur pour le niveau</b> : battery_Niveau</li>
         <li><b>Image pour la valeur pour l'étiquette</b> : bottom_Niveau</li>
@@ -76,11 +75,12 @@ Le nommage des images est normalisé et doit respecter le format suivant :
     </ul> 
 </blockquote>
 
-<hr />
+
 # Télécharger les sources
 <li><a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/tree/master">Télécharger les sources pour la V3</a></li>
 
+<hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Batterie-EeDomus/commits/master">Changelog WIDGET pour le Core V3</a><br/>

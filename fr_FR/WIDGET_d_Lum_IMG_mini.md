@@ -88,11 +88,11 @@ Il est possible de déplacer la légende
     </ul>
 </blockquote>
 
-<hr />
 # Télécharger les sources
 <li><a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini/tree/master">Télécharger les sources pour la V3</a></li>
 
+<hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini/commits/master">Changelog WIDGET pour le Core V3</a><br/>

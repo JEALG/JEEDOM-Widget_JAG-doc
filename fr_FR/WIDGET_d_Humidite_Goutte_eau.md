@@ -24,11 +24,11 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
     </ul>
 </blockquote>
 
-<hr />
 # Télécharger les sources
 <li><a href="https://github.com/JEALG/JEEDOM-Humidite-Goutte_eau/tree/masterv4">Télécharger les sources pour la V4</a></li>
-li><a href="https://github.com/JEALG/JEEDOM-Humidite-Goutte_eau/tree/master">Télécharger les sources pour la V3</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Humidite-Goutte_eau/tree/master">Télécharger les sources pour la V3</a></li>
 
+<hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Humidite-Goutte_eau/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Humidite-Goutte_eau/commits/master">Changelog WIDGET pour le Core V3</a><br/>
