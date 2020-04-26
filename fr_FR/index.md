@@ -33,6 +33,8 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Batterie - telldusBatter** |<img src="../img/exemple/d/bat_telldusbatter.png" alt="Exemple Batterie-telldusBatter" /> | <a href="./WIDGET_d_Bat_telldusBattery.html">Lien</a>
 **Humidite-Goutte_eau** |<img src="../img/exemple/d/humidite_goutte_eau.png" alt="Exemple Humidite-Goutte_eau" /> | <a href="./WIDGET_d_Humidite_Goutte_eau.html">Lien</a>
 **Luminosité-IMG-Mini** |<img src="../img/exemple/d/lumi.png" alt="Exemple Luminosité-IMG-Mini" /> | <a href="./WIDGET_d_Lum_IMG_mini.html">Lien</a>
+**Baromètre** |<img src="../img/exemple/d/baro.png" alt="Exemple Baromètre" /> | <a href="./WIDGET_d_baro.html">Lien</a>
+**Biroute - vent** |<img src="../img/exemple/d/biroute.png" alt="Exemple Biroute Vent" /> | <a href="./WIDGET_d_biroute.html">Lien</a>
 
 ## Mobile
 
@@ -54,8 +56,6 @@ Nom du Widget | Exemple | Docs/Téléchargement
 ## Ancien classement
 
 ### Météo
-* <a href="./JEEDOM_Barometre.html">Widget Dashboard : <b>Baromètre</b></a>
-* <a href="./JEEDOM_Biroute_vent.html">Widget Dashboard : <b>Biroute - vent</b></a>
 * <a href="./JEEDOM_Point_rosee.html">Widget Dashboard : <b>Point de rosée</b></a>
 * <a href="./JEEDOM_Tendance_Baro.html">Widget Dashboard : <b>Tendance-Baro</b></a>
 
