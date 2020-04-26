@@ -7,7 +7,7 @@ description: explication widget Temperature thermometre
 # Widget "Temperature thermometre"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
-<p><img src="../img/RESULTAT_JEEDOM_Temperature_thermometre.png" alt="Resultat" /></p>
+<p><img src="../img/exemple/d/temperature.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>

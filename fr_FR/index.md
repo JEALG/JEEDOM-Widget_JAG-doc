@@ -39,6 +39,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Tendance-Baro** |<img src="../img/exemple/d/tendance.png" alt="Exemple Tendance-Baro" /> | <a href="./WIDGET_d_tendance.html">Lien</a>
 **Fenêtre (numérique)** |<img src="../img/exemple/d/fenetre.png" alt="Exemple Fenêtre (numérique)" /> | <a href="./WIDGET_d_fenetre.html">Lien</a>
 **Store-VELUX (numérique)** |<img src="../img/exemple/d/store_velux.png" alt="Exemple Store-VELUX (numérique)" /> | <a href="./WIDGET_d_Store_Velux_num.html">Lien</a>
+**Température Thermomètre** |<img src="../img/exemple/d/temperature.png" alt="Exemple Température Thermomètre" /> | <a href="./WIDGET_d_Thermometre.html">Lien</a>
 
 ## Mobile
 
@@ -51,14 +52,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Humidite-Goutte_eau** |<img src="../img/exemple/m/humidite_goutte_eau.png" alt="Exemple Humidite-Goutte_eau" /> | <a href="./WIDGET_m_Humidite_Goutte_eau.html">Lien</a>
 **Luminosité-IMG-Mini** |<img src="../img/exemple/m/lumi.png" alt="Exemple Luminosité-IMG-Mini" /> | <a href="./WIDGET_m_Lum_IMG_mini.html">Lien</a>
 **Fenêtre (numérique)** |<img src="../img/exemple/m/fenetre.png" alt="Exemple Fenêtre (numérique)" /> | <a href="./WIDGET_m_fenetre.html">Lien</a>
-
-
-
-
-## Ancien classement
-### Température
-* <a href="./JEEDOM_Thermometre.html">Widget Dashboard : <b>Temperature thermometre</b></a>
-* <a href="./JEEDOM_Thermometre_MOBILE.html">Widget Mobile : <b>Temperature thermometre (mobile)</b></a>
+**Température Thermomètre** |<img src="../img/exemple/m/temperature.png" alt="Exemple Température Thermomètre" /> | <a href="./WIDGET_m_Thermometre.html">Lien</a>
 
 # Aide aux paramétrages
 Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
