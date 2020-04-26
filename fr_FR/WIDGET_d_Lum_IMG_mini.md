@@ -74,7 +74,7 @@ Il est possible de déplacer la légende
 <blockquote>
     <ul>
         <li><b>leg_pos</b> = top</li>
-        <p><img src="../img/exemple/t/lumi_lpng" alt="Resultat - Haut" /></p>
+        <p><img src="../img/exemple/d/lumi_t.png" alt="Resultat - Haut" /></p>
     </ul>
 </blockquote>
 
