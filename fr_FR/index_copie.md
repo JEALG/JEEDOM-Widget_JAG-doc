@@ -28,16 +28,11 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
         <th scope="col" width="50">Lien</th>
     </tr>
     <tr>
-        <td><img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" /></td>
-        <td>Voyant Multi-couleur</td>
-        <td >
+        <td width="150"><img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" /></td>
+        <td width="200">Voyant Multi-couleur</td>
+        <td width="50">
             <a href="./WIDGET_d_VoyantMulticouleur.html">Lien Widget Dashboard</a>
         </td>
-    </tr>
-    <tr>
-        <td>Annonce sonore</td>
-        <td>318</td>
-        <td>86,17&nbsp;%</td>
     </tr>
 </table>
 
