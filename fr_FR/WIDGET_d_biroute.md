@@ -47,7 +47,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     </ul>
 </blockquote>
 
-### Ajout d'image
+## Ajout d'image
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images est normalisé et doit respecter le format suivant :
 <blockquote>
