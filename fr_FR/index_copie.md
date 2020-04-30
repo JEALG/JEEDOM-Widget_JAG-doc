@@ -22,16 +22,18 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
 
 ## Dashboard
 <table>
-    <caption>Accessibilité des lignes du réseau de surface RATP</caption>
+    <caption>Les Widgets Dashboard</caption>
 	    <tr>
-	        <th scope="col">Équipements</th>
-	        <th scope="col">Nombre de lignes</th>
-	        <th scope="col">Pourcentage du total de lignes</th>
+	        <th scope="col">Exemple/th>
+	        <th scope="col">Nom</th>
+	        <th scope="col">lien</th>
 	    </tr>
 	    <tr>
-	        <td>Rampe d'accès</td>
-	        <td>260</td>
-	        <td>70,46&nbsp;%</td>
+	        <td><img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" /></td>
+	        <td>Voyant Multi-couleur</td>
+	        <td width="50">
+                <a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a>
+            </td>
 	    </tr>
 	    <tr>
 	        <td>Annonce sonore</td>
@@ -40,7 +42,7 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
 	    </tr>
 	</table>
 
-
+<br/>
 Nom du Widget | Exemple | Docs/Téléchargement
 --- | --- | ---
 **Voyant Multi-couleur** | <img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a> |
