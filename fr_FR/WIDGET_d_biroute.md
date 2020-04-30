@@ -35,7 +35,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li>Le Widget est basé sur la vitesse du vent em km/h, il est possible de tranformer la vitesse de m/s en km/h directement depuis l'équipement</li>
     </ul>
 </blockquote>
-        <p><img src="../img/exemple/d/biroute_1.png" alt="Resultat" /></p>
+<p><img src="../img/exemple/d/biroute_1.png" alt="Resultat" /></p>
 
 
 ## Taille des images ou des icônes
