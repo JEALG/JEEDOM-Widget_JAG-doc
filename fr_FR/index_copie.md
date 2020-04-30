@@ -21,6 +21,24 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
 # Les widgets
 
 ## Dashboard
+
+<CENTER>
+    <TABLE width="60%" border=1>
+        <TR>
+            <TD width="33%">cellule1</TD>
+            <TD width="33%">cel. 2</TD>
+            <TD width="34%">3</TD></TR>
+        <TR>
+            <TD width="33%">cellule1</TD>
+            <TD width="33%">cel. 2</TD>
+            <TD width="34%">3</TD></TR>
+    </TABLE>
+</CENTER>
+
+
+
+
+
 <table width="50%">
     <tr>
         <th scope="col" width="33%">Visu</th>
