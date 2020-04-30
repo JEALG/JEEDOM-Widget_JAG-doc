@@ -20,12 +20,19 @@ Le widget inclus plusieurs icônes. Il est possible d'ajouter ses propres icône
 </blockquote>
 
 # Paramétrage
-## Choix de l'icône</h4>
+## Choix de l'icône
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
     <ul>
         <li><b>logo</b> : Permet de choisir l'image pour la valeur<i>(valeur par défaut : ve_manche2)</i></li>
         <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+    </ul>
+</blockquote>
+<br/>
+<blockquote>
+    <ul>
+        <li><b>Attention</b> : l'image change en fonction de la vitesse du vent, il ne faut pas mettre _xx dans le paramètre logo</li>
+        <li>Si vous utilisez l'image par défaut, il n'est pas necessaire d'ajouter le paramètre <b>logo</b></li>
     </ul>
 </blockquote>
 
@@ -35,6 +42,20 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     <ul>
         <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
         <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
+    </ul>
+</blockquote>
+
+### Ajout d'image
+Il est possible d'inclure d'autres icônes dans le widget.<br/>
+Le nommage des images est normalisé et doit respecter le format suivant :
+<blockquote>
+    <ul>
+        <li><b>Image</b> : type_xx</li>
+        <li><i>Remplacer <b>type</b> par le nom de l'image</i></li>
+        <li><i>Remplacer <b>xx</b> par la vitesse de vent (Valeur possible : 0, 45, 90, over)</i></li>
+    </ul>
+    <ul>
+        <li><a href="HELP_ADD_IMG.html">Ajouter des images dans un widget</a></li>
     </ul>
 </blockquote>
 
