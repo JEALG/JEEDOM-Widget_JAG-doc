@@ -28,11 +28,12 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
     </ul>
 </blockquote>
-<br/>
 <blockquote>
     <ul>
         <li><b>Attention</b> : l'image change en fonction de la vitesse du vent, il ne faut pas mettre _xx dans le paramètre logo</li>
         <li>Si vous utilisez l'image par défaut, il n'est pas necessaire d'ajouter le paramètre <b>logo</b></li>
+        <li>Le Widget est basé sur la vitesse du vent em km/h, il est possible de tranformer la vitesse de m/s en km/h directement depuis l'équipement</li>
+        <p><img src="../img/exemple/d/biroute_1.png" alt="Resultat" /></p>
     </ul>
 </blockquote>
 
