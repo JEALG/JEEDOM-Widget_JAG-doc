@@ -33,9 +33,10 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>Attention</b> : l'image change en fonction de la vitesse du vent, il ne faut pas mettre _xx dans le paramètre logo</li>
         <li>Si vous utilisez l'image par défaut, il n'est pas necessaire d'ajouter le paramètre <b>logo</b></li>
         <li>Le Widget est basé sur la vitesse du vent em km/h, il est possible de tranformer la vitesse de m/s en km/h directement depuis l'équipement</li>
-        <p><img src="../img/exemple/d/biroute_1.png" alt="Resultat" /></p>
     </ul>
 </blockquote>
+        <p><img src="../img/exemple/d/biroute_1.png" alt="Resultat" /></p>
+
 
 ## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
