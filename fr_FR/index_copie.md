@@ -21,10 +21,9 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
 # Les widgets
 
 ## Dashboard
-<table>
-    <caption>Les Widgets Dashboard</caption>
+<table width="400">
     <tr>
-        <th scope="col" width="250">Visu</th>
+        <th scope="col" width="150">Visu</th>
         <th scope="col" width="200">Nom du Widget</th>
         <th scope="col" width="50">Lien</th>
     </tr>
