@@ -23,14 +23,14 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
 ## Dashboard
 <table width="50%">
     <tr>
-        <th scope="col" width=33%>Visu</th>
-        <th scope="col" width=33%>Nom du Widget</th>
-        <th scope="col" width=34%>Lien</th>
+        <th scope="col" width="33%">Visu</th>
+        <th scope="col" width="33%">Nom du Widget</th>
+        <th scope="col" width="34%">Lien</th>
     </tr>
     <tr>
-        <td width=33%><img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" /></td>
-        <td width=33%>Voyant Multi-couleur</td>
-        <td width=34%>
+        <td width="33%"><img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" /></td>
+        <td width="33%">Voyant Multi-couleur</td>
+        <td width="34%">
             <a href="./WIDGET_d_VoyantMulticouleur.html">Lien Widget Dashboard</a>
         </td>
     </tr>
