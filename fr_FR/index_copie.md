@@ -57,7 +57,7 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
 
 ## Dashboard old
 Nom du Widget | Exemple | Docs/Téléchargement
---- | --- | ---
+--- | --- | ------
 **Voyant Multi-couleur** | <img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a> |
 **Store Banne** |<img src="../img/exemple/d/store_banne.png" alt="Exemple Store Banne" /> | <a href="./WIDGET_d_Store_banne.html">Lien</a>
 **Icone_Mode** |<img src="../img/exemple/d/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./WIDGET_d_Icon_Mode.html">Lien</a>
@@ -78,7 +78,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
 ## Mobile
 
 Nom du Widget | Exemple | Docs/Téléchargement
---- | --- | ---
+------ | ----- | ---
 **Voyant Multi-couleur** | <img src="../img/exemple/m/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_m_VoyantMulticouleur.html">Lien</a> |
 **Icone_Mode** |<img src="../img/exemple/m/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./WIDGET_m_Icon_Mode.html">Lien</a>
 **Multi-action** |<img src="../img/exemple/m/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_m_Multi_action_Defaut.html">Lien</a>
