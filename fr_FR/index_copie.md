@@ -34,7 +34,7 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
             <TD width="34%">3</TD></TR>
     </TABLE>
 </CENTER>
-
+<br/>
 
 
 
