@@ -23,7 +23,7 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
 ## Dashboard
 
 <CENTER>
-    <TABLE width="60%" border=1>
+    <TABLE width="60%">
         <TR>
             <TD width="33%">cellule1</TD>
             <TD width="33%">cel. 2</TD>
