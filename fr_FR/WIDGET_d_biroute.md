@@ -25,14 +25,14 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 <blockquote>
     <ul>
         <li><b>logo</b> : Permet de choisir l'image pour la valeur<i>(valeur par défaut : ve_manche2)</i></li>
-        <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
+        <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
     </ul>
 </blockquote>
 <blockquote>
     <ul>
         <li><b>Attention</b> : l'image change en fonction de la vitesse du vent, il ne faut pas mettre _xx dans le paramètre logo</li>
-        <li>Si vous utilisez l'image par défaut, il n'est pas necessaire d'ajouter le paramètre <b>logo</b></li>
-        <li>Le Widget est basé sur la vitesse du vent em km/h, il faut convertir la vitesse du vent de m/s en km/h directement depuis l'équipement. Il faut ajouter <b>#value#*3.6</b> dans le champs <i>Formule de calcul (#value# pour la valeur)</i> Ne pas oublier ensuite de changer l'unité de la vitesse de vent</li>
+        <li>Si vous utilisez l'image par défaut, il n'est pas nécessaire d'ajouter le paramètre <b>logo</b></li>
+        <li>Le Widget est basé sur la vitesse du vent en km/h, il faut donc convertir la vitesse du vent de m/s en km/h. Cela se fait directement depuis l'équipement, Il faut ajouter dans la configuration de l'équipement puis l'onglet configuration la valeur <b>#value#*3.6</b> dans le champs <i>Formule de calcul (#value# pour la valeur)</i> Ne pas oublier ensuite de changer l'unité de la vitesse de vent</li>
     </ul>
 </blockquote>
 <p><img src="../img/exemple/d/biroute_1.png" alt="Resultat" /></p>
