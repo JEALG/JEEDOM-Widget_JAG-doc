@@ -24,14 +24,14 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
 <table>
     <caption>Les Widgets Dashboard</caption>
     <tr>
-        <th scope="col">Visu</th>
+        <th scope="col"width="100">Visu</th>
         <th scope="col">Nom</th>
-        <th scope="col">lien</th>
+        <th scope="col" width="50">lien</th>
     </tr>
     <tr>
         <td><img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" /></td>
         <td>Voyant Multi-couleur</td>
-        <td width="50">
+        <td >
             <a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a>
         </td>
     </tr>
@@ -42,7 +42,8 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
     </tr>
 </table>
 
-<br/>
+
+## Dashboard old
 Nom du Widget | Exemple | Docs/Téléchargement
 --- | --- | ---
 **Voyant Multi-couleur** | <img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a> |
