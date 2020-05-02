@@ -4,6 +4,9 @@ title: JEEDOM-AIDE-CONFIG-INFO
 description: explication Aide pour le paramétrage des widgets de type info (binaire, numérique) et action pour le plugin Alarme
 ---
 [back](./)
+
+EN COURS D'ECRITURE
+
 # Aide pour le paramétrage des widgets de type info (binaire, numérique) et de de type action avec l'utilisation du plugin Alarmw
 
 <p><img src="../img/help/config_alarm_1.png" alt="Aide 1" /></p>
