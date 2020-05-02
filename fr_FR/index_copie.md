@@ -101,7 +101,7 @@ Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
 
 <br/>
 Aide pour le paramétrage de Virtuel
->* <a href="HELP_config_infos.html">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
+>* <a href="HELP_config_info.html">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
 >* <a href="HELP_config_action.html">Aide pour le paramétrage des widgets de type action</a>
 
 # Liste des images

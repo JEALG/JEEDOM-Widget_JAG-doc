@@ -66,7 +66,7 @@ Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
 
 <br/>
 ## Exemple de paramétrage avec un virtuel
->* <a href="HELP_config_infos.html">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
+>* <a href="HELP_config_info.html">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
 >* <a href="HELP_config_action.html">Aide pour le paramétrage des widgets de type action</a>
 
 ## Exemple de paramétrage avec le plugin Alarme

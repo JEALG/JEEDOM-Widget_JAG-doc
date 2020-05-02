@@ -40,7 +40,7 @@ Il est possible de modifier les niveaux
 # Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_config_infos.html">Aide ajout des paramètres pour un widget Info</a></li>
+        <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
         <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
         <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
         <li><a href="HELP_PARA.html">Ajouter les paramètres sur un widget</a></li>

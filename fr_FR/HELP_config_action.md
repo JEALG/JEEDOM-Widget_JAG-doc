@@ -9,7 +9,7 @@ description: explication Aide pour le paramétrage des widgets de type Action
 Une vidéo pour aider les nuls <a href="https://www.youtube.com/watch?v=wiMh8rmfdKU">Virtuel pour les nuls</a>
 
 Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer les infos suivantes :
-<p><img src="../img/AIDE_CONFIG_ACTION_1.png" alt="Aide 1" /></p>
+<p><img src="../img/help/config_alarm_1.png" alt="Aide 1" /></p>
 
 # Paramétrage de l'équipement
 
@@ -25,10 +25,10 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 
 # Choix du widget
 Cliquer sur la roue crantée (voir image ci-dessous)
-<p><img src="../img/AIDE_CONFIG_INFO_4.png" alt="Aide 4" /></p>
+<p><img src="../img/help/config_info_4.png" alt="Aide 4" /></p>
 
 Cliquer sur affichage, sélectionner ensuite le widget voulu
-<p><img src="../img/AIDE_CONFIG_INFO_2.png" alt="Aide 2" /></p>
+<p><img src="../img/help/config_info_2.png" alt="Aide 2" /></p>
 
 ## Exemple de paramétrage
 Voici l'exemple voulu
@@ -36,7 +36,7 @@ Voici l'exemple voulu
 
 ## Ajout des paramètres
 Cliquer sur le bouton <i>Ajouter</i> pour ajouter les différents paramètres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
-<p><img src="../img/AIDE_CONFIG_INFO_3.png" alt="Aide 3" /></p>
+<p><img src="../img/help/config_info_3.png" alt="Aide 3" /></p>
 
 ### Pour la commande <b>Etat</b>
 Vu que cette commande n'est pas affichée, le paramétrage sera laissé en <b>Défaut</b>
@@ -54,7 +54,7 @@ Les paramètres suivants seront mis :
     * dossier : alarme
     * logoTime : duree
 
-<p><img src="../img/AIDE_CONFIG_ACTION_3.png" alt="Aide 3" /></p>
+<p><img src="../img/help/config_action_3.png" alt="Aide 3" /></p>
 
 ### Pour la commande <b>OFF</b>
 Les paramètres suivants seront mis :
@@ -69,7 +69,7 @@ Les paramètres suivants seront mis :
     * dossier : alarme
     * logoTime : duree
 
-<p><img src="../img/AIDE_CONFIG_ACTION_3.png" alt="Aide 3" /></p>
+<p><img src="../img/help/config_action_3.png" alt="Aide 3" /></p>
 
 <hr />
 # Changelog

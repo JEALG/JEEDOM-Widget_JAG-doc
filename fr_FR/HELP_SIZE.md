@@ -29,17 +29,17 @@ description: explication Modification size Texte
 <blockquote>
     <ul>
         <li><b>Taille normale</b></li>
-        <p><img src="../img/AIDE_CONFIG_SIZE_1.png" alt="Size normal" /></p>
+        <p><img src="../img/help/config_size_1.png" alt="Size normal" /></p>
         <li><b>Taille normale</b></li>
-        <p><img src="../img/AIDE_CONFIG_SIZE_2.png" alt="Size" /></p>
-        <p><img src="../img/AIDE_CONFIG_SIZE_3.png" alt="Size réglage" /></p>
+        <p><img src="../img/help/config_size_2.png" alt="Size" /></p>
+        <p><img src="../img/help/config_size_3.png" alt="Size réglage" /></p>
     </ul>
 </blockquote>
 
 # Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_CONFIG_INFO.html">Aide ajout Des paramètres pour un widget Info</a></li>
+        <li><a href="HELP_config_info.html">Aide ajout Des paramètres pour un widget Info</a></li>
         <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
         <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
         <li><a href="HELP_PARA.html">Ajouter les paramètres sur un widget</a></li>

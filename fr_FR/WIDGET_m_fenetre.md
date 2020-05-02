@@ -80,7 +80,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="HELP_config_infos.html">Aide ajout des paramètres pour un widget Info</a></li>
+            <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
             <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
             <li><a href="HELP_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
             <li><a href="HELP_CONFIG_PARA.html">Ajouter les paramètres sur un widget</a></li>
