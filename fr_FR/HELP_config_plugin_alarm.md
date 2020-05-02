@@ -7,15 +7,15 @@ description: explication Aide pour le paramétrage des widgets de type info (bin
 
 # Aide pour le paramétrage des widgets de type info (binaire, numérique) et de de type action avec l'utilisation du plugin Alarme
 Ici l'exemple d'un équipement fait avec le plugin Alarme
-<p><img src="../img/help/config_alarm_1.png" alt="Aide 1" width="500"/></p>
+<p><img src="../img/help/config_alarm_1.png" alt="Aide 1" width="200"/></p>
 
 Pour paramétrer les infos des widgets, il faut sur ce plugin cliquer sur <b><i>Configuration Avancée</i></b>
-<p><img src="../img/help/config_alarm_2.png" alt="Aide 2" width="500"/></p>
+<p><img src="../img/help/config_alarm_2.png" alt="Aide 2" width="700"/></p>
 
 Le paramétrage va se faire en plusieurs étapes
 * <b>En rouge </b>: Le paramétrage des actions
 * <b>En bleu </b>: Le paramétrage des infos
-<p><img src="../img/help/config_alarm_3.png" alt="Aide 3" width="200" /></p>
+<p><img src="../img/help/config_alarm_3.png" alt="Aide 3" width="700" /></p>
 
 # Paramétrage des actions
 
@@ -24,7 +24,7 @@ Le paramétrage va se faire en plusieurs étapes
 <p><img src="../img/help/config_alarm_4.png" alt="Aide 4" /></p>
 
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
-<p><img src="../img/help/config_alarm_5.png" alt="Aide 5" width="500" /></p><br/>
+<p><img src="../img/help/config_alarm_5.png" alt="Aide 5" width="700" /></p><br/>
 
 * Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange)<br/>
 <CENTER>
@@ -57,7 +57,7 @@ Le paramétrage va se faire en plusieurs étapes
 <p><img src="../img/help/config_alarm_6.png" alt="Aide 6" /></p>
 
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
-<p><img src="../img/help/config_alarm_7.png" alt="Aide 7" width="500"/></p><br/>
+<p><img src="../img/help/config_alarm_7.png" alt="Aide 7" width="700"/></p><br/>
 
 * Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange)<br/>
 <CENTER>
