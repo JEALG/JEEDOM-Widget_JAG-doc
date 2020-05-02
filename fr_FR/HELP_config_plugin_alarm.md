@@ -69,6 +69,8 @@ Nom du Widget | Exemple | Docs/Téléchargement
 
 * Répéter la même opération en cliquant sur la roue crantée en face de la commande <b>Désactiver</b>  (flèche en rose)
 
+<p><img src="../img/help/config_alarm_4.png" alt="Aide 4" /></p>
+
 # Paramétrage des infos
 
 * Cliquer sur la roue crantée en face de la commande <b>Immédiat</b>  (flèche en jaune)
@@ -101,6 +103,8 @@ Nom du Widget | Exemple | Docs/Téléchargement
 </CENTER>
 
 * Répéter la même opération en cliquant sur la roue crantée en face de la commande <b>Statut</b>  (flèche en rose)
+
+<p><img src="../img/help/config_alarm_6.png" alt="Aide 6" /></p>
 
 <hr />
 # Changelog
