@@ -63,7 +63,7 @@ Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
 <br/>
 ## Les statistiques
 >* <a href="HELP_stats.html">Afficher les statistiques</a>
->* <a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a>
+>* <a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique) et Multi-action</a>
 
 ## Exemple de paramétrage avec un virtuel
 >* <a href="HELP_config_info.html">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
