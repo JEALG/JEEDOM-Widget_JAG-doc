@@ -22,12 +22,11 @@ Le paramétrage va se faire en plusieurs étapes
 # Paramétrage des actions
 
 <p><img src="../img/help/config_alarm_4.png" alt="Aide 4" /></p>
-* Cliquer sur la roue crantée en face de la commande <b> Fléche en rouge </b>
-* Ensuite dans l'onglet paramétrer les infos suivantes dans l'onglet <b><i>"Affichage"</i></b><br/>
+* Cliquer sur la roue crantée en face de la commande <b>Activer</b>  (flèche en jaune)
+* Ensuite sélectionner l'onglet <b><i>"Affichage"</i></b> (flèche en violet)<br/>
 <p><img src="../img/help/config_alarm_5.png" alt="Aide 4" /></p><br/>
 
-* Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>"Ajouter"</i></b> en premier <br/>
-
+* Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>"Ajouter"</i></b> (flèche en orange)<br/>
 <CENTER>
     <TABLE width="60%">
         <TR>
@@ -49,37 +48,10 @@ Le paramétrage va se faire en plusieurs étapes
     </TABLE>
 </CENTER>
 
+* Répéter la même opération en cliquant sur la roue crantée en face de la commande <b>Désactiver</b>  (flèche en rose)
 
 
 
-* <b>En Rouge</b> : Sous types
-	* Type : info
-	* Sous-Type : Binaire
-
-* <b>En vert</b> : Options
-    * Afficher : Cocher cette case
-    * Historiser : Permet d'historiser l'équipement (En option suivant les besoins)
-
-* <b>En bleue</b> : Options
-    * roue cranté permet de choisir le type de widget et les options
-
-## Exemple de paramétrage
-Voici l'exemple voulu
-<p><img src="../img/exemple/d/multi_binaire.png" alt="Résultat" /></p>
-
-## Les commandes d'action
-voir l'exemple dans la doc <a href="HELP_config_action.html">Aide pour le paramétrage des widgets de type action</a>
-
-# Choix du widget
-Cliquer sur la roue crantée (voir image ci-dessous),
-<p><img src="../img/AIDE_CONFIG_INFO_4.png" alt="Aide 4" /></p>
-
-Cliquer sur affichage, sélectionner ensuite le widget voulu dans la partie bleu (grâce à la liste déroulante)
-<p><img src="../img/AIDE_CONFIG_INFO_2.png" alt="Aide 2" /></p>
-
-# Ajout des paramètres
-Cliquer sur le bouton <i>Ajouter</i> pour ajouter les différents paramètres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
-<p><img src="../img/AIDE_CONFIG_INFO_3.png" alt="Aide 3" /></p>
 
 <hr />
 # Changelog
