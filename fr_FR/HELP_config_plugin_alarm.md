@@ -17,6 +17,25 @@ Le paramétrage va se faire en plusieurs étapes
 * <b>En bleu </b>: Le paramétrage des infos
 <p><img src="../img/help/config_alarm_3.png" alt="Aide 3" width="700" /></p>
 
+# Widget nécessaire
+Pour faire cet affichage vous avez besoin.
+
+Dans chaque widget, vous avez un lien pour télécharger les sources
+
+## Dashboard
+
+Nom du Widget | Exemple | Docs/Téléchargement
+--- | --- | ---
+**Multi-action** |<img src="../img/exemple/d/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_d_Multi_action_Defaut.html">Lien</a>
+**Multi info - Binaire** |<img src="../img/exemple/d/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_d_Multi_info_Binaire.html">Lien</a>
+
+## Mobile
+
+Nom du Widget | Exemple | Docs/Téléchargement
+--- | --- | ---
+**Multi-action** |<img src="../img/exemple/m/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_m_Multi_action_Defaut.html">Lien</a>
+**Multi info - Binaire** |<img src="../img/exemple/m/multi_binaire.png" alt="Exemple Multi info - Binaire" /> | <a href="./WIDGET_m_Multi_info_Binaire.html">Lien</a>
+
 # Paramétrage des actions
 
 * Cliquer sur la roue crantée en face de la commande <b>Activer</b>  (flèche en jaune)
