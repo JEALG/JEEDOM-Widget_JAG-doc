@@ -68,7 +68,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
     </TABLE>
 </CENTER>
 
-* Répéter la même opération en cliquant sur la roue crantée en face de la commande <b>Désactiver</b>  (flèche en rose)
+* Répéter la même opération en cliquant sur la roue crantée en face de la commande <b>Désactiver</b>  (flèche en rose) ou cliquer sur le bouton <b>Appliquer à</b> et sélectionner la commande
 
 <p><img src="../img/help/config_alarm_4.png" alt="Aide 4" /></p>
 
@@ -103,7 +103,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
     </TABLE>
 </CENTER>
 
-* Répéter la même opération en cliquant sur la roue crantée en face de la commande <b>Statut</b>  (flèche en rose)
+* Répéter la même opération en cliquant sur la roue crantée en face de la commande <b>Statut</b>  (flèche en rose) ou cliquer sur le bouton <b>Appliquer à</b> et sélectionner la commande
 
 <p><img src="../img/help/config_alarm_5.png" alt="Aide 5" /></p>
 

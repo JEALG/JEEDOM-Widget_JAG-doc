@@ -78,7 +78,7 @@ Les paramètres suivants seront mis d'abord pour la commande <b>ON</b>
 
 <p><img src="../img/help/config_onglet_affichage_action.png" alt="Onglet Affichage" width="500" /></p><br/>
 
-Répéter la même opération sur la commande <b>OFF</b>
+Répéter la même opération sur la commande <b>OFF</b> ou cliquer sur le bouton <b>Appliquer à</b> et sélectionner la commande
 
 
 <hr />
