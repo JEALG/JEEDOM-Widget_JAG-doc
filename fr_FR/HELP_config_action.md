@@ -41,35 +41,43 @@ Cliquer sur le bouton <i>Ajouter</i> pour ajouter les différents paramètres du
 ### Pour la commande <b>Etat</b>
 Vu que cette commande n'est pas affichée, le paramétrage sera laissé en <b>Défaut</b>
 
-### Pour la commande <b>ON</b>
-Les paramètres suivants seront mis :
+### Pour la commande <b>ON et OFF</b>
+Les paramètres suivants seront mis d'abord pour la commande <b>ON</b>
 
 * <b>Widget</b> : Choix du widget
     * Dashboard : Customtemp/Multi-action-Defaut
     * mobile : Customtemp/Multi-action-Defaut
 
 * <b>Paramètres optionnels widget </b> : les variables ci-dessous seront ajouté en cliquant sur le bouton <i>Ajouter</i>
-	* logoON : al_type1_on
-    * logoOFF : al_type1_off
-    * dossier : alarme
-    * logoTime : duree
+<CENTER>
+    <TABLE width="60%">
+        <TR>
+            <th scope="col" width="50%">Nom</th>
+            <th scope="col" width="50%">Valeur</th>
+        </TR>
+        <TR>
+            <TD width="50%">logoON</TD>
+            <TD width="50%">al_type1_on</TD>
+        </TR>
+        <TR>
+            <TD width="50%">logoOFF</TD>
+            <TD width="50%">al_type1_off</TD>
+        </TR>
+        <TR>
+            <TD width="50%">dossier</TD>
+            <TD width="50%">alarme</TD>
+        </TR>
+        <TR>
+            <TD width="50%">logoTime</TD>
+            <TD width="50%">duree</TD>
+        </TR>
+    </TABLE>
+</CENTER>
 
 <p><img src="../img/help/config_action_3.png" alt="Aide 3" /></p>
 
-### Pour la commande <b>OFF</b>
-Les paramètres suivants seront mis :
+Répéter la même opération sur la commande <b>OFF</b>
 
-* <b>Widget</b> : Choix du widget
-    * Dashboard : Customtemp/Multi-action-Defaut
-    * mobile : Customtemp/Multi-action-Defaut
-
-* <b>Paramètres optionnels widget </b> : les variables ci-dessous seront ajouté en cliquant sur le bouton <i>Ajouter</i>
-	* logoON : al_type1_on
-    * logoOFF : al_type1_off
-    * dossier : alarme
-    * logoTime : duree
-
-<p><img src="../img/help/config_action_3.png" alt="Aide 3" /></p>
 
 <hr />
 # Changelog

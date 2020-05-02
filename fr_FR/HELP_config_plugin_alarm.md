@@ -9,7 +9,7 @@ description: explication Aide pour le paramétrage des widgets de type info (bin
 Ici l'exemple d'un équipement fait avec le plugin Alarme
 <p><img src="../img/help/config_alarm_1.png" alt="Aide 1" /></p>
 
-Pour paramétrer les infos des widgets, il faut sur ce plugin cliquer sur "Configuration Avancée"
+Pour paramétrer les infos des widgets, il faut sur ce plugin cliquer sur <b><i>Configuration Avancée</i></b>
 <p><img src="../img/help/config_alarm_2.png" alt="Aide 2" /></p>
 
 Le paramétrage va se faire en plusieurs étapes
