@@ -41,7 +41,7 @@ description: explication Modification size Texte
     <ul>
         <li><a href="HELP_config_info.html">Aide ajout Des paramètres pour un widget Info</a></li>
         <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
-        <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
+        <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
         <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>

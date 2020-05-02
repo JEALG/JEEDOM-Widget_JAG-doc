@@ -63,7 +63,7 @@ Le nommage des images est normalisé et doit respecter le format suivant :
     <ul>
         <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
         <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
-        <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
+        <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
         <li><a href="HELP_SIZE.html">Changer la Taille du texte de l'historique</a></li>
         <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
