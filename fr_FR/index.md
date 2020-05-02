@@ -70,7 +70,7 @@ Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
 >* <a href="HELP_config_action.html">Aide pour le paramétrage des widgets de type action</a>
 
 ## Exemple de paramétrage avec le plugin Alarme
->* <a href="HELP_config_plugin_alarm.html">Exemple d'utilisation des widget Multi-action et Multi-info avec le plugin Alarme</a>
+>* <a href="HELP_config_plugin_alarm.html">Exemple d'utilisation des widgets Multi-action et Multi-info avec le plugin Alarme</a>
 
 # Liste des images
 Cette rubrique regroupe les différentes images disponibles pour les widgets
