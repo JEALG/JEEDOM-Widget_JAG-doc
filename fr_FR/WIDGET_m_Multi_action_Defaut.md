@@ -80,7 +80,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_CONFIG_ACTION">Aide pour le paramétrage des widgets de type action</a></li>
+        <li><a href="HELP_config_action">Aide pour le paramétrage des widgets de type action</a></li>
         <li><a href="HELP_STATS">Afficher les statistiques</a></li>
         <li><a href="HELP_STATS_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique, actions)</a></li>
         <li><a href="HELP_PARA">Ajouter les paramètres sur un widget</a></li>
@@ -97,7 +97,7 @@ Le nommage des images n'est pas normalisé sur ce widget
 </blockquote>
 
 ## Exemple de paramétrage
->* <a href="HELP_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
+>* <a href="HELP_config_action.html">Aide pour le paramétrage des widgets de type action</a>
 
 # Télécharger les sources
 ><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>

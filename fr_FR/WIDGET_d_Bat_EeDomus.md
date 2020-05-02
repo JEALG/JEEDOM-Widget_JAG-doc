@@ -52,7 +52,7 @@ Il est possible de personnaliser les niveaux :
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_CONFIG_INFOS.html">Aide ajout des paramètres pour un widget Info</a></li>
+        <li><a href="HELP_config_infos.html">Aide ajout des paramètres pour un widget Info</a></li>
         <li><a href="HELP_CONFIG_Error.html">Paramétrage image de défaut</a></li>
         <li><a href="HELP_CONFIG_STATS.html">Afficher les statistiques</a></li>
         <li><a href="HELP_CONFIG_STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>

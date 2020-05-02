@@ -16,7 +16,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 # Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_CONFIG_INFOS.html">Aide ajout des paramètres pour un widget Info</a></li>
+        <li><a href="HELP_config_infos.html">Aide ajout des paramètres pour un widget Info</a></li>
         <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
         <li><a href="HELP_STATS.html">Afficher les statistiques</a></li>
         <li><a href="HELP_SIZE.html">Changer la Taille du texte de l'historique</a></li>

@@ -68,7 +68,7 @@ Voici l'exemple voulu
 <p><img src="../img/exemple/d/multi_binaire.png" alt="Résultat" /></p>
 
 ## Les commandes d'action
-voir l'exemple dans la doc <a href="HELP_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
+voir l'exemple dans la doc <a href="HELP_config_action.html">Aide pour le paramétrage des widgets de type action</a>
 
 # Choix du widget
 Cliquer sur la roue crantée (voir image ci-dessous),
