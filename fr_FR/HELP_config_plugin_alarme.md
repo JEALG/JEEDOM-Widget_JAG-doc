@@ -26,7 +26,28 @@ Le paramétrage va se faire en plusieurs étapes
 * Ensuite dans l'onglet paramétrer les infos suivantes dans l'onglet <b><i>"Affichage"</i></b><br/>
 <p><img src="../img/help/config_alarm_5.png" alt="Aide 4" /></p><br/>
 
+* Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>"Ajouter"</i></b><br/>
 
+<CENTER>
+    <TABLE width="60%">
+        <TR>
+            <TD width="50%">Nom</TD>
+            <TD width="50%">Valeur</TD>
+        </TR>
+        <TR>
+            <TD width="50%">logoON</TD>
+            <TD width="50%">al_type1_on</TD>
+        </TR>
+        <TR>
+            <TD width="50%">logoOFF</TD>
+            <TD width="50%">al_type1_off</TD>
+        </TR>
+        <TR>
+            <TD width="50%">dossier</TD>
+            <TD width="50%">alarme</TD>
+        </TR>
+    </TABLE>
+</CENTER>
 
 
 
