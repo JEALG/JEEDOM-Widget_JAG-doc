@@ -77,6 +77,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     </ul>
 </blockquote>
 
+## Exemple de paramétrage
+>* <a href="HELP_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
+
 # Télécharger les sources
 ><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
 <br/>

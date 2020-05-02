@@ -77,6 +77,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     </ul>
 </blockquote>
 
+## Exemple de paramétrage
+>* <a href="HELP_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
+
 ### Ajout d'image
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images n'est pas normalisé sur ce widget$

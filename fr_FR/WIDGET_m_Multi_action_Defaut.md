@@ -96,6 +96,9 @@ Le nommage des images n'est pas normalisé sur ce widget
     </ul>
 </blockquote>
 
+## Exemple de paramétrage
+>* <a href="HELP_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
+
 # Télécharger les sources
 ><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
 <br/>

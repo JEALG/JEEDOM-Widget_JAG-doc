@@ -65,7 +65,7 @@ Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
 >* <a href="HELP_ADD_IMG.html">Ajouter des images dans un widget (uniquement pour le Core V3)</a>
 
 <br/>
-Aide pour le paramétrage de Virtuel
+## Exemple de paramétrage avec un virtuel
 >* <a href="HELP_CONFIG_INFOS.html">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
 >* <a href="HELP_CONFIG_ACTION.html">Aide pour le paramétrage des widgets de type action</a>
 
