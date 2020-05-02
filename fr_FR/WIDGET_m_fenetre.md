@@ -9,7 +9,7 @@ description: explication widget Fenêtre (numérique)
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="../img/exemple/m/fenetre.png" alt="Resultat" /></p>
 
-<p><img src="../img/VISUEL_JEEDOM_Fenetre.png" alt="Visuels" /></p>
+<p><img src="../img/visuel/fenetre.png" alt="Visuels" /></p>
 
 # A savoir
 <blockquote>

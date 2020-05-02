@@ -12,7 +12,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Les visu à utiliser sont :
 </blockquote>
 
-<p><img src="../img/VISUEL_JEEDOM_Voyant.png" alt="Visuels" /></p>
+<p><img src="../img/visuel/voyant.png" alt="Visuels" /></p>
 
 # A savoir
 <blockquote>

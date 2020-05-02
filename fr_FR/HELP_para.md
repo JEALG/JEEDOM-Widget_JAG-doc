@@ -13,7 +13,7 @@ description: explication Ajout paramétrage
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
 <p><img src="../img/help/config_onglet_affichage_action.png" alt="Onglet Affichage" width="700" /></p><br/>
 
-* Ajouter les variables en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange) sur chaque commande<br/>
+* Ajouter les variables en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange)<br/>
 
 <hr />
 # Changelog

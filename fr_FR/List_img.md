@@ -13,70 +13,70 @@ description: Liste des dossiers
 Liste des images par dossiers
 
 ## alarme
-<img src="../img/VISUEL_JEEDOM_Alarme.png" alt="Visuels" />
+<img src="../img/visuel/alarme.png" alt="Visuels" />
 
 ## baro
-<img src="../img/VISUEL_JEEDOM_Baro.png" alt="Visuels" />
+<img src="../img/visuel/baro.png" alt="Visuels" />
 
 ## batterie
-<img src="../img/VISUEL_JEEDOM_batterie.png" alt="Visuels" />
+<img src="../img/visuel/batterie.png" alt="Visuels" />
 
 ## chauffage
-<img src="../img/VISUEL_JEEDOM_Chauffage.png" alt="Visuels" />
+<img src="../img/visuel/chauffage.png" alt="Visuels" />
 
 ## courriers
-<img src="../img/VISUEL_JEEDOM_Courriers.png" alt="Visuels" />
+<img src="../img/visuel/courriers.png" alt="Visuels" />
 
 ## divers
-<img src="../img/VISUEL_JEEDOM_Divers.png" alt="Visuels" />
+<img src="../img/visuel/divers.png" alt="Visuels" />
 
 ## eau
-<img src="../img/VISUEL_JEEDOM_Eau.png" alt="Visuels" />
+<img src="../img/visuel/eau.png" alt="Visuels" />
 
 ## error
-<img src="../img/VISUEL_JEEDOM_Error.png" alt="Visuels" />
+<img src="../img/visuel/error.png" alt="Visuels" />
 
 ## fenetre
-<img src="../img/VISUEL_JEEDOM_Fenetre.png" alt="Visuels" />
+<img src="../img/visuel/fenetre.png" alt="Visuels" />
 
 ## fibarooeil
-<img src="../img/VISUEL_JEEDOM_Oeil.png" alt="Visuels" />
+<img src="../img/visuel/oeil.png" alt="Visuels" />
 
 ## humidite
-<img src="../img/VISUEL_JEEDOM_Humidite.png" alt="Visuels" />
+<img src="../img/visuel/humidite.png" alt="Visuels" />
 
 ## lampe
-<img src="../img/VISUEL_JEEDOM_Lampe.png" alt="Visuels" />
+<img src="../img/visuel/lampe.png" alt="Visuels" />
 
 ## poubelles
-<img src="../img/VISUEL_JEEDOM_Poubelles.png" alt="Visuels" />
+<img src="../img/visuel/poubelles.png" alt="Visuels" />
 
 ## presence
-<img src="../img/VISUEL_JEEDOM_Presence.png" alt="Visuels" />
+<img src="../img/visuel/presence.png" alt="Visuels" />
 
 ## prise
-<img src="../img/VISUEL_JEEDOM_Prise.png" alt="Visuels" />
+<img src="../img/visuel/prise.png" alt="Visuels" />
 
 ## season
-<img src="../img/VISUEL_JEEDOM_Saison.png" alt="Visuels" />
+<img src="../img/visuel/saison.png" alt="Visuels" />
 
 ## signal
-<img src="../img/VISUEL_JEEDOM_Signal.png" alt="Visuels" />
+<img src="../img/visuel/signal.png" alt="Visuels" />
 
 ## store
-<img src="../img/VISUEL_JEEDOM_Store.png" alt="Visuels" />
+<img src="../img/visuel/store.png" alt="Visuels" />
 
 ## temperature
-<img src="../img/VISUEL_JEEDOM_Temperature.png" alt="Visuels" />
+<img src="../img/visuel/temperature.png" alt="Visuels" />
 
 ## toggle
-<img src="../img/VISUEL_JEEDOM_Toggle.png" alt="Visuels" />
+<img src="../img/visuel/toggle.png" alt="Visuels" />
 
 ## vent
-<img src="../img/VISUEL_JEEDOM_Vent.png" alt="Visuels" />
+<img src="../img/visuel/vent.png" alt="Visuels" />
 
 ## voyant
-<img src="../img/VISUEL_JEEDOM_Voyant.png" alt="Visuels" />
+<img src="../img/visuel/voyant.png" alt="Visuels" />
 
 <hr />
 # Télécharger les sources

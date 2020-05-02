@@ -24,7 +24,7 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
     </ul>
 </blockquote>
 
-<p><img src="../img/VISUEL_JEEDOM_Error.png" alt="Error" /></p>
+<p><img src="../img/visuel/error.png" alt="Error" /></p>
 
 # Cas Particulier
 Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'erreur
