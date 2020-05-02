@@ -5,8 +5,6 @@ description: explication Aide pour le paramétrage des widgets de type info (bin
 ---
 [back](./)
 
-EN COURS D'ECRITURE
-
 # Aide pour le paramétrage des widgets de type info (binaire, numérique) et de de type action avec l'utilisation du plugin Alarme
 Ici l'exemple d'un équipement fait avec le plugin Alarme
 <p><img src="../img/help/config_alarm_1.png" alt="Aide 1" /></p>
