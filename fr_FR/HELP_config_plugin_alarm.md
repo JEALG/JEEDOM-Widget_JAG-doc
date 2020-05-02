@@ -7,35 +7,32 @@ description: explication Aide pour le paramétrage des widgets de type info (bin
 
 EN COURS D'ECRITURE
 
-# Aide pour le paramétrage des widgets de type info (binaire, numérique) et de de type action avec l'utilisation du plugin Alarmw
-
+# Aide pour le paramétrage des widgets de type info (binaire, numérique) et de de type action avec l'utilisation du plugin Alarme
+Ici l'exemple d'un équipement fait avec le plugin Alarme
 <p><img src="../img/help/config_alarm_1.png" alt="Aide 1" /></p>
 
-Ici l'exemple d'un équipement fait avec le plugin Alarme, Pour paramétrer les infos, il faut sur ce plugin cliquer sur "Configuration Avancée"
+Pour paramétrer les infos des widgets, il faut sur ce plugin cliquer sur "Configuration Avancée"
 <p><img src="../img/help/config_alarm_2.png" alt="Aide 2" /></p>
 
 Le paramétrage va se faire en plusieurs étapes
+* <b>En rouge </b>: Le paramétrage des actions
+* <b>En bleu </b>: Le paramétrage des infos
 <p><img src="../img/help/config_alarm_3.png" alt="Aide 3" /></p>
-* Paramétrage des actions
-* Paramétrage des infos
-
 
 # Paramétrage des actions
-
-## Pour la commande "Activer"
 
 <p><img src="../img/help/config_alarm_4.png" alt="Aide 4" /></p>
 * Cliquer sur la roue crantée en face de la commande <b> Fléche en rouge </b>
 * Ensuite dans l'onglet paramétrer les infos suivantes dans l'onglet <b><i>"Affichage"</i></b><br/>
 <p><img src="../img/help/config_alarm_5.png" alt="Aide 4" /></p><br/>
 
-* Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>"Ajouter"</i></b><br/>
+* Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>"Ajouter"</i></b> en premier <br/>
 
 <CENTER>
     <TABLE width="60%">
         <TR>
-            <TD width="50%">Nom</TD>
-            <TD width="50%">Valeur</TD>
+            <th scope="col" width="50%">Nom</th>
+            <th scope="col" width="50%">Valeur</th>
         </TR>
         <TR>
             <TD width="50%">logoON</TD>
