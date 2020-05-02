@@ -9,7 +9,7 @@ description: explication Aide pour le paramétrage des widgets de type Action
 Une vidéo pour aider les nuls <a href="https://www.youtube.com/watch?v=wiMh8rmfdKU">Virtuel pour les nuls</a>
 
 Ici l'exemple d'un équipement fait avec le plugin Virtuel
-<p><img src="../img/exemple/d/multi_binaire.png" alt="Resultat" /></p>
+<p><img src="../img/exemple/d/multi_action.png" alt="Resultat" /></p>
 
 # Paramétrage de l'équipement
 <p><img src="../img/help/config_action_1.png" alt="Aide 1" /></p>
