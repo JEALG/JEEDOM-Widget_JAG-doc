@@ -101,7 +101,7 @@ Le nommage des images n'est pas normalisé sur ce widget
 </blockquote>
 
 # Exemples de paramétrage
-<li><a href="HELP_PARA_FENETRES.html">Exemple de paramétrages</a></li>
+<li><a href="HELP_para_FENETRES.html">Exemple de paramétrages</a></li>
 
 
 # Télécharger les sources

@@ -88,7 +88,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 # Exemples de paramétrage
-<li><a href="HELP_PARA_FENETRES.html">Exemple de paramétrages</a></li>
+<li><a href="HELP_para_FENETRES.html">Exemple de paramétrages</a></li>
 
 <hr />
 # Télécharger les sources

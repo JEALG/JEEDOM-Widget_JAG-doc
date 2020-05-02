@@ -35,7 +35,7 @@ Voici l'exemple voulu
 voir l'exemple dans la doc <a href="HELP_config_action.html">Aide pour le paramétrage des widgets de type action</a>
 
 # Choix du widget
-Cliquer sur la roue crantée de la commande info
+* Cliquer sur la roue crantée de la commande info
 <p><img src="../img/help/config_roue.png" alt="Roue Crantée" width="100"/></p>
 
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>

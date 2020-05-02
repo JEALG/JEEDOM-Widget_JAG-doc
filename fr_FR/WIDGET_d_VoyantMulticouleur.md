@@ -54,7 +54,7 @@ Pour choisir le type d'extension de l'image
 <blockquote>
     <ul>
         <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
-        <li><a href="HELP_PARA.html">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 

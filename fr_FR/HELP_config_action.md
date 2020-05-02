@@ -24,7 +24,7 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel
     * Sous les commandes : Il faut absolument sélectionner le nom de l'état pour que le widget fonctionne (carré vert)
 
 # Choix du widget
-Cliquer sur la roue crantée
+* Cliquer sur la roue crantée
 <p><img src="../img/help/config_roue.png" alt="Roue Crantée" width="100"/></p>
 
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
