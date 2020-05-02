@@ -17,7 +17,7 @@ Le paramétrage va se faire en plusieurs étapes
 * <b>En bleu </b>: Le paramétrage des infos
 <p><img src="../img/help/config_alarm_3.png" alt="Aide 3" width="700" /></p>
 
-# Widget nécessaire
+# Widgets nécessaire
 Pour faire cet affichage vous avez besoin.
 
 Dans chaque widget, vous avez un lien pour télécharger les sources
@@ -43,8 +43,9 @@ Nom du Widget | Exemple | Docs/Téléchargement
 <p><img src="../img/help/config_alarm_4.png" alt="Aide 4" /></p>
 
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
-<p><img src="../img/help/config_alarm_5.png" alt="Aide 5" width="700" /></p><br/>
+<p><img src="../img/help/config_onglet_affichage_action.png" alt="Onglet Affichage" width="700" /></p><br/>
 
+* Ensuite sélectionner le widget <b><i>Multi-action-Defaut</i></b> (flèche en noir) pour la représentation <i>Dashboard</i> et <i>Mobile</i><br/>
 * Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange)<br/>
 <CENTER>
     <TABLE width="60%">
@@ -75,10 +76,10 @@ Nom du Widget | Exemple | Docs/Téléchargement
 
 * Cliquer sur la roue crantée en face de la commande <b>Immédiat</b>  (flèche en jaune)
 
-<p><img src="../img/help/config_alarm_6.png" alt="Aide 6" /></p>
+<p><img src="../img/help/config_alarm_5.png" alt="Aide 5" /></p>
 
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
-<p><img src="../img/help/config_alarm_7.png" alt="Aide 7" width="700"/></p><br/>
+<p><img src="../img/help/config_onglet_affichage_info.png" alt="Onglet Affichage" width="700" /></p><br/>
 
 * Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange)<br/>
 <CENTER>
@@ -104,7 +105,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
 
 * Répéter la même opération en cliquant sur la roue crantée en face de la commande <b>Statut</b>  (flèche en rose)
 
-<p><img src="../img/help/config_alarm_6.png" alt="Aide 6" /></p>
+<p><img src="../img/help/config_alarm_5.png" alt="Aide 5" /></p>
 
 <hr />
 # Changelog

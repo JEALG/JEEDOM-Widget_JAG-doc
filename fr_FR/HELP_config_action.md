@@ -12,31 +12,33 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 <p><img src="../img/help/config_alarm_1.png" alt="Aide 1" /></p>
 
 # Paramétrage de l'équipement
-
-* <b>En marron</b> : Action du widget
+<p><img src="../img/help/config_action_1.png" alt="Aide 1" /></p>
+* <b>La flèche Marron</b> : Action du widget
     * Options : il est possible de cocher ou pas <i>Afficher</i> (je conseille de décocher)
 
 * <b>En Bleu</b> : les boutons
 	* Type : Sélectionner action
 	* Sous-Type : Défaut
     * Options : Cocher la case Afficher
-	* Roue cranté : permet de choisir le type de widget et les options
-    * Sous les commandes : Il faut absolument sélectionner le nom de l'état pour que le widget fonctionne
+	* Roue cranté : permet de choisir le type de widget et les options (fléche orange)
+    * Sous les commandes : Il faut absolument sélectionner le nom de l'état pour que le widget fonctionne (carré vert)
 
 # Choix du widget
-Cliquer sur la roue crantée (voir image ci-dessous)
+Cliquer sur la roue crantée
 <p><img src="../img/help/config_info_4.png" alt="Aide 4" /></p>
 
-Cliquer sur affichage, sélectionner ensuite le widget voulu
-<p><img src="../img/help/config_info_2.png" alt="Aide 2" /></p>
+* Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
+<p><img src="../img/help/config_onglet_affichage_action.png" alt="Onglet Affichage" width="700" /></p><br/>
+
+* Ensuite sélectionner le widget <b><i>Multi-action-Defaut</i></b> (flèche en noir) pour la représentation <i>Dashboard</i> et <i>Mobile</i><br/>
 
 ## Exemple de paramétrage
 Voici l'exemple voulu
 <p><img src="../img/exemple/d/multi_action.png" alt="Résultat" /></p>
 
 ## Ajout des paramètres
-Cliquer sur le bouton <i>Ajouter</i> pour ajouter les différents paramètres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
-<p><img src="../img/help/config_info_3.png" alt="Aide 3" /></p>
+* Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange) sur chaque commande<br/>
+<p><img src="../img/help/config_onglet_affichage_action.png" alt="Onglet Affichage" width="500" /></p><br/>
 
 ### Pour la commande <b>Etat</b>
 Vu que cette commande n'est pas affichée, le paramétrage sera laissé en <b>Défaut</b>
@@ -74,7 +76,7 @@ Les paramètres suivants seront mis d'abord pour la commande <b>ON</b>
     </TABLE>
 </CENTER>
 
-<p><img src="../img/help/config_action_3.png" alt="Aide 3" /></p>
+<p><img src="../img/help/config_onglet_affichage_action.png" alt="Onglet Affichage" width="500" /></p><br/>
 
 Répéter la même opération sur la commande <b>OFF</b>
 
