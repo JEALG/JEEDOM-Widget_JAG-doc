@@ -35,15 +35,38 @@ Voici l'exemple voulu
 voir l'exemple dans la doc <a href="HELP_config_action.html">Aide pour le paramétrage des widgets de type action</a>
 
 # Choix du widget
-Cliquer sur la roue crantée (voir image ci-dessous),
-<p><img src="../img/help/config_alarm_4.png" alt="Aide 4" /></p>
+Cliquer sur la roue crantée de la commande info
+<p><img src="../img/help/config_roue.png" alt="Roue Crantée" width="400"/></p>
 
-Cliquer sur affichage, sélectionner ensuite le widget voulu dans la partie bleu (grâce à la liste déroulante)
-<p><img src="../img/help/config_info_2.png" alt="Aide 2" /></p>
+* Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
+<p><img src="../img/help/config_onglet_affichage_info.png" alt="Onglet Affichage" width="700" /></p><br/>
+
+* Ensuite sélectionner le widget <b><i>Multiinfo-Binaire</i></b> (flèche en noir) pour la représentation <i>Dashboard</i> et <i>Mobile</i><br/>
 
 # Ajout des paramètres
-Cliquer sur le bouton <i>Ajouter</i> pour ajouter les différents paramètres du widget, ensuite se référer sur chacun des widgets pour avoir les variables
-<p><img src="../img/help/config_info_3.png" alt="Aide 3" /></p>
+* Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange)<br/>
+<p><img src="../img/help/config_onglet_affichage_info.png" alt="Onglet Affichage" width="700" /></p><br/>
+
+<CENTER>
+    <TABLE width="60%">
+        <TR>
+            <th scope="col" width="50%">Nom</th>
+            <th scope="col" width="50%">Valeur</th>
+        </TR>
+        <TR>
+            <TD width="50%">logoON</TD>
+            <TD width="50%">al_type0_off</TD>
+        </TR>
+        <TR>
+            <TD width="50%">logoOFF</TD>
+            <TD width="50%">al_type0_on</TD>
+        </TR>
+        <TR>
+            <TD width="50%">dossier</TD>
+            <TD width="50%">alarme</TD>
+        </TR>
+    </TABLE>
+</CENTER>
 
 <hr />
 # Changelog

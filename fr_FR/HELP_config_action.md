@@ -25,7 +25,7 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel
 
 # Choix du widget
 Cliquer sur la roue crantée
-<p><img src="../img/help/config_info_4.png" alt="Aide 4" /></p>
+<p><img src="../img/help/config_roue.png" alt="Roue Crantée" /></p>
 
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
 <p><img src="../img/help/config_onglet_affichage_action.png" alt="Onglet Affichage" width="700" /></p><br/>
