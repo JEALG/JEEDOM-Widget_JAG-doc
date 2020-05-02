@@ -60,7 +60,7 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
         <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
         <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
         <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
-        <li><a href="HELP_stats_TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+        <li><a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
         <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
