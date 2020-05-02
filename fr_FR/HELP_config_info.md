@@ -36,7 +36,7 @@ voir l'exemple dans la doc <a href="HELP_config_action.html">Aide pour le param�
 
 # Choix du widget
 Cliquer sur la roue crantée de la commande info
-<p><img src="../img/help/config_roue.png" alt="Roue Crantée" width="400"/></p>
+<p><img src="../img/help/config_roue.png" alt="Roue Crantée" width="100"/></p>
 
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
 <p><img src="../img/help/config_onglet_affichage_info.png" alt="Onglet Affichage" width="700" /></p><br/>
