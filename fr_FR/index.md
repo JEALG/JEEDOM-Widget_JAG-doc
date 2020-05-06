@@ -7,7 +7,7 @@ title: Les Widgets
 [![Downloads](https://badges.ml/brackets-markdown-preview/total.svg)](./WIDGET_d_Multi_info_Binaire.html)
 
 
-[![Downloads](https://badges.ml/:subject/:TEST)](./WIDGET_d_Multi_info_Binaire.html/#:test)
+[![Downloads](https://badges.ml/:Exemple/:TEST)](./WIDGET_d_Multi_info_Binaire.html/)
 
 # infos
 ## A Savoir
