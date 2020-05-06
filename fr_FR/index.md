@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: fr_FR
-title: Jeedom | Widget JAG
+title: Les Widgets
 ---
 **Ensemble de la documentation pour les widgets JAG**
 
