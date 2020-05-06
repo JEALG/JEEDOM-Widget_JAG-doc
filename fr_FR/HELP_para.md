@@ -1,11 +1,9 @@
 ---
 layout: default
-title: JEEDOM-AIDE Ajout paramétrage
-description: explication Ajout paramétrage
+title: Comment ajouter des paramètres
+description: Comment ajouter des paramètres
 ---
 [back](./)
-# Comment ajouter des paramètres
-
 # Ajout des paramètres
 * Cliquer sur la roue crantée de la commande
 <p><img src="../img/help/config_roue.png" alt="Roue Crantée" width="100"/></p>

@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Luminosite-IMG-Mini--mobile
+title: Widget "Luminosité-IMG-Mini (mobile)"
 description: explication widget Luminosité-IMG-Mini (mobile)
 ---
 [back](./)
-# Widget "Luminosité-IMG-Mini (mobile)"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="../img/exemple/m/lumi.png" alt="Resultat" /></p>

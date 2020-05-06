@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Biroute_vent
+title: Widget "Biroute - vent"
 description: explication widget Biroute - vent
 ---
 [back](./)
-# Widget "Biroute - vent"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="../img/exemple/d/biroute.png" alt="Resultat" /></p>

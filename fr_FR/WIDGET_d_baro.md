@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Barometre
+title: Widget "Baromètre"
 description: explication widget Baromètre
 ---
 [back](./)
-# Widget "Baromètre"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 <p><img src="../img/exemple/d/baro.png" alt="Resultat" /></p>

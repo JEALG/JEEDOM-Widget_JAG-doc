@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JEEDOM-AIDE Modifier la taille du texte
+title: Modification size Texte
 description: explication Modification size Texte
 ---
 [back](./)

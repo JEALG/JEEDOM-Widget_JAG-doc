@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-VoyantMulticouleur- Mobile
+title: Widget "VoyantMulticouleur (mobile)"
 description: explication Bouton en forme de voyant Multi couleur (mobile)
 ---
 [back](./)
-# Widget "VoyantMulticouleur : Bouton en forme de voyant Multi couleur (mobile)"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action</b>
 <p><img src="../img/exemple/m/voyant_multicouleur.png" alt="Resultat" /></p>

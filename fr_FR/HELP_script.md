@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JEEDOM-AIDE Script
+title: Script de mise à jour
 description: Script
 ---
 [back](./)

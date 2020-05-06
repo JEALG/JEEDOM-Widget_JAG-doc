@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Multi_info-Binaire
+title: Widget "Multi-info-Binaire"
 description: Explication widget Multi-info-Binaire
 ---
 [back](./)
-# Widget "Multi-info-Binaire"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
 

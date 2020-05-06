@@ -1,12 +1,10 @@
 ---
 layout: default
-title: JEEDOM-AIDE Error
-description: explication Image défaut widget
+title: Paramétrage image défaut Widget
+description: Paramétrage image défaut Widget
 ---
 [back](./)
-# Paramétrage image défaut Widget
-
-## Choix de l'icône en cas d'erreur pour un widget "Dashboard"
+# Choix de l'icône en cas d'erreur pour un widget "Dashboard"
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
 <blockquote>
     <ul>
@@ -15,7 +13,7 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
     </ul>
 </blockquote>
 
-## Choix de l'icône en cas d'erreur pour un widget "Mobile"
+# Choix de l'icône en cas d'erreur pour un widget "Mobile"
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
 <blockquote>
     <ul>

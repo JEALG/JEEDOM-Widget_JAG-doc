@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-AIDE Affichage de l'historique
+title: Affichage de l'historique
 description: explication Affichage de l'historique
 ---
 [back](./)
-# Affichage de l'historique
 
 # Activation de l'historique
 Il est impératif que l'info de l'équipement soit historisé pour être afficher

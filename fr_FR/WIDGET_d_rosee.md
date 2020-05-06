@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Point-rosee
+title: Widget "Point de rosée"
 description: explication widget Point de rosée
 ---
 [back](./)
-# Widget "Point de rosée"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="../img/exemple/d/rosee.png" alt="Resultat" /></p>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JEEDOM-AIDE Liste des dossiers
+title: Liste des images par dossiers
 description: Liste des dossiers
 ---
 [back](./)

@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Store-banne
+title: Widget "Store-banne"
 description: explication Store-banne
 ---
 [back](./)
-# Widget "Store-banne"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="../img/exemple/d/store_banne.png" alt="Resultat" /></p>

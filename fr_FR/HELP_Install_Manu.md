@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Installation Manuelle des widgets pour le Core V3/V4
+title: Installation Manuelle des widgets
 description: Installation Manuelle des widgets pour le Core V4
 ---
 [back](./)

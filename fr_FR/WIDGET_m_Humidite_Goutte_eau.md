@@ -1,10 +1,10 @@
 ---
 layout: default
-title: JEEDOM-Humidite-Goutte_eau--Mobile
+title: Widget "Humidite-Goutte_eau (mobile)"
 description: explication widget Humidite-Goutte_eau
 ---
 [back](./)
-# Widget "Humidite-Goutte_eau (mobile)"
+
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="../img/exemple/m/humidite_goutte_eau.png" alt="Resultat" /></p>
 

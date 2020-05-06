@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Thermometre--Mobile
+title: Widget "Temperature thermometre (mobile)"
 description: explication widget Temperature thermometre (mobile)
 ---
 [back](./)
-# Widget "Temperature thermometre (mobile)"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="../img/exemple/m/temperature.png" alt="Resultat" /></p>

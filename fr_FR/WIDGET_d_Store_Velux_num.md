@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Store-Velux-num
+title: Widget "Store-VELUX (numérique)"
 description: explication widget Store-VELUX (numérique)
 ---
 [back](./)
-# Widget "Store-VELUX (numérique)"
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
 <p><img src="../img/exemple/d/store_velux.png" alt="Resultat" /></p>

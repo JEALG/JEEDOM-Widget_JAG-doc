@@ -1,10 +1,9 @@
 ---
 layout: default
-title: JEEDOM-AIDE Paramétrages Fenêtres numérique
+title: Exemples de paramétrages Widget Fênetre
 description: explication Paramétrage Fenêtre
 ---
 [back](./)
-# Exemples de paramétrages
 Voici un exemple de configuration
 <blockquote>
         <li><b>Ma config</b> : 1 baie avec 2 capteurs</li>
