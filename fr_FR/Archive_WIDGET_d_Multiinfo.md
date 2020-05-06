@@ -1,11 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Archive Widget Info Binaire
-description: Archive Widget Info Binaire
+title: Archive Widget "Multi-info-Binaire"
+description: Archive Widget "Multi-info-Binaire"
 ---
 [back](./)
-# Archive Widget "Multi-info-Binaire"
-
 L'ensemble des widgets ci-dessous est incorporé dans le widget
 <blockquote>
     <a href="../img/exemple/d/multi_action.png">Widget Dashboard : <b>Multi info - Binaire</b></a>

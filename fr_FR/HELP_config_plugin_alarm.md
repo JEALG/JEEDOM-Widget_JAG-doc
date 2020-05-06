@@ -1,11 +1,9 @@
 ---
 layout: default
-title: JEEDOM-AIDE-CONFIG-INFO
-description: explication Aide pour le paramétrage des widgets de type info (binaire, numérique) et action pour le plugin Alarme
+title: Aide pour le paramétrage des widgets **Multi-action** et **Multi-info** avec le plugin Alarme
+description: Aide pour le paramétrage des widgets **Multi-action** et **Multi-info** avec le plugin Alarme
 ---
 [back](./)
-
-# Aide pour le paramétrage des widgets **Multi-action** et **Multi-info** avec le plugin Alarme
 Ici l'exemple d'un équipement fait avec le plugin Alarme
 <p><img src="../img/help/config_alarm_1.png" alt="Aide 1" width="200"/></p>
 

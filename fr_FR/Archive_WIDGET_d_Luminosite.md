@@ -1,11 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Archive Widget Luminosité
+title: Archive Widget Luminosité
 description: Archive Widget Luminosité
 ---
 [back](./)
-# Archive Widget "Luminosité"
-
 L'ensemble des widgets ci-dessous est incorporé dans le widget
 <blockquote>
 <a href="JEEDOM_Lum_IMG_mini">Widget Dashboard : <b>Luminosité-IMG-Mini</b></a>

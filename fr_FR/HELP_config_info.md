@@ -1,11 +1,9 @@
 ---
 layout: default
-title: JEEDOM-AIDE-CONFIG-INFO
-description: explication Aide pour le paramétrage des widgets de type info (binaire, numérique)
+title: Aide pour le paramétrage des widgets de type info
+description: explication Aide pour le paramétrage des widgets de type info (binaire, numAide pour le paramétrage des widgets de type info (binaire, numérique)
 ---
 [back](./)
-# Aide pour le paramétrage des widgets de type info (binaire, numérique)
-
 Une vidéo pour aider les nuls <a href="https://www.youtube.com/watch?v=wiMh8rmfdKU">Virtuel pour les nuls</a>
 
 Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer les infos suivantes :

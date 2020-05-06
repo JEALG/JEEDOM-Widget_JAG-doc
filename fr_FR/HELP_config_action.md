@@ -1,11 +1,9 @@
 ---
 layout: default
-title: JEEDOM-AIDE-CONFIG-Action
-description: explication Aide pour le paramétrage des widgets de type Action
+title: Aide pour le paramétrage des widgets de type action
+description: Aide pour le paramétrage des widgets de type action
 ---
 [back](./)
-# Aide pour le paramétrage des widgets de type action
-
 Une vidéo pour aider les nuls <a href="https://www.youtube.com/watch?v=wiMh8rmfdKU">Virtuel pour les nuls</a>
 
 Ici l'exemple d'un équipement fait avec le plugin Virtuel

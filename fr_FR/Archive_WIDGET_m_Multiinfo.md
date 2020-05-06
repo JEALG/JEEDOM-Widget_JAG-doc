@@ -1,11 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Archive Widget Info Binaire (mobile)
-description: Archive Widget Info Binaire (mobile)
+title: Archive Widget "Multi-info-Binaire (mobile)"
+description: Archive Widget "Multi-info-Binaire (mobile)"
 ---
 [back](./)
-# Archive Widget "Multi-info-Binaire (mobile)"
-
 L'ensemble des widgets ci-dessous est incorporé dans le widget
 <blockquote>
     <a href="../img/exemple/m/multi_action.png">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a>

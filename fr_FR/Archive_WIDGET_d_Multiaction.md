@@ -1,11 +1,9 @@
 ---
 layout: default
-title: JEEDOM-Archive Widget Action
-description: Archive Widget Action
+title: Archive Widget "Multi-action"
+description: Archive Widget "Multi-action"
 ---
 [back](./)
-# Archive Widget "Multi-action"
-
 L'ensemble des widgets ci-dessous est incorporé dans le widget
 <blockquote>
     <a href="../img/exemple/d/multi_action.png">Widget Dashboard : <b>Multi-action</b></a>
