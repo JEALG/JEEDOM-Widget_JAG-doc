@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JEEDOM-AIDE Nettoyage des dossiers
+title: Nettoyage des dossiers
 description: Nettoyage des dossiers
 ---
 [back](./)

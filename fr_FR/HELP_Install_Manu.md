@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JEEDOM-AIDE Installation Manuelle des widgets V4
+title: Installation Manuelle des widgets pour le Core V3/V4
 description: Installation Manuelle des widgets pour le Core V4
 ---
 [back](./)
