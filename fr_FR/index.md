@@ -11,7 +11,7 @@ title: Les Widgets
 
 
 
-[![TEST TT](https://badges.ml/:./WIDGET_d_Multi_info_Binaire.html:/dd/brackets-emmet)](https://badges.ml/#:/dd/brackets-emmet)
+[![TEST TT](https://badges.ml/:./WIDGET_d_Multi_info_Binaire.html:./WIDGET_d_Multi_info_Binaire.html)](https://badges.ml/#:./WIDGET_d_Multi_info_Binaire.html)
 
 
 # infos
