@@ -13,11 +13,9 @@
     <div class="navbar-fixed hide-on-print">
         <nav>
             <div class="nav-wrapper container">
+                <a id="logo-container" href="{{site.doc}}" class="brand-logo center"><img src="../assets/images/logo.png" style="height:50px;margin-top:5px"></a>
                 <ul class="left hide-on-med-and-down">
-                    <li><a href="{{site.baseurl}}">Documentations Jeedom de JAG</a></li>
-                    <b>
-                        <li>{{page.title}}</li>
-                    </b>
+                    <li><a href="{{site.doc}}">Jeedom Documentation</a></li>
                 </ul>
                 <a href="{{site.doc}}" data-activates="nav-mobile" class="button-collapse btn-floating btn-large waves-effect waves-light jeedomcolorbg"><i class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down">
@@ -87,10 +85,11 @@
     <script type="text/javascript" src="../assets/js/jquery.toc.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
-            var title = '{{page.title}}';
+            var title = '{{site.github.project_title}}';
             title = title.replace('plugin-', '');
             $('#doc_title').append(title[0].toUpperCase() + title.substring(1))
-            document.title = 'Documentation Jeedom | ' + title[0].toUpperCase() + title.substring(1) $(".button-collapse").sideNav();
+            document.title = 'Documentation Jeedom | ' + title[0].toUpperCase() + title.substring(1)
+            $(".button-collapse").sideNav();
             $('meta[name=description]').remove();
             $('head').append('<meta name="description" content="Ceci est la documentation du plugin "' + title[0].toUpperCase() + title.substring(1) + '", lié à la solution domotique Jeedom.">');
             $('img').addClass('responsive-img');
