@@ -7,6 +7,8 @@ title: Les Widgets
 [![Downloads](https://badges.ml/brackets-markdown-preview/total.svg)](./WIDGET_d_Multi_info_Binaire.html)
 
 
+[![Downloads](https://badges.ml/:subject/:TEST)](./WIDGET_d_Multi_info_Binaire.html/#:test)
+
 # infos
 ## A Savoir
 >**Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets**<br/>
