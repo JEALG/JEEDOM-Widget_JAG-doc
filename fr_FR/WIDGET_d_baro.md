@@ -43,15 +43,15 @@ Il est possible de déplacer la légende
         </TR>
         <TR>
             <TD width="25%" rowspan=3>leg_pos</TD>
-            <TD width="25%" align="center">**right**<br/>*(valeur par défaut)*</TD>
+            <TD width="25%" align="center">right<br/>(valeur par défaut)</TD>
             <TD width="50%" align="center"><img src="../img/exemple/d/baro.png" alt="Resultat - Droite" /></TD>
         </TR>
         <TR>
-            <TD width="25%" align="center">**left**</TD>
+            <TD width="25%" align="center">left</TD>
             <TD width="50%" align="center"><img src="../img/exemple/d/baro_le.png" alt="Resultat - Gauche" /></TD>
         </TR>
         <TR>
-            <TD width="25%" align="center">**bottom**</TD>
+            <TD width="25%" align="center">bottom</TD>
             <TD width="50%" align="center"><img src="../img/exemple/d/baro_l.png" alt="Resultat - Bas" /></TD>
         </TR>
     </TABLE>
