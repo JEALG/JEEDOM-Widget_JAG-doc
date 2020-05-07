@@ -4,15 +4,6 @@ lang: fr_FR
 title: Les Widgets
 ---
 **Ensemble de la documentation pour les widgets JAG**
-[![TEST EN COURS](https://badges.ml/brackets-markdown-preview/total.svg)](./WIDGET_d_Multi_info_Binaire.html)
-
-
-[![TEST EN COURS](https://badges.ml/:Exemple/: /dd/brackets-emmet)](./WIDGET_d_Multi_info_Binaire.html)
-
-
-
-[![TEST TT](https://badges.ml/:./WIDGET_d_Multi_info_Binaire.html:./WIDGET_d_Multi_info_Binaire.html)](https://badges.ml/#:./WIDGET_d_Multi_info_Binaire.html)
-
 
 # infos
 ## A Savoir

@@ -4,6 +4,17 @@ lang: fr_FR
 title: Les Widgets
 ---
 **Ensemble de la documentation pour les widgets JAG**
+[![TEST EN COURS](https://badges.ml/brackets-markdown-preview/total.svg)](./WIDGET_d_Multi_info_Binaire.html)
+
+
+[![TEST EN COURS](https://badges.ml/:Exemple/: /dd/brackets-emmet)](./WIDGET_d_Multi_info_Binaire.html)
+
+
+
+[![TEST TT](https://badges.ml/:./WIDGET_d_Multi_info_Binaire.html:./WIDGET_d_Multi_info_Binaire.html)](https://badges.ml/#:./WIDGET_d_Multi_info_Binaire.html)
+
+
+[![Downloads](https://badges.ml/:./WIDGET_d_Multi_info_Binaire.html:name)](https://badges.ml/#:name)
 
 # infos
 ## A Savoir
@@ -22,44 +33,9 @@ Cette partie de doc va donner la procédure pour installer manuellement les widg
 
 ## Dashboard
 
-<CENTER>
-    <TABLE width="60%">
-        <TR>
-            <TD width="33%">cellule1</TD>
-            <TD width="33%">cel. 2</TD>
-            <TD width="34%">3</TD></TR>
-        <TR>
-            <TD width="33%">cellule1</TD>
-            <TD width="33%">cel. 2</TD>
-            <TD width="34%">3</TD></TR>
-    </TABLE>
-</CENTER>
-<br/>
-
-
-
-
-<table width="50%">
-    <tr>
-        <th scope="col" width="33%">Visu</th>
-        <th scope="col" width="33%">Nom du Widget</th>
-        <th scope="col" width="34%">Lien</th>
-    </tr>
-    <tr>
-        <td width="33%"><img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" /></td>
-        <td width="33%">Voyant Multi-couleur</td>
-        <td width="34%">
-            <a href="./WIDGET_d_VoyantMulticouleur.html">Lien Widget Dashboard</a>
-        </td>
-    </tr>
-</table>
-
-
-## Dashboard old
-
 Nom du Widget | Exemple | Docs/Téléchargement
---- | :-----: | :----| :----| :----
-**Voyant Multi-couleur** | <img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a> |||
+--- | --- | ---
+**Voyant Multi-couleur** | <img src="../img/exemple/d/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_d_VoyantMulticouleur.html">Lien</a> |
 **Store Banne** |<img src="../img/exemple/d/store_banne.png" alt="Exemple Store Banne" /> | <a href="./WIDGET_d_Store_banne.html">Lien</a>
 **Icone_Mode** |<img src="../img/exemple/d/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./WIDGET_d_Icon_Mode.html">Lien</a>
 **Multi-action** |<img src="../img/exemple/d/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_d_Multi_action_Defaut.html">Lien</a>
@@ -79,7 +55,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
 ## Mobile
 
 Nom du Widget | Exemple | Docs/Téléchargement
------- | ----- | ---
+--- | --- | ---
 **Voyant Multi-couleur** | <img src="../img/exemple/m/voyant_multicouleur.png" alt="Exemple Voyant Multi-couleur" />|<a href="./WIDGET_m_VoyantMulticouleur.html">Lien</a> |
 **Icone_Mode** |<img src="../img/exemple/m/icone_mode.png" alt="Exemple Icone_Mode" /> | <a href="./WIDGET_m_Icon_Mode.html">Lien</a>
 **Multi-action** |<img src="../img/exemple/m/multi_action.png" alt="Exemple Multi-action" /> | <a href="./WIDGET_m_Multi_action_Defaut.html">Lien</a>
@@ -93,16 +69,24 @@ Nom du Widget | Exemple | Docs/Téléchargement
 Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
 
 >* <a href="HELP_Error.html">Paramétrage image Erreur</a>
->* <a href="HELP_stats.html">Afficher les statistiques</a>
->* <a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique)</a>
->* <a href="HELP_SIZE.html">Aide pour changer la taille du texte pour des widgets de type info (uniquement pour le Core V3)</a>
 >* <a href="HELP_para.html">Ajouter les paramètres sur un widget</a>
->* <a href="HELP_ADD_IMG.html">Ajouter des images dans un widget (uniquement pour le Core V3)</a>
 
 <br/>
-Aide pour le paramétrage de Virtuel
+## Les statistiques
+>* <a href="HELP_stats.html">Afficher les statistiques</a>
+>* <a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets de type info (binaire, numérique) et Multi-action</a>
+
+## Exemple de paramétrage avec un virtuel
 >* <a href="HELP_config_info.html">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
 >* <a href="HELP_config_action.html">Aide pour le paramétrage des widgets de type action</a>
+
+## Exemple de paramétrage avec le plugin Alarme
+>* <a href="HELP_config_plugin_alarm.html">Exemple d'utilisation des widgets Multi-action et Multi-info avec le plugin Alarme</a>
+
+## Paramétrage uniquement pour le Core V3
+>* <a href="HELP_SIZE.html">Aide pour changer la taille du texte pour des widgets de type info (uniquement pour le Core V3)</a>
+>* <a href="HELP_ADD_IMG.html">Ajouter des images dans un widget (uniquement pour le Core V3)</a>
+
 
 # Liste des images
 Cette rubrique regroupe les différentes images disponibles pour les widgets
