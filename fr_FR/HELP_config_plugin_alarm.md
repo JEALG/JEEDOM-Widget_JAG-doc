@@ -4,6 +4,7 @@ title: Aide pour le paramétrage des widgets **Multi-action** et **Multi-info** 
 description: Aide pour le paramétrage des widgets **Multi-action** et **Multi-info** avec le plugin Alarme
 ---
 [back](./)
+
 Ici l'exemple d'un équipement fait avec le plugin Alarme
 <p><img src="../img/help/config_alarm_1.png" alt="Aide 1" width="200"/></p>
 

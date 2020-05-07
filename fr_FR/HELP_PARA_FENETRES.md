@@ -4,6 +4,7 @@ title: Exemples de paramétrages Widget Fênetre
 description: explication Paramétrage Fenêtre
 ---
 [back](./)
+
 Voici un exemple de configuration
 <blockquote>
         <li><b>Ma config</b> : 1 baie avec 2 capteurs</li>

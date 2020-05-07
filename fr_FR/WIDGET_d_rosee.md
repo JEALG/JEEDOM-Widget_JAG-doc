@@ -25,14 +25,28 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 ## Position Légende
 Il est possible de déplacer la légende
-<ul>
-    <blockquote><li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li></blockquote>
-    <p><img src="../img/exemple/d/rosee.png" alt="Resultat" /></p>
-    <blockquote><li><b>leg_pos</b> = left</li></blockquote>
-    <p><img src="../img/exemple/d/rosee_le.png" alt="Resultat" /></p>
-    <blockquote><li><b>leg_pos</b> = low</li></blockquote>
-    <p><img src="../img/exemple/d/rosee_l.png" alt="Resultat" /></p>
-</ul>
+<CENTER>
+    <TABLE width="100%">
+        <TR>
+            <th scope="col" width="25%">Nom de la variable</th>
+            <th scope="col" width="25%">valeur</th>
+            <th scope="col" width="37%">Valeur</th>
+        </TR>
+        <TR>
+            <TD width="25%" rowspan=3>leg_pos</TD>
+            <TD width="25%" align="center">**right**<br/>*(valeur par défaut)*</TD>
+            <TD width="50%" align="center"><img src="../img/exemple/d/rosee.png" alt="Resultat - Droite" /></TD>
+        </TR>
+        <TR>
+            <TD width="25%" align="center">**left**</TD>
+            <TD width="50%" align="center"><img src="../img/exemple/d/rosee_le.png" alt="Resultat - Gauche" /></TD>
+        </TR>
+        <TR>
+            <TD width="25%" align="center">**low**</TD>
+            <TD width="50%" align="center"><img src="../img/exemple/d/rosee_l.png" alt="Resultat - Bas" /></TD>
+        </TR>
+    </TABLE>
+</CENTER>
 
 ## Autres paramétrages possible et Aide
 <blockquote>

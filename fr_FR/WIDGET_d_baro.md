@@ -22,6 +22,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
     </ul>
 </blockquote>
+
 ## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
@@ -33,15 +34,28 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 ## Position Légende
 Il est possible de déplacer la légende
-<ul>
-    <blockquote><li><b>leg_pos</b> = right <i>(valeur par défaut)</i></li></blockquote>
-    <p><img src="../img/exemple/d/baro.png" alt="Resultat - Droite" /></p>
-    <blockquote><li><b>leg_pos</b> = left</li></blockquote>
-    <p><img src="../img/exemple/d/baro_le.png" alt="Resultat - Gauche" /></p>
-    <blockquote><li><b>leg_pos</b> = bottom</li></blockquote>
-    <p><img src="../img/exemple/d/baro_l.png" alt="Resultat - Bas" /></p>
-</ul>
-
+<CENTER>
+    <TABLE width="100%">
+        <TR>
+            <th scope="col" width="25%">Nom de la variable</th>
+            <th scope="col" width="25%">valeur</th>
+            <th scope="col" width="37%">Valeur</th>
+        </TR>
+        <TR>
+            <TD width="25%" rowspan=3>leg_pos</TD>
+            <TD width="25%" align="center">**right**<br/>*(valeur par défaut)*</TD>
+            <TD width="50%" align="center"><img src="../img/exemple/d/baro.png" alt="Resultat - Droite" /></TD>
+        </TR>
+        <TR>
+            <TD width="25%" align="center">**left**</TD>
+            <TD width="50%" align="center"><img src="../img/exemple/d/baro_le.png" alt="Resultat - Gauche" /></TD>
+        </TR>
+        <TR>
+            <TD width="25%" align="center">**bottom**</TD>
+            <TD width="50%" align="center"><img src="../img/exemple/d/baro_l.png" alt="Resultat - Bas" /></TD>
+        </TR>
+    </TABLE>
+</CENTER>
 
 ## Autres paramétrages possible et Aide
 <blockquote>

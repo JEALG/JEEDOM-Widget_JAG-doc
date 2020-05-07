@@ -4,7 +4,8 @@ title: Aide pour le paramétrage des widgets de type action
 description: Aide pour le paramétrage des widgets de type action
 ---
 [back](./)
-Une vidéo pour aider les nuls <a href="https://www.youtube.com/watch?v=wiMh8rmfdKU">Virtuel pour les nuls</a>
+
+> **Une vidéo pour aider les nuls : <a href="https://www.youtube.com/watch?v=wiMh8rmfdKU">Virtuel pour les nuls</a>**
 
 Ici l'exemple d'un équipement fait avec le plugin Virtuel
 <p><img src="../img/exemple/d/multi_action.png" alt="Resultat" /></p>

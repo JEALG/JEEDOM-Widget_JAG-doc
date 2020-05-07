@@ -17,6 +17,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 # Paramétrage
 ## Choix de l'icône
+
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 <blockquote>
     <ul>
@@ -24,17 +25,21 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i>(par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
     </ul>
 </blockquote>
+
+<b>Attention</b>
 <blockquote>
     <ul>
-        <li><b>Attention</b> : l'image change en fonction de la vitesse du vent, il ne faut pas mettre _xx dans le paramètre logo</li>
+        <li>L'image change en fonction de la vitesse du vent, il ne faut pas mettre _xx dans le paramètre logo</li>
         <li>Si vous utilisez l'image par défaut, il n'est pas nécessaire d'ajouter le paramètre <b>logo</b></li>
         <li>Le Widget est basé sur la vitesse du vent en km/h, il faut donc convertir la vitesse du vent de m/s en km/h. Cela se fait directement depuis l'équipement, Il faut ajouter dans la configuration de l'équipement puis l'onglet configuration la valeur <b>#value#*3.6</b> dans le champs <i>Formule de calcul (#value# pour la valeur)</i> Ne pas oublier ensuite de changer l'unité de la vitesse de vent</li>
     </ul>
 </blockquote>
+
 <p><img src="../img/exemple/d/biroute_1.png" alt="Resultat" /></p>
 
-
 ## Taille des images ou des icônes
+
+
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 <blockquote>
     <ul>

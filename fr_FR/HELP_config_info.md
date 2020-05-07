@@ -4,7 +4,8 @@ title: Aide pour le paramétrage des widgets de type info
 description: explication Aide pour le paramétrage des widgets de type info (binaire, numAide pour le paramétrage des widgets de type info (binaire, numérique)
 ---
 [back](./)
-Une vidéo pour aider les nuls <a href="https://www.youtube.com/watch?v=wiMh8rmfdKU">Virtuel pour les nuls</a>
+
+> **Une vidéo pour aider les nuls : <a href="https://www.youtube.com/watch?v=wiMh8rmfdKU">Virtuel pour les nuls</a>**
 
 Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer les infos suivantes :
 <p><img src="../img/help/config_info_1.png" alt="Aide 1" /></p>

@@ -7,7 +7,7 @@ description: explication Modification size Texte
 # Info importante
 <blockquote>
     <ul>
-        $A la date d'écriture de la documentation, ce paramétrage ne fonctionne pas sur le Core V4
+        A la date d'écriture de la documentation, ce paramétrage ne fonctionne pas sur le Core V4
     </ul>
 </blockquote>
 

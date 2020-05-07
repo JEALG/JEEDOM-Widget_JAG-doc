@@ -50,18 +50,37 @@ Il est possible de modifier les niveaux
         <li><b>level_2</b> : Niveau Haut (jour) <i>(valeur par défaut : 100.0)</i></li>
     </ul>
 </blockquote>
+
 ## Position Légende
+
 Il est possible de déplacer la légende
-<ul>
-    <blockquote><li><b>leg_pos</b> = low <i>(valeur par défaut)</i></li></blockquote>
-    <p><img src="../img/exemple/d/lumi.png" alt="Resultat - Bas" /></p>
-    <blockquote><li><b>leg_pos</b> = right <i></i></li></blockquote>
-    <p><img src="../img/exemple/d/lumi_r.png" alt="Resultat - Droite" /></p>
-    <blockquote><li><b>leg_pos</b> = left</li></blockquote>
-    <p><img src="../img/exemple/d/lumi_l.png" alt="Resultat - Gauche" /></p>
-    <blockquote><li><b>leg_pos</b> = top</li></blockquote>
-    <p><img src="../img/exemple/d/lumi_t.png" alt="Resultat - Haut" /></p>
-</ul>
+
+<CENTER>
+    <TABLE width="100%">
+        <TR>
+            <th scope="col" width="25%">Nom de la variable</th>
+            <th scope="col" width="25%">valeur</th>
+            <th scope="col" width="37%">Valeur</th>
+        </TR>
+        <TR>
+            <TD width="25%" rowspan=4>leg_pos</TD>
+            <TD width="25%" align="center">**low**<br/>*(valeur par défaut)*</TD>
+            <TD width="50%" align="center"><img src="../img/exemple/d/lumi.png" alt="Resultat - Bas" /></TD>
+        </TR>
+        <TR>
+            <TD width="25%" align="center">**right**</TD>
+            <TD width="50%" align="center"><img src="../img/exemple/d/lumi_r.png" alt="Resultat - Droite" /></TD>
+        </TR>
+        <TR>
+            <TD width="25%" align="center">**left**</TD>
+            <TD width="50%" align="center"><img src="../img/exemple/d/lumi_l.png" alt="Resultat - Gauche" /></TD>
+        </TR>
+        <TR>
+            <TD width="25%" align="center">**top**</TD>
+            <TD width="50%" align="center"><img src="../img/exemple/d/lumi_t.png" alt="Resultat - Gauche" /></TD>
+        </TR>
+    </TABLE>
+</CENTER>
 
 ## Autres paramétrages possible et Aide
 <blockquote>

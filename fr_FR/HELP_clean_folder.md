@@ -13,18 +13,18 @@ Je vous propose de faire un nettoyage des dossiers
 
 </blockquote>
 
-## Plugin nécessaire
+# Plugin nécessaire
 <blockquote>
 Il faut installer le plugin Jeexplorer
     Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présents dans le répertoire racine de Jeedom.
     Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
 </blockquote>
-<ul>
-    <li><a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a></li>
-    <li><a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a></li>
-</ul>
+
+* <a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=programming&&name=JeeXplorer">Lien Market vers le plugin</a>
+* <a href="https://kiboost.github.io/jeedom_docs/plugins/jeexplorer/fr_FR/">Lien vers la doc du plugin</a>
 
 ## Opération préalable
+
 <blockquote>
     <ul>
         <li>Faire une sauvegarde de Jeedom</li>
@@ -34,13 +34,25 @@ Il faut installer le plugin Jeexplorer
 
 # Nettoyage des dossiers
 ## Dossiers à nettoyer
-### Pour le Core V3
-> * Dashboard : plugins/widget/core/template/dashboard/
-> * Mobile : plugins/widget/core/template/mobile/
-
-### Pour le Core V4
-> * Dashboard : data/customTemplates/dashboard/
-> * Mobile : data/customTemplates/mobile/
+<CENTER>
+    <TABLE width="100%">
+        <TR>
+            <th scope="col" width="26%">Type de Représentation</th>
+            <th scope="col" width="37%">Pour le Core V4</th>
+            <th scope="col" width="37%">Pour le Core V3</th>
+        </TR>
+        <TR>
+            <TD width="26%">**Dashboard**</TD>
+            <TD width="37%">data/customTemplates/dashboard/</TD>
+            <TD width="37%">plugins/widget/core/template/dashboard/</TD>
+        </TR>
+        <TR>
+            <TD width="26%">**Mobile**</TD>
+            <TD width="37%">data/customTemplates/mobile/</TD>
+            <TD width="37%">plugins/widget/core/template/mobile/</TD>
+        </TR>
+    </TABLE>
+</CENTER>
 
 ## Nettoyage
 <ul>
