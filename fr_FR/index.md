@@ -82,5 +82,3 @@ Cette rubrique regroupe les différentes images disponibles pour les widgets
 >* <a href="./List_img.html">Listes des images des widgets </a>
 
 <hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
