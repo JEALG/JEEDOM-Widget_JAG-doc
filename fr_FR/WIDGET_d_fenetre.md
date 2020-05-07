@@ -51,7 +51,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
     </ul>
 </blockquote>
 
-Les valeurs pour la variable <b>valeur_x</b>par défaut sont :
+Les valeurs pour la variable <b>valeur_x</b> par défaut sont :
 <blockquote>
     <ul>
         <li><b>valeur_<b>0</b></b> : <i>valeur par défaut : 0</i></li>

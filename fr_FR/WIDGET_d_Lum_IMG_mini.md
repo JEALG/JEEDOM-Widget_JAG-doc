@@ -64,19 +64,19 @@ Il est possible de déplacer la légende
         </TR>
         <TR>
             <TD width="25%" rowspan=4>leg_pos</TD>
-            <TD width="25%" align="center">**low**<br/>*(valeur par défaut)*</TD>
+            <TD width="25%" align="center">low<br/>(valeur par défaut)</TD>
             <TD width="50%" align="center"><img src="../img/exemple/d/lumi.png" alt="Resultat - Bas" /></TD>
         </TR>
         <TR>
-            <TD width="25%" align="center">**right**</TD>
+            <TD width="25%" align="center">right</TD>
             <TD width="50%" align="center"><img src="../img/exemple/d/lumi_r.png" alt="Resultat - Droite" /></TD>
         </TR>
         <TR>
-            <TD width="25%" align="center">**left**</TD>
+            <TD width="25%" align="center">left</TD>
             <TD width="50%" align="center"><img src="../img/exemple/d/lumi_l.png" alt="Resultat - Gauche" /></TD>
         </TR>
         <TR>
-            <TD width="25%" align="center">**top**</TD>
+            <TD width="25%" align="center">top</TD>
             <TD width="50%" align="center"><img src="../img/exemple/d/lumi_t.png" alt="Resultat - Gauche" /></TD>
         </TR>
     </TABLE>
