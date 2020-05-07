@@ -3,9 +3,9 @@ layout: default
 lang: fr_FR
 title: Les Widgets
 ---
-**Ensemble de la documentation pour les widgets JAG**
 
 # infos
+Ici vous trouverez l'ensemble de la documentation des Widgets JAG pour Jeedom
 ## A Savoir
 >**Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le widget "Multi_action-Defaut" pour tous les widgets**<br/>
 >Dans chaque widget, un exemple de configuration est disponible
