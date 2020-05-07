@@ -16,10 +16,10 @@ Le paramétrage va se faire en plusieurs étapes
 * <b>En bleu </b>: Le paramétrage des infos
 <p><img src="../img/help/config_alarm_3.png" alt="Aide 3" width="700" /></p>
 
-# Widgets nécessaire
-Pour faire cet affichage vous avez besoin.
+# Widgets nécessaires
+Pour faire cet affichage il est nécessaire d'avoir :
 
-Dans chaque widget, vous avez un lien pour télécharger les sources
+> Dans chaque widget, vous avez un lien pour télécharger les sources
 
 ## Dashboard
 
