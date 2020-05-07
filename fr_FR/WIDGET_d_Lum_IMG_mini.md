@@ -63,7 +63,7 @@ Il est possible de déplacer la légende
             <th scope="col" width="37%">Valeur</th>
         </TR>
         <TR>
-            <TD width="25%" rowspan=4>leg_pos</TD>
+            <TD width="25%" rowspan="4">leg_pos</TD>
             <TD width="25%" align="center">low<br/>(valeur par défaut)</TD>
             <TD width="50%" align="center"><img src="../img/exemple/d/lumi.png" alt="Resultat - Bas" /></TD>
         </TR>
