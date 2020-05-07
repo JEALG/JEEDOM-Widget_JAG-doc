@@ -69,10 +69,5 @@ Ce script va copier les images dans le bon dossier du plugin Widget
     sudo chmod 740 /var/www/html/data/customTemplates/dashboard/
 </code></pre>
 
-
-<hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-
 <hr />
 [back](./)

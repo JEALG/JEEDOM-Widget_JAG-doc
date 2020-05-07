@@ -14,8 +14,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
-# Lumière
-## Widget "Luminosité-IMG" 
+# Widget "Luminosité-IMG" 
 <b>Pour avoir le paramétrage par défaut du widget Luminosité-IMG, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
@@ -25,8 +24,4 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </blockquote>
 
 <hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-
-<hr />
-[back](../)
+[back](./)

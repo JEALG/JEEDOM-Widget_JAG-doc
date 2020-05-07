@@ -106,8 +106,4 @@ Nom du Widget | Exemple | Docs/Téléchargement
 <p><img src="../img/help/config_alarm_5.png" alt="Aide 5" /></p>
 
 <hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-
-<hr />
 [back](./)

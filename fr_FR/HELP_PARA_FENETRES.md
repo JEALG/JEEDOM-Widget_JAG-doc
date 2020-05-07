@@ -97,12 +97,8 @@ et j'ai configuré l'etat <b>Fenêtres</b>
 <blockquote>
 Ensuite j'ai créer un scénario avec le paramétrage suivant
 </blockquote>
-<p><img src="../img/CONFIG_JEEDOM_FENETRE_NUM_3.png" alt="Visuels" /></p>
-<p><img src="../img/CONFIG_JEEDOM_FENETRE_NUM_4.png" alt="Visuels" /></p>
-
-<hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
+<p><img src="../img/CONFIG_JEEDOM_FENETRE_NUM_3.png" alt="Visuels" width="500" /></p>
+<p><img src="../img/CONFIG_JEEDOM_FENETRE_NUM_4.png" alt="Visuels" width="500" /></p>
 
 <hr />
 [back](./)

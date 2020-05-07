@@ -65,9 +65,5 @@ Paramétrage image Erreur : Il est possible d'appliquer la même image que pour 
     </ul>
 </blockquote>
 
-<hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-
-<hr />
+ <hr />
 [back](./)

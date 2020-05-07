@@ -15,8 +15,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 <b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_d_Multiinfo">Archive Widget Info Binaire</a>
 </blockquote>
 
-# Alarme
-## Widget "Alarme-Status"
+# Widget "Alarme-Status"
 <b>Pour avoir le paramétrage par défaut du widget Alarme-Status, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
@@ -28,7 +27,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
         </ul>
 </blockquote>
 
-## Widget "Capteur-Fuite-Eau"
+# Widget "Capteur-Fuite-Eau"
 <b>Pour avoir le paramétrage par défaut du widget Capteur-Fuite-Eau, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
@@ -40,7 +39,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     </ul>
 </blockquote>
 
-## Widget "Detection Mouvement" 
+# Widget "Detection Mouvement" 
 <b>Pour avoir le paramétrage par défaut du widget Detection Mouvement, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 <blockquote>
     <ul>
@@ -51,8 +50,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     </ul>
 </blockquote>
 
-# Energie
-## Widget " Chaudière Etat" 
+# Widget " Chaudière Etat" 
 <b>Pour avoir le paramétrage par défaut du widget Chaudière Etat, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
@@ -64,8 +62,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     </ul>
 </blockquote>
 
-# Lumière
-## Widget "Lampe-Binaire" 
+# Widget "Lampe-Binaire" 
 <b>Pour avoir le paramétrage par défaut du widget Lampe-Binaire, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
@@ -76,8 +73,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     </ul>
 </blockquote>
 
-# Ouverture
-## Widget "Fenêtre-IMG" 
+# Widget "Fenêtre-IMG" 
 <b>Pour avoir le paramétrage par défaut du widget Fenetre-IMG, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
@@ -89,7 +85,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     </ul>
 </blockquote>
 
-## Widget "Store_IMG" 
+# Widget "Store_IMG" 
 <b>Pour avoir le paramétrage par défaut du widget Store_IMG, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 <blockquote>
     <ul>
@@ -101,8 +97,4 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </blockquote>
 
 <hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-
-<hr />
-[back](../)
+[back](./)

@@ -67,8 +67,4 @@ voir l'exemple dans la doc <a href="HELP_config_action.html">Aide pour le param√
 </CENTER>
 
 <hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-
-<hr />
 [back](./)

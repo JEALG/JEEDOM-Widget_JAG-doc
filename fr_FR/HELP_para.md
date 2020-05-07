@@ -14,8 +14,4 @@ description: Comment ajouter des paramètres
 * Ajouter les variables en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange)<br/>
 
 <hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-
-<hr />
 [back](./)

@@ -26,15 +26,24 @@ description: explication Modification size Texte
 </blockquote>
 
 # Exemple
-<blockquote>
-    <ul>
-        <li><b>Taille normale</b></li>
-        <p><img src="../img/help/config_size_1.png" alt="Size normal" /></p>
-        <li><b>Taille normale</b></li>
-        <p><img src="../img/help/config_size_2.png" alt="Size" /></p>
-        <p><img src="../img/help/config_size_3.png" alt="Size réglage" /></p>
-    </ul>
-</blockquote>
+<CENTER>
+    <TABLE width="60%">
+        <TR>
+            <th scope="col" width="50%">Exemple</th>
+            <th scope="col" width="50%">Valeur</th>
+        </TR>
+        <TR>
+            <TD width="50%">Taille normale</TD>
+            <TD width="50%" align="center"><img src="../img/help/config_size_1.png" alt="Size normal" width="200"/></TD>
+        </TR>
+        <TR>
+            <TD width="50%">Exemple avec la variable **font_size ** = **22px**</TD>
+            <TD width="50%" align="center"><img src="../img/help/config_size_2.png" alt="Size" width="200" /></TD>
+        </TR>
+    </TABLE>
+</CENTER>
+<p><img src="../img/help/config_size_3.png" alt="Size réglage" width="800"/></p>
+
 
 # Autres paramétrages possible et Aide
 <blockquote>
@@ -45,10 +54,6 @@ description: explication Modification size Texte
         <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
-
-<hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
 [back](./)

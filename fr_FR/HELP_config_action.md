@@ -78,10 +78,5 @@ Les paramètres suivants seront mis d'abord pour la commande <b>ON</b>
 
 Répéter la même opération sur la commande <b>OFF</b> ou cliquer sur le bouton <b>Appliquer à</b> et sélectionner la commande
 
-
-<hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-
 <hr />
 [back](./)

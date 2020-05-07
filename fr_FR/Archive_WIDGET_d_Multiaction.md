@@ -62,8 +62,4 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </blockquote>
 
 <hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
-
-<hr />
-[back](../)
+[back](./)

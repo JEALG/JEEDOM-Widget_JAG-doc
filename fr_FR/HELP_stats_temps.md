@@ -10,8 +10,7 @@ description: explication Affichage des informations de durée
     <i>Merci à @Salvialf pour le code</i>
 </blockquote>
 
-# Affichage des informations de durée sur les widgets info (binaire, numérique)
-## Dashboard
+# Dashboard
 Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF).
 <blockquote>
     <ul>
@@ -23,7 +22,7 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
     </ul>
 </blockquote>
 
-## Mobile
+# Mobile
 Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF). 
 <blockquote>
     <ul>
@@ -34,10 +33,6 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
         </dd>
     </ul>
 </blockquote>
-
-<hr />
-# Changelog
-<a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
 
 <hr />
 [back](./)
