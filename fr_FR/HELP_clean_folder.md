@@ -42,12 +42,12 @@ Il faut installer le plugin Jeexplorer
             <th scope="col" width="37%">Pour le Core V3</th>
         </TR>
         <TR>
-            <TD width="26%">**Dashboard**</TD>
+            <TD width="26%">Dashboard</TD>
             <TD width="37%">data/customTemplates/dashboard/</TD>
             <TD width="37%">plugins/widget/core/template/dashboard/</TD>
         </TR>
         <TR>
-            <TD width="26%">**Mobile**</TD>
+            <TD width="26%">Mobile</TD>
             <TD width="37%">data/customTemplates/mobile/</TD>
             <TD width="37%">plugins/widget/core/template/mobile/</TD>
         </TR>
