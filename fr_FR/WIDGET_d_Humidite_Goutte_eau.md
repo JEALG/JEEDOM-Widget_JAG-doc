@@ -5,7 +5,7 @@ description: explication widget Humidite-Goutte_eau
 ---
 [back](./)
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>numérique</b>
 <p><img src="../img/exemple/d/humidite_goutte_eau.png" alt="Resultat" /></p>
 
 # A savoir
@@ -19,7 +19,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
         <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
         <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
         <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
-        <li><a href="HELP_SIZE.html">Changer la Taille du texte de l'historique</a></li>
+        <li><a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
         <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>

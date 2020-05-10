@@ -5,7 +5,7 @@ description: explication widget Batterie-EeDomus
 ---
 [back](./)
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>numérique</b>
 <p><img src="../img/exemple/d/bat_eedomus.png" alt="Resultat" /></p>
 
 # A savoir
@@ -52,10 +52,10 @@ Il est possible de personnaliser les niveaux :
 <blockquote>
     <ul>
         <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
-        <li><a href="HELP_CONFIG_Error.html">Paramétrage image de défaut</a></li>
-        <li><a href="HELP_CONFIG_STATS.html">Afficher les statistiques</a></li>
-        <li><a href="HELP_CONFIG_STATS TEMPS.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-        <li><a href="HELP_CONFIG_PARA.html">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
+        <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
+        <li><a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+        <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
