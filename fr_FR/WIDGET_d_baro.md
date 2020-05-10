@@ -5,7 +5,7 @@ description: explication widget Baromètre
 ---
 [back](./)
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Numérique</b>
 <p><img src="../img/exemple/d/baro.png" alt="Resultat" /></p>
 
 # A savoir
