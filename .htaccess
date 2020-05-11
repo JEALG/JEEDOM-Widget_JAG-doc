@@ -1,5 +1,6 @@
-RedirectPermanent JEEDOM_Fibaro_WallPlug.html https://jealg.github.io/documentation/widget_archive/fr_FR/WIDGET_d_Multi_action_Defaut.html
+RewriteRule ^JEEDOM_Fibaro_WallPlug.html$ https://jealg.github.io/documentation/widget_archive/fr_FR/WIDGET_d_Multi_action_Defaut.html [R=301,L]
 
-RedirectPermanent JEEDOM_Lampe.html https://jealg.github.io/documentation/widget_archive/fr_FR/WIDGET_d_Multi_action_Defaut.html
+RewriteRule ^JEEDOM_Lampe.html$
+https://jealg.github.io/documentation/widget_archive/fr_FR/WIDGET_d_Multi_action_Defaut.html  [R=301,L]
 
-RedirectPermanent JEEDOM_Chaudiere_Activation.html hhttps://jealg.github.io/documentation/widget_archive/fr_FR/WIDGET_d_Multi_action_Defaut.html
+RewriteRule ^JEEDOM_Chaudiere_Activation.html$ https://jealg.github.io/documentation/widget_archive/fr_FR/WIDGET_d_Multi_action_Defaut.html  [R=301,L]
