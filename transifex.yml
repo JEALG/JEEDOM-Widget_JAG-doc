@@ -5,3 +5,9 @@ filters:
     source_language: fr
     source_file_dir: plugin-rosee/fr_FR/
     translation_files_expression: /plugin-rosee/<lang>/
+  - filter_type: dir
+    file_format: GITHUBMARKDOWN
+    source_file_extension: md
+    source_language: fr
+    source_file_dir: widget/fr_FR/
+    translation_files_expression: /widget/<lang>/
