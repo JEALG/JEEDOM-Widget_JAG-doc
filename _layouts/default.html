@@ -3,33 +3,34 @@
 
 <head>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="../assets/css/styles.css">
-    <link rel="stylesheet" href="../assets/css/materialize.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/materialize.css">
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="Content-Language" content="{{page.lang}}">
+    <meta http-equiv="Content-Language" content="{{ page.lang }}">
 </head>
 
 <body>
     <div class="navbar-fixed hide-on-print">
         <nav>
             <div class="nav-wrapper container">
-                <a id="logo-container" href="{{site.doc}}" class="brand-logo center"><img src="../assets/images/logo.png" style="height:50px;margin-top:5px"></a>
                 <ul class="left hide-on-med-and-down">
-                    <li><a href="{{site.doc}}">Jeedom Documentation</a></li>
+                    <li><a href="{{site.baseurl}}">Documentations des plugins de Mika-nt28</a></li>
+                    <li>{{page.title}}</li>
                 </ul>
-                <a href="{{site.doc}}" data-activates="nav-mobile" class="button-collapse btn-floating btn-large waves-effect waves-light jeedomcolorbg"><i class="material-icons">menu</i></a>
+                <a href="https://www.jeedom.com/doc" data-activates="nav-mobile" class="button-collapse btn-floating btn-large waves-effect waves-light jeedomcolorbg"><i class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down">
-                    <li><a href="https://www.jeedom.com">Site</a></li>
-                    <li><a href="{{site.blog}}">Blog</a></li>
-                    <li><a href="{{site.community}}">Community</a></li>
-                    <li><a href="{{site.market}}">Market</a></li>
-                    <li class="active"><a href="{{site.doc}}">Doc</a></li>
+                    <li><a href="https://www.jeedom.com/site">Site</a></li>
+                    <li><a href="https://www.jeedom.com/blog">Blog</a></li>
+                    <li><a href="{{site.forum}}">Community</a></li>
+                    <li><a href="https://www.jeedom.com/market">Market</a></li>
+                    <li class="active"><a href="https://www.jeedom.com/doc">Doc</a></li>
                 </ul>
                 <ul class="side-nav" id="nav-mobile">
-                    <li><a href="{{site.blog}}">Blog</a></li>
-                    <li><a href="{{site.community}}">Community</a></li>
-                    <li><a href="{{site.market}}">Market</a></li>
-                    <li class="active"><a href="{{site.doc}}">Doc</a></li>
+                    <li><a href="https://www.jeedom.com/blog">Blog</a></li>
+                    <li><a href="{{site.forum}}">Community</a></li>
+                    <li><a href="https://www.jeedom.com/market">Market</a></li>
+                    <li class="active"><a href="https://www.jeedom.com/doc">Doc</a></li>
                 </ul>
             </div>
         </nav>
@@ -38,18 +39,18 @@
         <div id="side-nav" class="side-nav fixed hide-on-print">
             <div class="container">
                 <div class="row">
+                    {% if site.langs.size >= 2 %}
                     <div class="col s2">
                         <i class="material-icons" style="position: relative;top:15px;">language</i>
                     </div>
                     <div class="col s10">
                         <select class="sel_lang">
-                            {% if site.langs.size >= 2 %}
                             {% for lang in site.langs %}
                             <option data-href="index{% if lang != "fr_FR" %}-{{ lang }}{% endif %}.html" value="{{ lang }}">{% if lang == "fr_FR" %}Français{% endif %}{% if lang == "en_US" %}English{% endif %}{% if lang == "ru_RU" %}Russe{% endif %}{% if lang == "de_DE" %}Deutsch{% endif %}{% if lang == "es_ES" %}Spanish{% endif %}{% if lang == "it_IT" %}Italien{% endif %}{% if lang == "id_ID" %}Indien{% endif %}</option>
                             {% endfor %}
-                            {% endif %}
                         </select>
                     </div>
+                    {% endif %}
                 </div>
             </div>
             <div id="div_summary" style="margin-top:-45px;padding-bottom: 45px;"></div>
@@ -79,15 +80,14 @@
             </div>
         </div>
     </div>
-    <script src="https://code.jquery.com/jquery-3.5.0.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="../assets/js/materialize.min.js"></script>
-    <script type="text/javascript" src="../assets/js/jquery.inview.min.js"></script>
-    <script type="text/javascript" src="../assets/js/jquery.toc.js"></script>
+    <script type="text/javascript" src="{{site.baseurl}}/assets/js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="{{site.baseurl}}/assets/js/materialize.min.js"></script>
+    <script type="text/javascript" src="{{site.baseurl}}/assets/js/jquery.inview.min.js"></script>
+    <script type="text/javascript" src="{{site.baseurl}}/assets/js/jquery.toc.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
-            var title = '{{site.github.project_title}}';
-            title = title.replace('plugin-', '');
-            $('#doc_title').append(title[0].toUpperCase() + title.substring(1))
+            var title = '{{page.title}}';
+            $('#doc_title').append(title)
             document.title = 'Documentation Jeedom | ' + title[0].toUpperCase() + title.substring(1)
             $(".button-collapse").sideNav();
             $('meta[name=description]').remove();
