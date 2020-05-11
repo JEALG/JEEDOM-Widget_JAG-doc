@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Plugin Rosee - documentation
 lang: fr_FR
-title: Jeedom | Plugin Rosee
 pluginId: rosee
 ---
 

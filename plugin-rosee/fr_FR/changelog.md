@@ -1,7 +1,8 @@
 ---
 layout: default
+title: Plugin Rosee - Changelog
 lang: fr_FR
-title: Jeedom | Plugin Rosee Changelog
+pluginId: rosee
 ---
 
 # Info
