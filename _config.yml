@@ -1,6 +1,7 @@
 ---
-langs: [fr_FR,en_US,es_ES]
-baseurl: "/"
+langs: [fr_FR,en_US]
+baseurl: "/Documentations" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site
 sass:
   sass_dir: assets/css
   style: compressed
@@ -16,10 +17,11 @@ gems:
 exclude:
 - vendor
 plugins:
+- jekyll-paginate
 - jekyll-seo-tag
-title: "Documentation Jeedom"
-description: "Ceci est la documentation, lier à la solution domotique Jeedom."
-author: "Jeedom"
+title: "Documentation des plugins et des widgets de JAG"
+description: "Ceci est la documentation des plugins et des widgets créés par JAG, lié à la solution domotique Jeedom."
+author: "JAG"
 image: https://www.jeedom.com/site/logo.png
 twitter:
   username: Jeedom_domotic
