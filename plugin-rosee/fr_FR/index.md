@@ -2,6 +2,7 @@
 layout: default
 lang: fr_FR
 title: Jeedom | Plugin Rosee
+pluginId: rosee
 ---
 
 # Description
