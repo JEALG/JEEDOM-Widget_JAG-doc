@@ -11,12 +11,10 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-gems:
-- jekyll-paginate
-- jekyll-seo-tag
 exclude:
 - vendor
 plugins:
+- jekyll-paginate
 - jekyll-seo-tag
 title: "Documentation Jeedom"
 description: "Ceci est la documentation des widgets et plugin crées par JAG, lié à la solution domotique Jeedom."
